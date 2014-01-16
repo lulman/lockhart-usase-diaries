@@ -530,9 +530,9 @@
             <div xml:id="eel-19401225a" type="entry">
                <dateline><lb/><date when="1940-12-25">Wednesday December 25 1940</date></dateline>
                <p>
-                  <lb/>At the exact moment when christmas bells should have
+                  <lb/>At <damage confidence=".4"></damage> the exact moment when christmas bells should have
                   <lb/>begun ringing here in the <placeName>Antarctic</placeName> if any christmas bells
-                  <lb/>had been available, <persName><unclear>Pack</unclear></persName> <persName>Jack</persName> <persName>Tony</persName> and I were making
+                  <lb/>had been <add place="bottom">I'm tired and confused</add> available, <persName><unclear>Pack</unclear></persName> <persName>Jack</persName> <persName>Tony</persName> and I were making
                   <lb/>our last big "Putsch" toward <rs>the base</rs> We had left
                   <lb/><placeName>Fort Wiener</placeName> at 930 PM and at 11 PM when we were
                   <lb/>only 10.5 miles from <rs>the base</rs> decided not to camp until
