@@ -1,0 +1,550 @@
+<?xml-model href="lockhart-journals-teicustomization.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xmlns:hlu="http://www.osu.edu/ulman/reliablewitnesses/ns/1.0">
+   <!-- TO-DO LIST 
+   - Update glosses to P5
+   -->
+   
+   <teiHeader type="AACR2">
+      <!--
+      The type attribute in teiHeader element above asserts that the header provides 
+      enough information to create a bibliographic record that complies with the 
+      Anglo-American Cataloguing Rules, 2nd ed. (1978; rev. 1988).
+      -->
+      
+      <fileDesc>
+      <!--
+      The  file description, tagged <fileDesc>, contains "a full bibliographical description 
+      of the computer file itself, from which a user of the text could derive a proper bibliographic 
+      citation, or which a librarian or archivist could use in creating a catalogue entry recording 
+      its presence within a library or archive" (TEI P4X, ch. 5).
+      -->
+         
+         <titleStmt>
+            <title>Ernest Earl Lockhart's Antarctic Journal,<lb/>25 December 1940 to 16 January 1941</title>
+
+            <!-- 
+            Here we list the editors of the edition, using the form of your name
+            that you use for professional publications.
+             -->
+            <editor>Brutus Buckeye</editor>
+            <editor role="principal-editor"><persName ref="#HLU">H. Lewis Ulman</persName></editor>
+            
+            <!-- 
+            Statement of Responsibility supplies a statement of responsibility for the 
+            intellectual content of a text, edition, recording, or series, where the 
+            specialized elements for authors, editors, etc. do not suffice or do not apply.
+            For our purposes, use your full name (first middle last) for now.
+             -->
+            <respStmt>
+               <resp>Creation of digital scans of manuscript pages: </resp>
+               <persName>GET INFO FROM LAURA KISSEL</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Creation of initial machine-readable transcript: </resp>
+               <persName>BRUTUS BUCKEYE</persName>
+               <persName ref="#HLU">H. Lewis Ulman</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Conversion to TEI.2-conformant markup: </resp>
+               <persName>BRUTUS BUCKEYE</persName>
+               <persName ref="#HLU">H. Lewis Ulman</persName>
+            </respStmt>
+
+         </titleStmt>
+         
+         <extent>approx. 000 kilobytes</extent>
+
+         <publicationStmt>
+
+            <publisher>The Ohio State University Libraries 
+               <address>
+                  <addrLine n="2">327 Main Library</addrLine>
+                  <addrLine n="3">1858 Neil Avenue Mall</addrLine>
+                  <addrLine n="4">Columbus, OH 43210</addrLine>
+               </address>
+            </publisher>
+
+            <pubPlace>Columbus, OH</pubPlace>
+
+            <!-- 
+            The <idno> element is only required for documents with a standard id number
+            such as a library call number.. 
+            -->
+            <idno type="CallNumber">SPEC.RARE.MS.AMER.69  v.2</idno>
+
+            <availability>
+               <p>The Ernest E. Lockhart journal is the property of the Rare Books and Manuscripts
+                  Library of The Ohio State University Libraries. Any use of the material should
+                  acknowledge such ownership. This edition is published under a Creative Commons license.</p>
+               <p xml:id="CreativeCommons">
+                  <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://creativecommons.org/images/public/somerights20.png"/></a><br/>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0  License</a>.<br/>
+                  This license does not transfer any rights regarding material used in the edition by permission of a third party.]]>
+               </p>
+            </availability>
+
+            <date>2014-04-17</date>
+
+         </publicationStmt>
+
+         <sourceDesc> 
+            <biblFull>
+
+               <titleStmt>
+
+                  <!--
+                  The "level" attribute "indicates whether this is the title of an article, book, journal, 
+                  series, or unpublished material, indicated as a, b, j, s, or u" (TEI P4X, ch. 5.2.1).
+                  -->
+                  <title level="u">Journal covering period Dec 25 1940 until return home
+                     about May 1<hi rend="superscript underlined">st</hi> 1941
+                  </title>
+
+                  <author>Earnest Earl Lockhart (1912-2006)</author>
+
+               </titleStmt>
+
+               <!-- 
+                    The <extent> element indicates the size of your source document, in whatever 
+                    units are appropriate (usually pages; for example, 2 pp.) 
+                -->
+               <extent>000 pp.</extent>
+
+               <publicationStmt>
+                  <p>Pulbication statement from the library.</p>
+               </publicationStmt>
+
+               <!-- 
+                      TAKE NOTE: Your entire header should answer the following questions about your 
+                      source document. At this point in your header, you should discuss anything in 
+                      this list not mentioned elsewhere in the header.
+                     
+                        1. What is the document (letter, will, etc.)?
+                        2. What does it say about itself (titles, descriptive notes, etc.)?
+                        3. What does it contain (no. of pages/sheets, enclosures, etc.)?
+                        4. How is it put together (folded sheets, binding, etc.)?
+                        5. What is it made of (paper, vellum, etc.)?
+                        6. What is its size (i.e., physical dimensions)?
+                        7. How is it packaged/contained (binding, envelope, folder, box, etc.)?
+                        8. How is it related to other versions (original, copy, print history)?
+                     
+                        You can use more than one paragraph (tagged <p> </p>).
+                   -->
+               <notesStmt>
+                  <!-- 
+                      TAKE NOTE: Your entire header should answer the following questions about your 
+                      source document. At this point in your header, you should discuss anything in 
+                      this list not mentioned elsewhere in the header.
+                     
+                        1. What is the document (letter, will, etc.)?
+                        2. What does it say about itself (titles, descriptive notes, etc.)?
+                        3. What does it contain (no. of pages/sheets, enclosures, etc.)?
+                        4. How is it put together (folded sheets, binding, etc.)?
+                        5. What is it made of (paper, vellum, etc.)?
+                        6. What is its size (i.e., physical dimensions)?
+                        7. How is it packaged/contained (binding, envelope, folder, box, etc.)?
+                        8. How is it related to other versions (original, copy, print history)?
+                     
+                        You can use more than one paragraph (tagged <p> </p>).
+                   -->
+                  
+                  <note type="descriptive" resp="ed">
+                     <!-- 
+                     We will use this note to describe the physical diary.
+                     -->
+                        <p>
+                         <figure rend="embed">
+                           <head>Front Cover</head>
+                           <graphic url="https://images.asc.ohio-state.edu/is/image/englishdocs/9/98d2e7b0-c2b0-47f4-8460-0434b87babca.jpg?scale=0.1&amp;rgn=20,0,190,130&amp;fmt=png"/>
+                           <figDesc>
+                              Front Cover
+                           </figDesc>
+                        </figure>
+                        <figure rend="embed">
+                           <head>Page Edges</head>
+                           <graphic url="https://images.asc.ohio-state.edu/is/image/englishdocs/d/d55c83fb-07a1-4535-a856-938dcd9a0b55.jpg?scale=0.1&amp;rgn=0,20,210,50&amp;fmt=png"/>
+                           <figDesc>
+                              Page Edges
+                           </figDesc>
+                        </figure>
+                        RG 56.206
+                       </p>
+                     <p>
+                        <emph rend="bold">Collation</emph>: collation
+                     </p>
+                     <p>
+                        <emph rend="bold">Paper</emph>: description of paper 
+                     </p>
+                     <p>
+                        <emph rend="bold">Binding</emph>: description of binding
+                     </p>
+                     <p>
+                        Unpublished manuscript.
+                     </p>
+                  </note>
+
+                  <note type="introductory" resp="ed">
+                     <!-- 
+                     We will use this note to contain an historical/critical introduction to the
+                     text of the Smith diary.
+                     -->
+                     <p>text.</p>
+                     <p>text.</p>
+                  </note>
+
+               </notesStmt>
+
+            </biblFull>
+            
+            <listPerson type="mentioned">
+               <head>People Mentioned in Ernest E. Lockhart's Journal </head>
+               <person xml:id="EEL">
+                  <persName>Lockhart, Ernest Earl</persName>
+                  <note type="biographical">bio note</note>
+                  <birth when="1912-09-10"><placeName ref="#Boston">Boston, MA</placeName></birth>
+                  <death when="2006-07-26"><placeName ref="#WestDennis">West Dennis, MA</placeName></death>
+               </person>
+            </listPerson>
+            
+            <listPerson type="editors">
+               <head>Editors</head>
+               <person xml:id="HLU">
+                  <persName>Ulman, H. Lewis</persName>
+                  <birth when="1952">
+                     <placeName>Williamsport, PA</placeName>
+                  </birth>
+                  <education>BA, Lycoming College (1974)</education>
+                  <education>MA, The Pennsylvania State University (1980)</education>
+                  <education>PhD, The Pennsylvania State University (1985)</education>
+                  <occupation>College Professor</occupation>
+                  <nationality>U.S.A.</nationality>
+                  <note type="biographical">H. Lewis Ulman is Associate Professor of English at The Ohio State
+                     University and Director of Digital Media Studies in the Department of English.
+                     He has edited <title level="m">The Minutes of the Aberdeen Philosophical Society, 1758–1773</title>
+                     (Aberdeen University Press, 1990) and, with Dennis Quon, “Semiotics in
+                     Eighteenth-century Aberdeen: Thomas Gordon’s Contributions to the Aberdeen
+                     Philosophical Society” (<title level="m">Studies on Voltaire and the Eighteenth-Century</title> 317
+                     (1994): 57–115). He is also the author of <title level="m">Things, Thoughts, Words and Actions:
+                     The Problem of Language in Late Eighteenth-Century British Rhetorical Theory</title>
+                     (Southern Illinois University Press, 1994). Since 2005, he has worked with
+                     undergraduate and graduate students in textual editing courses to create a
+                     series of electronic textual editions of nineteenth- and early
+                     twentieth-century American manuscripts in the Rare Books and Manuscripts
+                     Library at Ohio State. An example of that work can be viewed online at
+                     http://people.cohums.ohio-state.edu/ulman1/SSCoxJournal/. Beginning with an NEH
+                     Digital Humanities Start-Up Grant awarded in 2008, he has collaborated with
+                     Melanie Schlosser, metadata librarian at Ohio State University Libraries, to
+                     build a model of preservation for distributed, multimodal digital humanities
+                     projects. He is delighted to be working at a time when manuscript, print, and
+                     digital media can be studied in relationship to one another, allowing him and
+                     his students to learn more about all three media than they could by studying
+                     any one in isolation.</note>
+               </person>
+            </listPerson>
+            
+            <listPlace>
+               <head>Places Mentioned in Ernest E. Lockhart's Journal</head>
+               <place type="city" xml:id="Boston" source="#TGN">
+                  <placeName>Boston</placeName>
+                  <country>United States</country>
+                  <region type="state">Massachusetts</region>
+                  <desc>Lockhart's bithplace.</desc>
+                  <location><geo>40.0667 -82.8000</geo></location>
+               </place>
+               
+               <place type="city" xml:id="WestDennis" source="#TGN">
+                  <placeName>West Dennis</placeName>
+                  <country>United States</country>
+                  <region type="state">Massachusetts</region>
+                  <desc>Lockhart's home on Cape Cod, Massachusetts, to which he retired and where he died in 2006</desc>
+                  <location><geo>39.1500 -84.4500</geo></location>
+               </place>
+            </listPlace>
+            
+            
+            <listOrg>
+               <head>List of Organizations Mentioned in Earnest E. Lockhart's Journal</head>
+              <org xml:id="XXXX">
+                 <orgName>name</orgName>
+                 <state type="company">
+                    <desc>
+                       description
+                    </desc>
+                 </state>
+                 <desc>
+                    description
+                 </desc>
+              </org>
+            </listOrg>
+            
+            <listEvent>
+               <event when="1940-01-01">
+                  <label>Label</label>
+                  <desc>description</desc>
+               </event>
+            </listEvent>
+            
+            <listBibl>
+               
+               <!-- Though TEI provides for more fine-grained encoding, we will enter bibliography items
+            as we would expect them to be displayed, except for noting text that requires special
+            formatting (e.g., titles). -->
+               
+               <head>Works Cited</head>
+               <bibl xml:id="Ronne" n="Ronne">Ronne, Finn. <title level="m">Antarctica My Destiny</title>. New
+                  York: Hastings House, 1979. Print.
+               </bibl>
+               <bibl xml:id="Passel" n="Passel">Passel, Charles F. <title level="m">Ice: The Antarctic Diary of Charles F. Passel</title>. Ed.
+                  T. H. Baughman. Lubbock, TX: Texas Tech UP, 1995. Print.
+               </bibl>
+            </listBibl>
+            
+         </sourceDesc>
+
+      </fileDesc>
+
+      <!--
+         The encoding description, tagged <encodingDesc>, describes "the relationship 
+         between an electronic text and its source or sources" (TEI P4X, ch. 5).
+         -->
+      <encodingDesc>
+
+         <projectDesc>
+            <p>This edition is the latest in a series of collaboratively produced electronic
+               editions of previously unpublished nineteenth-century American manuscripts held in
+               the Rare Books and Manuscripts Library at The Ohio State University. Previous
+               editions include "My Dear Elizabeth," five letters written by Sophia Peabody
+               Hawthorne to her sister Elizabeth Palmer Peabody between ca. 1837 and 1868 (currently
+               being revised); "Dear Wife," twenty-one letters written by riverboat captain William
+               B. Anderson to his wife Louisa while he plied the Ohio river during the height of the
+               American Civil War, 1862&#x2013;1864; "Journal of a Tour to Europe," by Samuel Sullivan Cox;
+               and "Louisa A. Doane's Journal of Two Ocean Voyages (1852-1853). These documentary
+               editions are intended to provide wide exposure and access to manuscripts that might
+               otherwise be difficult for scholars to discover and consult, and to provide users
+               with a variety of tools for studying those texts. </p>
+            <p>Each text was edited in connection with an undergraduate or graduate course offered
+               by H. Lewis Ulman, Associate Professor of English at The Ohio State University. The
+               courses provide students with an opportunity to explore issues of textuality
+               and mediation that arise when our cultural archives spread from page to screen and
+               from library shelves to networked databases. Electronic textual editing serves as our
+               vehicle for examining what happens—and envisioning what might happen—when artifacts
+               in one medium are represented in another medium, especially with regard to the
+               interpretive work of reading. Electronic textual editions also provide a contact zone
+               that can help us reflect on what manuscript, print, and "born digital" artifacts can
+               tell us about their unique properties and their relationships to one another.</p>
+            <p>While providing a reliable textual edition is a <foreign xml:lang="lat">sine qua
+                  non</foreign>, the Lockhart edition also explores ways of telling four stories
+               inextricably woven into our work: the lives and historical milieu evoked by the
+               texts, the history of the physical journal, the
+               editorial process that gave rise to this particular interpretation of the text, and
+               the mediation of our electronic delivery system. </p>
+         </projectDesc>
+
+         <!--
+            In addition to prose description, the Editorial Practices Declaration may contain 
+            specialized elements concerned with correction, normalization, quotation, hyphenation, 
+            segmentation, date and number format, and interpretive apparatus (TEI P4X, ch. 5.3.3).
+         -->
+         <editorialDecl>
+            
+            <!-- 
+               TAKE NOTE: Explain your editorial method:
+               
+               â€¢	If you employ image files, describe how they were produced and note where they are stored.
+               â€¢	Describe any editorial guidelines you followed (e.g., how you treated hyphenation, whether 
+                  you corrected apparent errors, and any other decisions about how to treat recurrent features).
+               â€¢	Describe any special symbols that you use in your text to indicate additions, corrections, 
+                  cancellations, and so on. This important explanation provides a reader's guide to the text.
+               
+                  You can use more than one paragraph (tagged <p> </p>).
+                  
+                  We might include a system diagram, showing where all of the assets are stored
+                  and how the systems interact. We might include a database of assets. And we
+                  might include screen shots of the edition running on various systems as a step
+                  toward a descriptive bibliography of an online edition.
+            -->
+
+            <p>
+               <emph rend="bold">Scanning</emph>. The manuscript pages were scanned as 24-bit TIFF
+               images at 400 dots per inch (dpi), then coverted to 8-bit JPEG images at 400 dpi and
+               full quality before being loaded into the Media Manager application. All edges were
+               overscanned by at least 1/4 inch. No color correction was used at any stage of image
+               preparation, but a scan of a photographer's 18% grey card on the same scanner
+               produced RGB values at the center of 91/95/107 after applying a 150% Gaussian Blur in
+               Adobe Photoshop to average color values. Thus, a properly configured monitor should
+               provide a reasonable approximation of colors on the manuscript pages.
+            </p>
+            <p>
+               <emph rend="bold">Production Location of Digital Assets</emph>. The TEI P5-encoded
+               transcription of the Smith journal, along with XSL style sheets used to provide
+               variant "views" of the edition, TEI ODD documents used to produce custom schemas
+               based on the TEI markup language, and the resulting schemas are stored on a server
+               hosted by College of Arts and Sciences at The Ohio State University and on a Google
+               SVN repository. Readers may download copies of those source files via a link at the
+               top of this page. High resolution scans of the manuscript pages, scans of plates from
+               contemporary sources, and photographs of the journal are stored in the Media Manager
+               application hosted by the College of Arts and Science at The Ohio State University.
+               The files constituting the project's Web site are stored on a Web server hosted by
+               the College (http://people.cohums.ohio-state.edu/ulman1/LCSmithDiaries/).</p>
+            <p>
+               <emph rend="bold">Archiving of Digital Assets</emph>. Once the edition is complete,
+               its digital assets will be archived in The Ohio State University
+               Knowledge Bank (https://kb.osu.edu/dspace/). 
+            </p>
+
+         </editorialDecl>
+
+         <refsDecl>
+            <p>
+               <emph rend="bold">Markup of Physical Structure and Page Layout</emph>. The manuscript
+                  <emph rend="bold">pages</emph>, encoded by the empty page break or &lt;pb/&gt;
+               element, are the primary physical structures represented in the markup. Each
+               &lt;pb&gt; element includes a &quot;facs&quot; attribute identifying the unique ID of
+               a high-resolution scan of that image in the Media Manager application. <emph
+                  rend="bold">Line breaks</emph> (i.e., lineation determined or influenced by the
+               physical constraints of the page rather than compositional choices by the author) are
+               encoded with the empty &lt;lb/&gt; element. No attributes are included in the
+               &lt;lb&gt; element. Because Smith wrote on lined paper, when he skips a line printed
+               on the paper for any reason, we encode a &lt;lb/&gt; that, in the view arranged by
+               manuscript pages and lines, will appear as an empty numbered line. </p>
+            <p>
+               <emph rend="bold">Markup of Textual Structure</emph>. The <emph rend="bold">diary
+                  entry</emph>, encoded by a &lt;div&gt; element with the attribute-value pair
+               &quot;type='Entry'&quot;, constitutes the primary textual structure represented in
+               the markup. Each entry contains a
+               &lt;dateline&gt; element and one or more paragraphs. Each dateline may include a
+               &lt;name&gt; element with (optionally) a @type attribute containing one of
+               the following values: city, region; and a &lt;date&gt; element with a
+               @when attribute whose value is in the form YYYY-MM-DD. The value of the
+               @when attribute represents the editors' judgment about the actual date when the entry
+               was composed; the contents of the &lt;date&gt; element represent what Smith actually
+               wrote, even if he entered the date incorrectly.
+            </p>
+            <p>
+               Entries consist of a series of <emph rend="bold">paragraphs</emph>. Where indicated
+               by context, indentation of a line from the left margin of a page, line breaks part-way across
+               a page, or additional white space between lines, paragraphs are encoded with the
+               &lt;p&gt; element and no attributes.
+            </p>
+            <p>
+               If present, any prefatory text preceding the dateline may be encoded as a
+               &lt;head&gt; element at the beginning of an entry (i.e., within the
+               &lt;div&gt;element and before the &lt;dateline&gt;).
+            </p>
+            <p>
+               <emph rend="bold">Level of Transcription/Encoding</emph>. This markup scheme supports
+               a modest range of presentations, from semi-modernized/corrected to semi-diplomatic.
+               The basic transcription follows the manuscript verbatim. Various manuscript features
+               (e.g., cancellations, interlinear or marginal additions, tears in pages) are encoded,
+               as are regularized versions of proper names and dates and standard versions of
+               nonstandard spellings and expansions of abbreviations. </p>
+            <p>
+               <!-- NOTE: Update to include informationa about TEI ODD files. -->
+               <emph rend="bold">Customization of the TEI P5 Schema</emph>. Customization consisted primarily of restricting
+               encoding to certain modules and elements as well as enforcing some attribute values. See the ODD file for 
+               complete details.
+            </p>
+            
+         </refsDecl>
+
+         <classDecl>
+            <taxonomy xml:id="LCSH">
+               <bibl>
+                  <title>Library of Congress Subject Headings</title>
+               </bibl>
+            </taxonomy>
+         </classDecl>
+
+      </encodingDesc>
+
+      <profileDesc>
+         
+         <!--
+         The text profile, tagged <profileDesc>, contains "classificatory and contextual information 
+         about the text, such as its subject matter, the situation in which it was produced, the 
+         individuals described by or participating in producing it, and so forth" (TEI P4X, ch. 5).
+         -->
+
+         <creation>
+            <date>2014-04-17</date>
+         </creation>
+
+
+         <!-- Note any languages that appear in your document (use multiple tags, if necessary). -->
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+
+         <!-- Identify and describe any hands (i.e., individuals' handwriting) that appear in your document. -->
+         <handNotes>
+            <handNote xml:id="EELHand" medium="pencil">Ernest E. Lockhart's hand.</handNote>
+         </handNotes>
+
+         <textClass>
+            <!-- 
+            Supply a list of keywords for your document from the Library of Congress Subject Headings
+            -->
+            <keywords scheme="#LCSH">
+               <term>Diaries</term>
+               <term>Antarctica</term>
+               <term>Antarctica--Discovery and exploration--American</term>
+            </keywords>
+
+         </textClass>
+      </profileDesc>
+
+      <revisionDesc>
+
+         <!--
+            The revision history, tagged <revisionDesc>, allows "the encoder to provide a history of 
+            changes made during the development of the electronic text" (TEI P4X, ch. 5).
+            Add additional changes at the top of the list.
+         -->
+         <change when="2013-12-16" who="HLU">Created first drafts of TEI customization files, Relax NG schemas, TEI transcription, and XSL stylesheets. </change>
+
+      </revisionDesc>
+
+   </teiHeader>
+
+   <text>
+      <body>
+         <!-- 
+            We begin in medias res at July 30, 1862. The ID of the Entry follows 
+            the pattern LCSYYYYMMDDa, where LCS stands for Lucius Clark Smith,
+            YYYYMMDD identifies the date format, and "a" represents the first entry 
+            for a given day, and so on.
+         -->
+         <!-- HLU section begins here -->
+         <div type="journal" xml:id="eel-journal1">
+            <pb facs="journal-2-01.jpg" n="/f/f6740eaf-5b89-47d7-87f8-ff9c9e993803"/>
+            <pb facs="journal-2-02.jpg" n="/d/d6953828-9c18-4223-934c-fcdf6d224837"/>
+            <pb facs="journal-2-03.jpg" n="/7/7a0c1a5b-fc4e-428b-a3cc-a9e686ad3d38"/>
+            <pb facs="journal-2-04.jpg" n="/1/16127fab-3e46-4d3e-be62-faf82ab2cbaf"/>
+            <pb facs="journal-2-05.jpg" n="/e/e57988fb-3960-435f-a308-ebfafaa4892a"/>
+            <fw type="pageNum" place="top">1</fw>
+            <head>
+               <lb/>
+               <lb/>Journal covering period Dec 25 1940 until return home
+               <lb/>about May 1<hi rend="superscript underlined">st</hi> 1941
+               <lb/>
+            </head>
+            <div xml:id="eel-19401225a" type="entry">
+               <dateline><lb/><date when="1940-12-25">Wednesday December 25 1940</date></dateline>
+               <p>
+                  <lb/>At <damage confidence=".4"></damage> the exact moment when christmas bells should have
+                  <lb/>begun ringing here in the <placeName>Antarctic</placeName> if any christmas bells
+                  <lb/>had been <add place="bottom">I'm tired and confused</add> available, <persName><unclear>Pack</unclear></persName> <persName>Jack</persName> <persName>Tony</persName> and I were making
+                  <lb/>our last big "Putsch" toward <rs>the base</rs> We had left
+                  <lb/><placeName>Fort Wiener</placeName> at 930 PM and at 11 PM when we were
+                  <lb/>only 10.5 miles from <rs>the base</rs> decided not to camp until
+                  <lb/>morning but push on in. <del rend="strikethrough">Tony and the <unclear>rest</unclear></del> While we were
+                  <lb/>resting we drank a toast to ourselves — as a party — and
+                  <lb/>a merry christmas <add place= "bottom"> Even though I hate christmas</add>, finishing up the half a pint which
+                  <lb/>I had nursed along so carefully for two months. <persName>Tony</persName>
+                  <lb/>and I started out again and for a while had some
+                  <lb/>difficulty staying ahead of the <desc>=savage></desc> dogs. They were running now
+               </p>
+            </div>
+         </div> <!-- close div eel-journal1 -->
+      </body>
+  </text>
+</TEI>
