@@ -515,7 +515,11 @@
          -->
          <!-- HLU section begins here -->
          <div type="journal" xml:id="eel-journal1">
-            <pb facs="lockhart-journal-2-03.jpg" n="12345"/>
+            <pb facs="journal-2-01.jpg" n="/f/f6740eaf-5b89-47d7-87f8-ff9c9e993803"/>
+            <pb facs="journal-2-02.jpg" n="/d/d6953828-9c18-4223-934c-fcdf6d224837"/>
+            <pb facs="journal-2-03.jpg" n="/7/7a0c1a5b-fc4e-428b-a3cc-a9e686ad3d38"/>
+            <pb facs="journal-2-04.jpg" n="/1/16127fab-3e46-4d3e-be62-faf82ab2cbaf"/>
+            <pb facs="journal-2-05.jpg" n="/e/e57988fb-3960-435f-a308-ebfafaa4892a"/>
             <fw type="pageNum" place="top">1</fw>
             <head>
                <lb/>
