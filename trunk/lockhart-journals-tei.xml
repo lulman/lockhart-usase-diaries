@@ -544,7 +544,10 @@
                   <lb/>difficulty staying ahead of the dogs. They were running now
                </p>
             </div>
-         </div> <!-- close div eel-journal1 -->
+            <!-- The next dated journal entry would begin here. -->
+            
+            
+         </div> <!-- Close div eel-journal1. Don't go past this line! -->
       </body>
   </text>
 </TEI>
