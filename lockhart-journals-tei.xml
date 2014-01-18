@@ -544,9 +544,60 @@
                   <lb/>difficulty staying ahead of the dogs. They were running now
                </p>
             </div>
-            <!-- The next dated journal entry would begin here. -->
+            <!-- The first dated journal entry ends here.                  -->
+            <!-- The next dated journal entry would begin below this line. -->
             
             
+            
+            <!--
+               The final dated journal entry follows. All of your work 
+               on the journal proper should go ABOVE this comment. Telegrams
+               will follow the journal entries. Stay tuned.
+            -->
+            <pb facs="journal-2-41.jpg" n="/4/4dcdda8f-e271-4a15-b50a-852c9f3e3945"/>
+            <fw type="pageNum" place="top">37</fw>
+            <div xml:id="eel-19410116a" type="entry">
+               <lb/>
+               <lb/><dateline><date when="1941-01-16">Thursday January 16 1941</date></dateline>
+               <p>
+                  <lb/>Had <persName>Jack Bussey</persName> in the basket this morning. I think
+                  <lb/>this will be the last because I want to <del rend="strikethrough">have</del> start
+                  <lb/>packing my stuff for home. The <unclear>Star</unclear> which is
+                  <lb/>leaving <placeName>Dunedin</placeName> tomorrow will be here about the 27<hi rend="superscript">th</hi>
+                  <lb/>and I want to have everything ready. I shall try
+                  <lb/>to avoid any last minute rush as I had in Boston
+               </p>
+               <p>
+                  <lb/>Most of the day was spent doing gas analyses.
+               </p>
+               <p>
+                  <lb/><persName>Tony</persName> presented me not only with a special <name type="ship">Bear</name>
+                  <lb/>cachet but also with cancelled stamped envelope<subst><del rend="overwritten">d</del><add place="inline">s</add></subst>
+                  <lb/>bearing the cancellation st<subst><del rend="overwritten">p</del><add place="inline">a</add></subst>amps of the various places
+                  <lb/>visited on her trip down here. They make a very valuable
+                  <lb/>collection. When I get home I shall make a cachet
+                  <lb/>of linoleum or wood and cachet these envelopes. Then
+                  <lb/>they will be collectors items. I also shall have
+                  <lb/><persName>Wallace</persName> the yeoman and postmaster aboard the <name type="ship">Bear</name>
+                  <lb/>cancel some stamped envelopes so that I can have
+                  <lb/>many left over after I send my mail out.
+               </p>
+               <p>
+                  <lb/>Not much activity in camp today. <persName>Pete</persName> made
+                  <lb/>several <unclear>hops</unclear> just for fun and also to make a
+                  <lb/><placeName>Bay of Whales</placeName> <del rend="strikethrough">sun</del> aerial survey with <persName>Shirley</persName> doing the
+                  <lb/>photographing. <persName>Jack R.</persName> and <persName>Fitz</persName> layed out some
+                  <lb/>markers.
+               </p>
+               <p>
+                  <lb/>I spent some time reading funny <unclear>parts</unclear>.
+               </p>
+            </div>
+            <pb facs="journal-2-42.jpg" n="/3/307a134d-da7d-4fd0-b6f0-36894ed902b7"/>
+            <pb facs="journal-2-43.jpg" n="/f/f3da51c0-d53b-4431-8185-bf2366dddc11"/>
+            <pb facs="journal-2-44.jpg" n="/7/7f363505-4a1f-4261-8438-98b840c4f9bb"/>
+            <pb facs="journal-2-45.jpg" n="/d/d0f7a89a-bed8-48ff-b739-9a12056532e1"/>
+            <pb facs="journal-2-46.jpg" n="/d/d38e7754-5bff-48d5-89cc-0e262e1134f3"/>
          </div> <!-- Close div eel-journal1. Don't go past this line! -->
       </body>
   </text>
