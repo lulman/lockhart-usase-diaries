@@ -508,10 +508,10 @@
    <text>
       <body>
          <!-- 
-            We begin in medias res at July 30, 1862. The ID of the Entry follows 
-            the pattern LCSYYYYMMDDa, where LCS stands for Lucius Clark Smith,
-            YYYYMMDD identifies the date format, and "a" represents the first entry 
-            for a given day, and so on.
+            We begin in medias res on Christmas Day, 1940. The value of the xml:id
+            attribut of of the first Entry follows the pattern eel-YYYYMMDDa, 
+            where eel stands for Ernest E. Lockhart,YYYYMMDD identifies the date, 
+            and "a" represents the first entry for a given day.
          -->
          <!-- HLU section begins here -->
          <div type="journal" xml:id="eel-journal1">
