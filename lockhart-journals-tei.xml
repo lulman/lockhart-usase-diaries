@@ -598,9 +598,9 @@
          <pb facs="journal-2-18.jpg" n="/9/9940712b-a2cd-4eaa-92a9-e650af6a8fd1"/>
          <fw type="pageNum" place="top">14</fw>
          <div xml:id="eel-19410101a" type="entry">
-            <dateline><date when="1941-01-01"></date><del>Wednesday January 1 1941</del></dateline>
+            <dateline><date when="1941-01-01"></date><del rend="strikethrough">Wednesday January 1 1941</del></dateline>
             <p>
-               <lb/><del>At last the new year has</del>
+               <lb/><del rend="strikethrough">At last the new year has</del>
             </p>
          </div>
          <div xml:id="eel-19411231a" type="entry">
