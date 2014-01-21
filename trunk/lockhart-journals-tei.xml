@@ -6,7 +6,7 @@
    
    <teiHeader type="AACR2">
       <!--
-      The type attribute in teiHeader element above asserts that the header provides 
+      These type attribute in teiHeader element above asserts that the header provides 
       enough information to create a bibliographic record that complies with the 
       Anglo-American Cataloguing Rules, 2nd ed. (1978; rev. 1988).
       -->
