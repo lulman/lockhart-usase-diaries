@@ -800,9 +800,9 @@
                <lb/>
             </p>
          </div>
-         <pb facs="journal-2-38.jpg">
+         <pb facs="journal-2-38.jpg"/>
          <fw type="pageNum" place="top">34</fw>   
-          <div>
+          <div xml:id="eel-19410116" type="entry">
              <p>
                 <lb/>camera taken on those flights was a Leica and no
                 <lb/>attempt was made to make overlaps or circles of pictures.
@@ -820,24 +820,20 @@
                 <lb/>was a government expedition all of the exaggeration and
                 <lb/>untruths would be cut out of the reports.  We feel that
                 <lb/>the type of publicity so necessary to a private expedition
-                <lb/><del>was</del>is absolutely unnecessary for this expedition.  However,
+                <lb/><del style="strikethrough">was</del>is absolutely unnecessary for this expedition.  However,
                 <lb/>since <persName>Byrd</persName> seems to be the only one who is getting credit
                 <lb/>for all the work done down here even though he has 
                 <lb/>had actually little to do with the goings on, it must
                 <lb/>be he and his stooge <persName>Hawthorne</persName> who have contrived to
                 <lb/>keep the exaggerations and untruths on the same high
                 <lb/>plane as maintained on previous expeditions. <persName>Hawthorne</persName>
-                <lb/>who is coming down in the <unclear>Star</unclear> presumably to collect
+                <lb/>who is coming down in the <unclear cert="medium">Star</unclear> presumably to collect
                 <lb/>film journals diaries etc is suspected of having his
                 <lb/>own ax to grind--a book on the expedition for the
                 <lb/>Admiral--and consequently will have little cooperation
-              
              </p>
-             
           </div>  
-         </pb> 
-            
-  
+      
          <pb facs="jouranl-2-40.jpg"/>
          <fw type="pageNum" place="top">36</fw>
          <div xml:id="eel19410115a" type="entry">
