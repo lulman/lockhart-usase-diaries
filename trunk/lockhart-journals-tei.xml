@@ -624,10 +624,10 @@
             </div>
             <pb facs="journal-2-14.jpg" n="/5/5debfbea-aaeb-4e48-8d0c-b2aa8b0c8828"/>
             <fw type="pageNum" place="top">10</fw>
-            <div xml:id="eel-19401228a" type="entry">
+            <div xml:id="eel-19401228b" type="entry">
                <p>
-                  <lb/>I prepared what will probably be my <unclear>usual</unclear> <foreign>piece-de-resistance</foreign>
-                  <lb/>scrambled eggs <foreign>ala</foreign> <persName>Lockhart</persName>. These with toast and coffee
+                  <lb/>I prepared what will probably be my <unclear>usual</unclear> <foreign xml:lang="french">piece-de-resistance</foreign>
+                  <lb/>scrambled eggs <foreign xml:lang="french">ala</foreign> <persName>Lockhart</persName>. These with toast and coffee
                   <lb/> completed the morning repast.
                </p>
                <p>
@@ -648,7 +648,7 @@
                   <lb/>hope the idea will be approved. <persName>Buck</persName> and I did not
                   <lb/>get any skua gulls&#x2014;he is not the shot he professes to be.
                   <lb/> In the future before the ships come in&#x2014;by the way, it is said
-                  <lb/> that the <name type="ship">Bear</name> has already left for the the <placeName>Bay</placeName>&#x2014;
+                  <lb/> that the <name type="ship">Bear</name> has already left <placeName>New Zealand</placeName> for the <placeName>Bay</placeName>&#x2014;
                   <lb/>I shall do a little target practicing every day. <persName>Pete</persName> has
                   <lb/>just come in saying that there were more skua gulls out 
                   <lb/> there and brought in one as evidence.
@@ -658,7 +658,39 @@
                   <lb/>folks. He said that although conditions were very bad he
                   <lb/>would speak to <persName>Charlie</persName>. It is so little trouble for them to
                </p>
-            </div> 
+            </div>
+         <pb facs="journal 2-15.jpg" n="/d/d478311c-345a-4728-bde3-f72769e0f239"/>
+         <fw type="pageNum" place="top">11</fw>
+         <div xml:id="eel-19401228c" type="entry">
+            <p>
+            <lb/>get over there that it is worth the chance they will be
+            <lb/>taking.
+            </p>
+            <p>
+               <lb/>There is going to be a mail lag <unclear>sponsored</unclear> by the <name>Boston
+               <lb/>Traveler</name> in <date>Jan 31</date>. We may not be able to get it
+               <lb/>here because the ships will be on their way or almost
+               <lb/>ready to go. It won't be worth while to tell the folks
+               <lb/>to say a few words to me. It won't be very long now
+               <lb/>until I see them again anyway.
+            </p>
+            <p>
+               <lb/>Enough for now.
+            </p>
+         </div>
+         <div xml:id="eel19401229a" type="entry">
+            <lb/><dateline><date when="19401229"></date><time>1:30am</time></dateline>
+            <p>
+               <lb/>Not long after <persName>Pete</persName> brought his skua gull in <persName>Wiener</persName> went out
+               <lb/>with his 22 rifle and brought back two more which <persName>Pete</persName>
+               <lb/>immediately worked on for blood samples. He had some trouble
+               <lb/>getting the birds to bleed and then trouble getting the blood to
+               <lb/>centrifuge properly. I made a few suggestions such as using
+               <lb/>oxalate to prevent the blood from coagulating and <unclear>the</unclear> faster centrifugation
+               <lb/>of the fresh blood. I hope to kill a few more so that I can skin them
+               <lb/>and salt them down to take <unclear>back</unclear>.
+            </p>
+         </div>
          </div>  
          <pb facs="journal-2-17.jpg" n="/7/7720f3e3-93eb-47d7-a27e-68622120c331"/>
          <fw type="pageNum" place="top">13</fw>
