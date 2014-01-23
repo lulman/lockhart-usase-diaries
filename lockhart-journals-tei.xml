@@ -741,7 +741,7 @@
             <fw type="pageNum" place="top">16</fw>
             <div xml:id="eel-19411231c" type="entry">
                <p>
-                  <!-- Let's try to commit this. -->
+                 
                   <lb/>samples I am cooperating with <persName>Court</persName> the meteorologist who
                   <lb/>tells me when to take the samples. The prime requisite is
                   <lb/>that the wind must have been blowing steadily from one
@@ -777,7 +777,15 @@
                   <lb/><persName>Jack Perkins</persName> has just completed some beautiful jobs on the
                </p>
             </div>
-         <pb facs="journal-2-35.jpg"/>
+         <pb facs="journal-2-23.jpg"/>
+         <fw type="pageNum" place="top">19</fw>    
+         <div xml:id="eel-19401231" type="entry"> 
+            <p> <!-- This is the middle of the entry for this date which begins on the previous page --> 
+               <lb/>meets men from many walks of life and learns quickly
+               <lb/>to adjust oneself to meet each personality. One learns 
+              </p>
+              </div>
+         <pb facs="journal-2-35.jpg"/>   
          <fw tyep="pageNum" place="top">31</fw>
          <div xml:id="eel-19410112" type="entry">
             <p>
