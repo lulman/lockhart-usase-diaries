@@ -1053,8 +1053,8 @@
      </text>  <!-- Close journal 2 text. -->
      <text>   <!-- Open text #2, telegrams inserted in journal #2. -->
             <body> <!-- Open body of text #2. -->
-               <!-- A div for a telegram from an earlier date would go here. -->
-                <div xml:id="eel-19401225b" type="telegram" facs="journal-2-63" n="/3/350707bb-644c-48c6-b010-fbf4af419233">
+               <!-- A div for a radiogram from an earlier date would go here. -->
+                <div xml:id="eel-19401225b" type="radiogram" facs="journal-2-63" n="/3/350707bb-644c-48c6-b010-fbf4af419233">
                  <opener>
                     <lb/><dateline><date when="1940-12-25">25 DEC 1940</date></dateline>
                     <lb/>NR5 WLMC <date when="1940-12-21" type="sent">DEC 21</date> <placeName>BOSTON MASS</placeName>
@@ -1070,7 +1070,7 @@
                  </p>
                   <lb/><closer>beatie</closer>
                </div>
-               <!-- A div for a telegram from a later date would follow. -->
+               <!-- A div for a radiogram from a later date would follow. -->
             </body> <!-- Close body of text #2, telegrams. -->
          </text> <!-- Close text #2, telegrams. -->
     </group> <!-- Close text group. -->
