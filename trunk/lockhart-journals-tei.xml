@@ -862,11 +862,11 @@
                   <lb/>perhaps I should get busy and skin one myself. I
                   <lb/>
                </p>
-             </div>
+             
           <pb facs="journal-2-23.jpg"/>
           <fw type="pageNum" place="top">19</fw>
-           <!--Journal 23 begins in the middle of a paragraph and continues the entry from 12/31/41-->
-           <div xml:id="eel-19401231" type="entry">
+           <!-- Journal 23 begins in the middle of a paragraph and continues the entry from 1/1/41 -->
+           
              <p>
                <lb/>meets men from many walks of life and learns quickly
                <lb/>to adjust oneself <!-- the "e" in oneself looks traced over a few times -->to meet each personality. One learns
@@ -892,6 +892,7 @@
                <lb/>showing begins almost immediately. <!-- period is a larger circle with a line through it -->
                <lb/> 
                  </p>
+                 <p></p>
               </div>
                    
          <pb facs="journal-2-35.jpg"/>
