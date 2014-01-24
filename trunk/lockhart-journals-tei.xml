@@ -505,8 +505,11 @@
 
    </teiHeader>
 
-   <text>
-      <body>
+   
+   <text> <!-- Open main text div. -->
+     <group> <!-- Open text group -->
+        <text xml:id="eel-journal2" type="boundJournal"> <!-- Begin text 1, bound journal #2. -->
+        <body> <!-- Being the body of journal #2. -->
          <!-- 
             We begin in medias res on Christmas Day, 1940. The value of the xml:id
             attribut of of the first Entry follows the pattern eel-YYYYMMDDa, 
@@ -514,7 +517,6 @@
             and "a" represents the first entry for a given day.
          -->
          <!-- HLU section begins here -->
-         <div type="journal" xml:id="eel-journal2">
             <pb facs="journal-2-01.jpg" n="/f/f6740eaf-5b89-47d7-87f8-ff9c9e993803"/>
             <pb facs="journal-2-02.jpg" n="/d/d6953828-9c18-4223-934c-fcdf6d224837"/>
             <pb facs="journal-2-03.jpg" n="/7/7a0c1a5b-fc4e-428b-a3cc-a9e686ad3d38"/>
@@ -995,7 +997,30 @@
             <pb facs="journal-2-44.jpg" n="/7/7f363505-4a1f-4261-8438-98b840c4f9bb"/>
             <pb facs="journal-2-45.jpg" n="/d/d0f7a89a-bed8-48ff-b739-9a12056532e1"/>
             <pb facs="journal-2-46.jpg" n="/d/d38e7754-5bff-48d5-89cc-0e262e1134f3"/>
-         </div> <!-- Close div eel-journal1. Don't go past this line! -->
-      </body>
-  </text>
+      </body> <!-- Close body of journal 2 text. -->
+     </text>  <!-- Close journal 2 text. -->
+     <text>   <!-- Open text #2, telegrams inserted in journal #2. -->
+            <body> <!-- Open body of text #2. -->
+               <!-- A div for a telegram from an earlier date would go here. -->
+                <div xml:id="eel-19401225b" type="telegram" facs="journal-2-63" n="/3/350707bb-644c-48c6-b010-fbf4af419233">
+                 <opener>
+                    <lb/><dateline><date when="1940-12-25">25 DEC 1940</date></dateline>
+                    <lb/>NR5 WLMC <date when="1940-12-21" type="sent">DEC 21</date> <placeName>BOSTON MASS</placeName>
+                    <lb/><salute><persName>DR LOCKHART</persName></salute>
+                 </opener>
+                 <p>
+                    <lb/>dear <persName>earl</persName> best wishes for a happy christmas. at least you can have
+                    <lb/>real snow balls on your tree. little <persName>peter</persName> now weighs 31 lbs and stands
+                    <lb/>20 inches. with this i am sending bad news . <rs>jack mahans father</rs> died
+                    <lb/>on wednesday spent evening with them . he was <choice><sic>burried</sic><corr>buried</corr></choice> today be seeing
+                    <lb/>you soon . love from all friend and family . thanks giving picture
+                    <lb/>of <geogName>south pole</geogName> appeared in <title level="j">new york times</title> . some beard. love
+                 </p>
+                  <lb/><closer>beatie</closer>
+               </div>
+               <!-- A div for a telegram from a later date would follow. -->
+            </body> <!-- Close body of text #2, telegrams. -->
+         </text> <!-- Close text #2, telegrams. -->
+    </group> <!-- Close text group. -->
+  </text> <!-- Close main text div -->
 </TEI>
