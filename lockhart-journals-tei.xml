@@ -863,7 +863,7 @@
                   <lb/>
                </p>
              
-          <pb facs="journal-2-23.jpg"/>
+               <pb facs="journal-2-23.jpg" n=" /4/498886ed-6a42-4026-9b5f-75b211d23125.jpg"/>
           <fw type="pageNum" place="top">19</fw>
            <!-- Journal 23 begins in the middle of a paragraph and continues the entry from 1/1/41 -->
            
@@ -880,7 +880,7 @@
                <lb/>one acquires a confidence, an assurance and an interest <!-- confident about the word, but it has some larger gaps or spaces in between letters -->
                <lb/>in things utterly foreign to one's early training and profits
                <lb/>according to one's ability to absorb and retain. Many small 
-               <lb/>never-to-be-forgotten incidents <!-- pretty sure it's incidents with an "s" but will double check --> <unclear>saved</unclear> in one's mental 
+               <lb/>never-to-be-forgotten incidents <!-- pretty sure it's incidents with an "s" but will double check --> <unclear>engraved</unclear> in one's mental 
                <lb/>filing cabinet and whether or not they serve as the basis for 
                <lb/><unclear>future</unclear> activities remain if only as memories. It is as though
                <lb/>an encyclopedia of many phases of life has been opened; those
@@ -892,7 +892,14 @@
                <lb/>showing begins almost immediately. <!-- period is a larger circle with a line through it -->
                <lb/> 
                  </p>
-                 <p></p>
+            </div>
+              <div xml:id="eel-19410103" type="entry">
+                 <p> 
+                 <lb/><date><del rend="strikethough">Tuesday</del><add place="above">Friday</add>January <del type="strikethough">2</del><add place="above">3</add> 1940</date> <!-- in the id it gives the correct date; not sure how to indicate his error of writing 1940 when it should be 1941 -->
+                 <lb/> <!-- there is a paragraph indentation here but not sure how to use the p tag -->Alarm clocks have no place in my system of living. Never
+                 <lb/>have I used one as <!-- the a in as has a diagonal line through it --> a constant companion and now that 
+                 <lb/>I am <!-- the ink for these two words is faded --> using one I don't go by it. Since I have been trying to
+                 </p>
               </div>
                    
          <pb facs="journal-2-35.jpg"/>
