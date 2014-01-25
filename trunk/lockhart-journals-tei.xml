@@ -1106,6 +1106,21 @@
      <text>   <!-- Open text #2, telegrams inserted in journal #2. -->
             <body> <!-- Open body of text #2. -->
                <!-- A div for a radiogram from an earlier date would go here. -->
+                <div xml:id="eel-19401210a" type="radiogram" facs="journal-2-58" n="/c/c54c11a9-659f-4566-b4f8-b81635104f9f">
+                 <opener>
+                    <lb/>2 wlmc <placeName>boston mass</placeName> <date when="1940-12-05" type="sent">dec 5</date><dateline><date when="1940-12-10">10 dec 1940</date></dateline>
+                    <lb/><salute><persName>earl <choice><sic>lockhard</sic><corr>lockhart</corr></choice></persName></salute>
+                 </opener>
+                 <p>
+                    <lb/>just discovered that you can receive messages on this trip you are
+                    <lb/><choice><sic>talking</sic><corr>taking</corr></choice> x sorry not to have <gap reason="cancelled" unit="chars" extent="2"/>nt anything for you before x hope you are well
+                    <lb/>x little <persName>peter</persName> now <measure>weighs<num>26</num>pounds</measure> x bring on your husky x everyone look
+                    <lb/>ing forward anxiously to your2return we <gap reason="cancelled" unit="chars" extent="4"/> all well and happy x <measure><num>eight</num>
+                    <lb/>inches</measure> of snow for thanksgiving all well
+                 </p>
+                    <lb/><closer>beatie</closer>
+                    <!-- There are some handwritten letters in pencil on the bottom of this radiogram. Possibly used to send the rg? -->
+                </div>
                 <div xml:id="eel-19401225b" type="radiogram" facs="journal-2-63" n="/3/350707bb-644c-48c6-b010-fbf4af419233">
                  <opener>
                     <lb/><dateline><date when="1940-12-25">25 DEC 1940</date></dateline>
@@ -1136,7 +1151,7 @@
                      <lb/>largest dogs we have in camp. <measure>Weight about <num>ninety</num> pounds</measure>. He
                      <lb/>is some dog even though the fellows make fun of him.
                   </p>
-                     <lb/><closer>Earl</closer>
+                  <lb/><closer>Earl</closer>
                </div>
                <!-- A div for a radiogram from a later date would follow. -->
             </body> <!-- Close body of text #2, telegrams. -->
