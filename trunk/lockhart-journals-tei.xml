@@ -914,10 +914,10 @@
                   <lb/>as I have been in the past should go away on an expedition for
                   <lb/>a year or two; there in this small world of ours, for instance, one
                </p>  
-            </div>  
-               <pb facs="journal-2-23.jpg" n=" /4/498886ed-6a42-4026-9b5f-75b211d23125.jpg"/>
+            
+               <pb facs="journal-2-23.jpg" n="/4/498886ed-6a42-4026-9b5f-75b211d23125.jpg"/>
           <fw type="pageNum" place="top">19</fw>
-           <p>
+           <p><!-- not sure why there's an error here? -->
                <lb/>meets men from many walks of life and learns quickly
                <lb/>to adjust oneself <!-- the "e" in oneself looks traced over a few times -->to meet each personality. One learns
                <lb/>the meaning of work and what a working man thinks 
@@ -941,12 +941,13 @@
                <lb/>trip to the Antarctic and the time when dividends should be
                <lb/>showing begins almost immediately. <!-- period is a larger circle with a line through it -->
                <lb/> 
-             </p>
+           </p>
             </div>
               <div xml:id="eel-19410103" type="entry">
-                 <p> 
-                 <lb/><date><del rend="strikethough">Tuesday</del><add place="above">Friday</add>January <del type="strikethough">2</del><add place="above">3</add> 1940</date> <!-- in the id it gives the correct date; not sure how to indicate his error of writing 1940 when it should be 1941 -->
-                 <lb/> <!-- there is a paragraph indentation here but not sure how to use the p tag -->Alarm clocks have no place in my system of living. Never
+                  
+                    <lb/><dateline><date when="1941-01-03"><del rend="strikethough">Tuesday</del><add place="above">Friday</add>January <del type="strikethough">2</del><add place="above">3</add> 1940</date> </dateline><!-- in the id it gives the correct date; not sure how to indicate his error of writing 1940 when it should be 1941 -->
+                 <p>
+                 <lb/> <!-- there is a paragraph indentation here but not sure how to use the p tag since it's being used at the top and bottom of pages? -->Alarm clocks have no place in my system of living. Never
                  <lb/>have I used one as <!-- the a in as has a diagonal line through it --> a constant companion and now that 
                  <lb/>I am <!-- the ink for these two words is faded --> using one I don't go by it. Since I have been trying to
                  </p>
