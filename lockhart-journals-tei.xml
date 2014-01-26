@@ -296,6 +296,8 @@
                <bibl xml:id="Passel" n="Passel">Passel, Charles F. <title level="m">Ice: The Antarctic Diary of Charles F. Passel</title>. Ed.
                   T. H. Baughman. Lubbock, TX: Texas Tech UP, 1995. Print.
                </bibl>
+               <bibl xml:id="Stefansson" n="Stefansson">Stefansson, Vilhjalmur. <title level="m">Hunters of the Great North</title>. 
+                  New York: Harcourt, Brace, and Company, 1922. Print.</bibl>
             </listBibl>
             
          </sourceDesc>
@@ -1005,6 +1007,45 @@
                  <lb/>increasing had become so bad that <persName>Pete</persName> was afraid
                  </p>
               </div>
+            
+            <pb facs="journal-2-29" n="/c/cb88c987-4c24-46d8-9b95-0b7859981f5c"/>
+            
+            <div xml:id="eel-19410105a" type="entry">
+               <p>
+                  <lb/>As I expected I didn't get up very early. I woke up at
+                  <lb/>930 and thought I would lie there until 10 but I fell
+                  <lb/>asleep again and didn't wake again until 1130.
+               </p>
+               <p>
+                  <lb/>After doing an air sample I read most of the afternoon
+                  <lb/>I am learning a great deal from <title level="m" ref="Stefansson">Hunters of the Great North</title>
+                  <lb/>and was especially please to come a pc across a passage
+                  <lb/>on dog driving which was my theory of dog driving in black
+                  <lb/>and white; it goes as follows. page 118. <quote>"The Eskimo idea
+                  <lb/>was that a dog should be treated with great consideration, and
+                  <lb/>his opinion was that a good dog would pull about as long as he
+                  <lb/>has any strength without being whipped. . . . that the only
+                  <lb/>approved Eskimo mehtod of inducing dogs to work is either by
+                  <lb/>shouting to them and trying to cheer them up by voice, or else
+                  <lb/>by having some personal walk ahead of the team of whom the dogs
+                  <lb/>are so fond that they will pull hard to try to keep up. I
+                  <lb/>regret to say that during the twelve years following 1906 the
+                  <lb/><placeName>Mackenzie River</placeName> Eskimos adopted the custom of whipping dogs.<del>"</del>
+                  <lb/>. . . . that whipping tired dogs was one of the white man's
+                  <lb/>customs."</quote> My short experience on the trail has <choice><sic>lead</sic><corr>led</corr></choice> me to
+                  <!-- Note that he quotes these passages out of order. -->
+                  <lb/>agree whole heartedly with this. I do whip a lead
+                  <lb/>dog when he won't keep his line tight but only enough to
+                  <lb/>convince the dog that he is doing something wrong. These
+                  <lb/>dogs are so intelligent that they know when they aren't
+                  <lb/>working as they should. I never beat a dog and never
+                  <lb/>hit one hard enough to lame it or make it sore.
+               </p>
+               <p>
+                  <lb/>As a governor on my impatience i usually use my hand
+               </p>
+            </div>
+           
          <pb facs="journal-2-35.jpg"/>
          <fw type="pageNum" place="top">31</fw>
          <div xml:id="eel-19410112" type="entry">
