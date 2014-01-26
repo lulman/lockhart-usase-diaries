@@ -1205,13 +1205,13 @@
                 <div xml:id="eel-19401210a" type="radiogram" facs="journal-2-58" n="/c/c54c11a9-659f-4566-b4f8-b81635104f9f">
                  <opener>
                     <lb/>2 wlmc <placeName>boston mass</placeName> <date when="1940-12-05" type="sent">dec 5</date><dateline><date when="1940-12-10">10 dec 1940</date></dateline>
-                    <lb/><salute><persName>earl <choice><sic>lockhard</sic><corr>lockhart</corr></choice></persName></salute>
+                    <lb/><salute><persName>earl<choice><sic>lockhard</sic><corr>lockhart</corr></choice></persName></salute>
                  </opener>
                  <p>
                     <lb/>just discovered that you can receive messages on this trip you are
-                    <lb/><choice><sic>talking</sic><corr>taking</corr></choice> x sorry not to have <gap reason="cancelled" unit="chars" extent="2"/>nt anything for you before x hope you are well
+                    <lb/><choice><sic>talking</sic><corr>taking</corr></choice> x sorry not to have <gap reason="overwritten with x's" unit="chars" extent="2"/>nt anything for you before x hope you are well
                     <lb/>x little <persName>peter</persName> now <measure>weighs<num>26</num>pounds</measure> x bring on your husky x everyone look
-                    <lb/>ing forward anxiously to your2return we <gap reason="cancelled" unit="chars" extent="4"/> all well and happy x <measure><num>eight</num>
+                    <lb/>ing forward anxiously to your2return we <gap reason="overwritten with x's" unit="chars" extent="4"/> all well and happy x <measure><num>eight</num>
                     <lb/>inches</measure> of snow for thanksgiving all well
                  </p>
                     <lb/><closer>beatie</closer>
@@ -1255,9 +1255,11 @@
                <div xml:id="eel-19410104a" type="radiogram" facs="journal-2-57" n="/2/21277b97-80c3-4419-929a-cbe1199256e1">
                   <opener>
                      <lb/><dateline><date when="1941-01-04">January 4 1941</date></dateline>
-                     <lb/><address><addrLine><persName>Miss Beatrice R Lockhart</persName></addrLine>
-                     <lb/><addrLine>49 Taunton Ave</addrLine>
-                     <lb/><addrLine>Mattapan Mass</addrLine></address>
+                     <address>
+                        <lb/><persName>Miss Beatrice R Lockhart</persName>
+                        <lb/><addrLine>49 Taunton Ave</addrLine>
+                        <lb/><addrLine><placeName>Mattapan Mass</placeName></addrLine>
+                     </address>
                   </opener>
                   <p>
                      <lb/>Am looking forward to the letters I know will be on the Beer and 
@@ -1266,7 +1268,7 @@
                      <lb/>largest dogs we have in camp. <measure>Weight about <num>ninety</num> pounds</measure>. He
                      <lb/>is some dog even though the fellows make fun of him.
                   </p>
-                  <lb/><closer>Earl</closer>
+                  <signed><persName>Earl</persName></signed>
                </div>
                <!-- A div for a radiogram from a later date would follow. -->
             </body> <!-- Close body of text #2, telegrams. -->
