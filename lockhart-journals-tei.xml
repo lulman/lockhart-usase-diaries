@@ -1188,6 +1188,25 @@
                  </p>
                   <lb/><closer>beatie</closer>
                </div>
+               
+               <div xml:id="eel-19401226" type="radiogram" facs="journal-2-64" n="/c/cb88c987-4c24-46d8-9b95-0b7859981f5c">
+                  <opener>
+                     <lb/><dateline><date when="1940-12-26">Dec 26 1940</date></dateline>
+                     <address>
+                        <lb/><persName>Mrs C D Lockhart</persName>
+                        <lb/><addrLine>49 Taunton Ave</addrLine>
+                        <lb/><addrLine><placeName>Mattapan Mass</placeName></addrLine>
+                     </address>
+                  </opener>
+                  <p>
+                     <lb/>Arrived back at the base xmas eve.  Had a wonderful time. Am
+                     <lb/>now looking forward to return home.  Also to arriv<subst><del>ival</del><add place="above">al</add></subst> of ships
+                     <lb/>for the mail they will bring.  Keep the candle in the window
+                     <lb/>because it <choice><sic>wont</sic><corr>won't</corr></choice> be long now.  Will return to <placeName>Seattle</placeName> with <name type="ship">Star</name>.
+                  </p>
+                  <signed><persName>Earl</persName></signed>
+               </div>
+               
                <div xml:id="eel-19410104a" type="radiogram" facs="journal-2-57" n="/2/21277b97-80c3-4419-929a-cbe1199256e1">
                   <opener>
                      <lb/><dateline><date when="1941-01-04">January 4 1941</date></dateline>
