@@ -173,17 +173,21 @@
                         2 (blank except for "1/9" written in the upper right-hand corner); 3 (blank except for "1" written in the upper left-hand
                         corner; 4-40 (journal entries on pages numbered 1 through 37 consecutively, odd numbers in the upper right-hand corners,
                         even numbers in the upper left-hand corners of pages); 41-117 (blank pages); 118 (list of outgoing mail on a paste-down
-                        endpaper).
+                        endpaper). The text block consists of a gathering of four quires of 6, 20, 16, and 18 leaves—including the paste-down
+                        endpapers in the first and last quires—sewn through the fold and glued (?) to the binding.
                      </p>
                      <p>
                         <emph rend="bold">Paper</emph>: The pages of the journal consist of cream-colored paper, 20.5 cm wide by 25.8 cm tall, with 1.5 cm top and bottom
                         unlined margins. The body of the pages contains horizontal blue lines spaced 0.8 cm apart and a vertical red line defining
                         a 2.54 cm left margin. Some pages contain all or part of a 10 x 7.4 cm oval watermark depicting a seated female figure 
-                        holding a spear in the crook of her right arm and leaves in her extended left hand. A 3 x 5 cm crown sits above the oval. The page
-                        edges are speckled.
+                        holding a spear in the crook of her right arm and leaves in her extended left hand. A 3 x 5 cm crown sits above the oval.
+                        <title>Paper Watermarks</title> identifies a nearly identical watermark with stationers Waterlow Bros. &amp; Layton, London;
+                        however, the watermark illustrated on <title>Paper Watermarks</title> contains the decorative initials "WBL" below the
+                        oval.
                      </p>
                      <p>
-                        <emph rend="bold">Binding</emph>: description of binding
+                        <emph rend="bold">Binding</emph>: description of binding. 
+                        The page edges are speckled.
                      </p>
                      <p>
                         Unpublished manuscript.
@@ -306,6 +310,8 @@
                </bibl>
                <bibl xml:id="Stefansson" n="Stefansson">Stefansson, Vilhjalmur. <title level="m">Hunters of the Great North</title>. 
                   New York: Harcourt, Brace, and Company, 1922. Print.</bibl>
+               <bibl xml:id="watermarks" n="paper"><title level="m">Paper Watermarks</title>. N. p. 25 August 2007. Web. 27 January 2014.
+                  &lt;http://www.watermarks.info/indexi.htm&gt;</bibl>
             </listBibl>
             
          </sourceDesc>
