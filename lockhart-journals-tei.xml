@@ -1377,8 +1377,8 @@
                 </div>
                 <div xml:id="eel-19401225b" type="radiogram" facs="journal-2-63" n="/3/350707bb-644c-48c6-b010-fbf4af419233">
                  <opener>
-                    <lb/><dateline><date when="1940-12-25">25 DEC 1940</date></dateline>
-                    <lb/>NR5 WLMC <date when="1940-12-21" type="sent">DEC 21</date> <placeName>BOSTON MASS</placeName>
+                    <lb/><dateline><date when="1940-12-25" type="transmitted">25 DEC 1940</date></dateline>
+                    <lb/>NR5 <name type="call-sign">WLMC</name> <date when="1940-12-21" type="received">DEC 21</date> <placeName>BOSTON MASS</placeName>
                     <lb/><salute><persName>DR LOCKHART</persName></salute>
                  </opener>
                  <p>
