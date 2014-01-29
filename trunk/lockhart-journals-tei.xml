@@ -1367,12 +1367,12 @@
                  </opener>
                  <p>
                     <lb/>just discovered that you can receive messages on this trip you are
-                    <lb/><choice><sic>talking</sic><corr>taking</corr></choice> x sorry not to have <gap reason="overwritten with x's" unit="chars" extent="2"/>nt anything for you before x hope you are well
-                    <lb/>x little <persName>peter</persName> now <measure>weighs<num>26</num>pounds</measure> x bring on your husky x everyone look
-                    <lb/>ing forward anxiously to your2return we <gap reason="overwritten with x's" unit="chars" extent="4"/> all well and happy x <measure><num>eight</num>
-                    <lb/>inches</measure> of snow for thanksgiving all well
+                    <lb/><choice><sic>talking</sic><corr>taking</corr></choice> x sorry not to have <gap reason="overwritten with x's" unit="chars" extent="2"/>nt anything for before x hope you are well
+                    <lb/>x little <persName>peter</persName> now <measure>weighs<num>26</num>pounds</measure> x bring on your husky x everyone <seg type="softhyphen">look
+                    <lb/></seg>ing forward anxiously to your2return we <gap reason="overwritten with x's" unit="chars" extent="4"/> all well and happy x <measure><num>eight</num>
+                    <lb/>inches</measure> o<gap reason="overwritten with x's"/> snow for thanksgiving all well
                  </p>
-                    <lb/><closer>beatie</closer>
+                    <lb/><closer><persName>beatie</persName></closer>
                     <!-- There are some handwritten letters in pencil on the bottom of this radiogram. Possibly used to send the rg? -->
                 </div>
                 <div xml:id="eel-19401225b" type="radiogram" facs="journal-2-63" n="/3/350707bb-644c-48c6-b010-fbf4af419233">
