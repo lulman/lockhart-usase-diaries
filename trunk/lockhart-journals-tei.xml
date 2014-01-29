@@ -276,7 +276,7 @@
             <listOrg>
                <head>List of Organizations Mentioned in Earnest E. Lockhart's Journal</head>
               <org xml:id="XXXX">
-                 <orgName>name</orgName>
+                 <orgName>Army Amateur Radio System</orgName>
                  <state type="company">
                     <desc>
                        description
@@ -312,6 +312,10 @@
                   New York: Harcourt, Brace, and Company, 1922. Print.</bibl>
                <bibl xml:id="watermarks" n="paper"><title level="m">Paper Watermarks</title>. N. p. 25 August 2007. Web. 27 January 2014.
                   &lt;http://www.watermarks.info/indexi.htm&gt;</bibl>
+               <bibl xml:id="Field-news" n="Greetings"><title level="a">Greetings Received at Museum
+               from Byrd Expedition.</title> <title level="j">Field Museum News</title> Feb. 1940: 8. Print.
+                  Available through the <title level="m">Biodiversity Heritage Library</title>
+                  at http://www.biodiversitylibrary.org/item/25715#page/16/mode/1up.</bibl>
             </listBibl>
             
          </sourceDesc>
