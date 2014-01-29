@@ -151,7 +151,7 @@
                <xsl:apply-templates select="/TEI/text/group/text[@xml:id='eel-journal2']"/>
                <br/>
                <hr/>
-               <h2>Loose Radiograms Inserted Inside Back Cover</h2>
+               <h2>Radiograms Inserted Inside Back Cover</h2>
                <hr/>
                <br/>
                <xsl:apply-templates select="/TEI/text/group/text[@xml:id='eel-journal2-radiograms']"/>
