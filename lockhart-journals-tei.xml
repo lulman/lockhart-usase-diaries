@@ -1362,7 +1362,7 @@
                <!-- A div for a radiogram from an earlier date would go here. -->
                 <div xml:id="eel-19401210a" type="radiogram" facs="journal-2-58" n="/c/c54c11a9-659f-4566-b4f8-b81635104f9f">
                  <opener>
-                    <lb/>2 wlmc <placeName>boston mass</placeName> <date when="1940-12-05" type="sent">dec 5</date><dateline><date when="1940-12-10">10 dec 1940</date></dateline>
+                    <lb/>2 <name type="call-sign">wlmc</name> <placeName>boston mass</placeName> <date when="1940-12-05" type="received">dec 5</date><dateline><date when="1940-12-10" type="transmitted">10 dec 1940</date></dateline>
                     <lb/><salute><persName>earl<choice><sic>lockhard</sic><corr>lockhart</corr></choice></persName></salute>
                  </opener>
                  <p>
