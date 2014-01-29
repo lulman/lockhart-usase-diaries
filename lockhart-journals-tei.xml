@@ -949,7 +949,7 @@
                   <lb/>with no load. In order not to l<gap reason="overwritten"/>ose the valuable loads which
                   <lb/>have been made even heavier by the addition of the outpost's
                   <lb/>stuff it has been decided to send <persName>Tony</persName> and <persName>Jack</persName> out with
-                  <lb/><num>18</num> dogs and <num>two</num> sleds. <persName><unclear cert="medium">Ferranto</unclear></persName> is hauling several dog sleds
+                  <lb/><num>18</num> dogs and <num>two</num> sleds. <persName><unclear cert="medium" reason="handwriting">Ferranto</unclear></persName> is hauling several dog sleds
                   <lb/>which are extra so that the single <del rend="strikethrough">do</del> sled dog teams can
                   <lb/>once more be <del rend="strikethrough">brought ba</del> made double sled dog teams. At
                   <lb/>least <persName>Tony</persName> and <persName>Jack</persName> will be able to carry home all the gear
@@ -988,7 +988,7 @@
                   <lb/>We almost made a broadcast today. This is the second
                   <lb/>time I have almost made one from down here. <persName>Wag<gap rend="overwritten"/>er</persName>
                   <lb/>the short wave director and sponsor of the <affiliation>Mail Bag</affiliation> wanted
-                  <lb/>to have both bases say something for New Years to the folks
+                  <lb/>to have both bases say something <gap reason="overwritten"/>for New Years to the folks
                   <lb/>in the <country>United States</country>. Conditions have been so bad recently
                   <lb/>that little hope for a strong signal was held. They
                   <lb/>had trouble pulling <placeName>East Base</placeName> through but they finally did
@@ -999,9 +999,9 @@
                   <lb/>The signal strength held only for a few minutes <gap rend="overwritten"/>and not
                   <lb/>long enough for our choral singing to take place. At
                   <lb/>the last minute almost a few of us worked out the words
-                  <lb/>to Auld Lang Syne and Show Me the Way to Go Home. None
+                  <lb/>to <title>Auld Lang Syne</title> and <title>Show Me the Way to Go Home</title>. None
                   <lb/>of us knew all of both songs completely. <persName>Pete</persName> was to
-                  <lb/>accompany us with his <choice><abbr>uke</abbr><expan>ukelele</expan></choice>. Just as we were about to
+                  <lb/>accompany us with his <gap rend="overwritten"/><choice><abbr>uke</abbr><expan>ukelele</expan></choice>. Just as we were about to
                   <lb/>go on our signal strength dropped and our chance was
                   <lb/>gone. Ah well another time maybe.
                </p>
@@ -1010,10 +1010,10 @@
                </p>
                   <lb/>
             <div xml:id="eel-19410101a" type="entry">
-                  <lb/><dateline><date when="1941-01-01">January 1 194<del rend="overwritten">0</del>1 Wednesday</date></dateline>
+                  <lb/><dateline><date when="1941-01-01">January 1 194<del rend="overwritten">0</del>1 Wednesday.</date></dateline>
                <p>
                   <lb/>Happy new year! This is one of the strangest new <gap rend="overwritten"/> years
-                  <lb/>I have had since I can <del rend="strikethrough">rember</del> remember. Its strangeness
+                  <lb/>I have had since I can <del rend="strikethrough">rembe</del> remember. Its strangeness
                   <lb/>lies in the fact that it is just like any other day I have had
                   <lb/>since my return to camp. More likely it will be similar to
                   <lb/>Christmas a week ago in that we shall have turkey but beyond
@@ -1024,11 +1024,11 @@
                <p>
                   <lb/>Home again! What visions in the future that small phrase
                   <lb/>conjures up! <del rend="strikethrough">All though</del> Although I am certain I have work
-                  <lb/>which will be of some <gap rend="overwritten"/>minor importance in the scientific literature
+                  <lb/>which will be of some <gap rend="overwritten"/>inor importance in the scientific literature
                   <lb/>th<gap rend="overwritten"/>e greatest gain comes to me in a personal way. I am now
                   <lb/>a firm believer that one trained so completely in theoretical matters
                   <lb/>as I have been in the past should go away on an expedition for
-                  <lb/>a year or two; there in this small world of ours, for instance, one
+                  <lb/>a year or two; <unclear cert="high" reason="handwriting">there</unclear> in this small world of ours, for instance, one
                </p>  
             
                <pb facs="journal-2-23.jpg" n="/4/498886ed-6a42-4026-9b5f-75b211d23125.jpg"/>
