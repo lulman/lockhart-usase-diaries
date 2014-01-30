@@ -1439,6 +1439,23 @@
                   </p>
                   <signed><persName>Earl</persName></signed>
                </div>
+               
+               <div xml:id="eel-19410416" type="radiogram" facs="journal-2-69">
+                  <opener>
+                     <lb/><dateline><date when="1941-04-16">16 APR 1941</date></dateline>
+                     <lb/>5<name type="call-sign">WLMC</name> <placeName>BOSTON MASS</placeName>
+                     <lb/><salute><persName>LOCKHARD</persName></salute> 
+                  </opener>
+                 <p>
+                    <lb/>DEAR EARL X YOUR LETTER AND PICTURES RECEIVED MONDAY X IT WAS GOOD TO ACTUALLY
+                    <lb/>HAAR FROM YOU X THANK GOODNESS YOUR DOG IS LOSING WEIGHT X PETER IS NOW
+                    <lb/><measure><num>58</num>LBS</measure> X LETTERS WAITING A VALPO AND BALBOA X WE ARE ALL WELL AND
+                    <lb/>LOOKING FARWARD TO <date>JUNE FIRST</date>X ONE MORE LETTER GOES TO BALBOA TODAY X LOVE
+                 </p> 
+                   
+                  <closer>BY <persName>BEATIE</persName></closer>
+                </div>   
+               
                <!-- A div for a radiogram from a later date would follow. -->
             </body> <!-- Close body of text #2, telegrams. -->
          </text> <!-- Close text #2, telegrams. -->
