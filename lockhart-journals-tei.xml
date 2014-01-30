@@ -1372,7 +1372,7 @@
             <pb facs="journal-2-46.jpg" n="/d/d38e7754-5bff-48d5-89cc-0e262e1134f3"/>
       </body> <!-- Close body of journal 2 text. -->
      </text>  <!-- Close journal 2 text. -->
-     <text>   <!-- Open text #2, telegrams inserted in journal #2. -->
+     <text xml:id="eel-journal2-radiograms">   <!-- Open text #2, telegrams inserted in journal #2. -->
             <body> <!-- Open body of text #2. -->
                <!-- A div for a radiogram from an earlier date would go here. -->
                 <div xml:id="eel-19401210a" type="radiogram" facs="journal-2-58" n="/c/c54c11a9-659f-4566-b4f8-b81635104f9f">
