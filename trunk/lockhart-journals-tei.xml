@@ -643,7 +643,7 @@
                </div>
             <pb facs="journal-2-09.jpg"/>
             <fw type="pageNum" place="top">5</fw>   
-            <div xml:id="eel-19401225" type="entry">
+            <div xml:id="eel-19401225b" type="entry">
                <p>
                   <lb/>we have here now in a system but learned that it
                   <lb/>all came about because the best time for taking
@@ -680,7 +680,7 @@
             </div>
             <pb facs="journal-2-10.jpg"/>
             <fw type="pageNum" place="top">6</fw>   
-            <div xml:id="eel-19401225" type="entry">
+            <div xml:id="eel-19401225c" type="entry">
                <p>
                   <lb/>plete. <persName>Beatie</persName> did not say whether <persName>Jack</persName> came home for
                   <lb/>the funeral. Since <unclear>name</unclear> and <persName>Bill</persName> have gotten married and
@@ -688,7 +688,7 @@
                   <lb/>will be living in <placeName>Arlington Street</placeName>. 
                </p>
                <p>
-                  <lb/><dateline>Thursday January 26 1940</dateline>
+                  <lb/><dateline>Thursday December 26 1940</dateline>
                   <lb/>I slept very well in my old cloth bag. I am lost now
                   <lb/>that I don't have a watch and consequently with the present
                   <lb/>schedule I didn't know whether I should get up or try to go
@@ -696,7 +696,7 @@
                   <lb/>happened to pass by. I got up when he said it was 11 30
                   <lb/>The whole biological party was in the galley preparing breakfast
                   <lb/>egg toast <unclear>word</unclear> <unclear>word</unclear> coffee. Already I have forgotten how
-                  <lb/>delicious <add place="above"rend="^">were</add> the oatmeal and cocoa of the trail. Although I
+                  <lb/>delicious <add place="above" rend="^">were</add> the oatmeal and cocoa of the trail. Although I
                   <lb/>meant to get going on my cleaning up for metabolism tests
                   <lb/>but I started writing<choice><sic>no comma</sic></choice> reading and talking so very little was 
                   <lb/>done. <persName>Buck Boyd</persName> and <persName><unclear>?</unclear></persName> skiing down to the <geogName>barrier edge</geogName>
@@ -716,7 +716,7 @@
             </div>  
             <pb facs="journal-2-14.jpg" n="/5/5debfbea-aaeb-4e48-8d0c-b2aa8b0c8828"/>
             <fw type="pageNum" place="top">10</fw>
-            <div xml:id="eel-19401228a" type="entry">
+            <div xml:id="eel-19401228b" type="entry">
                <p>
                   <lb/>I prepared what will probably be my <unclear>usual</unclear> <foreign xml:lang="french">piece-de-resistance</foreign>
                   <lb/>scrambled eggs <foreign xml:lang="french">ala</foreign> <persName>Lockhart</persName>. These with toast and coffee
@@ -753,7 +753,7 @@
             </div>
          <pb facs="journal-2-15.jpg" n="/d/d478311c-345a-4728-bde3-f72769e0f239"/>
          <fw type="pageNum" place="top">11</fw>
-         <div xml:id="eel-19401228a" type="entry">
+         <div xml:id="eel-19401228c" type="entry">
             <p>
             <lb/>get over there that it is worth the chance they will be
             <lb/>taking.
@@ -770,7 +770,7 @@
                <lb/>Enough for now.
             </p>
          </div>
-         <div xml:id="eel19401229a" type="entry">
+         <div xml:id="eel-19401229a" type="entry">
             <lb/><dateline><date when="19401229"></date><time>1:30am</time></dateline>
             <p>
                <lb/>Not long after <persName>Pete</persName> brought his skua gull in <persName>Wiener</persName> went out
@@ -798,14 +798,14 @@
          </div>
            <pb facs="journal-2-16.jpg" n="/2/2f288865-f1a4-480b-8ff3-ff2f1a381d8a"/>
            <fw type="pageNum" place="top">12</fw>
-           <div xml:id="eel-19401229a" type="entry">
+           <div xml:id="eel-19401229b" type="entry">
               <p>
                  <lb/>before the metabolism tests take place.
                  <lb/>
               </p>
            </div>
-           <div xml:id="eel-19401229b" type="entry">
-              <lb/><dateline><date when="Dec<del rend="strikethrough">30</del><add place="above">29</add>1940>Sunday</date></dateline>
+           <div xml:id="eel-19401229c" type="entry">
+              <lb/><dateline><date when="19401229">Sunday Dec<del rend="strikethrough">30</del><add place="above">29</add>1940</date></dateline>
               <p>
                  <lb/>I had a very difficult time getting up this morning. Although
                  <lb/>I wanted to get up at <time>10</time> it was close to <time>11</time> before I descended
@@ -823,13 +823,20 @@
                  <lb/>drawing blood and skinning it. There should be more of them
                  <lb/>in one the ice within the next few days. <persName>Asman</persName> and <persName>Pete</persName> took
                  <lb/>the tank out for a spin and were not able to get it up out of
-                 <lb/>the <geogFeat>bight</geogFeat> so they left it there.
+                 <lb/>the <geogFeat>bight</geogFeat> so they left it there. They gave it another try tonight
+                 <lb/>but it was no <unclear cert="medium">soap</unclear>. They will have to wait a while longer until
+                 <lb/>the surface gets a little harder. <del rend="strikethrough">They</del> The boys don't do much
+                 <lb/>work around here but they do sit and chew the fat. More 
+                 <lb/><choice><sic>arguements</sic><corr>arguments</corr></choice> can arise over the most obscure&#x2014;and some not
+                 <lb/>so obscure&#x2014;topics that I have <unclear>ever</unclear> imagined. Right
+                 <lb/>now the cook who has been considered&#x2014;by himself&#x2014;an authority
+                 <lb/>on almost any subject one can bring up has been telling the boys
               </p>
            </div>
          </div>  
          <pb facs="journal-2-17.jpg" n="/7/7720f3e3-93eb-47d7-a27e-68622120c331"/>
          <fw type="pageNum" place="top">13</fw>
-         <div xml:id="eel-19401229a" type="entry">
+         <div xml:id="eel-19401229d" type="entry">
             <p>
                <lb/> that he rolls <del rend="strikethrough">the</del> oranges before squeezing out the the juice in order
                <lb/>to get the citric acid out of the skin. <persName>Shirley</persName> argues that he
@@ -1116,7 +1123,7 @@
                  <lb/>and had just decided to make <del rend="strikethrough"> <unclear>tlo </unclear> back</del> tracks back to 
                  <lb/>the base when the <name>Condor</name> loomed up. He landed <del rend="strikethrough"><unclear>too</unclear></del> and 
                  <lb/>while <persName>Paul</persName> <!-- Paul is written somewhat faintly --> and <persName>Mac</persName> were getting ready took off again 
-                 <lb/><add hand="accompanied by <persName>Paul</persName>Paul" place="above">^</add> with food and dog food for the dog team parties. They
+                 <lb/><add hand="accompanied by<persName>Paul</persName>Paul" place="above">^</add> with food and dog food for the dog team parties. They
                  <lb/>could fly no more than <num>25</num> feet off the ground - overcast
                  <lb/><unclear confidence="40">pinning</unclear> them down but made the trip of <num>10</num> miles successfully <!-- no period seen -->
                  <lb/>After a few minutes of greetings and fare wells<!-- not sure if this is written as 1 or 2 words; small space in between --> they went 
