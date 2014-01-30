@@ -155,7 +155,7 @@
                <hr/>
                <br/>
                <xsl:apply-templates select="/TEI/text/group/text[@xml:id='eel-journal2-radiograms']"/>
-            <!-- Insert, count, encode by cardinal position, and link the explanatory annotations. -->
+               <!-- Insert, count, encode by cardinal position, and link the explanatory annotations. -->
             <hr/>
             <h2>Explanatory Annotations</h2>
                <xsl:for-each select="/TEI/text/group//tei:note[@resp='ed']">
