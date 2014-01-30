@@ -599,12 +599,8 @@
                  <lb/>ahead of old <persName>Spot</persName>.<persName>Paul</persName> came out to meet us and gave
                  <lb/>us a good hand clapp as we came up to him.
               </p>
-            <!-- The first dated journal entry ends here.                  -->
-            <!-- The next dated journal entry would begin below this line. -->
-            
             <pb facs="journal- 2-08.jpg"/>
             <fw type="pageNum" place="top">4</fw> 
-               <div xml:id="eel-19401225" type="entry">
                   <p>
                      <lb/>christmas spirit and strawberry pie to top things off then
                      <lb/><unclear>more</unclear><unclear>?</unclear> until show time. We saw the Jones family in
@@ -640,10 +636,8 @@
                      <lb/>intervals but other wise any semblance of regularity has
                      <lb/>disappeared. I was <unclear>puzzled</unclear> to see such a system <unclear>?</unclear>
                   </p>
-               </div>
             <pb facs="journal-2-09.jpg"/>
             <fw type="pageNum" place="top">5</fw>   
-            <div xml:id="eel-19401225b" type="entry">
                <p>
                   <lb/>we have here now in a system but learned that it
                   <lb/>all came about because the best time for taking
@@ -676,17 +670,15 @@
                   <lb/>always enjoyed the moments I spent with him talking
                   <lb/>about boats and travel. I'm certain he would have been
                   <lb/>interested to hear about the trip I am now about to com-
-               </p>  
-            </div>
             <pb facs="journal-2-10.jpg"/>
             <fw type="pageNum" place="top">6</fw>   
-            <div xml:id="eel-19401225c" type="entry">
-               <p>
                   <lb/>plete. <persName>Beatie</persName> did not say whether <persName>Jack</persName> came home for
                   <lb/>the funeral. Since <unclear>name</unclear> and <persName>Bill</persName> have gotten married and
                   <lb/>have moved out on their own only <persName>Mrs. Mahan</persName> and <persName>Margaret</persName>
                   <lb/>will be living in <placeName>Arlington Street</placeName>. 
                </p>
+            </div> <!-- End of first dated entry. -->
+            <div xml:id="eel-19401225c" type="entry">
                <p>
                   <lb/><date>Thursday December 26 1940</date>
                   <lb/>I slept very well in my old cloth bag. I am lost now
@@ -832,11 +824,8 @@
                  <lb/>now the cook who has been considered&#x2014;by himself&#x2014;an authority
                  <lb/>on almost any subject one can bring up has been telling the boys
               </p>
-           </div>
-         </div>  
          <pb facs="journal-2-17.jpg" n="/7/7720f3e3-93eb-47d7-a27e-68622120c331"/>
          <fw type="pageNum" place="top">13</fw>
-         <div xml:id="eel-19401229d" type="entry">
             <p>
                <lb/> that he rolls <del rend="strikethrough">the</del> oranges before squeezing out the the juice in order
                <lb/>to get the citric acid out of the skin. <persName>Shirley</persName> argues that he
@@ -864,14 +853,10 @@
          </div>
          <pb facs="journal-2-18.jpg" n="/9/9940712b-a2cd-4eaa-92a9-e650af6a8fd1"/>
          <fw type="pageNum" place="top">14</fw>
-         <div xml:id="eel-19410101a" type="entry">
-            <dateline><date when="1941-01-01"></date><del rend="strikethrough">Wednesday January 1 1941</del></dateline>
-            <p>
-               <lb/><del rend="strikethrough">At last the new year has</del>
-            </p>
-         </div>
          <div xml:id="eel-19411231a" type="entry">
-            <dateline><date when="1941-12-31"></date>Tuesday December 31 1941</dateline>
+            <lb/><dateline><del rend="strikethrough">Wednesday January 1 1941
+            <lb/>At last the new year has</del>
+            <date when="1941-12-31"></date>Tuesday December 31 1941</dateline>
             <p>
                <lb/>We have been operating such an erratic schedule and
                <lb/>also have to deal with Greenwich Mean Time that
@@ -899,9 +884,7 @@
                <lb/>for Northeners in general would be evident.  At any rate
                <lb/>I felt then that I should get a little American History into
             </p>
-         </div>
          <pb facs="journal-2-19.jpg" n="/D/deb45e3a-81a3-4f00-b7e3-88e35c2e76c7"/>
-         <div xml:id="eel-19411231b" type="entry">
             <p>
                <lb/>my head in an entirely pleasant manner.  Now after
                <lb/>having continued my reading through that part of the book
@@ -1123,9 +1106,9 @@
                  <lb/>and had just decided to make <del rend="strikethrough"> <unclear>tlo </unclear> back</del> tracks back to 
                  <lb/>the base when the <name>Condor</name> loomed up. He landed <del rend="strikethrough"><unclear>too</unclear></del> and 
                  <lb/>while <persName>Paul</persName> <!-- Paul is written somewhat faintly --> and <persName>Mac</persName> were getting ready took off again 
-                 <lb/><add hand="accompanied by<persName>Paul</persName>Paul" place="above">^</add> with food and dog food for the dog team parties. They
+                 <lb/><add place="above" rend="^"><persName>Paul</persName></add> with food and dog food for the dog team parties. They
                  <lb/>could fly no more than <num>25</num> feet off the ground - overcast
-                 <lb/><unclear confidence="40">pinning</unclear> them down but made the trip of <num>10</num> miles successfully <!-- no period seen -->
+                 <lb/><unclear confidence=".4">pinning</unclear> them down but made the trip of <num>10</num> miles successfully <!-- no period seen -->
                  <lb/>After a few minutes of greetings and fare wells<!-- not sure if this is written as 1 or 2 words; small space in between --> they went 
                  <lb/>back to the <name>Condor</name>. After packing in as much gear a<!-- something written over the "a" -->s the
                  <lb/>little plane would stand the three <!-- might be a smudge on the page near write, or my computer! --> men turned for home
@@ -1133,7 +1116,7 @@
                  <lb/>landing place. She tried to do her job but just wasn't 
                  <lb/>good enough. <persName>Pete</persName> had some difficulty getting down here 
                  <lb/>at the base but landed safely. Now the trail parties 
-                 <lb/>will have to battle their way in and the <name><unclear confidence="80">Bercharaft</unclear></name> will
+                 <lb/>will have to battle their way in and the <name><unclear confidence=".8">Bercharaft</unclear></name> will
                  <lb/>make some flights out to the <!--to the might be a bit darker --> <name>Condor</name> to salvage some of the 
                  <lb/>valuable instruments such as the drift indicator worth about 
                  <lb/><num>$1500<!--$ is written above and the 1500 is smalller than the letters. There is also space slightly larger than usual after the amount of money  --></num>. We all are happy that the accident didn't happen
@@ -1141,27 +1124,23 @@
                  <lb/><p> My reading has tended to be southern in nature <!-- don't see a period here but it is the end of a sentence -->
                  <lb/>After finishing <title>Gone with the Wind</title><!-- might be a slightly larger space than usual after Wind --> I started in on <title>South
                  <lb/>Moon Under</title><!-- might be another slightly space after Under --> and found it to be concerned with poor
-                 </p>
-              </div><!-- this isn't really the end of the div because this entry continues onto the next page -->
             
             <pb facs="journal 2-26"/>
-            <fw facs="page number 22"
-               <p>
+            <fw facs="page number 22"/>
                   <lb/>whites in <placeName>Florida</placeName>. I have spoken to <persName>Shirley</persName> about it and 
                   <lb/>hope he <unclear cert="high">reads</unclear> it. I should like to know if it at all <unclear cert="unknown">aw</unclear>
                   <lb/>accurate picture of the state where he lived much of his boyhood.
-                  <lb/><name>Gone with the Wind</name> tapered off slightly in <unclear confidence="medium">interest</unclear> and left me
+                  <lb/><name>Gone with the Wind</name> tapered off slightly in <unclear confidence=".8">interest</unclear> and left me
                   <lb/>hanging in the air. I am not certain whether <persName>Rhett Butler</persName>
                   <lb/>and <persName>Scarlett</persName> should have found happiness or whether the ending 
                   <lb/>as <persName>Margaret Mitchell</persName> made it was more in keeping with the
-                  <lb/>whole <unclear confidence="high">tone</unclear> of the book and a just reward for <persName>Scarlett</persName>. As I
+                  <lb/>whole <unclear confidence=".8">tone</unclear> of the book and a just reward for <persName>Scarlett</persName>. As I
                   <lb/>read the book and thought about the movie that has been made
                   <lb/>from it <persName>Clark Gable</persName> certainly is the man to play <persName>Rhett Butler</persName>
                   <lb/>I am not so sure about <persName>Vivien Leigh</persName> as <persName>Scarlett</persName>!
                   <lb/>    
-                   
-            
-            
+             </p>
+              </div>
             <pb facs="journal-2-29" n="/c/cb88c987-4c24-46d8-9b95-0b7859981f5c"/>
             
             <div xml:id="eel-19410105a" type="entry">
@@ -1224,7 +1203,11 @@
                <lb/>wane. The storm will be in after a couple of weeks and
                <lb/>West Base will become a thing of the past. the sooner
                <lb/>the better.
+            </p>
+         </div>
+         <div xml:id="eel-19410113a" type="entry">
                <lb/><dateline><date when="1941-01-13">Monday January 16 1941</date></dateline>
+             <p>
                <lb/>This place has become a mad house and an open
                <lb/>house. During the past few days everyone has been
                <lb/>irritation everyone else cause greatly little work has
@@ -1236,8 +1219,7 @@
                <lb/>Today a little more order has prevailed. I saw a 
             </p> 
             <pb facs="journal-2-36.jpg"/>
-            <fw type="pageNum" place=top>32</fw>
-            <div xml:id="eel-19410113" type="entry">
+            <fw type="pageNum" place="top">32</fw>
                <p>
                   <lb/>metabolism best on <name>Charlie Parrel</name> and arm <unclear>counting</unclear> using
                   <lb/>my aim <unclear>awoke me</unclear>. <name>Arnold</name> made a very realiable suggestion
@@ -1247,7 +1229,8 @@
                </p>
             </div>
          <pb facs="journal-2-38.jpg"/>
-         <fw type="pageNum" place="top">34</fw>   
+         <fw type="pageNum" place="top">34</fw> 
+         </div>
           <div xml:id="eel-19410116" type="entry">
              <p>
                 <lb/>camera taken on those flights was a Leica and no
