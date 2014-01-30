@@ -1016,6 +1016,7 @@
                   <lb/>And now to bed.
                </p>
                   <lb/>
+            </div>
             <div xml:id="eel-19410101a" type="entry">
                   <lb/><dateline><date when="1941-01-01">January 1 194<del rend="overwritten">0</del>1 Wednesday.</date></dateline>
                <p>
@@ -1322,11 +1323,10 @@
                   <lb/>pictures enough "to map accurately" about <measure>35000</measure> sq.
                   <lb/>miles of <emph style="underline">new</emph> territory. We all know that they only
                </p>
-            </div>
+           
          <pb facs="journal-2-38.jpg"/>
          <fw type="pageNum" place="top">34</fw> 
-         </div>
-          <div xml:id="eel-19410116" type="entry">
+         
              <p>
                 <lb/>camera taken on those flights was a Leica and no
                 <lb/>attempt was made to make overlaps or circles of pictures.
@@ -1516,7 +1516,7 @@
                   <opener>
                      <lb/><dateline><date when="1941-04-16">16 APR 1941</date></dateline>
                      <lb/>5<name type="call-sign">WLMC</name> <placeName>BOSTON MASS</placeName>
-                     <lb/><salute><persName>LOCKHARD</persName></salute> 
+                     <lb/><salute><persName><sic>LOCKHARD</sic></persName></salute> 
                   </opener>
                  <p>
                     <lb/>DEAR EARL X YOUR LETTER AND PICTURES RECEIVED MONDAY X IT WAS GOOD TO ACTUALLY
