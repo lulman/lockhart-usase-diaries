@@ -708,7 +708,7 @@
             </div>  
             <pb facs="journal-2-14.jpg" n="/5/5debfbea-aaeb-4e48-8d0c-b2aa8b0c8828"/>
             <fw type="pageNum" place="top">10</fw>
-            <div xml:id="eel-19401228b" type="entry">
+            <div xml:id="eel-19401228a" type="entry">
                <p>
                   <lb/>I prepared what will probably be my <unclear>usual</unclear> <foreign xml:lang="french">piece-de-resistance</foreign>
                   <lb/>scrambled eggs <foreign xml:lang="french">ala</foreign> <persName>Lockhart</persName>. These with toast and coffee
@@ -732,7 +732,7 @@
                   <lb/>hope the idea will be approved. <persName>Buck</persName> and I did not
                   <lb/>get any skua gulls&#x2014;he is not the shot he professes to be.
                   <lb/> In the future before the ships come in&#x2014;by the way, it is said
-                  <lb/> that the <name type="ship">Bear</name> has already left <placeName>New Zealand</placeName> for the <placeName>Bay</placeName>&#x2014;
+                  <lb/>that the <name type="ship">Bear</name> has already left <placeName>New Zealand</placeName> for the <placeName>Bay</placeName>&#x2014;
                   <lb/>I shall do a little target practicing every day. <persName>Pete</persName> has
                   <lb/>just come in saying that there were more skua gulls out 
                   <lb/> there and brought in one as evidence.
@@ -742,10 +742,8 @@
                   <lb/>folks. He said that although conditions were very bad he
                   <lb/>would speak to <persName>Charlie</persName>. It is so little trouble for them to
                </p>
-            </div>
          <pb facs="journal-2-15.jpg" n="/d/d478311c-345a-4728-bde3-f72769e0f239"/>
          <fw type="pageNum" place="top">11</fw>
-         <div xml:id="eel-19401228c" type="entry">
             <p>
             <lb/>get over there that it is worth the chance they will be
             <lb/>taking.
@@ -787,16 +785,14 @@
             <p>
                <lb/>I shall go to bed about <time>1:30</time> and get in a few hours sleep <del rend="strikethrough"><unclear cert="medium">be</unclear></del>
             </p>
-         </div>
            <pb facs="journal-2-16.jpg" n="/2/2f288865-f1a4-480b-8ff3-ff2f1a381d8a"/>
            <fw type="pageNum" place="top">12</fw>
-           <div xml:id="eel-19401229b" type="entry">
               <p>
                  <lb/>before the metabolism tests take place.
                  <lb/>
               </p>
            </div>
-           <div xml:id="eel-19401229c" type="entry">
+           <div xml:id="eel-19401229b" type="entry">
               <lb/><dateline><date when="19401229">Sunday Dec<del rend="strikethrough">30</del><add place="above">29</add>1940</date></dateline>
               <p>
                  <lb/>I had a very difficult time getting up this morning. Although
