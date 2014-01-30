@@ -732,7 +732,7 @@
                   <lb/>I shall have to get it for my own library when I get home.
                   <lb/>Just as <persName>Buck</persName> and I were going out skua gull hunting
                   <lb/><persName>Paul</persName> stopped me to show some of the airplane pictures.
-                  <lb/><geogName>Hal Flood</geogName> is certaintly a large and beautiful mountain
+                  <lb/><geogName type="mountain">Hal Flood</geogName> is certaintly a large and beautiful mountain
                   <lb/>He also said that he was going to see if it wouldn't 
                   <lb/>be possible to name <del rend="strikethrough">one of the</del><add place="above">a</add> mountain in the region
                   <lb/>beyond <geogName type="mountain">Hal Flood</geogName> after each one of the members of the
@@ -759,7 +759,7 @@
             <lb/>taking.
             </p>
             <p>
-               <lb/>There is going to be a mail lag <unclear>sponsored</unclear> by the <name>Boston
+               <lb/>There is going to be a mail lag <unclear cert="high">sponsored</unclear> by the <name>Boston
                <lb/>Traveler</name> in <date>Jan 31</date>. We may not be able to get it
                <lb/>here because the ships will be on their way or almost
                <lb/>ready to go. It won't be worth while to tell the folks
@@ -778,9 +778,9 @@
                <lb/>immediately worked on for blood samples. He had some trouble
                <lb/>getting the birds to bleed and then trouble getting the blood to
                <lb/>centrifuge properly. I made a few suggestions such as using
-               <lb/>oxalate to prevent the blood from coagulating and <unclear>the</unclear> faster centrifugation
+               <lb/>oxalate to prevent the blood from coagulating and <unclear cert="low">the</unclear> faster centrifugation
                <lb/>of the fresh blood. I hope to kill a few more so that I can skin them
-               <lb/>and salt them down to take <unclear>back</unclear>.
+               <lb/>and salt them down to take <unclear cert="medium">back</unclear>.
             </p>
             <p>
                <lb/>After dinner I got a few things ready for the morning metabolism
@@ -793,7 +793,7 @@
                <lb/>targets available.
             </p>
             <p>
-               <lb/>I shall go to be around <time>1:30</time> and get in a few hours sleep <del rend="strikethrough"><unclear cert="medium">be</unclear></del>
+               <lb/>I shall go to bed about <time>1:30</time> and get in a few hours sleep <del rend="strikethrough"><unclear cert="medium">be</unclear></del>
             </p>
          </div>
            <pb facs="journal-2-16.jpg" n="/2/2f288865-f1a4-480b-8ff3-ff2f1a381d8a"/>
