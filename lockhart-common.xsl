@@ -99,44 +99,44 @@
             
             <div id="navBar">
                <ul id="menu">
-                  <li><a href="./LCSmithEdintro.html#introduction">Editorial Introduction</a>
+                  <li><a href="./lockhart-edintro.html#introduction">Editorial Introduction</a>
                      <ul>
-                        <li><a href="./LCSmithEdintro.html#introduction">Introduction</a>
+                        <li><a href="./lockhart-edintro.html#introduction">Introduction</a>
                            <ul>
-                              <li><a href="./LCSmithEdintro.html#family">Family Dynamics</a></li>
-                              <li><a href="./LCSmithEdintro.html#milling">Mill Operations</a></li>
-                              <li><a href="./LCSmithEdintro.html#sorghum">Sorghum Farming</a></li>
-                              <li><a href="./LCSmithEdintro.html#civilWar">Civil War and Civic Life</a></li>
-                              <li><a href="./LCSmithEdintro.html#borders">Borderlands/Hinterlands</a></li>
+                              <li><a href="./lockhart-edintro.html#family">Family Dynamics</a></li>
+                              <li><a href="./lockhart-edintro.html#milling">Mill Operations</a></li>
+                              <li><a href="./lockhart-edintro.html#sorghum">Sorghum Farming</a></li>
+                              <li><a href="./lockhart-edintro.html#civilWar">Civil War and Civic Life</a></li>
+                              <li><a href="./lockhart-edintro.html#borders">Borderlands/Hinterlands</a></li>
                            </ul>
                         </li>
-                        <li><a href="./LCSmithEdintro.html#source">The Source Document</a></li>
-                        <li><a href="./LCSmithEdintro.html#edition">The Electronic Edition</a></li>	
-                        <li><a href="./LCSmithEdintro.html#peopleMentioned">People Mentioned</a></li>
-                        <li><a href="./LCSmithEdintro.html#placesMentioned">Places Mentioned</a></li>
-                        <li><a href="./LCSmithEdintro.html#organizationsMentioned">Organizations Mentioned</a></li>
-                        <li><a href="./LCSmithEdintro.html#worksCited">Works Cited</a></li>
-                        <li><a href="./LCSmithEdintro.html#view">About the Introduction</a></li>
+                        <li><a href="./lockhart-edintro.html#source">The Source Document</a></li>
+                        <li><a href="./lockhart-edintro.html#edition">The Electronic Edition</a></li>	
+                        <li><a href="./lockhart-edintro.html#peopleMentioned">People Mentioned</a></li>
+                        <li><a href="./lockhart-edintro.html#placesMentioned">Places Mentioned</a></li>
+                        <li><a href="./lockhart-edintro.html#organizationsMentioned">Organizations Mentioned</a></li>
+                        <li><a href="./lockhart-edintro.html#worksCited">Works Cited</a></li>
+                        <li><a href="./lockhart-edintro.html#view">About the Introduction</a></li>
                      </ul>
                   </li>
                   
                   <li><a>Views of the Diary</a>
                      <ul>
-                        <li><a href="./LCSmith-ByEntry.html">By Diary Entry</a></li>
-                        <li><a href="./LCSmith-ByMSPage.html">By MS Page</a></li>
-                        <li><a href="./LCSmith-Combined.html">Facsimile/Text</a></li>
+                        <li><a href="./lockhart-entries.html">By Journal Entry</a></li>
+                        <li><a href="./lockhart-mspages.html">By MS Page</a></li>
+                        <li><a href="./lockhart-combined.html">Facsimile/Text</a></li>
                      </ul>
                   </li>
                   
                   <li><a href="default.cfm">About the Edition</a><ul>
                      <li><a href="./default.cfm">About the Edition</a></li>
-                     <li><a href="./LCSmithMarkup.cfm">Markup Guidelines</a></li>
-                     <li><a href="./LCSmithHands.cfm">Guide to Smith's Hand</a></li>
-                     <li><a href="./LCSmithAcknowledgements.cfm">Acknowledgements</a></li>
-                     <li><a href="./LCSmithAboutEditors.cfm">About the Editors</a></li>
-                     <li><a href="./LCSmith-ODD-RNC-XML-XSL.zip">Download Source Files</a></li>
-                     <li><a href="./LCSmith_ZoomIndex.cfm">Images of the MS Pages</a></li>
-                     <li><a href="./LCSmithMaps.cfm">Map</a></li>
+                     <li><a href="./lockhart-markup.cfm">Markup Guidelines</a></li>
+                     <li><a href="./lockhart-hands.cfm">Guide to Smith's Hand</a></li>
+                     <li><a href="./lockhart-acknowledgements.cfm">Acknowledgements</a></li>
+                     <li><a href="./lockhart-about-editors.cfm">About the Editors</a></li>
+                     <li><a href="./lockhart-odd-rnc-xml-xsl.zip">Download Source Files</a></li>
+                     <li><a href="./lockhart-zoomindex.cfm">Images of the MS Pages</a></li>
+                     <li><a href="./lockhart-maps.cfm">Map</a></li>
                   </ul>
                   </li>
                </ul>

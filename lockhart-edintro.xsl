@@ -74,7 +74,7 @@
                   select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/>
             </title>
             <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css"/>
-            <link href="LCSmithDiariesCSS.css" rel="stylesheet" type="text/css" />
+            <link href="lockhart.css" rel="stylesheet" type="text/css" />
             <script src="http://code.jquery.com/jquery-1.8.3.js"/>
             <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"/>
                
@@ -94,15 +94,15 @@
          </head>
          <body>
             <div class="masthead">
-               <div id="display1"> <img src="images/LCSmith-Daguerreotype.jpg" height="120" title="Lucius Clark Smith, 1858 (Age 23)"/> </div>
-               <div id="display2"> <img src="images/ArchibaldSmithHouse.jpg" height="120" title="Smith Homestead"/> </div>
-               <div id="display3"> <img src="images/Archibald-MaryAnnSmith.jpg" height="120" title="Lucius Smith's parents, Archibald and MaryAnn"/> </div>
-               <div id="display4"> <img src="images/Horse-Power-CaneMill-1857.jpg" height="120" title="A sorghum mill"/> </div>
-               <div id="display5"><img src="images/WarMeeting-18620815.jpg" height="120" title="Newark Advocate, 15 August 1862"/> </div>
+               <div id="display1"> <img src="usase-lockhart-watermarked.png" height="120" title="Ernest Earl Lockhart"/> </div>
+               <div id="display2"> <img src="usase-ice-shelf1.jpg" height="120" title="Antarctic Ice Shelf"/> </div>
+               <div id="display3"> <img src="usase-bear-of-oakland-steam.jpg" height="120" title="U.S.S. Bear of Oakland"/> </div>
+               <div id="display4"> <img src="usase-dogs2.jpg" height="120" title="USASE Dog Team"/> </div>
+               <div id="display5"><img src="usase-ski-plane1.jpg" height="120" title="USASE Ski Plane"/> </div>
             </div>
             <div id="titleBar">
-               <p align="center"><span class="projectTitle">Selected Entries from the Lucius Clark Smith Diaries,<br/>
-                  1 August 1862 to 31 December 1862</span></p>
+               <p align="center"><span class="projectTitle"><xsl:value-of
+                  select="//TEI/teiHeader/fileDesc/titleStmt/title"/></span></p>
                <p align="center"><cite><strong>This edition is currently in progress. Please do
                   not cite this preview until this notice is removed.</strong></cite></p>
                <hr/>
@@ -110,44 +110,44 @@
             
             <div id="navBar">
                <ul id="menu">
-                  <li><a href="./LCSMithEdintro.html#introduction">Editorial Introduction</a>
+                  <li><a href="./lockhart-edintro.html#introduction">Editorial Introduction</a>
                      <ul>
-                        <li><a href="./LCSMithEdintro.html#introduction">Introduction</a>
+                        <li><a href="./lockhart-edintro.html#introduction">Introduction</a>
                            <ul>
-                              <li><a href="./LCSmithEdintro.html#family">Family Dynamics</a></li>
-                              <li><a href="./LCSmithEdintro.html#milling">Mill Operations</a></li>
-                              <li><a href="./LCSmithEdintro.html#sorghum">Sorghum Farming</a></li>
-                              <li><a href="./LCSmithEdintro.html#civilWar">Civil War and Civic Life</a></li>
-                              <li><a href="./LCSmithEdintro.html#borders">Borderlands/Hinterlands</a></li>
+                              <li><a href="./lockhart-edintro.html#family">Family Dynamics</a></li>
+                              <li><a href="./lockhart-edintro.html#milling">Mill Operations</a></li>
+                              <li><a href="./lockhart-edintro.html#sorghum">Sorghum Farming</a></li>
+                              <li><a href="./lockhart-edintro.html#civilWar">Civil War and Civic Life</a></li>
+                              <li><a href="./lockhart-edintro.html#borders">Borderlands/Hinterlands</a></li>
                            </ul>
                         </li>
-                        <li><a href="./LCSmithEdintro.html#source">The Source Document</a></li>
-                        <li><a href="./LCSmithEdintro.html#edition">The Electronic Edition</a></li>	
-                        <li><a href="./LCSmithEdintro.html#peopleMentioned">People Mentioned</a></li>
-                        <li><a href="./LCSmithEdintro.html#placesMentioned">Places Mentioned</a></li>
-                        <li><a href="./LCSmithEdintro.html#organizationsMentioned">Organizations Mentioned</a></li>
-                        <li><a href="./LCSmithEdintro.html#worksCited">Works Cited</a></li>
-                        <li><a href="./LCSmithEdintro.html#view">About the Introduction</a></li>
+                        <li><a href="./lockhart-edintro.html#source">The Source Document</a></li>
+                        <li><a href="./lockhart-edintro.html#edition">The Electronic Edition</a></li>	
+                        <li><a href="./lockhart-edintro.html#peopleMentioned">People Mentioned</a></li>
+                        <li><a href="./lockhart-edintro.html#placesMentioned">Places Mentioned</a></li>
+                        <li><a href="./lockhart-edintro.html#organizationsMentioned">Organizations Mentioned</a></li>
+                        <li><a href="./lockhart-edintro.html#worksCited">Works Cited</a></li>
+                        <li><a href="./lockhart-edintro.html#view">About the Introduction</a></li>
                      </ul>
                   </li>
                   
                   <li><a>Views of the Diary</a>
                      <ul>
-                        <li><a href="./LCSmith-ByEntry.html">By Diary Entry</a></li>
-                        <li><a href="./LCSmith-ByMSPage.html">By MS Page</a></li>
-                        <li><a href="./LCSmith-Combined.html">Facsimile/Text</a></li>
+                        <li><a href="./lockhart-entries.html">By Journal Entry</a></li>
+                        <li><a href="./lockhart-mspages.html">By MS Page</a></li>
+                        <li><a href="./lockhart-combined.html">Facsimile/Text</a></li>
                      </ul>
                   </li>
                   
                   <li><a href="default.cfm">About the Edition</a><ul>
                      <li><a href="./default.cfm">About the Edition</a></li>
-                     <li><a href="./LCSmithMarkup.cfm">Markup Guidelines</a></li>
-                     <li><a href="./LCSmithHands.cfm">Guide to Smith's Hand</a></li>
-                     <li><a href="./LCSmithAcknowledgements.cfm">Acknowledgements</a></li>
-                     <li><a href="./LCSmithAboutEditors.cfm">About the Editors</a></li>
-                     <li><a href="./LCSmith-ODD-RNC-XML-XSL.zip">Download Source Files</a></li>
-                     <li><a href="./LCSmith_ZoomIndex.cfm">Images of the MS Pages</a></li>
-                     <li><a href="./LCSmithMaps.cfm">Map</a></li>
+                     <li><a href="./lockhart-markup.cfm">Markup Guidelines</a></li>
+                     <li><a href="./lockhart-hands.cfm">Guide to Smith's Hand</a></li>
+                     <li><a href="./lockhart-acknowledgements.cfm">Acknowledgements</a></li>
+                     <li><a href="./lockhart-about-editors.cfm">About the Editors</a></li>
+                     <li><a href="./lockhart-odd-rnc-xml-xsl.zip">Download Source Files</a></li>
+                     <li><a href="./lockhart-zoomindex.cfm">Images of the MS Pages</a></li>
+                     <li><a href="./lockhart-maps.cfm">Map</a></li>
                   </ul>
                   </li>
                </ul>
@@ -183,7 +183,7 @@
             <hr/>
             <h2>About this Editorial Introduction</h2>
             <p><a name="view"/>Text on this page is derived from the
-               edition's XML source document, LCSmith-Diaries.xml.</p>
+               edition's XML source document, lockhart-journals-tei.xml.</p>
             <hr/>
             <p>&#x2192; <a href="LCSmith-ByEntry.html">Link to the text of the journal</a>.
             </p>
@@ -284,7 +284,7 @@
    </xsl:template>
    
    <xsl:template match="tei:listPerson[@type='mentioned']">
-      <h3 id="peopleMentioned">List of People Mentioned in Lucius Smith's Diary</h3>
+      <h3 id="peopleMentioned">List of People Mentioned in Ernest Lockhart's Journal</h3>
       <xsl:for-each select="tei:person">
          <xsl:sort select="tei:persName[1]"/>
          <p>
@@ -299,7 +299,7 @@
    </xsl:template>
    
    <xsl:template match="tei:listOrg">
-      <h3 id="organizationsMentioned">List of Organizations Mentioned in Lucius Smith's Diary</h3>
+      <h3 id="organizationsMentioned">List of Organizations Mentioned in Ernest Lockhart's Journal</h3>
       <xsl:for-each select="tei:org">
          <xsl:sort select="tei:orgName[1]"/>
          <p>
@@ -312,7 +312,7 @@
    <xsl:template match="tei:listPerson[@type='editors']"/>
    
    <xsl:template match="tei:listPlace">
-      <h3 id="placesMentioned">List of Places Mentioned in Lucius Smith's Diary</h3>
+      <h3 id="placesMentioned">List of Places Mentioned in Ernest Lockhart's Journal</h3>
       <xsl:for-each select="tei:place">
          <xsl:sort select="tei:geogName"/>
          <xsl:sort select="tei:placeName[1]"/>
@@ -331,7 +331,7 @@
    </xsl:template>
 
    <xsl:template match="tei:listEvent">
-      <h3 id="OrganizationsMentioned">List of Notable Events Mentioned in Lucius Smith's Diary</h3>
+      <h3 id="OrganizationsMentioned">List of Notable Events Mentioned in Ernest Lockhart's Journal</h3>
       <xsl:for-each select="tei:event">
          <xsl:sort select="tei:event[1]/@when"/>
          <p>
