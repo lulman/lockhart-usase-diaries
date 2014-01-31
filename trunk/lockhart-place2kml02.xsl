@@ -23,9 +23,9 @@
         
         <!-- NOTE: Revise the next line to pull value from markup. -->
         
-          <name>Places Mentioned in the Stephens Family Travel Letters</name>
+          <name>Places Mentioned in the Ernest E. Lockhart journal, 25 December 1940 to 16 January 1941</name>
         <open>1</open>
-        <Style id="Stephens">
+        <Style id="Lockhart">
           <BalloonStyle>
             <text>$[description]</text>
           </BalloonStyle>
@@ -45,7 +45,7 @@
                   <!-- Populate KML name element from <placeName> or <geogName> in each <place>. -->
                   
                   <name><xsl:value-of select="tei:placeName | tei:geogName"/></name>
-                  <styleUrl>#Stephens</styleUrl>
+                  <styleUrl>#Lockhart</styleUrl>
                   <description>
 
                      <!-- The KML description field is simple text. To deploy HTML in browser, it must be
@@ -78,11 +78,11 @@
                     <xsl:text><![CDATA[<br/><br/>]]>Click to view the: </xsl:text>
                     <xsl:variable name="reftag" select="concat('#',@xml:id)"></xsl:variable>
                      <xsl:element name="a"><xsl:attribute
-                       name="href">http://people.cohums.ohio-state.edu/ulman1/StephensFamilyLetters/StephensHTMLViews/StephensReading.html<xsl:text>#</xsl:text><xsl:value-of
+                       name="href">http://people.cohums.ohio-state.edu/ulman1/lockhart-journals/lockhart-entries.cfm<xsl:text>#</xsl:text><xsl:value-of
                        select="//tei:TEI/tei:text/tei:body//tei:*[(name()='geogName' or
                        name()='placeName' or name()='rs') and
                        @ref=$reftag][1]/ancestor-or-self::tei:div[1][@type='letter']/@xml:id"/></xsl:attribute>First
-                       mention of this place the in Stephens letters</xsl:element>
+                       mention of this place the in Lockhart journal</xsl:element>
                     <![CDATA[<br/>]]> 
                    </description>                                  
                   <Point>

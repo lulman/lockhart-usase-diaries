@@ -20,7 +20,7 @@
   <xsl:template match="/">
     <html xmlns="http://www.w3.org/1999/xhtml" >
       <head>
-        <title>Names, Places, Events, and Organizations Mentioned in Lucius C. Smith Diary</title>
+        <title>Names, Places, Events, and Organizations Mentioned in Lockhart journal</title>
         <style type="text/css">
           th {text-align:left;}
         </style>
