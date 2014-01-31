@@ -746,12 +746,19 @@
                   <lb/>situation looked impossible. Since the storm was raging out
                   <lb/>there nothing could be done at the moment. Today at <del rend="strikethrough">the</del>
                   <lb/>the radio schedule time we were happy to learn that the
+               <!--
+                  Sean-K: begin below this comment transcribing journal-2-13.jpg) with a page break.
+                  You are "inside" a paragraph that begins on journal-2-12, but we will
+                  resolve that encoding later. For now, this encoding is valid.
+               -->
                </p>
-            </div>  
-            <pb facs="journal-2-14.jpg" n="/5/5debfbea-aaeb-4e48-8d0c-b2aa8b0c8828"/>
-            <fw type="pageNum" place="top">10</fw>
+               
+            </div>
+           
             <div xml:id="eel-19401228a" type="entry">
                <p>
+            <pb facs="journal-2-14.jpg" n="/5/5debfbea-aaeb-4e48-8d0c-b2aa8b0c8828"/>
+            <fw type="pageNum" place="top">10</fw>
                   <lb/>I prepared what will probably be my <unclear>usual</unclear> <foreign xml:lang="french">piece-de-resistance</foreign>
                   <lb/>scrambled eggs <foreign xml:lang="french">ala</foreign> <persName>Lockhart</persName>. These with toast and coffee
                   <lb/> completed the morning repast.
