@@ -492,6 +492,7 @@
             <xsl:attribute name="alt">
                <xsl:value-of select="tei:figDesc"/>
             </xsl:attribute>
+            <xsl:attribute name="width">150</xsl:attribute>
          </img>
          <br/>
          <xsl:value-of select="tei:head"/>
