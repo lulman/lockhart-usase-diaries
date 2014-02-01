@@ -107,7 +107,7 @@
                     The <extent> element indicates the size of your source document, in whatever 
                     units are appropriate (usually pages; for example, 2 pp.) 
                 -->
-               <extent>000 pp.</extent>
+               <extent>118 pp.</extent>
 
                <publicationStmt>
                   <p>Pulbication statement from the library.</p>
@@ -154,14 +154,14 @@
                         <p>
                          <figure rend="embed">
                            <head>Front Cover</head>
-                           <graphic url="https://images.asc.ohio-state.edu/is/image/englishdocs/9/98d2e7b0-c2b0-47f4-8460-0434b87babca.jpg?scale=0.1&amp;rgn=20,0,190,130&amp;fmt=png"/>
+                            <graphic url="https://images.asc.ohio-state.edu/is/image/englishdocs/f/f6740eaf-5b89-47d7-87f8-ff9c9e993803.jpg?scale=0.1&amp;rgn=0,0,252,313&amp;fmt=png"/>
                            <figDesc>
                               Front Cover
                            </figDesc>
                         </figure>
                         <figure rend="embed">
                            <head>Page Edges</head>
-                           <graphic url="https://images.asc.ohio-state.edu/is/image/englishdocs/d/d55c83fb-07a1-4535-a856-938dcd9a0b55.jpg?scale=0.1&amp;rgn=0,20,210,50&amp;fmt=png"/>
+                           <graphic url="lockhart-journal-page-edges.jpg"/>
                            <figDesc>
                               Page Edges
                            </figDesc>
@@ -177,17 +177,25 @@
                         endpapers in the first and last quires—sewn through the fold and glued (?) to the binding.
                      </p>
                      <p>
+                        <figure rend="embed">
+                           <head>Watermark</head>
+                           <graphic url="lockhart-paper-watermark.jpg"/>
+                           <figDesc>
+                              Watermark
+                           </figDesc>
+                        </figure>
                         <emph rend="bold">Paper</emph>: The pages of the journal consist of cream-colored paper, 20.5 cm wide by 25.8 cm tall, with 1.5 cm top and bottom
-                        unlined margins. The body of the pages contains horizontal blue lines spaced 0.8 cm apart and a vertical red line defining
+                        unlined margins. The body of the pages contains 28 horizontal blue lines spaced 0.8 cm apart and a vertical red line defining
                         a 2.54 cm left margin. Some pages contain all or part of a 10 x 7.4 cm oval watermark depicting a seated female figure 
                         holding a spear in the crook of her right arm and leaves in her extended left hand. A 3 x 5 cm crown sits above the oval.
                         <title>Paper Watermarks</title> identifies a nearly identical watermark with stationers Waterlow Bros. &amp; Layton, London;
                         however, the watermark illustrated on <title>Paper Watermarks</title> contains the decorative initials "WBL" below the
-                        oval.
+                        oval. Another page of the journal bears the watermark "Original Superfine."
                      </p>
                      <p>
-                        <emph rend="bold">Binding</emph>: description of binding. 
-                        The page edges are speckled.
+                        <emph rend="bold">Binding</emph>: Dark brown leather over buckram-wrapped boards. The leather is worn and chipped, exposing buckram, and 
+                        the front cover is embossed with "THE ACADEMY" (centered) and "REORDER NO. 411" (lower righthand corner). The spine is unmarked.  
+                        The top, bottom, and fore-edge of the text block are stippled.
                      </p>
                      <p>
                         Unpublished manuscript.
