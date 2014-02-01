@@ -1475,6 +1475,32 @@
      <text xml:id="eel-journal2-radiograms">   <!-- Open text #2, telegrams inserted in journal #2. -->
             <body> <!-- Open body of text #2. -->
                <!-- A div for a radiogram from an earlier date would go here. -->
+               <div xml:id="eel-19400102a" type="radiogram" facs="journal-2-55" n="/D/d008d323-2484-4321-bf8a-a17ef90e075a">
+                  <opener>
+                     <lb/>3 <name type="call-sign">wlmc</name> <placeName>wellesley mass</placeName> <date when="1941-12-28" type="received">dec 28</date><dateline><date when="1941-01-02" type="transmitted">Jan 2 1941</date></dateline>
+                     <lb/><salute><persName>LOCKHART</persName></salute>
+                  </opener>
+                  <p>
+                     <lb/>happy and prosperous new year x hope to meet you on return to united
+                     <lb/>states
+                  </p>
+                  <lb/><closer><persName>the george guernsey</persName></closer>
+               </div>
+               <div xml:id="eel-19410103a" type="radiogram" facs="journal-2-56" n="/C/cb5e3b56-14a4-46e0-9f63-dbecb3c47d5e">
+                  <opener>
+                    <lb/><date when="1941-01-03" type="received">Jan 3 1940</date>
+                    <lb/><persName>Mr Guernsey and Family</persName>
+                    <lb/>7 Upland Rd
+                     <lb/><placeName>Wellsley Mass</placeName>
+                  </opener>
+                  <p>
+                     <lb/>Arrived back at base in time for Christmas. Had wonderful trip with
+                     <lb/>dogs in new territory. Now anxiously waiting for mail on ships not
+                     <lb/>far from here. Also anxious <choice><orig>toget</orig><corr>to get</corr></choice> home again. W shall return vis
+                     <lb/>Valparaiso Panama and Seattle. Journey's end probably in May.
+                  </p>
+                  <lb/><closer>Earl</closer>
+               </div>
                 <div xml:id="eel-19401210a" type="radiogram" facs="journal-2-58" n="/c/c54c11a9-659f-4566-b4f8-b81635104f9f">
                  <opener>
                     <lb/>2 <name type="call-sign">wlmc</name> <placeName>boston mass</placeName> <date when="1940-12-05" type="received">dec 5</date><dateline><date when="1940-12-10" type="transmitted">10 dec 1940</date></dateline>
