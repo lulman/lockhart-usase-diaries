@@ -1477,6 +1477,18 @@
             <pb facs="journal-2-43.jpg" n="/f/f3da51c0-d53b-4431-8185-bf2366dddc11"/>
             <pb facs="journal-2-44.jpg" n="/7/7f363505-4a1f-4261-8438-98b840c4f9bb"/>
             <pb facs="journal-2-45.jpg" n="/d/d0f7a89a-bed8-48ff-b739-9a12056532e1"/>
+           <div xml:id="eel-undated-1" type="entry">
+              <p>
+                 <lb/><hi rend="underlined">Outgoing mail.</hi>
+                 <lb/><rs>Folks</rs><gap reason="deletion" unit="chars" extent="1"></gap> <persName>Beatie</persName>, <persName>Carl</persName>, 
+                      <persName>Mrs. <unclear>Mann</unclear></persName>, <persName><unclear>Van</unclear></persName>, <persName>George</persName>, 
+                      <persName>Laurie</persName> &amp; <persName>Henry</persName>,
+                 <lb/><persName><unclear>Burker</unclear></persName>, <persName>Bob Harris</persName>, <persName>Bill Leckie</persName>, 
+                      <persName>George Low</persName>, <persName>H. D. Lockhart</persName>,
+                 <lb/><persName>Priscilla</persName>, <persName>Dave</persName>, <persName>Dorothy</persName>, <persName>Mrs. Heiborn</persName>, 
+                      <persName><choice><sic>The Guernsey's</sic><corr>Guernseys</corr></choice></persName>.
+              </p>
+           </div>
             <pb facs="journal-2-46.jpg" n="/d/d38e7754-5bff-48d5-89cc-0e262e1134f3"/>
       </body> <!-- Close body of journal 2 text. -->
      </text>  <!-- Close journal 2 text. -->
