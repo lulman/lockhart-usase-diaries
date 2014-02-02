@@ -1602,7 +1602,7 @@
                   </p>
                   <lb/><closer>Earl</closer>
                </div>
-                <div xml:id="eel-19401210a" type="radiogram" facs="journal-2-58" n="/c/c54c11a9-659f-4566-b4f8-b81635104f9f">
+                <div xml:id="eel-19401210a" type="radiogram" subtype="incoming" facs="journal-2-58" n="/c/c54c11a9-659f-4566-b4f8-b81635104f9f">
                  <opener>
                     <lb/>2 <name type="call-sign">wlmc</name> <placeName>boston mass</placeName> <date when="1940-12-05" type="received">dec 5</date><dateline><date when="1940-12-10" type="transmitted">10 dec 1940</date></dateline>
                     <lb/><salute><persName>earl<choice><sic>lockhard</sic><corr>lockhart</corr></choice></persName></salute>
@@ -1617,10 +1617,10 @@
                     <lb/><closer><persName>beatie</persName></closer>
                     <!-- There are some handwritten letters in pencil on the bottom of this radiogram. Possibly used to send the rg? -->
                 </div>
-                <div xml:id="eel-19401225b" type="radiogram" facs="journal-2-63" n="/3/350707bb-644c-48c6-b010-fbf4af419233">
+                <div xml:id="eel-19401225b" type="radiogram" subtype="received" facs="journal-2-63" n="/3/350707bb-644c-48c6-b010-fbf4af419233">
                  <opener>
-                    <lb/><dateline><date when="1940-12-25" type="transmitted">25 DEC 1940</date></dateline>
-                    <lb/>NR5 <name type="call-sign">WLMC</name> <date when="1940-12-21" type="received">DEC 21</date> <placeName>BOSTON MASS</placeName>
+                    <lb/><dateline><date when="1940-12-25" type="received">25 DEC 1940</date></dateline>
+                    <lb/>NR5 <name type="call-sign">WLMC</name> <date when="1940-12-21" type="sent">DEC 21</date> <placeName>BOSTON MASS</placeName>
                     <lb/><salute><persName>DR LOCKHART</persName></salute>
                  </opener>
                  <p>
@@ -1634,7 +1634,7 @@
                   <lb/><closer>beatie</closer>
                </div>
                
-               <div xml:id="eel-19401226" type="radiogram" facs="journal-2-64" n="/c/cb88c987-4c24-46d8-9b95-0b7859981f5c">
+               <div xml:id="eel-19401226" type="radiogram" subtype="sent" facs="journal-2-64" n="/c/cb88c987-4c24-46d8-9b95-0b7859981f5c">
                   <opener>
                      <lb/><dateline><date when="1940-12-26">Dec 26 1940</date></dateline>
                      <address>
