@@ -1631,12 +1631,12 @@
                     <lb/>you soon . love from all friend and family . thanks giving picture
                     <lb/>of <geogName>south pole</geogName> appeared in <title level="j">new york times</title> . some beard. love
                  </p>
-                  <lb/><closer>beatie</closer>
+                  <lb/><signed><persName>beatie</persName></signed>
                </div>
                
                <div xml:id="eel-19401226" type="radiogram" subtype="sent" facs="journal-2-64" n="/c/cb88c987-4c24-46d8-9b95-0b7859981f5c">
                   <opener>
-                     <lb/><dateline><date when="1940-12-26">Dec 26 1940</date></dateline>
+                     <lb/><dateline><date when="1940-12-26" type="sent">Dec 26 1940</date></dateline>
                      <address>
                         <lb/><persName>Mrs C D Lockhart</persName>
                         <lb/><addrLine>49 Taunton Ave</addrLine>
