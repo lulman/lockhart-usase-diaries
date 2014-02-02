@@ -653,7 +653,7 @@
             <fw type="pageNum" place="top">4</fw> 
                   <p>
                      <lb/>christmas spirit and strawberry pie to top things off then
-                     <lb/><unclear>more</unclear><unclear>?</unclear> until show time. We saw the Jones family in
+                     <lb/>more <unclear>lulling</unclear> until show time. We saw the Jones family in
                      <lb/>Hollywood and Risky Business. I enjoyed both of them.
                   </p>
                   <p>
@@ -729,8 +729,8 @@
                </p>
             </div> <!-- End of first dated entry. -->
             <div xml:id="eel-19401226a" type="entry">
-               <p>
-                  <lb/><date>Thursday December 26 1940</date>
+               <lb/><dateline><date when= "1940-12-26">Thursday, December 26 1940</date></dateline>
+               <p>  
                   <lb/>I slept very well in my old cloth bag. I am lost now
                   <lb/>that I don't have a watch and consequently with the present
                   <lb/>schedule I didn't know whether I should get up or try to go
@@ -754,12 +754,13 @@
                   <lb/>situation looked impossible. Since the storm was raging out
                   <lb/>there nothing could be done at the moment. Today at <del rend="strikethrough">the</del>
                   <lb/>the radio schedule time we were happy to learn that the
+               </p>
                <!--
                   Sean-K: begin below this comment transcribing journal-2-13.jpg) with a page break.
                   You are "inside" a paragraph that begins on journal-2-12, but we will
                   resolve that encoding later. For now, this encoding is valid.
                -->
-               </p>
+              
                
             </div>
            
