@@ -1013,7 +1013,7 @@
                </p>
                <p>
                   <lb/>Yesterday I had messages from <persName>mamma</persName> and <persName>Beatie</persName>
-                  <lb/>and in <persName>mamma's</persName>she said that she was expecting a penguin
+                  <lb/>and in <persName>mamma's</persName> she said that she was expecting a penguin
                   <lb/>skin and since there seem to be plenty of Emperors around
                   <lb/>perhaps I should get busy and skin one myself. I
                   <lb/>hope to get an Adelie at least later on. They are small
@@ -1603,7 +1603,7 @@
                   </p>
                   <lb/><closer>Earl</closer>
                </div>
-                <div xml:id="eel-19401210a" type="radiogram" subtype="incoming" facs="journal-2-58" n="/c/c54c11a9-659f-4566-b4f8-b81635104f9f">
+                <div xml:id="eel-19401210a" type="radiogram" subtype="received" facs="journal-2-58" n="/c/c54c11a9-659f-4566-b4f8-b81635104f9f">
                  <opener>
                     <lb/>2 <name type="call-sign">wlmc</name> <placeName>boston mass</placeName> <date when="1940-12-05" type="received">dec 5</date><dateline><date when="1940-12-10" type="transmitted">10 dec 1940</date></dateline>
                     <lb/><salute><persName>earl<choice><sic>lockhard</sic><corr>lockhart</corr></choice></persName></salute>
@@ -1611,9 +1611,9 @@
                  <p>
                     <lb/>just discovered that you can receive messages on this trip you are
                     <lb/><choice><sic>talking</sic><corr>taking</corr></choice> x sorry not to have <gap reason="overwritten with x's" unit="chars" extent="2"/>nt anything for before x hope you are well
-                    <lb/>x little <persName>peter</persName> now <measure>weighs<num>26</num>pounds</measure> x bring on your husky x everyone <seg type="softhyphen">look
-                    <lb/></seg>ing forward anxiously to your2return we <gap reason="overwritten with x's" unit="chars" extent="4"/> all well and happy x <measure><num>eight</num>
-                    <lb/>inches</measure> o<gap reason="overwritten with x's"/> snow for thanksgiving all well
+                    <lb/>x little <persName>peter</persName> now weighs 26 pounds x bring on your husky x everyone <seg type="softhyphen">look
+                    <lb/></seg>ing forward anxiously to your2return we <gap reason="overwritten with x's" unit="chars" extent="4"/> all well and happy x eight
+                    <lb/>inches o<gap reason="overwritten with x's"/> snow for thanksgiving all well
                  </p>
                     <lb/><closer><persName>beatie</persName></closer>
                     <!-- There are some handwritten letters in pencil on the bottom of this radiogram. Possibly used to send the rg? -->
@@ -1653,9 +1653,9 @@
                   <signed><persName>Earl</persName></signed>
                </div>
                
-               <div xml:id="eel-19410104a" type="radiogram" facs="journal-2-57" n="/2/21277b97-80c3-4419-929a-cbe1199256e1">
+               <div xml:id="eel-19410104a" type="radiogram" subtype="sent" facs="journal-2-57" n="/2/21277b97-80c3-4419-929a-cbe1199256e1">
                   <opener>
-                     <lb/><dateline><date when="1941-01-04">January 4 1941</date></dateline>
+                     <lb/><dateline><date when="1941-01-04" type="sent">January 4 1941</date></dateline>
                      <address>
                         <lb/><persName>Miss Beatrice R Lockhart</persName>
                         <lb/><addrLine>49 Taunton Ave</addrLine>
