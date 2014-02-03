@@ -1586,6 +1586,32 @@
      <text xml:id="eel-journal2-radiograms">   <!-- Open text #2, telegrams inserted in journal #2. -->
             <body> <!-- Open body of text #2. -->
                <!-- A div for a radiogram from an earlier date would go here. -->
+               <div xml:id="eel-19401231e" type="radiogram" subtype="received" facs="journal-2-53" n="/9/9fcd6e47-dbf3-4447-9214-6280bf6f3425">
+                  <opener>
+                     <lb/><dateline><date when="1940-12-31" type="received"><del type="overwritten">27</del>31 dec 1940</date></dateline>
+                     <lb/>18 <name type="call-sign">wlmc</name> <placeName>mattapan mass</placeName> <date when="1940-12-27" type="sent">dec 27</date>
+                     <lb/><salute><persName>ERNEST E LOCKHART</persName></salute>
+                  </opener>
+                  <p>
+                     <lb/>had a letter from trefts x hope you had a talk with him <choice><sic>frirday</sic><corr>friday</corr></choice>
+                     <lb/>night as he expected to x he sent me two nice enlargements of snaps
+                     <lb/>you took in <placeName><choice><sic>helsiki</sic><corr>helsinki</corr></choice></placeName> x missed <persName>carl</persName> this <choice><sic>xmas</sic><corr>christmas</corr></choice> had <choice><sic>peteinstead</sic><corr>pete instead</corr></choice> x i
+                     <lb/>hope my penguin is coming along x remember i'm going to have him
+                     <lb/>mounted so if it will be easier to just <choice><sic>dring</sic><corr>bring</corr></choice> his hide ok by me
+                     <lb/>happy new year
+                  </p>
+                  <lb/><signed><persName>mother</persName></signed>
+               </div>
+               <div xml:id="eel-19410101" type="radiogram" subtype="received" facs="journal-2-54" n="/c/cdaed0da-eaf8-4e74-accc-daa62ff14cb3">
+                  <opener>
+                     <lb/><dateline><date when="1941-01-01" type="received">JAN 1 1941</date></dateline>
+                     <lb/>NR 12 <name>WLMC</name> <placeName>WELLESLEY MASS</placeName> <date when="1940-12-29" type="sent">DEC 29</date>
+                     <lb/><salute><persName>EARL LOCKHART</persName></salute>
+                  </opener>
+                  <p>
+                     <lb/>HAPPY PROSEPEROUS NEW YEAR X HOPE TO <add type="above">me</add> GET YOU ON RETURN <add place="above" rend="^">to the U.S.</add> X <persName>THE GUERNSEYS</persName>
+                  </p>
+               </div>
                <div xml:id="eel-19400102a" type="radiogram" facs="journal-2-55" n="/D/d008d323-2484-4321-bf8a-a17ef90e075a">
                   <opener>
                      <lb/>3 <name type="call-sign">wlmc</name> <placeName>wellesley mass</placeName> <date when="1941-12-28" type="received">dec 28</date><dateline><date when="1941-01-02" type="transmitted">Jan 2 1941</date></dateline>
