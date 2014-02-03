@@ -1382,7 +1382,7 @@
             <pb facs="journal-2-36.jpg" n="/0/00f6b1f6-ee2b-45cd-bd18-44400d0a3392"/>
             <fw type="pageNum" place="top">32</fw>
                <p>
-                  <lb/>metabolism best on <persName>Charlie Parral</persName> and arm <unclear>counting</unclear> using
+                  <lb/>metabolism best on <persName>Charlie Passel</persName> and arm <unclear>counting</unclear> using
                   <lb/>my aim <unclear>awoke me</unclear>. <persName>Arnold</persName> made a very <unclear cert="high">reliable</unclear> suggestion
                   <lb/>and I shall follow it. I shall take air samples on the
                   <lb/>way back and check the idea that the oxygen content
@@ -1676,6 +1676,39 @@
                      <lb/>stand that. Hope to bring home my lead dog. He is one of the
                      <lb/>largest dogs we have in camp. <measure>Weight about <num>ninety</num> pounds</measure>. He
                      <lb/>is some dog even though the fellows make fun of him.
+                  </p>
+                  <signed><persName>Earl</persName></signed>
+               </div>
+               
+               <div xml:id="eel-19410109" type="radiogram" subtype="recived" facs="journal-2-67" n="/3/3718a2d2-860d-48f8-a7ab-5ed54a1437bc">
+                  <opener>
+                     <lb/><dateline><date when="1940-01-09" type="recived">9 jan 1940</date></dateline>
+                     <lb/>7<name type="call-sign">wlmc</name><placeName>boston mass</placeName><date when="1941-01-06">jan 6</date>
+                     <lb/><salute><persName>EARL LOCKHART</persName></salute>
+                  </opener>
+                  <p>
+                     <lb/>dear <persName>earl</persName> x we are anxiously watching the papers for news of the arrival
+                     <lb/>of the <name type="ship">bear</name> x what rejoicing there will be in your neck of the woods
+                     <lb/>x weather has turned cold here x feels like your summer x little <persName>petere</persName>
+                     <lb/>now <num>thirty five</num> pounds x love
+                  </p>
+                  <lb/><signed><persName>beatie</persName></signed>
+               </div>
+               
+               <div xml:id="eel-19410109b" type="radiogram" subtype="sent" facs="journal-2-68" n="/4/45528f49-dcdb-4ded-bf96-07f60c260cf0">
+                  <opener>
+                     <lb/><dateline><date when="1940-01-09" type="sent">Jan 9 1941</date></dateline>
+                     <address>
+                        <lb/><persName>Mrs C D Lockhart</persName>
+                        <lb/><addrLine>49 Taunton Ave</addrLine>
+                        <lb/><addrLine><placeName>Mattapan Mass</placeName></addrLine>
+                     </address>
+                  </opener>
+                  <p>
+                     <lb/>The <name type="ship">Bear</name> arrives tomorrow. This is my last message although the
+                     <lb/><name type="ship">Star</name> probably wont leave before the first in <date>Febuary</date>. So
+                     <lb/>it wont be long now until I climb the front stairs. Love to
+                     <lb/>everyone. Will send airmail from various ports. 
                   </p>
                   <signed><persName>Earl</persName></signed>
                </div>
