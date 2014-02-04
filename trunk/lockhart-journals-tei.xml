@@ -1078,11 +1078,11 @@
                   <lb/>a firm believer that one trained so completely in theoretical matters
                   <lb/>as I have been in the past should go away on an expedition for
                   <lb/>a year or two; <unclear cert="high" reason="handwriting">there</unclear> in this small world of ours, for instance, one
-               </p>  
+                
             
-               <pb facs="journal-2-23.jpg" n="/4/498886ed-6a42-4026-9b5f-75b211d23125.jpg"/>
+               <pb facs="journal-2-23.jpg" n="/4/498886ed-6a42-4026-9b5f-75b211d23125"/>
           <fw type="pageNum" place="top">19</fw>
-           <p><!-- not sure why there's an error here? -->
+           
                <lb/>meets men from many walks of life and learns quickly
                <lb/>to adjust oneself <!-- the "e" in oneself looks traced over a few times -->to meet each personality. One learns
                <lb/>the meaning of work and what a working man thinks 
@@ -1112,14 +1112,14 @@
                   
                     <lb/><dateline><date when="1941-01-03"><del rend="strikethough">Tuesday</del><add place="above">Friday</add> January <del type="strikethough">2</del><add place="above">3</add> 1940</date> </dateline><!-- in the id it gives the correct date; not sure how to indicate his error of writing 1940 when it should be 1941 -->
                  <p>
-                 <lb/> <!-- there is a paragraph indentation here but not sure how to use the p tag since it's being used at the top and bottom of pages? -->Alarm clocks have no place in my system of living. Never
+                 <lb/><!-- does the p tag above indicate an indentation here? -->Alarm clocks have no place in my system of living. Never
                  <lb/>have I used one as<!-- the a in as has a diagonal line through it --> a constant companion and now that 
                  <lb/>I am<!-- the ink for these two words is faded --> using one I don't go by it. Since I have been trying to
-                 </p>
+                 
               
-           <pb facs="journal-2-24.jpg" n="/8/821a5dea-fe96-424f-bd0a-8acf8941c8f6.jpg"/>  
+           <pb facs="journal-2-24.jpg" n="/8/821a5dea-fe96-424f-bd0a-8acf8941c8f6"/>  
            <fw type="pageNum" place="top">20</fw> 
-             <p>
+           
                  <lb/>to get up at least by <time>ten</time> to <unclear>min</unclear> metabolism tests
                  <lb/>I have borrowed <persName><unclear>Count's</unclear></persName> alarm clock but when it rings I
                  <lb/>just shut it off without waking <!-- the a is traced over and there might be something lightly written behind the k --> up and go back to sleep. Some
@@ -1147,11 +1147,11 @@
                  <lb/>cylinder things looked black. <persName>Pete</persName> and <persName>Pappy</persName> warmed
                  <lb/>up the <unclear>Biecherft<!-- first few letters are clearer than the last --></unclear> and took off about <time>2:30 AM.<!-- AM is spaced out more and handwritten; 11PM earlier looked more closely spaced together, and PM was printed --></time> <persName>Pappy</persName> had
                  <lb/><!-- the ink from the previous page bleeds through at the margin and obscures the first four words --> all the spare cylinder<!-- yl in cylinder has some writing over it; can't tell if it's the bleedthrough --> gear <!-- a seems traced over and there's a dot above r in gear --> he could find in the shop but
-                 </p>
+                 
              
-               <pb facs="journal-2-25.jpg" n="/4/4e9c39a9-e9f6-4c9a-9d6a-6d2f89f42729.jpg"/>
+               <pb facs="journal-2-25.jpg" n="/4/4e9c39a9-e9f6-4c9a-9d6a-6d2f89f42729"/>
               <fw type="pageNum" place="top">21<!-- seems faintly underlined and written on a slant in the very rounded corner of the page --> </fw>
-                 <p>
+                 
                  <lb/>to no avail what was needed<!-- a and d seem darker; runon sentence --> was a complete new engine.
                  <lb/><persName>Pete</persName> brought back <persName>Poppy</persName> and <persName>Giles</persName> and then went <!-- e is written larger than usual; word seems a bit more spaced out than usual --> out
                  <lb/>for <persName>Paul</persName> and <persName>Mac</persName>. <persName>Pete</persName> had to go all the way to the 
@@ -1175,7 +1175,7 @@
                  <lb/>make some flights out to the <!--to the might be a bit darker --> <name>Condor</name> to salvage some of the 
                  <lb/>valuable instruments such as the drift indicator worth about 
                  <lb/><num>$1500<!--$ is written above and the 1500 is smalller than the letters. There is also space slightly larger than usual after the amount of money  --></num>. We all are happy that the accident didn't happen
-                 <lb/>when the Condor was <num>500</num> miles from the base.</p>
+                 <lb/>when the Condor was <num>500</num> miles from the base. </p>
                  <lb/><p> My reading has tended to be southern in nature <!-- don't see a period here but it is the end of a sentence -->
                  <lb/>After finishing <title>Gone with the Wind</title><!-- might be a slightly larger space than usual after Wind --> I started in on <title>South
                  <lb/>Moon Under</title><!-- might be another slightly space after Under --> and found it to be concerned with poor
@@ -1209,6 +1209,7 @@
                   <lb/>soon.  
              </p>
               </div>
+           
            <pb facs="journal-2-29" n="/3/32efdaee-b13d-4de5-a78b-8a38d1d92f44"/>
             
             <div xml:id="eel-19410105a" type="entry">
