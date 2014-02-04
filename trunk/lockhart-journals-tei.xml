@@ -1119,18 +1119,18 @@
               
            <pb facs="journal-2-24.jpg" n="/8/821a5dea-fe96-424f-bd0a-8acf8941c8f6.jpg"/>  
            <fw type="pageNum" place="top">20</fw> 
-              <p>
+             <p>
                  <lb/>to get up at least by ten to <unclear>min</unclear> metabolism tests
                  <lb/>I have borrowed <persName><unclear>Count's</unclear></persName> alarm clock but when it rings I
                  <lb/>just shut it off without waking <!-- the a is traced over and there might be something lightly written behind the k --> up and go back to sleep. Some
                  <lb/>of the fellows ask me to call them at <!-- a has two circles or loops --> specific times but usually I
                  <lb/>forget until sometime <!-- until and sometime are written a bit more faintly than the rest of the text --> later. No damage has been done yet. 
-                 <lb/><!-- space break for a new paragraph; not sure how to use p tag since we're using it already -->There <!-- "the" darker than the rest of the word --> was some excitement here last night. I didn't stay up 
+                 <lb/><!-- entering a p for a paragraph indent isn't working here -->There<!-- "the" darker than the rest of the word --> was some excitement here last night. I didn't stay up 
                  <lb/>to follow it completely but did get in on the tail end. <!--end a bit fainter --> The trail
                  <lb/>have been dogged <!-- ged fainter --> unfortunately by soft surface <!-- t and surface fainter --> and heavy 
                  <lb/>loads and are getting low on gas for the <!-- th darker -->tractor and dog food.
                  <lb/>Last night after the schedule the airplane gang decided to take the
-                 <lb/><name>Condor</name> out with supplies and bring <!-- b has a long tail --> back some of the load <!-- very faint dot looks like a faded period here and is a good word space away from typical end of sentence punctuation -->
+                 <lb/><name>Condor</name> out with supplies and bring<!-- b has a long tail --> back some of the load <!-- very faint dot looks like a faded period here and is a good word space away from typical end of sentence punctuation -->
                  <lb/>The weather was not so hot <!-- was not so hot fainter --> with some overcast coming in from
                  <lb/>the east. They took off about <!-- a written smaller than his usual script --> <time>11PM</time> and <unclear>soon</unclear> reported that <!-- faint dot at the edge of the right margin -->
                  <lb/>the overcast was becoming heaver. Not long after <!-- after a bit fainter --> they said they 
@@ -1147,12 +1147,12 @@
                  <lb/>cylinder things looked black. <persName>Pete</persName> and <persName>Pappy</persName> warmed
                  <lb/>up the <unclear>Biecherft<!-- first few letters are clearer than the last --></unclear> and took off about <time>2:30 AM.<!-- AM is spaced out more and handwritten; 11PM earlier looked more closely spaced together, and PM was printed --></time> <persName>Pappy</persName> had
                  <lb/><!-- the ink from the previous page bleeds through at the margin and obscures the first four words --> all the spare cylinder<!-- yl in cylinder has some writing over it; can't tell if it's the bleedthrough --> gear <!-- a seems traced over and there's a dot above r in gear --> he could find in the shop but
-                 
-             </p>
+                 </p>
+             
                <pb facs="journal-2-25.jpg" n="/4/4e9c39a9-e9f6-4c9a-9d6a-6d2f89f42729.jpg"/>
               <fw type="pageNum" place="top">21<!-- seems faintly underlined and written on a slant in the very rounded corner of the page --> </fw>
                  <p>
-                 <lb/>to no avail what was needed <!-- a and d seem darker; runon sentence --> was a complete new engine.
+                 <lb/>to no avail what was needed<!-- a and d seem darker; runon sentence --> was a complete new engine.
                  <lb/><persName>Pete</persName> brought back <persName>Poppy</persName> and <persName>Giles</persName> and then went <!-- e is written larger than usual; word seems a bit more spaced out than usual --> out
                  <lb/>for <persName>Paul</persName> and <persName>Mac</persName>. <persName>Pete</persName> had to go all the way to the 
                  <lb/>tractor and then to the plane. The<!-- the T has a swirly tail above it --> overcast that had been
@@ -1654,14 +1654,18 @@
                   <lb/>
                   <lb/><salute><persName>DR LOCKHART</persName></salute>:
                   </opener>
-                 <lb/><p>4x14 X SORRY DIDNT GET LETTER OFF ON NORTH STAR X
-                 <lb/>WILL WRITE MAIL CARE CONSUL AT VALPO AS SUPPOSE YOU WILL PICK
+                 <lb/><p>4x14 X SORRY DIDNT GET LETTER OFF ON <name>NORTH STAR</name> X
+                 <lb/>WILL WRITE MAIL CARE CONSUL AT <placeName>VALPO</placeName> AS SUPPOSE YOU WILL PICK
                  <lb/>UP MAIL THERE X <persName>DAUMCARDEN</persName> NOT ABLE TO CONTACT YOU X EAGERLY 
                  <lb/>AWAITING YOUR VISIT X HOPE TO GET LETTER FROM THERE
                  </p>
                  <lb/><closer>LOVE BON VOYAGE</closer>
                  <lb/> 
                   <lb/><signed><persName>MARGARET MANN</persName></signed>
+               <lb/><!-- FL is written to the far left of the telegram -->
+               </div>
+               <div xml:id="eel-19410112b" type="radiogram" subtype="received" facs="joutnal-2-60" n="/e/efe1a485-9da8-4377-9e86-670ad7a12672">
+                  <opener></opener>
                </div>
                 <div xml:id="eel-19401225b" type="radiogram" subtype="received" facs="journal-2-63" n="/3/350707bb-644c-48c6-b010-fbf4af419233">
                  <opener>
