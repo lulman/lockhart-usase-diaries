@@ -1447,7 +1447,7 @@
                   <lb/>miles of <emph style="underline">new</emph> territory. We all know that they only
                </p>
            
-         <pb facs="journal-2-38.jpg"/>
+         <pb facs="journal-2-38.jpg" n="/2/29660762-216a-434c-97a1-f246fa4f8e8c"/>
          <fw type="pageNum" place="top">34</fw> 
          
              <p>
@@ -1773,9 +1773,9 @@
                   <signed><persName>Earl</persName></signed>
                </div>
                
-               <div xml:id="eel-19410416" type="radiogram" facs="journal-2-69">
+               <div xml:id="eel-19410416" type="radiogram" subtype="received" facs="journal-2-69" n="/3/3a1cb2ab-66fc-495d-974f-54174222c435" >
                   <opener>
-                     <lb/><dateline><date when="1941-04-16">16 APR 1941</date></dateline>
+                     <lb/><dateline><date when="1941-04-16" type="received" >16 APR 1941</date></dateline>
                      <lb/>5<name type="call-sign">WLMC</name> <placeName>BOSTON MASS</placeName>
                      <lb/><salute><persName><sic>LOCKHARD</sic></persName></salute> 
                   </opener>
