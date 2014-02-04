@@ -130,22 +130,6 @@
                         You can use more than one paragraph (tagged <p> </p>).
                    -->
                <notesStmt>
-                  <!-- 
-                      TAKE NOTE: Your entire header should answer the following questions about your 
-                      source document. At this point in your header, you should discuss anything in 
-                      this list not mentioned elsewhere in the header.
-                     
-                        1. What is the document (letter, will, etc.)?
-                        2. What does it say about itself (titles, descriptive notes, etc.)?
-                        3. What does it contain (no. of pages/sheets, enclosures, etc.)?
-                        4. How is it put together (folded sheets, binding, etc.)?
-                        5. What is it made of (paper, vellum, etc.)?
-                        6. What is its size (i.e., physical dimensions)?
-                        7. How is it packaged/contained (binding, envelope, folder, box, etc.)?
-                        8. How is it related to other versions (original, copy, print history)?
-                     
-                        You can use more than one paragraph (tagged <p> </p>).
-                   -->
                   
                   <note type="descriptive" resp="ed">
                      <!-- 
