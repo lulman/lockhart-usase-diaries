@@ -591,7 +591,8 @@
               <lb/><persName>Tony</persName>and<persName>Jack</persName> said they were going to fill up. We all had our
               <lb/>doubts whether <persName>Guterko</persName> would have anything for us.
               </p>
-              <p>When we had come about 2 miles from the base,<persName>Tony</persName>
+              <p>
+                 <lb/>When we had come about 2 miles from the base,<persName>Tony</persName>
                  <lb/>and I stopped <persName>Jack</persName> who was leading and suggested that we
                  <lb/>let <persName><unclear cert="medium">Peuk</unclear></persName> take his team in first. <persName>Tony</persName> skied ahead breaking
                  <lb/>trail with <persName><unclear cert="medium">Peuk</unclear></persName> following a short distance behind I skied
@@ -1651,10 +1652,17 @@
      <text xml:id="eel-journal2-radiograms">   <!-- Open text #2, telegrams inserted in journal #2. -->
             <body> <!-- Open body of text #2. -->
                <div xml:id="eel-19401226b" type="radiogram" subtype="sent" facs="journal-2-47">
+                  <p>
                   <opener>
                   <lb/><dateline><date when="1940-12-26" type="sent">Dec 26 1940</date></dateline>
-                     <lb/>
+                     <address>
+                        <lb/><persName>Mrs J L Mahen</persName>
+                        <lb/>
+                     </address>
+
                   </opener>
+                  </p>
+                  
                </div>
                <!-- A div for a radiogram from an earlier date would go here. -->
                <div xml:id="eel-19401231e" type="radiogram" subtype="received" facs="journal-2-53" n="/9/9fcd6e47-dbf3-4447-9214-6280bf6f3425">
