@@ -1834,6 +1834,24 @@
                   <closer>BY <persName>BEATIE</persName></closer>
                 </div>   
                
+               <div xml:id="eel-19410427" type="radiogram" subtype="received" facs="journal-2-71">
+                  <opener>
+                     <lb/><dateline><date when="1941-04-27" type="received" >27 r 1941</date></dateline>
+                     <lb/>2<name type="call-sign">WLMC</name> <placeName>NEW YORK NY</placeName> <date>APR 23</date>
+                  </opener>
+                  <p>
+                     <lb/><persName>DR ERNEST LOCKHART</persName>
+                     <lb/><persName>BILL LECKIE</persName> WANTS TO KNOW WHAS YOUR EXPERIECE WITH HARRIS FOOD MIXTURE
+                     <lb/>SATISFACTORY OR UNSATISFACTORY STOP DID MEN FIND IT PALATABLE OR UNPALATABLE
+                     <lb/>STOP <persName>BILL LECKIE</persName> WANTS TO KNOW WILL <persName>DR LOCKHART</persName> INTERVIEW REPRESENTATIVES
+                     <lb/>COLLIER WEEKLY AT <placeName>BALBOA</placeName> IN CONNECTIONWITH ARTICLE ON HARRIS FOOD MIXTURE
+                     <lb/>PROJECTED FOR BRITISH EMERGENCY FEEDING STOP PLEASE HAVE CABLE COLLECT
+                     <lb/>TO ME 122 EAST FORTY SECOND STREET NEWYORKCITY STOP <persName>J E MACDONALD</persName> U S DEPART
+                     <lb/>MENT OF INTERIOR AUTHORIZED THIS INQUIRY
+                  </p>
+                  
+                  <closer> BY <persName>WILLIAM LECKIE</persName></closer>
+               </div>
                <!-- A div for a radiogram from a later date would follow. -->
             </body> <!-- Close body of text #2, telegrams. -->
          </text> <!-- Close text #2, telegrams. -->
