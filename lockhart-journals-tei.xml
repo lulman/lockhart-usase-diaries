@@ -1127,7 +1127,7 @@
                <lb/>about the type of work not requiring a strong back and 
                <lb/>plenty of perspiration. One learns many new handicrafts 
                <lb/>under the guidance - <del rend="strikethrough">half heart</del> half hearted <!-- "hea" appears to be inked over a few times appearing almost as if he was rewriting it a few times --> sometimes <!-- might be "some times" with a space; need to verify --> to be sure - 
-               <lb/>of men who might be <unclear>chrosed</unclear> as <unclear>masters</unclear> <!-- not sure if this is the correct word because it is hard to read --> of their <unclear>cots</unclear> <!-- another word I can't decipher; best guess for now -->. If one 
+               <lb/>of men who might be <unclear>chrosed</unclear> <!-- can't decipher all the letters here --> as <unclear>masters</unclear> <!-- not sure if this is the correct word because it is hard to read --> of their <unclear>cots</unclear> <!-- another word I can't decipher; best guess for now -->. If one 
                <lb/>is so priviled<add place="above">g</add>ed that <del type="strikethrough">his</del><add place="above">ones</add> work involves a trail trip then the
                <lb/>art of living among the elements and on only the bare necessities
                <lb/>one acquires a confidence, an assurance and an interest <!-- confident about the word, but it has some larger gaps or spaces in between letters -->
@@ -1199,7 +1199,7 @@
                  <lb/>and had just decided to make <del rend="strikethrough"> <unclear>tlo </unclear> back</del> tracks back to 
                  <lb/>the base when the <name>Condor</name> loomed up. He landed <del rend="strikethrough"><unclear>too</unclear></del> and 
                  <lb/>while <persName>Paul</persName> <!-- Paul is written somewhat faintly --> and <persName>Mac</persName> were getting ready took off again 
-                 <lb/><add place="above" rend="^">accompanied by <persName>Paul</persName></add> with food and dog food for the dog team parties. They
+                 <lb/><add place="above" rend="^"><persName>Paul</persName></add> with food and dog food for the dog team parties. They
                  <lb/>could fly no more than <num>25</num> feet off the ground - overcast
                  <lb/><unclear confidence=".4">pinning</unclear> them down but made the trip of <num>10</num> miles successfully <!-- no period seen -->
                  <lb/>After a few minutes of greetings and fare wells<!-- not sure if this is written as 1 or 2 words; small space in between --> they went 
@@ -1218,8 +1218,9 @@
                  <lb/>After finishing <title>Gone with the Wind</title><!-- might be a slightly larger space than usual after Wind --> I started in on <title>South
                  <lb/>Moon Under</title><!-- might be another slightly space after Under --> and found it to be concerned with poor
             
-                    <pb facs="journal 2-26" n="/4/4e9c39a9-e9f6-4c9a-9d6a-6d2f89f4272"/>
+            <pb facs="journal 2-26"/>
             <fw facs="page number 22"/>
+              
                   <lb/>whites in <placeName><region>Florida</region></placeName>. I have spoken to <persName>Shirley</persName> about it and 
                   <lb/>hope he <unclear cert="high">reads</unclear> it. I should like to know if it at all <unclear cert="unknown">aw</unclear>
                   <lb/>accurate picture of the state where he lived much of his boyhood.
@@ -1231,28 +1232,25 @@
                   <lb/>read the book and thought about the movie that has been made
                   <lb/>from it <persName>Clark Gable</persName> certainly is the man to play <persName type="fictional">Rhett Butler</persName>
                   <lb/>I am not so sure about <persName>Vivien Leigh</persName> as <persName type="fictional">Scarlett</persName>!
-                  </p>
-                  <p>
+                 
                   <lb/>We had a mail bag today from <placeName>Kansas City</placeName> but <unclear cert="high">the</unclear> re-
                   <lb/>ception fell off so abruptly after the variety <unclear cert="low">here</unclear> that the letters
                   <lb/>were heard only very indistinctly. I know I had one letter <!--the fact tha he's talking bout hearing letters makes it very confusing as to what type of messege he's talking about. Or he made a typo when he wrote 'heard'--> from
                   <lb/><unclear cert="medium"><persName>mamma</persName></unclear> but couldn't even get the gist of the letter.
-                  </p>
-                  <p>
+                  
+                  
                   <lb/><unclear cert="high"><persName>Asman</persName></unclear> has been taking the <unclear cert="high">tank</unclear> out every night now that
                   <lb/>the temperature has fallen somewhat. He is trying to make a 
                   <lb/>hard path from here to the old cache so that he can get
                   <lb/>some of the boxes down there. Tonight he got stuck and had to 
                   <lb/>abandon a load he was attempting to haul. 
-                  </p>
-                  <p>
-                  <lb/>Got in an other air analysis but aside from that I have done
+                  
+                  <lb/>Got in another air analysis but aside from that I have done
                   <lb/>nothing constructive all day. I've got to get <unclear cert="low">in</unclear> the <unclear cert="low">half</unclear>.
-                  </p>
-                  <p>
+                  
                   <lb/>The ice shows no signs of breaking out of <placeName>the Bay</placeName>. <unclear cert="high">It</unclear> <unclear cert="high">sure</unclear>  
                   <lb/>will be a job loading if some of it at least doesn't go out - and 
-                  <lb/>soon. 
+                  <lb/>soon.  
              </p>
               </div>
            
@@ -1519,12 +1517,12 @@
                   <lb/>also stated that the admiral made flights and took
                   <lb/>pictures enough "to map accurately" about <measure>35000</measure> sq.
                   <lb/>miles of <emph style="underline">new</emph> territory. We all know that they only
-             
+               </p>
            
          <pb facs="journal-2-38.jpg" n="/2/29660762-216a-434c-97a1-f246fa4f8e8c"/>
          <fw type="pageNum" place="top">34</fw> 
          
-             
+           <p> 
                 <lb/>camera taken on those flights was a Leica and no
                 <lb/>attempt was made to make overlaps or circles of pictures.
                 <lb/>It is doubtful whether the admiral knew accurately where
@@ -1552,10 +1550,10 @@
                 <lb/>film journals diaries etc is suspected of having his
                 <lb/>own ax to grind--a book on the expedition for the
                 <lb/>Admiral--and consequently will have little cooperation
-             
+           </p> 
           </div>  
       
-           <pb facs="jouranl-2-40.jpg"n="/c/c459ce06-004e-4068-b349-a293327f6170"/>
+           <pb facs="journal-2-40.jpg" n="/c/c459ce06-004e-4068-b349-a293327f6170"/>
          <fw type="pageNum" place="top">36</fw>
          <div xml:id="eel19410115a" type="entry">
             <p> 
@@ -1663,6 +1661,11 @@
                   </opener>
                   </p>
                   
+               </div>
+               <div xml:id="eel19401231e" type="radiogram" subtype="sent" facs="journal-2-49" n="">
+                  <opener>
+                     
+                  </opener>
                </div>
                <!-- A div for a radiogram from an earlier date would go here. -->
                <div xml:id="eel-19401231e" type="radiogram" subtype="received" facs="journal-2-53" n="/9/9fcd6e47-dbf3-4447-9214-6280bf6f3425">
