@@ -1672,13 +1672,24 @@
                   <closer><persName>Earl</persName></closer>
                   </div> 
                <div xml:id="eel-19401228" type="radiogram" subtype="recieved" facs="journal-2-48">
-                  <opener>
-                     
+                  <opener> 
+                     <lb/><dateline><date when="1940-12-31">Dec 31 1940</date></dateline> 
+                     <address>
+                        <lb/><persName>Mrs. W H Mann</persName>
+                        <lb/><addrLine>1281 Ramona Ave</addrLine>
+                        <lb/><addrLine>Cleveland Ohio</addrLine>
+                     </address>
                   </opener>
+                  <p>
+                     <lb/>Arrived back at base for christmas. Had a wonderful trip. Awaiting
+                     <lb/>arrival of ships for mail they hold. Anxious to get back to see
+                     <lb/>everyone. Return via Valporaiso Panama and Seattle. May have a 
+                     <lb/>few days to spend with you while crossing country. Arrive Seattle
+                     <lb/>middle April. Happy new year to all. 
+                  </p>
+                  <closer><persName>Earl</persName></closer>
                </div>
                      
-                  
-              
                <div xml:id="eel19401231e" type="radiogram" subtype="sent" facs="journal-2-49" n="">
                   <opener>
                      
