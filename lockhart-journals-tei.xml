@@ -1550,7 +1550,7 @@
              
           </div>  
       
-         <pb facs="jouranl-2-40.jpg"/>
+           <pb facs="jouranl-2-40.jpg"n="/c/c459ce06-004e-4068-b349-a293327f6170"/>
          <fw type="pageNum" place="top">36</fw>
          <div xml:id="eel19410115a" type="entry">
             <p> 
@@ -1571,7 +1571,7 @@
                <lb/>so that I could seal off the flasks. It was unsucessful
                <lb/>because the pressure inside the flasks was so great that
                <lb/>holes <subst><del rend="strikethrough">blew out</del><add place="above">were made in</add></subst> in the tubing where it was heated. I have
-               <lb/>one flask that will be good enough for air analysis have
+               <lb/>one flask that will be good enough for air analysis here
                <lb/>but only as an indicator.
             </p>
             <p>
@@ -1858,7 +1858,7 @@
                   <closer>BY <persName>BEATIE</persName></closer>
                 </div>   
                
-               <div xml:id="eel-19410427" type="radiogram" subtype="received" facs="journal-2-71">
+               <div xml:id="eel-19410427" type="radiogram" subtype="received" facs="journal-2-71" n="/6/6ba69e71-75d0-4690-a21d-b8648a4159e4">
                   <opener>
                      <lb/><dateline><date when="1941-04-27" type="received" >27 r 1941</date></dateline>
                      <lb/>2<name type="call-sign">WLMC</name> <placeName>NEW YORK NY</placeName> <date>APR 23</date>
