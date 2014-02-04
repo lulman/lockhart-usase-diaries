@@ -759,19 +759,19 @@
                      <lb/>another small one but was able to keep going and had
                      <lb/>arrived at 105. Some of the boys will now continue home
                      <lb/>with their dog teams. <persName>Larry</persName> will stay with the tractor
-                     <lb/>gang and with his dog team attempt to evacuate <unclear>fiedz</unclear>
+                     <lb/>gang and with his dog team attempt to evacuate <persName>Fritz</persName>.
                </p>
                   <p>
                      <lb/>At this time&#x2014;about 2 AM&#x2014;I don't feel particularly
-                     <lb/>tired so am staying up<unclear>.</unclear> I had been reading <title level="m">Death
-                        <lb/>Sails with Magellan</title> but stopped to help <!--this is a name ("Count") but I think I need to edit some kind of listperson stuff above in order to properly tag it as such? Or perhaps it--><persName>Count</persName> release
+                     <lb/>tired so am staying up<unclear>.</unclear> I ha<subst instant="true"><del type="overwritten">d</del><add place="inline">ve</add></subst>d been reading <title level="m">Death
+                        <lb/>Sails with Magellan</title> but stopped to help <persName>Count</persName> release
                      <lb/>one of his <choice><sic>raysende</sic><corr>radiosonde</corr></choice> <choice><sic>ballons</sic><corr>balloons</corr></choice>. It got caught in one of
                      <lb/><persName>Railey's</persName> antennas but I was able to climb the pole
                      <lb/>and free it. While helping him I noticed a bunch
                      <lb/>of skua gulls on a refuse pile and decided to try my
                      <lb/>skill again. I walked carefully toward them with
-                     <lb/>the revolver ready but two of the pups came up
-                     <lb/>passed me and scared them <damage agent="water" extent="0"></damage>away. <!-- Not sure if this is a spelling error, passed for past 'came up past me and ..' or if it's a list lacking commas 'came up, passed me and ..'. Lockhart doesn't use commas consistently in lists, so it could be either --> Next time I
+                     <lb/>the revol<subst><del><gap reason="overwritten"/></del><add place="inline">ver</add></subst> ready but two of the pups came up
+                     <lb/>passed me and scared them <damage agent="water" extent="0" unit="word"/>away. <!-- Not sure if this is a spelling error, passed for past 'came up past me and ..' or if it's a list lacking commas 'came up, passed me and ..'. Lockhart doesn't use commas consistently in lists, so it could be either --> Next time I
                      <lb/>shall make sure there are no pups around when I
                      <lb/>go after the gulls.
                   </p>
@@ -780,8 +780,8 @@
                <div xml:id="eel-19401227a" type="entry">
                   <lb/><dateline><date when="1940-12-27">Friday December 27 1940</date></dateline>
                   <p> 
-                     <lb/>I woke up several times  <damage agent="water" extent="1">during</damage> the night and
-                     <lb/>wondered each time whether I <damage agent="water" extent="1">shouldn't</damage> get up. Always
+                     <lb/>I woke up several times du<damage agent="water" extent="1" unit="word" />ring the night and
+                     <lb/>wondered each time whether I <damage agent="water" extent="1" unit="word">shouldn't</damage> get up. Always
                      <lb/>there were men stirring around, the same light was
                      <lb/>shining the window so I was continually confused
                      <lb/>as to the time. I realized at last that it was time to
