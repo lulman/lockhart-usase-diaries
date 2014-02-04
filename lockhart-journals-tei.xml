@@ -1650,16 +1650,25 @@
      <text xml:id="eel-journal2-radiograms">   <!-- Open text #2, telegrams inserted in journal #2. -->
             <body> <!-- Open body of text #2. -->
                <div xml:id="eel-19401226b" type="radiogram" subtype="sent" facs="journal-2-47">
-                  <p>
+                  
                   <opener>
                   <lb/><dateline><date when="1940-12-26" type="sent">Dec 26 1940</date></dateline>
                      <address>
                         <lb/><persName>Mrs J L Mahen</persName>
-                        <lb/>
+                        <lb/><addrLine>38 Arlington Street</addrLine>
+                        <lb/><addrLine>Hyde Park Mass</addrLine>
                      </address>
-
                   </opener>
+                  <p>
+                     <lb/>Extremely sorry to hear of <persName>Mr Mahans</persName> passing. Had been looking
+                     <lb/>forward to telling him of my many adventures. Feel certain
+                     <lb/>that he is resting more peacefully now than he did during recent
+                     <lb/>years. Anxious to get home to see you all again.
                   </p>
+                  <closer><persName>Earl</persName></closer>
+                  <div/>
+                     
+                  
                   
                </div>
                <div xml:id="eel19401231e" type="radiogram" subtype="sent" facs="journal-2-49" n="">
