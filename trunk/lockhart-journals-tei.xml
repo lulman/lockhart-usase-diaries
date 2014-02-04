@@ -1103,7 +1103,7 @@
                <lb/>home life in the future<!-- f in future scribbled over a few times; not quite a strikethrough or cancellation --> will be immeasurably more pleasant
                <lb/>because I have invested several years to reap my <unclear>interest</unclear><!-- pretty sure it's interest singular -->
                <lb/>some time later. <!-- the a in later is written over --> Time alone will tell the actual value of this
-               <lb/>trip to the Antarctic and the time when dividends should be
+               <lb/>trip to the <placeName>Antarctic</placeName> and the time when dividends should be
                <lb/>showing begins almost immediately. <!-- period is a larger circle with a line through it -->
                <lb/> 
            </p>
@@ -1113,32 +1113,32 @@
                     <lb/><dateline><date when="1941-01-03"><del rend="strikethough">Tuesday</del><add place="above">Friday</add> January <del type="strikethough">2</del><add place="above">3</add> 1940</date> </dateline><!-- in the id it gives the correct date; not sure how to indicate his error of writing 1940 when it should be 1941 -->
                  <p>
                  <lb/> <!-- there is a paragraph indentation here but not sure how to use the p tag since it's being used at the top and bottom of pages? -->Alarm clocks have no place in my system of living. Never
-                 <lb/>have I used one as <!-- the a in as has a diagonal line through it --> a constant companion and now that 
-                 <lb/>I am <!-- the ink for these two words is faded --> using one I don't go by it. Since I have been trying to
+                 <lb/>have I used one as<!-- the a in as has a diagonal line through it --> a constant companion and now that 
+                 <lb/>I am<!-- the ink for these two words is faded --> using one I don't go by it. Since I have been trying to
                  </p>
               
            <pb facs="journal-2-24.jpg" n="/8/821a5dea-fe96-424f-bd0a-8acf8941c8f6.jpg"/>  
            <fw type="pageNum" place="top">20</fw> 
              <p>
-                 <lb/>to get up at least by ten to <unclear>min</unclear> metabolism tests
+                 <lb/>to get up at least by <time>ten</time> to <unclear>min</unclear> metabolism tests
                  <lb/>I have borrowed <persName><unclear>Count's</unclear></persName> alarm clock but when it rings I
                  <lb/>just shut it off without waking <!-- the a is traced over and there might be something lightly written behind the k --> up and go back to sleep. Some
                  <lb/>of the fellows ask me to call them at <!-- a has two circles or loops --> specific times but usually I
-                 <lb/>forget until sometime <!-- until and sometime are written a bit more faintly than the rest of the text --> later. No damage has been done yet. 
+                 <lb/>forget until sometime<!-- until and sometime are written a bit more faintly than the rest of the text --> later. No damage has been done yet. 
                  <lb/><!-- entering a p for a paragraph indent isn't working here -->There<!-- "the" darker than the rest of the word --> was some excitement here last night. I didn't stay up 
                  <lb/>to follow it completely but did get in on the tail end. <!--end a bit fainter --> The trail
-                 <lb/>have been dogged <!-- ged fainter --> unfortunately by soft surface <!-- t and surface fainter --> and heavy 
-                 <lb/>loads and are getting low on gas for the <!-- th darker -->tractor and dog food.
+                 <lb/>have been dogged<!-- ged fainter --> unfortunately by soft surface<!-- t and surface fainter --> and heavy 
+                 <lb/>loads and are getting low on gas for the<!-- th darker -->tractor and dog food.
                  <lb/>Last night after the schedule the airplane gang decided to take the
-                 <lb/><name>Condor</name> out with supplies and bring<!-- b has a long tail --> back some of the load <!-- very faint dot looks like a faded period here and is a good word space away from typical end of sentence punctuation -->
-                 <lb/>The weather was not so hot <!-- was not so hot fainter --> with some overcast coming in from
+                 <lb/><name>Condor</name> out with supplies and bring<!-- b has a long tail --> back some of the load<!-- very faint dot looks like a faded period here and is a good word space away from typical end of sentence punctuation -->
+                 <lb/>The weather was not so hot<!-- was not so hot fainter --> with some overcast coming in from
                  <lb/>the east. They took off about <!-- a written smaller than his usual script --> <time>11PM</time> and <unclear>soon</unclear> reported that <!-- faint dot at the edge of the right margin -->
                  <lb/>the overcast was becoming heaver. Not long after <!-- after a bit fainter --> they said they 
-                 <lb/>saw the dog teams at <unclear><!-- might be a number or reference point -->71</unclear> but because of overcast <!-- overcast slightly fainter --> could not land.
+                 <lb/>saw the dog teams at <unclear><!-- might be a number or reference point -->71</unclear> but because of overcast<!-- overcast slightly fainter --> could not land.
                  <lb/>They passed over the expectant men and flew on to the tractor 
-                 <lb/>party which was at 92. <!--not sure what this number means; some kind of marker or destination --> There <!--r is traced over --> they were able to land leave some
-                 <lb/>food and gas and take on some load. <!-- no commas --> As they rose into
-                 <lb/>the air to make another attempt to land at 71, <!-- letters alternate between heavier and lighter and here is that number again and the comma looks more like a period--> the star <!-- if that is a period this might be a new sentence; hard to tell with the "t" -->
+                 <lb/>party which was at 92.<!--not sure what this number means; some kind of marker or destination --> There<!--r is traced over --> they were able to land leave some
+                 <lb/>food and gas and take on some load.<!-- no commas --> As they rose into
+                 <lb/>the air to make another attempt to land at 71,<!-- letters alternate between heavier and lighter and here is that number again and the comma looks more like a period--> the star <!-- if that is a period this might be a new sentence; hard to tell with the "t" -->
                  <lb/>board motor began sputtering and finally died altogether <!-- seems to be the end of a sentence but no punctuation; his punctuation here is rather uncharacteristically lax; perhaps he was writing quickly or when he was half-asleep? -->
                  <lb/>The plane made a safe landing at about <unclear>80</unclear> midway <!-- last few letters of midway are fainter -->
                  <lb/>between the <unclear>parbie.<!-- abbreviation; might be a foreign word since the a or the o is written a bit strangely or largely --></unclear> and after making a rapid check up
@@ -1664,9 +1664,24 @@
                   <lb/><signed><persName>MARGARET MANN</persName></signed>
                <lb/><!-- FL is written to the far left of the telegram -->
                </div>
+               
                <div xml:id="eel-19410112b" type="radiogram" subtype="received" facs="joutnal-2-60" n="/e/efe1a485-9da8-4377-9e86-670ad7a12672">
-                  <opener></opener>
+                  <opener>
+                     <lb/>9 <name type="call-sign">wlmc</name> <placeName>richmond xx ind</placeName> <dateline><date when="1941-01-09" type="sent">jan 9</date></dateline>
+                     <lb/><dateline><date when="1941-01-12" type="received">12 jan 1941<!-- to the far right --></date></dateline>
+                     <lb/>
+                     <lb/><salute><persName>LOCKHART</persName></salute>
+                  </opener>
+                  <p>
+                     <lb/>
+                     <lb/>
+                     <lb/>dear doc x shall contact <name>karlstom</name> in <placeName>seattle</placeName> immediately x am to
+                     <lb/>be drafted next month x hope to see you in june on your way east
+                     <lb/>x your folks send their regards
+                  </p>
+                      <lb/><signed>the gear man<!-- indented to the far right --></signed>
                </div>
+               
                 <div xml:id="eel-19401225b" type="radiogram" subtype="received" facs="journal-2-63" n="/3/350707bb-644c-48c6-b010-fbf4af419233">
                  <opener>
                     <lb/><dateline><date when="1940-12-25" type="received">25 DEC 1940</date></dateline>
