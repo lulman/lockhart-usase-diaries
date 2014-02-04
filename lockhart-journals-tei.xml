@@ -1637,6 +1637,25 @@
                     <lb/><closer><persName>beatie</persName></closer>
                     <!-- There are some handwritten letters in pencil on the bottom of this radiogram. Possibly used to send the rg? -->
                 </div>
+               <div xml:id="eel-1941-01-16" type="radiogram" subtype="received" facs="journal-2-59" n="/4/4741f814-0c98-42d0-89e7-013bfe2836fa">
+                  <opener> 
+                  <lb/><dateline><date when="1941-01-16" type="received">JAN 16/41</date></dateline>
+                     <lb/>
+                     <lb/>
+                  <lb/><placeName>CLEVELAND OHIO</placeName> <name type="call-sign">WLMC 1139</name>
+                  <lb/>
+                  <lb/>
+                  <lb/><salute><persName>DR LOCKHART</persName></salute>:
+                  </opener>
+                 <lb/><p>4x14 X SORRY DIDNT GET LETTER OFF ON NORTH STAR X
+                 <lb/>WILL WRITE MAIL CARE CONSUL AT VALPO AS SUPPOSE YOU WILL PICK
+                 <lb/>UP MAIL THERE X <persName>DAUMCARDEN</persName> NOT ABLE TO CONTACT YOU X EAGERLY 
+                 <lb/>AWAITING YOUR VISIT X HOPE TO GET LETTER FROM THERE
+                 </p>
+                 <lb/><closer>LOVE BON VOYAGE</closer>
+                 <lb/> 
+                  <lb/><signed><persName>MARGARET MANN</persName></signed>
+               </div>
                 <div xml:id="eel-19401225b" type="radiogram" subtype="received" facs="journal-2-63" n="/3/350707bb-644c-48c6-b010-fbf4af419233">
                  <opener>
                     <lb/><dateline><date when="1940-12-25" type="received">25 DEC 1940</date></dateline>
