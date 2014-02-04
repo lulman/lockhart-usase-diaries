@@ -1686,17 +1686,20 @@
                  <opener>
                     <lb/><dateline><date when="1940-12-25" type="received">25 DEC 1940</date></dateline>
                     <lb/>NR5 <name type="call-sign">WLMC</name> <date when="1940-12-21" type="sent">DEC 21</date> <placeName>BOSTON MASS</placeName>
-                    <lb/><salute><persName>DR LOCKHART</persName></salute>
+                    <lb/><persName>DR LOCKHART</persName> <!-- Should this be treated as an address? Probably. -->
+                    <lb/><salute>dear <persName>earl</persName></salute>
                  </opener>
-                 <p>
-                    <lb/>dear <persName>earl</persName> best wishes for a happy christmas. at least you can have
+                 <!-- Is any of the information in the opener a "byline"? -->
+                 <p>best wishes for a happy christmas. at least you can have
                     <lb/>real snow balls on your tree. little <persName>peter</persName> now weighs 31 lbs and stands
                     <lb/>20 inches. with this i am sending bad news . <rs>jack mahans father</rs> died
                     <lb/>on wednesday spent evening with them . he was <choice><sic>burried</sic><corr>buried</corr></choice> today be seeing
                     <lb/>you soon . love from all friend and family . thanks giving picture
-                    <lb/>of <geogName>south pole</geogName> appeared in <title level="j">new york times</title> . some beard. love
-                 </p>
-                  <lb/><signed><persName>beatie</persName></signed>
+                    <lb/>of <geogName>south pole</geogName> appeared in <title level="j">new york times</title> . some beard.</p>
+                   
+                   <closer>love
+                    <lb/><signed><persName>beatie</persName></signed>
+                   </closer>
                </div>
                
                <div xml:id="eel-19401226" type="radiogram" subtype="sent" facs="journal-2-64" n="/c/cb88c987-4c24-46d8-9b95-0b7859981f5c">
