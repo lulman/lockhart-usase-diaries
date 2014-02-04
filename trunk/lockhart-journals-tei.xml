@@ -1219,7 +1219,7 @@
             
             <pb facs="journal 2-26"/>
             <fw facs="page number 22"/>
-                  <lb/>whites in <placeName><region>Florida</region><</placeName>. I have spoken to <persName>Shirley</persName> about it and 
+                  <lb/>whites in <placeName><region>Florida</region></placeName>. I have spoken to <persName>Shirley</persName> about it and 
                   <lb/>hope he <unclear cert="high">reads</unclear> it. I should like to know if it at all <unclear cert="unknown">aw</unclear>
                   <lb/>accurate picture of the state where he lived much of his boyhood.
                   <lb/><title level="m">Gone with the Wind</title> tapered off slightly in <unclear cert="high">interest</unclear> and left me
@@ -1646,6 +1646,12 @@
      </text>  <!-- Close journal 2 text. -->
      <text xml:id="eel-journal2-radiograms">   <!-- Open text #2, telegrams inserted in journal #2. -->
             <body> <!-- Open body of text #2. -->
+               <div xml:id="eel-19401226b" type="radiogram" subtype="sent" facs="journal-2-47">
+                  <opener>
+                  <lb/><dateline><date when="1940-12-26" type="sent">Dec 26 1940</date></dateline>
+                     <lb/>
+                  </opener>
+               </div>
                <!-- A div for a radiogram from an earlier date would go here. -->
                <div xml:id="eel-19401231e" type="radiogram" subtype="received" facs="journal-2-53" n="/9/9fcd6e47-dbf3-4447-9214-6280bf6f3425">
                   <opener>
