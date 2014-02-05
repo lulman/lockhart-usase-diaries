@@ -257,7 +257,7 @@
    </xsl:template>
    
    <xsl:template match="tei:addrLine">
-      <br/><xsl:apply-templates/>
+      <xsl:apply-templates/>
    </xsl:template>
    
    <xsl:template match="tei:div[@type='letter']/tei:head">
