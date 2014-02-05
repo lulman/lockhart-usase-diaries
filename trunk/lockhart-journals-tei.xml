@@ -1126,21 +1126,21 @@
                <lb/>the meaning of work and what a working man thinks 
                <lb/>about the type of work not requiring a strong back and 
                <lb/>plenty of perspiration. One learns many new handicrafts 
-               <lb/>under the guidance - <del rend="strikethrough">half heart</del> half hearted sometimes <!-- might be "some times" with a space; need to verify --> to be sure - 
-               <lb/>of men who might be <unclear>chrosed</unclear> <!-- can't decipher all the letters here --> as <unclear>masters</unclear> <!-- not sure if this is the correct word because it is hard to read --> of their <unclear>cots</unclear> <!-- another word I can't decipher; best guess for now -->. If one 
+               <lb/>under the guidance - <del rend="strikethrough">half heart</del> half hearted sometimes<!-- might be "some times" with a space; need to verify --> to be sure - 
+               <lb/>of men who might be <unclear>chrosed</unclear><!-- can't decipher all the letters here --> as <unclear>masters</unclear><!-- not sure if this is the correct word because it is hard to read --> of their <unclear>cots</unclear>. If one 
                <lb/>is so priviled<add place="above">g</add>ed that <del type="strikethrough">his</del><add place="above">ones</add> work involves a trail trip then the
                <lb/>art of living among the elements and on only the bare necessities
-               <lb/>one acquires a confidence, an assurance and an interest <!-- confident about the word, but it has some larger gaps or spaces in between letters -->
-               <lb/>in things utterly foreign to one's early training and profits
+               <lb/>one<!-- o might be capital and new sentence -->  acquires a confidence, an assurance and an interest <!-- confident about the word, but it has some larger gaps or spaces in between letters -->
+               <lb/>in thing<!-- doesn't appear to be an s --> utterly foreign to one's early training and profits
                <lb/>according to one's ability to absorb and retain. Many small 
-               <lb/>never-to-be-forgotten incidents <!-- pretty sure it's incidents with an "s" but will double check --> are <unclear>engraved</unclear> in one's mental 
+               <lb/>never-to-be-forgotten incidents<!-- pretty sure it's incidents with an "s" but will double check --> are <unclear>engraved</unclear> in one's mental 
                <lb/>filing cabinet and whether or not they serve as the basis for 
-               <lb/><unclear>future</unclear> activities remain if only as memories. It is as though
+               <lb/><unclear cert="high">future</unclear> activities remain if only as memories. It is as though
                <lb/>an encyclopedia of many phases of life has been opened; those
-               <lb/>with eyes<!-- the s in eyes seems written a bit strangely --> ear and tongue profit. I am sure that my
+               <lb/>with eyes ear and tongue profit<!-- no commas and doesn't appear to be a period after this sentence, just a large space --> I am sure that my
                <lb/>home life in the future<!-- f in future scribbled over a few times; not quite a strikethrough or cancellation --> will be immeasurably more pleasant
-               <lb/>because I have invested several years to reap my <unclear>interest</unclear><!-- pretty sure it's interest singular -->
-               <lb/>some time later. <!-- the a in later is written over --> Time alone will tell the actual value of this
+               <lb/>because I have invested several years to reap my <unclear cert="high">interest</unclear><!-- pretty sure it's interest singular -->
+               <lb/>some time later. Time alone will tell the actual value of this
                <lb/>trip to the <placeName>Antarctic</placeName> and the time when dividends should be
                <lb/>showing begins almost immediately. <!-- period is a larger circle with a line through it -->
                <lb/> 
@@ -1149,8 +1149,8 @@
               <div xml:id="eel-19410103" type="entry">
                   
                     <lb/><dateline><date when="1941-01-03"><del rend="strikethough">Tuesday</del><add place="above">Friday</add> January <del type="strikethough">2</del><add place="above">3</add> 1940</date> </dateline><!-- in the id it gives the correct date; not sure how to indicate his error of writing 1940 when it should be 1941 -->
-                 
-                 <lb/><p><!-- does the p tag above indicate an indentation here? -->Alarm clocks have no place in my system of living. Never
+                 <p>
+                 <lb/>Alarm clocks have no place in my system of living. Never
                  <lb/>have I used one as<!-- the a in as has a diagonal line through it --> a constant companion and now that 
                  <lb/>I am<!-- the ink for these two words is faded --> using one I don't go by it. Since I have been trying to
                  
@@ -1158,45 +1158,46 @@
            <pb facs="journal-2-24.jpg" n="/8/821a5dea-fe96-424f-bd0a-8acf8941c8f6"/>  
            <fw type="pageNum" place="top">20</fw> 
            
-                 <lb/>to get up at least by <time>ten</time> in order to <unclear>run</unclear> metabolism tests
-                 <lb/>I have borrowed <persName>Court's</persName> alarm clock but when it rings I
-                 <lb/>just shut it off without waking <!-- the a is traced over and there might be something lightly written behind the k --> up and go back to sleep. Some
-                 <lb/>of the fellows ask me to call them at <!-- a has two circles or loops --> specific times but usually I
-                 <lb/>forget until sometime<!-- until and sometime are written a bit more faintly than the rest of the text --> later. No damage has been done yet. 
-                 <lb/><!-- entering a p for a paragraph indent isn't working here -->There<!-- "the" darker than the rest of the word --> was some excitement here last night. I didn't stay up 
-                 <lb/>to follow it completely but did get in on the tail end. <!--end a bit fainter --> The trail
-                 <lb/>parties have been dogged<!-- ged fainter --> unfortunately by soft surface<!-- t and surface fainter --> and heavy 
-                 <lb/>loads and are getting low on gas for the<!-- th darker --> tractor and dog food.
+                 <lb/>to<!-- yes there are two tos --> get up at least by <time>ten</time> in order to <unclear cert="high">run</unclear> metabolism tests<!-- comma would make sense here -->
+                 <lb/>I have borrowed <persName>Court's</persName> alarm clock<!-- comma would be good here --> but when it rings I
+                 <lb/>just shut it off without waking<!-- the a is traced over and there might be something lightly written behind the k --> up and go back to sleep<!-- might not be period here -->. Some
+                 <lb/>of the fellows ask me to call them at specific times but usually I
+                 <lb/>forget until sometime<!-- until and sometime are written a bit more faintly than the rest of the text --> later. No damage has been done yet<!-- might not be period here -->. </p>
+                 <p> 
+                 <lb/>There was some excitement here last night. I didn't stay up 
+                 <lb/>to follow it completely but did get in on the tail end<!--end a bit fainter and not sure if there's a period-->. The trail
+                 <lb/>parties have been dogged<!-- ged fainter --> unfortunately by soft surface<!-- t and surface fainter and might be all one word --> and heavy 
+                 <lb/>loads and are getting low on gas for the tractor and dog food.
                  <lb/>Last night after the schedule the airplane gang decided to take the
                  <lb/><name>Condor</name> out with supplies and bring back some of the load<!-- very faint dot looks like a faded period here and is a good word space away from typical end of sentence punctuation -->
                  <lb/>The weather was not so hot<!-- was not so hot fainter --> with some overcast coming in from
-                 <lb/>the east. They took off about <!-- a written smaller than his usual script --> <time>11PM</time> and <unclear>soon</unclear> reported that <!-- faint dot at the edge of the right margin -->
-                 <lb/>the overcast was becoming heavier. Not long after <!-- after a bit fainter --> they said they 
+                 <lb/>the east. They took off about <time>11PM</time> and <unclear cert="high">soon</unclear> reported that <!-- faint dot at the edge of the right margin -->
+                 <lb/>the overcast was becoming heavier. Not long after<!-- after a bit fainter --> they said they 
                  <lb/>saw the dog teams at <placeName>71</placeName> but because of overcast could not land.
                  <lb/>They passed over the expectant men and flew on to the tractor 
                  <lb/>party which was at <placeName>92</placeName>. There they were able to land leave some
-                 <lb/>food and gas and take on some load.<!-- no commas --> As they rose into
-                 <lb/>the air to make another attempt to land at <placeName>71</placeName>,<!-- letters alternate between heavier and lighter and here is that number again and the comma looks more like a period--> the star <!-- if that is a period this might be a new sentence; hard to tell with the "t" -->
-                 <lb/>board motor began sputtering and finally died altogether <!-- seems to be the end of a sentence but no punctuation; his punctuation here is rather uncharacteristically lax; perhaps he was writing quickly or when he was half-asleep? -->
-                 <lb/>The plane made a safe landing at about <unclear>80</unclear> midway <!-- last few letters of midway are fainter -->
-                 <lb/>between the <unclear>parties</unclear> and after making a rapid check up
+                 <lb/>food and gas and take on some load<!-- no commas and maybe no period --> As they rose into
+                 <lb/>the air to make another attempt to land at <placeName>71</placeName>,<!-- the comma is very faint --> the star <!-- if that is a period this might be a new sentence; hard to tell with the "t" -->
+                 <lb/>board motor began sputtering and finally died altogether<!-- seems to be the end of a sentence but no punctuation; his punctuation here is rather uncharacteristically lax; perhaps he was writing quickly or when he was half-asleep? -->
+                 <lb/>The plane made a safe landing at about <unclear>80</unclear> midway 
+                    <lb/>between the <unclear cert="high">parties</unclear> and after making a rapid check up
                  <lb/>found that <num>#4<!-- # sign written high and not on the line --></num> cylinder had failed and the piston had 
-                 <lb/>gone right through the cowling. Since this was the master 
+                 <lb/>gone right through the cowling<!-- aircraft term; tag as unusual term -->. Since this was the master 
                  <lb/>cylinder things looked black. <persName>Pete</persName> and <persName>Pappy</persName> warmed
-                 <lb/>up the Beechcarft and took off about <time>2:30 AM.<!-- AM is spaced out more and handwritten; 11PM earlier looked more closely spaced together, and PM was printed --></time> <persName>Pappy</persName> had
-                 <lb/><!-- the ink from the previous page bleeds through at the margin and obscures the first four words --> all the spare cylinder<!-- yl in cylinder has some writing over it; can't tell if it's the bleedthrough --> gear<!-- a seems traced over and there's a dot above r in gear --> he could find in the shop but
+                 <lb/>up the <name>Beechcraft</name> and took off about <time>2:30 AM<!-- AM is spaced out more and handwritten; 11PM earlier looked more closely spaced together, and PM was printed; period? --></time> <persName>Pappy</persName> had
+                 <lb/><!-- the ink from the previous page bleeds through at the margin and obscures the first four words -->all the spare cylinder gear<!-- a seems traced over and there's a dot above r in gear --> he could find in the shop but
                  
              
                <pb facs="journal-2-25.jpg" n="/4/4e9c39a9-e9f6-4c9a-9d6a-6d2f89f42729"/>
               <fw type="pageNum" place="top">21<!-- seems faintly underlined and written on a slant in the very rounded corner of the page --> </fw>
                  
-                 <lb/>to no avail what was needed<!-- runon sentence --> was a complete new engine.
-                 <lb/><persName>Pete</persName> brought back <persName>Poppy</persName> and <persName>Giles</persName> and then went <!-- e is written larger than usual; word seems a bit more spaced out than usual --> out
+                 <lb/>to no avail<!-- runon sentence if no period here and small w --> what was needed was a complete new engine.
+                 <lb/><persName>Pete</persName> brought back <persName>Poppy</persName> and <persName>Giles</persName> and then went out
                  <lb/>for <persName>Paul</persName> and <persName>Mac</persName>. <persName>Pete</persName> had to go all the way to the 
                  <lb/>tractor and then to the plane. The overcast that had been
                  <lb/>increasing had become so bad that <persName>Pete</persName> was afraid 
-                 <lb/>he had missed <!-- "I' in missed handwritten over --> the plane when he had flown<!-- own inked over a few times --> some time 
-                 <lb/>and had just decided to make <del rend="strikethrough"> <unclear>tlo </unclear> back</del> tracks back to 
+                 <lb/>he had missed the plane when he had flown some time 
+                 <lb/>and had just decided to make <del rend="strikethrough"><unclear>tlo</unclear> back</del> tracks back to 
                  <lb/>the base when the <name>Condor</name> loomed up. He landed <del rend="strikethrough"><unclear>too</unclear></del> and 
                  <lb/>while <persName>Paul</persName><!-- Paul is written somewhat faintly --> and <persName>Mac</persName> were getting ready took off again 
                  <lb/><add place="above" rend="^">accompanied by <persName>Paul</persName></add> with food and dog food for the dog team parties. They
@@ -1204,16 +1205,17 @@
                  <lb/><unclear confidence=".4">pinning</unclear> them down but made the trip of <num>10</num> miles successfully <!-- no period seen -->
                  <lb/>After a few minutes of greetings and fare wells<!-- not sure if this is written as 1 or 2 words; small space in between --> they went 
                  <lb/>back to the <name>Condor</name>. After packing in as much gear a<!-- something written over the "a" -->s the
-                 <lb/>little plane would stand the three <!-- might be a smudge on the page near write, or my computer! --> men turned for home
-                 <lb/>leaving the <name>Condor</name> in what will probably <!-- ll and p,b,y in probably a bit darker, and the smudge seen above near "three" seems to start over the word will --> be her last  
+                 <lb/>little plane would stand the three men turned for home
+                 <lb/>leaving the <name>Condor</name> in what will probably be her last  
                  <lb/>landing place. She tried to do her job but just wasn't 
                  <lb/>good enough. <persName>Pete</persName> had some difficulty getting down here 
                  <lb/>at the base but landed safely. Now the trail parties 
                  <lb/>will have to battle their way in and the <name>Beechcraft</name> will
                  <lb/>make some flights out to the <name>Condor</name> to salvage some of the 
                  <lb/>valuable instruments such as the drift indicator worth about 
-                 <lb/><num>$1500<!--$ is written above and the 1500 is smaller than the letters. There is also space slightly larger than usual after the amount of money  --></num>. We all are happy that the accident didn't happen
-                 <lb/>when the <name>Condor</name> was <num>500</num> miles from the base. 
+                 <lb/><num>$1500<!--$ is written above might be 15000 and is smaller than the letters. There is also space slightly larger than usual after the amount of money  --></num>. We all are happy that the accident didn't happen
+                 <lb/>when the <name>Condor</name> was <num>500</num> miles from the base. </p>
+                 <p>
                  <lb/>My reading has tended to be southern in nature <!-- don't see a period here but it is the end of a sentence -->
                  <lb/>After finishing <title>Gone with the Wind</title><!-- might be a slightly larger space than usual after Wind --> I started in on <title>South
                  <lb/>Moon Under</title><!-- might be another slightly space after Under --> and found it to be concerned with poor
