@@ -1676,9 +1676,9 @@
                </div>
                 
              
-               <div xml:id="eel-19401231a" type="radiogram" subtype="sent" facs="journal-2-49" n="">
+               <div xml:id="eel-19401231a" type="radiogram" subtype="sent" facs="journal-2-49" n="/4/4bfcf4fd-687b-48e2-9169-0c1d69d9ba36">
                   <opener> 
-                     <lb/><dateline><date when="1940-12-31">Dec 31 1940</date></dateline> 
+                     <lb/><dateline><date when="1940-12-31" type="sent">Dec 31 1940</date></dateline> 
                      <address>
                         <lb/><persName>Mrs. W H Mann</persName>
                         <lb/><addrLine>1281 Ramona Ave</addrLine>
@@ -1688,15 +1688,15 @@
                   <p>
                      <lb/>Arrived back at base for christmas. Had a wonderful trip. Awaiting
                      <lb/>arrival of ships for mail they hold. Anxious to get back to see
-                     <lb/>everyone. Return via Valporaiso Panama and Seattle. May have a 
-                     <lb/>few days to spend with you while crossing country. Arrive Seattle
+                     <lb/>everyone. Return via <placeName>Valporaiso</placeName> <placeName>Panama</placeName> and <placeName>Seattle</placeName>. May have a 
+                     <lb/>few days to spend with you while crossing country. Arrive <placeName>Seattle</placeName>
                      <lb/>middle April. Happy new year to all. 
                   </p>
-                  <closer><persName>Earl</persName></closer>
+                  <lb/><closer><persName>Earl</persName></closer>
                </div>
-               <div xml:id="eel-19401231b" type="radiogram" subtype="sent" facs="journal-2-50">
+               <div xml:id="eel-19401231b" type="radiogram" subtype="sent" facs="journal-2-50" n="/b/bbbadca7-b003-4003-a8a6-5b63720cd93d">
                   <opener>
-                     <lb/><dateline><date when="1940-12-31">Dec 31 1940</date></dateline>
+                     <lb/><dateline><date when="1940-12-31" type="sent">Dec 31 1940</date></dateline>
                      <address>
                         <lb/><persName>Mr George W Trefts</persName>
                         <lb/><addrLine>730 Atlanta Ave</addrLine>
@@ -1706,11 +1706,11 @@
                   <p>
                      <lb/>Still out on trail when you spoke over air. Reception very poor.
                      <lb/>Sorry. Thanks for sending pictures to mother. Leave here for
-                     <lb/>Seattle end of January. Please pass word along to Karlstrom.
+                     <lb/><placeName>Seattle</placeName> end of January. Please pass word along to <persName>Karlstrom</persName>.
                      <lb/>Arrive middle April. Be seeing you on way home if possible. 
                      <lb/>Happy new year.
                   </p>
-                  <closer><persName>Earl</persName></closer>
+                  <lb/><closer><persName>Earl</persName></closer>
                </div>
                <!-- A div for a radiogram from an earlier date would go here. -->
                <div xml:id="eel-19401231e" type="radiogram" subtype="received" facs="journal-2-53" n="/9/9fcd6e47-dbf3-4447-9214-6280bf6f3425">
