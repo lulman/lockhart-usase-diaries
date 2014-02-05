@@ -1556,9 +1556,38 @@
                 <lb/>own ax to grind--a book on the expedition for the
                 <lb/>Admiral--and consequently will have little cooperation
                </p>
+       <!-- Misha Me Fecit -->
+               <pb facs="journal-2-39.jpg" n="" />
+               <!-- Don't rememer what to put for the n attribute... Ask Lewis...-->
+               <fw type="pageNum" place="top">35</fw>
+               <!-- 35 should be underlined? -->
+               <p>
+                  <lb/>He has already done some funny things with film
+                  <lb/>entrusted to him when he came down last year so
+                  <lb/>I doubt that he will be given the same opportunity
+                  <lb/>this time. So far as some of us are concerned his
+                  <lb/>plans will be defeated because we have received orders
+                  <lb/>from <persName>Dr. Wade</persName> the chief scientist to turn <!-- upper insertion --> in to him <!-- snip -->anything
+                  <!-- Look up pername handling -->
+                  <lb/>that can have <!-- deletion -->a<!-- snip --> bearing on our own scientific reports
+                  <lb/>This we shall gladly do because we trust him where as 
+                  <lb/>we don't trust <persName>Hawthorne</persName>. No matter now. All
+                  <lb/>the dish will come out in the wash.
+               </p> 
           </div>  
          <div xml:id="eel19410115a" type="entry">
-      
+               <p>
+                  <lb/>No metabolism test this morning but we did have
+                  <lb/>eggs sunny side up again. For the first time in my
+                  <lb/>life I ate four eggs at one sitting and I believe I
+                  <lb/>could have eaten a couple more.
+               </p>
+               <p>
+                  <lb/>All of the <!-- Spelling? -->food<!-- snip --> going back much of the radio gear
+                  <lb/><!-- Spelling? -->meterological<!-- snip --> equipment and aviation gear has already
+                  <lb/>been taken down to the barrier edge. 
+               </p>
+            <!-- Misha Exit -->
            <pb facs="jouranl-2-40.jpg" n="/c/c459ce06-004e-4068-b349-a293327f6170"/>
          <fw type="pageNum" place="top">36</fw>
             <p> 
