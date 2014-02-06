@@ -2143,7 +2143,22 @@
                  </p>
                   <closer>BY <persName>BEATIE</persName></closer>
                 </div>   
-               
+               <div xml:id="eel-19400419" type="radiogram" subtype="received" facs="journal-2-70" n="/2/2a6d7bed-4810-48f4-9f2a-75d31b7d506d">
+                 <opener>
+                    <lb/>7 NIJS FB Z NIJS 182030 WTDU GR 37
+                    <lb/>
+                 </opener> 
+                 <p>
+                    <lb/>MSG DR E E LOCKHART X COULD YOU ARRANGE WITH THE POWER THAT BE
+                    <lb/>AND SEE IF YOU CAN GET ONE OF SHELIA PUPS FOR ME X LET ME KNOW
+                    <lb/>MANY THANKS REGARDS TO ALL <persName>TONY COLUMBO</persName>
+                    <lb/>
+                    <!-- See if this bottom should be closer but without LB -->
+                 </p> 
+                 <closer>
+                    <dateline><date when="1940-04-19" type="received">0040/19 APR</date></dateline>
+                 </closer>
+               </div>
                <div xml:id="eel-19410427" type="radiogram" subtype="received" facs="journal-2-71" n="/6/6ba69e71-75d0-4690-a21d-b8648a4159e4">
                   <opener>
                      <lb/><dateline><date when="1941-04-27" type="received" >27 r 1941</date></dateline>
