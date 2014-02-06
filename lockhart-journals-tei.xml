@@ -819,7 +819,7 @@
                <p>
             <pb facs="journal-2-14.jpg" n="/5/5debfbea-aaeb-4e48-8d0c-b2aa8b0c8828"/>
             <fw type="pageNum" place="top">10</fw>
-                  <lb/>I prepared what will probably be my <unclear>usual</unclear> <foreign xml:lang="french">piece-de-resistance</foreign>
+                  <lb/>I prepared what will probably be my usual <foreign xml:lang="french">piece-de-resistance</foreign>
                   <lb/>scrambled eggs <foreign xml:lang="french">ala</foreign> <persName>Lockhart</persName>. These with toast and coffee
                   <lb/> completed the morning repast.
                </p>
@@ -868,7 +868,7 @@
             </p>
          </div>
          <div xml:id="eel-19401229a" type="entry">
-            <lb/><dateline><date when="19401229">12/29/40</date><time>1:30am</time></dateline>
+            <lb/><dateline><date when="19401229">12/29/40</date> <time>1:30am</time></dateline>
             <p>
                <lb/>Not long after <persName>Pete</persName> brought his skua gull in <persName>Wiener</persName> went out
                <lb/>with his 22 rifle and brought back two more which <persName>Pete</persName>
@@ -898,7 +898,7 @@
               </p>
            </div>
            <div xml:id="eel-19401229b" type="entry">
-              <lb/><dateline><date when="19401229">Sunday Dec<del rend="strikethrough">30</del><add place="above">29</add>1940</date></dateline>
+              <lb/><dateline><date when="19401229">Sunday Dec <del rend="strikethrough">30</del><add place="above">29</add> 1940</date></dateline>
               <p>
                  <lb/>I had a very difficult time getting up this morning. Although
                  <lb/>I wanted to get up at <time>10</time> it was close to <time>11</time> before I descended
@@ -917,7 +917,7 @@
                  <lb/>in one the ice within the next few days. <persName>Asman</persName> and <persName>Pete</persName> took
                  <lb/>the tank out for a spin and were not able to get it up out of
                  <lb/>the <geogFeat>bight</geogFeat> so they left it there. They gave it another try tonight
-                 <lb/>but it was no <unclear cert="medium">soap</unclear>. They will have to wait a while longer until
+                 <lb/>but it was no soap. They will have to wait a while longer until
                  <lb/>the surface gets a little harder. <del rend="strikethrough">They</del> The boys don't do much
                  <lb/>work around here but they do sit and chew the fat. More 
                  <lb/><choice><sic>arguements</sic><corr>arguments</corr></choice> can arise over the most obscure&#x2014;and some not
@@ -1699,6 +1699,9 @@
                 <lb/>film journals diaries etc is suspected of having his
                 <lb/>own ax to grind--a book on the expedition for the
                 <lb/>Admiral--and consequently will have little cooperation
+<<<<<<< .mine
+               </p>
+=======
                </p>
        <!-- Misha Me Fecit -->
                <pb facs="journal-2-39.jpg" n="/a/a95e7b8a-3a8d-4a07-9b3f-7a12798fa0ee"/>
@@ -1718,7 +1721,17 @@
                   <lb/>we don't trust <persName>Hawthorne</persName>. No matter now. All
                   <lb/>the dish will come out in the wash.
                </p> 
+>>>>>>> .r252
           </div>  
+<<<<<<< .mine
+          <div xml:id="eel19410115a" type="entry">
+          <pb facs="jouranl-2-40.jpg" n="/c/c459ce06-004e-4068-b349-a293327f6170"/>
+         <fw type="pageNum" place="top">36</fw>
+=======
+>>>>>>> .r252
+<<<<<<< .mine
+           <p> 
+=======
          <div xml:id="eel19410115a" type="entry">
                <p>
                   <lb/>No metabolism test this morning but we did have
@@ -1743,6 +1756,7 @@
             <!-- Misha Exit -->
            <pb facs="jouranl-2-40.jpg" n="/c/c459ce06-004e-4068-b349-a293327f6170"/>
          <fw type="pageNum" place="top">36</fw>
+>>>>>>> .r252
             <lb/>runs away occasionally.</p>
             <p>
                <lb/>I made up some <persName>Benedict's</persName> for <persName>Due</persName> and he shows
@@ -2140,7 +2154,12 @@
                     <lb/>HAAR FROM YOU X THANK GOODNESS YOUR DOG IS LOSING WEIGHT X PETER IS NOW
                     <lb/><measure><num>58</num>LBS</measure> X LETTERS WAITING A VALPO AND BALBOA X WE ARE ALL WELL AND
                     <lb/>LOOKING FARWARD TO <date>JUNE FIRST</date>X ONE MORE LETTER GOES TO BALBOA TODAY X LOVE
+<<<<<<< .mine
                  </p>
+                   
+=======
+                 </p>
+>>>>>>> .r252
                   <closer>BY <persName>BEATIE</persName></closer>
                 </div>   
                <div xml:id="eel-19400419" type="radiogram" subtype="received" facs="journal-2-70" n="/2/2a6d7bed-4810-48f4-9f2a-75d31b7d506d">
