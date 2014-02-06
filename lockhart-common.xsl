@@ -443,7 +443,7 @@
       </em>
    </xsl:template>
    
-   <xsl:template match="tei:person/tei:name[@type='ship']">
+   <xsl:template match="tei:person/tei:name[@type='ship | aircraft']">
       <em>
          <xsl:apply-templates/>
       </em>
