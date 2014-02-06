@@ -1562,7 +1562,6 @@
            
            <pb facs="journal-2-35.jpg" n="/7/7fcaf75e-b11c-4550-b8c6-1f54f7e00792"/>
          <fw type="pageNum" place="top">31</fw>
-         <div xml:id="eel-19410112" type="entry">
             <p>
                <lb/>I read them all all over again. I had one from <persName>May</persName>
                <lb/>which had in it some pictures of <persName>Carl</persName> and her and
@@ -2020,36 +2019,41 @@
                   <lb/>FROM <placeName type="city">CLEVELAND</placeName> 0 <abbr>NOV</abbr> NO DATE 
                   <lb/><persName type="misspelling">LOCKHARD</persName> <!--This is probably a typo but lets not rule out that lockhard could be a nickname-->
                   </opener> 
-                  <lb/>
+                  <p>
+                     <lb/>
                   <lb/>think of you often x hope you are enjoying pleasnt summer and iteresting 
                   <lb/>trip x fattering calif <!--I'm sure it means fattening calf--> against your return x love
                   <lb/>
+                  </p>
                   <closer>
                   <lb/> <signed><persName>margaret</persName></signed>
                   </closer>   
-                  <lb/> NOW- <del type="pen scrates">4</del>
+                  <note><lb/> NOW- <del type="pen-scrates">4</del>
                   <lb/>0826
-                  <lb/>2 <!--The 2 is followed by illegible scribbles here; the three lines after margaret were all wrtten in after and at an angle-->
+                  <lb/>2
+                  </note> <!--The 2 is followed by illegible scribbles here; the three lines after margaret were all wrtten in after and at an angle-->
                                
                </div>  
                  
-               <div xml:id="19401222" type="radiogram" subtype="received" facs="journal-2-62" n="/4/4c005625-1a86-48c5-904b-89cd52cea965">
+               <div xml:id="eel-19401222a" type="radiogram" subtype="received" facs="journal-2-62" n="/4/4c005625-1a86-48c5-904b-89cd52cea965">
                 <opener>
-                   <lb/><name type="call-sign">25 wlmc</name> <placeName type="city">cleveland</placeName> <date type="date sent">dec 19</date> <date type="received">22 Dec 1940</date>
+                   <lb/><name type="call-sign">25 wlmc</name> <placeName type="city">cleveland</placeName> <date type="sent">dec 19</date> <date type="received">22 Dec 1940</date>
                    <persName>LOCKHART</persName>
                 </opener> 
-                  <lb/>
+                  <p><lb/>
                   <lb/>
                   <lb/>we will be thinking of you on xmas day x hope you will make a 
                   <lb/>merry christmas for yourself at the <placeName>south pole</placeName> x will <!--it looks like the letter i in will was put over a letter e--> we talk to
                   <lb/>you during the holidays
                   <lb/>
+                  </p>
                   <closer>
                      margaret mann
                   </closer>
-                  <lb/>
-                  <lb/>N U W - 4 <!--This could be either a 4 or a capital H-->
-                  <lb/>0817 <!-- Again, these last two lines were written in afterward -->
+                  <note><lb/>
+                    <lb/>N U W - 4 <!--This could be either a 4 or a capital H-->
+                    <lb/>0817
+                  </note> <!-- Again, these last two lines were written in afterward -->
                   
                </div>  
                   
