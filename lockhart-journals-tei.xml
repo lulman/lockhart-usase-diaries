@@ -1867,18 +1867,18 @@
                </div>
                 <div xml:id="eel-19401210a" type="radiogram" subtype="received" facs="journal-2-58" n="/c/c54c11a9-659f-4566-b4f8-b81635104f9f">
                  <opener>
-                    <lb/>2 <name type="call-sign">wlmc</name> <placeName>boston mass</placeName> <date when="1940-12-05" type="received">dec 5</date><dateline><date when="1940-12-10" type="transmitted">10 dec 1940</date></dateline>
-                    <lb/><salute><persName>earl<choice><sic>lockhard</sic><corr>lockhart</corr></choice></persName></salute>
+                    <lb/>2 <name type="call-sign">wlmc</name> <placeName>boston mass</placeName> <date when="1940-12-05" type="received">dec 5</date> <dateline><date when="1940-12-10" type="transmitted">10 dec 1940</date></dateline>
+                    <lb/><salute><persName>earl <choice><sic>lockhard</sic><corr>lockhart</corr></choice></persName></salute>
                  </opener>
                  <p>
                     <lb/>just discovered that you can receive messages on this trip you are
                     <lb/><choice><sic>talking</sic><corr>taking</corr></choice> x sorry not to have <gap reason="overwritten with x's" unit="chars" extent="2"/>nt anything for before x hope you are well
                     <lb/>x little <persName>peter</persName> now weighs 26 pounds x bring on your husky x everyone <seg type="softhyphen">look
                     <lb/></seg>ing forward anxiously to your2return we <gap reason="overwritten with x's" unit="chars" extent="4"/> all well and happy x eight
-                    <lb/>inches o<gap reason="overwritten with x's"/> snow for thanksgiving all well
+                    <lb/>inches o<gap reason="overwritten"/>f snow for thanksgiving all well
                  </p>
                     <lb/><closer><persName>beatie</persName></closer>
-                    <!-- There are some handwritten letters in pencil on the bottom of this radiogram. Possibly used to send the rg? -->
+                    <!-- There are some handwritten letters in pencil on the bottom of this radiogram. Possibly used to send it? -->
                 </div>
                <div xml:id="eel-1941-01-16" type="radiogram" subtype="received" facs="journal-2-59" n="/4/4741f814-0c98-42d0-89e7-013bfe2836fa">
                   <opener> 
@@ -1966,8 +1966,8 @@
                      </address>
                   </opener>
                   <p>
-                     <lb/>Am looking forward to the letters I know will be on the Beer and 
-                     <lb/>the Star. Lost about ten pounds while on the trail but I could
+                     <lb/>Am looking forward to the letters I know will be on the <name type="ship">Bear</name> and 
+                     <lb/>the <name type="ship">Star</name>. Lost about ten pounds while on the trail but I could
                      <lb/>stand that. Hope to bring home my lead dog. He is one of the
                      <lb/>largest dogs we have in camp. Weight about ninety pounds. He
                      <lb/>is some dog even though the fellows make fun of him.
