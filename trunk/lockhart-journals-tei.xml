@@ -928,7 +928,7 @@
          <fw type="pageNum" place="top">13</fw>
                <lb/>that he rolls <del rend="strikethrough">the</del> oranges before squeezing out the the juice in order
                <lb/>to get the citric acid out of the skin. <persName>Shirley</persName> argues that he
-               <lb/>rolls the oragnes in order to break the skin and the cellular
+               <lb/>rolls the oranges in order to break the skin and the cellular
                <lb/>structure inside. They appealed to me being the chemist to
                <lb/>settle the argument.  I tried to steer clear but finally sided
                <lb/>with <persName>Shirley</persName> which action made the cook leak water a
@@ -940,7 +940,7 @@
             </p>
             <p>
                <lb/>I have come back from the trail with an intense desire to
-               <lb/>do some more camping - preferably in Canada - and all the
+               <lb/>do some more camping - preferably in <country>Canada</country> - and all the
                <lb/>other activities that go with it hunting and fishing. I
                <lb/>presume that the best way to begin is to go some advertised 
                <lb/>camp and hire a guide for a week or so. <del rend="strikethrough">I shall get</del>
@@ -958,7 +958,7 @@
             <date when="1941-12-31"></date>Tuesday December 31 1941</dateline>
             <p>
                <lb/>We have been operating such an erratic schedule and
-               <lb/>also have to deal with Greenwich Mean Time that
+               <lb/>also have to deal with <term>Greenwich Mean Time</term> that
                <lb/>I have been confused concerning the day and date for
                <lb/>several days. Yesterday I thought today was to be New Year
                <lb/>and now that we are actually in the New Year by camp
@@ -970,17 +970,17 @@
                <lb/>this morning slipped by with no entry entirely because I had
                <lb/>gotten so far into <title>Gone with the Wind</title> that wartime was a thing
                <lb/>of minor importance.  I read that amazing <subst><del rend="strikethrough">epis</del><add place="above">narrative</add></subst> of life
-               <lb/>among the Southerners during the Civil War days until almost
+               <lb/>among the Southerners during the <name>Civil War</name> days until almost
                <lb/>AM.  I wasn't reading all of the time but enough of the time 
                <lb/>so that work which should be the main object these days
                <lb/>stagnated.  The book which begins <del rend="strikethrough">I</del> mildly and almost
                <lb/>boringly soon gets under way and its power makes itself
-               <lb/>evident.  The South which has been a mystery to me and
-               <lb/>no doubt to countless other Americans will soon become in
+               <lb/>evident.  <region>The South</region> which has been a mystery to me and
+               <lb/>no doubt to countless other <name>Americans</name> will soon become in
                <lb/>my mind something more than the land of cotton, belles,
                <lb/>"gentlemen" and mint juleps.  Perhaps even the answer to 
-               <lb/>the legendary or hereditary hate most Southerners have 
-               <lb/>for Northeners in general would be evident.  At any rate
+               <lb/>the legendary or hereditary hate most <name>Southerners</name> have 
+               <lb/>for <name>Northeners</name> in general would be evident.  At any rate
                <lb/>I felt then that I should get a little American History into
             </p>
          <pb facs="journal-2-19.jpg" n="/D/deb45e3a-81a3-4f00-b7e3-88e35c2e76c7"/>
@@ -995,10 +995,10 @@
                <lb/>If the Yankees had been able to win the war without
                <lb/>the Sherman-in-Atlanta episode perhaps all of the
                <lb/>stigma which now is attached <del rend="strikethrough">th</del>to the word Northener
-               <lb/>might have been avoided.  Conerning the Civil War no
+               <lb/>might have been avoided.  Conerning the <name>Civil War</name> no
                <lb/>one can say "that's all ancient History" because in
                <lb/>the South, as far as I can gather from some of the Southern boys
-               <lb/>here, the Civil War is still being fought with almost the 
+               <lb/>here, the <name type="event">Civil War</name> is still being fought with almost the 
                <lb/>same intensity as in the days of the actual war itself.  I
                <lb/>am now about to embark on the history of the post war days
                <lb/>which are to be considered as bad if not worse than <del>those</del>
@@ -1006,7 +1006,7 @@
             </p>
             <p>
                <lb/>Yesterday I worked on <persName>Tony</persName> again and today should have
-               <lb/>worked <del>of</del> on Jack Richardson but he was up even later
+               <lb/>worked <del>of</del> on <persName>Jack Richardson</persName> but he was up even later
                <lb/>than I so I didn't bother to wake him at ten this morning.
             </p>
             <p>
@@ -1831,7 +1831,7 @@
               </p>
            </div>
             <pb facs="journal-2-46.jpg" n="/d/d38e7754-5bff-48d5-89cc-0e262e1134f3"/>
-      </body> <!-- Close body of journal 2 text. -->
+     </body> <!-- Close body of journal 2 text. -->
      </text>  <!-- Close journal 2 text. -->
      <text xml:id="eel-journal2-radiograms">   <!-- Open text #2, telegrams inserted in journal #2. -->
             <body> <!-- Open body of text #2. -->
@@ -1936,8 +1936,8 @@
                   <opener>
                     <lb/><date when="1941-01-03" type="received">Jan 3 1940</date>
                     <lb/><persName>Mr Guernsey and Family</persName>
-                    <lb/>7 Upland Rd
-                     <lb/><placeName>Wellsley Mass</placeName>
+                     <lb/><placeName>7 Upland Rd
+                     <lb/>Wellsley Mass</placeName>
                   </opener>
                   <p>
                      <lb/>Arrived back at base in time for Christmas. Had wonderful trip with
