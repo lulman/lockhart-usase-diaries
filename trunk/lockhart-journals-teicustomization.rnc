@@ -6,7 +6,7 @@ namespace rng = "http://relaxng.org/ns/structure/1.0"
 namespace sch = "http://purl.oclc.org/dsdl/schematron"
 namespace xlink = "http://www.w3.org/1999/xlink"
 
-# Schema generated from ODD source 2014-01-24T08:16:18Z. 
+# Schema generated from ODD source 2014-02-10T17:39:32Z. 
 # Edition: 2.5.0. Last updated on
 #	26th July 2013.
 # Edition Location: http://www.tei-c.org/Vault/P5/2.5.0/
@@ -405,6 +405,7 @@ att.editLike.attribute.instant =
   [ a:defaultValue = "false" ] attribute instant { data.xTruthValue }?
 att.global.attributes =
   att.global.linking.attributes,
+  att.global.analytic.attributes,
   att.global.facs.attributes,
   att.global.change.attributes,
   att.global.attribute.xmlid,
@@ -534,6 +535,21 @@ att.resourced.attribute.url =
   
   ## (uniform resource locator) specifies the URL from which the media concerned may be obtained.
   attribute url { data.pointer }
+att.interpLike.attributes =
+  att.responsibility.attributes,
+  att.interpLike.attribute.type,
+  att.interpLike.attribute.inst
+att.interpLike.attribute.type =
+  
+  ## indicates what kind of phenomenon is being noted in the passage.
+  ## Sample values include: 1] image; 2] character; 3] theme; 4] allusion
+  attribute type { data.enumerated }?
+att.interpLike.attribute.inst =
+  
+  ## (instances) points to instances of the analysis or interpretation represented by the current element.
+  attribute inst {
+    list { data.pointer+ }
+  }?
 att.measurement.attributes =
   att.measurement.attribute.unit,
   att.measurement.attribute.quantity,
@@ -922,7 +938,7 @@ model.nameLike.agent_sequenceOptional = name?, orgName?, persName?
 model.nameLike.agent_sequenceOptionalRepeatable =
   name*, orgName*, persName*
 model.nameLike.agent_sequenceRepeatable = name+, orgName+, persName+
-model.segLike = seg
+model.segLike = seg | s | cl | phr | w | m | c | pc
 model.hiLike = hi
 model.hiLike_alternation = hi
 model.hiLike_sequence = hi
@@ -1078,7 +1094,8 @@ model.pPart.transcriptional_sequenceRepeatable =
   supplied+
 model.pPart.edit = model.pPart.editorial | model.pPart.transcriptional
 model.ptrLike = ptr | ref
-model.global.meta = index
+model.lPart = notAllowed
+model.global.meta = index | span | spanGrp | interp | interpGrp
 model.milestoneLike = milestone | gb | pb | lb | cb | fw
 model.gLike = notAllowed
 model.biblLike = bibl | biblStruct | listBibl | biblFull | msDesc
@@ -1449,6 +1466,7 @@ model.phrase =
   | model.pPart.msdesc
   | model.pPart.edit
   | model.ptrLike
+  | model.lPart
   | model.pPart.data
 model.limitedPhrase =
   model.hiLike
@@ -2260,6 +2278,7 @@ pb =
     att.global.linking.attribute.prev,
     att.global.linking.attribute.exclude,
     att.global.linking.attribute.select,
+    att.global.analytic.attribute.ana,
     att.global.change.attribute.change,
     att.typed.attributes,
     att.edition.attributes,
@@ -3616,6 +3635,7 @@ floatingText =
     att.global.linking.attribute.prev,
     att.global.linking.attribute.exclude,
     att.global.linking.attribute.select,
+    att.global.analytic.attribute.ana,
     att.global.facs.attribute.facs,
     att.global.change.attribute.change,
     att.divLike.attributes,
@@ -5496,6 +5516,266 @@ figDesc =
   
   ## (description of figure) contains a brief prose description of the appearance or content of a graphic figure, for use when documenting an image without displaying it. [14.4. ]
   element figDesc { macro.limitedContent, att.global.attributes, empty }
+s =
+  
+  ## (s-unit) contains a sentence-like division of a text. [17.1.  8.4.1. ]
+  element s {
+    macro.phraseSeq
+    >> sch:pattern [
+         id = "s-constraint-noNestedS"
+         "\x{a}" ~
+         "            "
+         sch:rule [
+           context = "tei:s"
+           "\x{a}" ~
+           "               "
+           sch:report [
+             test = "tei:s"
+             "You may not nest one s element within\x{a}" ~
+             "      another: use seg instead"
+           ]
+           "\x{a}" ~
+           "            "
+         ]
+         "\x{a}" ~
+         "         "
+       ],
+    att.global.attributes,
+    att.segLike.attributes,
+    att.typed.attributes,
+    empty
+  }
+cl =
+  
+  ## (clause) represents a grammatical clause. [17.1. ]
+  element cl {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.segLike.attributes,
+    att.typed.attributes,
+    empty
+  }
+phr =
+  
+  ## (phrase) represents a grammatical phrase. [17.1. ]
+  element phr {
+    macro.phraseSeq,
+    att.global.attributes,
+    att.segLike.attributes,
+    att.typed.attributes,
+    empty
+  }
+w =
+  
+  ## (word) represents a grammatical (not necessarily orthographic) word. [17.1. ]
+  element w {
+    (text
+     | model.gLike
+     | seg
+     | w
+     | m
+     | c
+     | pc
+     | model.global
+     | model.lPart
+     | model.hiLike
+     | model.pPart.edit)*,
+    att.global.attributes,
+    att.segLike.attributes,
+    att.typed.attributes,
+    
+    ## provides a lemma for the word, such as an uninflected dictionary entry form.
+    attribute lemma { data.text }?,
+    
+    ## provides a pointer to a definition of the lemma for the word, for example in an online lexicon. 
+    attribute lemmaRef { data.pointer }?,
+    empty
+  }
+m =
+  
+  ## (morpheme) represents a grammatical morpheme. [17.1. ]
+  element m {
+    (text | model.gLike | seg | m | c | model.global)*,
+    att.global.attributes,
+    att.segLike.attributes,
+    att.typed.attributes,
+    
+    ## identifies the morpheme's base form.
+    attribute baseForm { data.word }?,
+    empty
+  }
+c =
+  
+  ## (character) represents a character. [17.1. ]
+  element c {
+    macro.xtext,
+    att.global.attributes,
+    att.segLike.attributes,
+    att.typed.attributes,
+    empty
+  }
+pc =
+  
+  ## (punctuation character) contains a character or string of characters regarded as constituting a single punctuation mark. [17.1. ]
+  element pc {
+    (text | model.gLike | c | model.pPart.edit)*,
+    att.global.attributes,
+    att.segLike.attributes,
+    att.typed.attributes,
+    
+    ## indicates the extent to which this punctuation mark conventionally separates words or phrases
+    attribute force {
+      
+      ## the punctuation mark is a word separator
+      "strong"
+      | 
+        ## the punctuation mark is not a word separator
+        "weak"
+      | 
+        ## the punctuation mark may or may not be a word separator
+        "inter"
+    }?,
+    
+    ## provides a name for the kind of unit delimited by this punctuation mark.
+    attribute unit { data.enumerated }?,
+    
+    ## indicates whether this punctuation mark precedes or follows the unit it delimits.
+    attribute pre { data.truthValue }?,
+    empty
+  }
+att.global.analytic.attributes = att.global.analytic.attribute.ana
+att.global.analytic.attribute.ana =
+  
+  ## (analysis) indicates one or more elements containing interpretations of the element on which the ana attribute appears.
+  attribute ana {
+    list { data.pointer+ }
+  }?
+span =
+  
+  ## associates an interpretative annotation directly with a span of text. [17.3. ]
+  element span {
+    macro.phraseSeq.limited
+    >> sch:pattern [
+         id = "span-constraint-targetfrom"
+         "\x{a}" ~
+         "            "
+         sch:rule [
+           context = "tei:span"
+           "\x{a}" ~
+           "               "
+           sch:report [
+             test = "@from and @target"
+             "\x{a}" ~
+             "Only one of the attributes @target and @from may be supplied on "
+             sch:name [ ]
+             "\x{a}" ~
+             "               "
+           ]
+           "\x{a}" ~
+           "            "
+         ]
+         "\x{a}" ~
+         "         "
+       ]
+    >> sch:pattern [
+         id = "span-constraint-targetto"
+         "\x{a}" ~
+         "            "
+         sch:rule [
+           context = "tei:span"
+           "\x{a}" ~
+           "               "
+           sch:report [
+             test = "@to          and          @target"
+             "\x{a}" ~
+             "Only one of the attributes @target and @to may be supplied on "
+             sch:name [ ]
+             "\x{a}" ~
+             "               "
+           ]
+           "\x{a}" ~
+           "            "
+         ]
+         "\x{a}" ~
+         "         "
+       ]
+    >> sch:pattern [
+         id = "span-constraint-tonotfrom"
+         "\x{a}" ~
+         "            "
+         sch:rule [
+           context = "tei:span"
+           "\x{a}" ~
+           "               "
+           sch:report [
+             test = "@to          and          not(@from)"
+             "\x{a}" ~
+             "If @to is supplied on "
+             sch:name [ ]
+             ", @from must be supplied as well"
+           ]
+           "\x{a}" ~
+           "            "
+         ]
+         "\x{a}" ~
+         "         "
+       ]
+    >> sch:pattern [
+         id = "span-constraint-tofrom"
+         "\x{a}" ~
+         "            "
+         sch:rule [
+           context = "tei:span"
+           "\x{a}" ~
+           "               "
+           sch:report [
+             test = "contains(@to,' ') or contains(@from,' ')"
+             "\x{a}" ~
+             "The attributes @to and @from on "
+             sch:name [ ]
+             " may each contain only a single value"
+           ]
+           "\x{a}" ~
+           "            "
+         ]
+         "\x{a}" ~
+         "         "
+       ],
+    att.global.attributes,
+    att.interpLike.attributes,
+    att.pointing.attributes,
+    
+    ## gives the identifier of the node which is the starting point of the span of text being annotated; if not accompanied by a to attribute, gives the identifier of the node of the entire span of text being annotated.
+    attribute from { data.pointer }?,
+    
+    ## gives the identifier of the node which is the end-point of the span of text being annotated.
+    attribute to { data.pointer }?,
+    empty
+  }
+spanGrp =
+  
+  ## (span group) collects together span tags. [17.3. ]
+  element spanGrp {
+    span*, att.global.attributes, att.interpLike.attributes, empty
+  }
+interp =
+  
+  ## (interpretation) summarizes a specific interpretative annotation which can be linked to a span of text. [17.3. ]
+  element interp {
+    (text | model.gLike | model.descLike | model.certLike)*,
+    att.global.attributes,
+    att.interpLike.attributes,
+    empty
+  }
+interpGrp =
+  
+  ## (interpretation group) collects together a set of related interpretations which share responsibility or type. [17.3. ]
+  element interpGrp {
+    (model.descLike*, interp+),
+    att.global.attributes,
+    att.interpLike.attributes,
+    empty
+  }
 itinerary =
   
   ## provides structured information about an itinerary
