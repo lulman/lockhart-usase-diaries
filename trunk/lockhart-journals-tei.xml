@@ -2105,6 +2105,30 @@
                   </p>
                   <signed><persName>Earl</persName></signed>
                </div>
+               <div xml:id="eel-19401218" type="radiogram" subtype="received" facs="journal-2-65" n="/c/cb88c987-4c24-46d8-9b95-0b7859981f5c">
+                  <opener>
+                     <lb/><dateline><date when="1940-12-18" type="received"> 18-DEC-1940</date></dateline>
+                     <lb/> 2 <name type="call-sign"> WLMC</name><date when="1940-12-18" type="sent">DEC 16</date><placeName>RICHMOND IND</placeName>
+                     <lb/><persName>LOCKHART</persName>
+                  </opener>
+                  <p>Dear Doc merry XMAS X I shall speak from <placeName type="city">Indianapolis</placeName>
+                     <lb/>to you at Little America via Mail Bag Friday Dec. 20th hope you listen </p>
+                  <closer>
+                     <lb/><signed><persName>George</persName></signed>
+                  </closer>
+               </div>
+               
+               <div xml:id="eel-19401219" type="radiogram" subtype="received" facs="journal-2-66" n="/0/087da746-b373-4b8a-8f14-80ba6177e366">
+                  <opener>
+                     <lb/><dateline><date when="1940-12-19" type="received">19-DEC-1940</date></dateline>
+                     <lb/><persName>LOCKHART</persName>
+                  </opener>
+                  <p>
+                     <lb/><persName>George W. Trefts</persName> will speak to you over WGEO next Friday 2oth.</p>
+                  <closer>
+                     <lb/><persName>BY</persName>
+                  </closer>
+               </div>
                
                <div xml:id="eel-19410104a" type="radiogram" subtype="sent" facs="journal-2-57" n="/2/21277b97-80c3-4419-929a-cbe1199256e1">
                   <opener>
