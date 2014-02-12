@@ -228,9 +228,17 @@
                <head>People Mentioned in Ernest E. Lockhart's Journal </head>
                <person xml:id="EEL">
                   <persName>Lockhart, Ernest Earl</persName>
-                  <note type="biographical">bio note</note>
                   <birth when="1912-09-10"><placeName ref="#Boston">Boston, MA</placeName></birth>
                   <death when="2006-07-26"><placeName ref="#WestDennis">West Dennis, MA</placeName></death>
+                  <note type="biographical">bio note</note>
+               </person>
+               <person xml:id="Cruzen">
+                  <persName>Cruzen, Richard H. (Richard Harold), 1897-1970</persName>
+                  <birth when="1897-04-28"><placeName>Gallatin, MO</placeName></birth>
+                  <death when="1970-04-15"></death>
+                  <occupation>Naval officer</occupation>
+                  <state type="rank"><desc>Commander</desc></state>
+                  <note type="biographical">bio note</note>
                </person>
             </listPerson>
             
@@ -337,6 +345,8 @@
                of Admiral Richard E. Byrd. Series II: Expeditionary Records. Sub-Series 6: United States Antarctic Services. 
                Box 203, Folder 7234, Location: 054-774.20-4. The Byrd Polar Research Center Archival Program, The Ohio State
                University Libraries, Columbus, OH.</bibl>
+               <bibl xml:id="Blondie" n="Blondie"><title level="m">Blondie</title>. Dir. Frank R. Strayer. Perf.
+                  Penny Singleton, Arthur Lake, and Larry Simms. Columbia Pictures, 1938. Film.</bibl>
             </listBibl>
             
          </sourceDesc>
@@ -1434,7 +1444,7 @@
                   <lb/>dogs. The true viciousness of the large dogs immediately comes
                   <lb/>out and luckily for the small dogs they scamper away but only
                   <lb/>in the nick of time. I should hate to say what would happen
-                  <lb/>to a pup should a dog like Spot get a good grip on it when
+                  <lb/>to a pup should a dog like <name type="dog">Spot</name> get a good grip on it when
                   <lb/>no one was around.
                </p>
                <p>
