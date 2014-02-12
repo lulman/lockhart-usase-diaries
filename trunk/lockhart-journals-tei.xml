@@ -206,6 +206,24 @@
 
             </biblFull>
             
+            <list type="dogs">
+               <item xml:id="Sheila">
+                  <name>Sheila</name>
+                  <trait type="breed"><desc>Siberian Huskie</desc></trait>
+                  <trait type="sex"><desc>Female</desc></trait>
+                  <state type="age" when="1939-09-26"><desc>3</desc></state>
+                  <desc>Lockhart recounts an occasion on which Sheila tried to bite him, misbehavior that
+                  causes Lockhart to violate his general rule of not hitting the dogs.</desc>
+               </item>
+               <item xml:id="Spot">
+                  <name>Spot</name>
+                  <trait type="breed"><desc>Eskimo</desc></trait>
+                  <trait type="sex"><desc>Male</desc></trait>
+                  <state type="age" when="1939-09-26"><desc>1</desc></state>
+                  <desc>Note about Spot</desc>
+               </item>
+            </list>
+            
             <listPerson type="mentioned">
                <head>People Mentioned in Ernest E. Lockhart's Journal </head>
                <person xml:id="EEL">
@@ -1373,7 +1391,7 @@
                <p>
                   <lb/>After doing an air sample I read most of the afternoon
                   <lb/>I am learning a great deal from <title level="m" ref="Stefansson">Hunters of the Great North</title>
-                  <lb/>and was especially please to come a pc across a passage
+                  <lb/>and was especially please to come <del rend="strikethrough">a pa</del> across a passage
                   <lb/>on dog driving which was my theory of dog driving in black
                   <lb/>and white; it goes as follows. page 118. <quote>"The Eskimo idea
                   <lb/>was that a dog should be treated with great consideration, and
@@ -1399,7 +1417,7 @@
                   <lb/>hit one hard enough to lame it or make it sore.
                </p>
                <p>
-                  <lb/>As a governor on my impatience i usually use my hand
+                  <lb/>As a governor on my impatience I usually use my hand
                <pb facs="journal-2-30" n="/3/3e5d8217-95b3-4431-b19b-f90dd2b900ec"/> 
                <fw type="pageNum" place="top">26</fw>
                   <lb/>knowing that I won't hit hard enought to hurt my hand.
