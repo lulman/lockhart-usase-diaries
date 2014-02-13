@@ -212,15 +212,17 @@
                   <trait type="breed"><desc>Siberian Huskie</desc></trait>
                   <trait type="sex"><desc>Female</desc></trait>
                   <state type="age" when="1939-09-26"><desc>3</desc></state>
-                  <desc>Lockhart recounts an occasion on which Sheila tried to bite him, misbehavior that
-                  causes Lockhart to violate his general rule of not hitting the dogs.</desc>
+                  <desc>In his entry for January 5, 1941, Lockhart recounts an occasion on which Sheila tried to bite him,
+                     misbehavior that causes Lockhart to violate his general rule of not hitting the dogs.</desc>
                </item>
                <item xml:id="Spot">
                   <name>Spot</name>
                   <trait type="breed"><desc>Eskimo</desc></trait>
                   <trait type="sex"><desc>Male</desc></trait>
                   <state type="age" when="1939-09-26"><desc>1</desc></state>
-                  <desc>Note about Spot</desc>
+                  <desc>In a radiogram to his sister dated January 4, 1941 and in his journal entry for January 5, 1941, 
+                     Lockhart notes that he hopes to take Spot, his "lead dog," home with him.
+                  </desc>
                </item>
             </list>
             
@@ -232,13 +234,19 @@
                   <death when="2006-07-26"><placeName ref="#WestDennis">West Dennis, MA</placeName></death>
                   <note type="biographical">bio note</note>
                </person>
-               <person xml:id="Cruzen">
+               <person xml:id="Cruzen" source="#Stark">
                   <persName>Cruzen, Richard H. (Richard Harold), 1897-1970</persName>
                   <birth when="1897-04-28"><placeName>Gallatin, MO</placeName></birth>
                   <death when="1970-04-15"></death>
                   <occupation>Naval officer</occupation>
-                  <state type="rank"><desc>Commander</desc></state>
+                  <state type="rank" when="1941-01-05"><desc>Lieutenant Commander, USN</desc></state>
                   <note type="biographical">bio note</note>
+               </person>
+               <person xml:id="Perk">
+                  <persName>Perkins, Jack E.</persName>
+                  <occupation when="1940">biologist</occupation>
+                  <note type="biographical">Jack Perkins led a biological party into the Fosdick Mountains in December 1940. Mount Perkins, a
+                  peak at the east end of the Fosdick Mountains, was named after Perkins in 1947 <bibl><ref target="#MPerkins"><title level="a">Mount Perkins</title></ref></bibl>.</note>
                </person>
             </listPerson>
             
@@ -327,26 +335,46 @@
             formatting (e.g., titles). -->
                
                <head>Works Cited</head>
+               
                <bibl xml:id="Ronne" n="Ronne">Ronne, Finn. <title level="m">Antarctica My Destiny</title>. New
                   York: Hastings House, 1979. Print.
                </bibl>
+               
                <bibl xml:id="Passel" n="Passel">Passel, Charles F. <title level="m">Ice: The Antarctic Diary of Charles F. Passel</title>. Ed.
                   T. H. Baughman. Lubbock, TX: Texas Tech UP, 1995. Print.
                </bibl>
+               
                <bibl xml:id="Stefansson" n="Stefansson">Stefansson, Vilhjalmur. <title level="m">Hunters of the Great North</title>. 
                   New York: Harcourt, Brace, and Company, 1922. Print.</bibl>
+               
                <bibl xml:id="watermarks" n="paper"><title level="m">Paper Watermarks</title>. N. p. 25 August 2007. Web. 27 January 2014.
                   &lt;http://www.watermarks.info/indexi.htm&gt;</bibl>
+               
                <bibl xml:id="Field-news" n="Greetings"><title level="a">Greetings Received at Museum
                from Byrd Expedition.</title> <title level="j">Field Museum News</title> Feb. 1940: 8. Print.
                   Available through the <title level="m">Biodiversity Heritage Library</title>
                   at http://www.biodiversitylibrary.org/item/25715#page/16/mode/1up.</bibl>
+               
                <bibl xml:id="personnel" n="personnel"><title level="u">Personnel, 1939-1940</title>. 1939-40. TS. Papers
                of Admiral Richard E. Byrd. Series II: Expeditionary Records. Sub-Series 6: United States Antarctic Services. 
                Box 203, Folder 7234, Location: 054-774.20-4. The Byrd Polar Research Center Archival Program, The Ohio State
                University Libraries, Columbus, OH.</bibl>
+               
                <bibl xml:id="Blondie" n="Blondie"><title level="m">Blondie</title>. Dir. Frank R. Strayer. Perf.
                   Penny Singleton, Arthur Lake, and Larry Simms. Columbia Pictures, 1938. Film.</bibl>
+               
+               <bibl xml:id="Stark">Stark, David. <title level="a">Admiral Richard H. Cruzen -- A Biography.</title>
+               <title level="m">Gallatin</title>. Davis County Historical Society. Gallatin, MO. 2 May 2004. Web. 12 Feb. 2014.</bibl>
+               
+               <bibl xml:id="TGN" n="Getty">Getty Research Institute.<title level="m">Getty
+                  Thesaurus of Geographic Names Online</title> N.d. Web. 12 Feb. 2014.</bibl>
+               
+               <bibl xml:id="LOC" n="Library">The Library of Congress. <title level="m">Library of Congress Authorities</title>. 
+                  6 Jan. 2012. Web. 12 Feb. 2014.</bibl>
+               
+               <bibl xml:id="MPerkins"><title level="a">Mount Perkins.</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
+                  Geological Survey. N. d. Web. 12 Feb. 2014. &lt;http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:5:::NO::P5_ANTAR_ID:11624&gt;.</bibl>               
+               
             </listBibl>
             
          </sourceDesc>
@@ -1392,7 +1420,7 @@
            <pb facs="journal-2-29" n="/3/32efdaee-b13d-4de5-a78b-8a38d1d92f44"/>
             
             <div xml:id="eel-19410105a" type="entry">
-               <lb/><dateline><date when="1941-01-05">Sunday Janurary 5 1941</date></dateline>
+               <lb/><dateline><date when="1941-01-05">Sunday January 5 1941</date></dateline>
                <p>
                   <lb/>As I expected I didn't get up very early. I woke up at
                   <lb/>930 and thought I would lie there until 10 but I fell
@@ -1431,10 +1459,10 @@
                <pb facs="journal-2-30" n="/3/3e5d8217-95b3-4431-b19b-f90dd2b900ec"/> 
                <fw type="pageNum" place="top">26</fw>
                   <lb/>knowing that I won't hit hard enought to hurt my hand.
-                  <lb/>One day, however, <name type="dog">Sheila</name> tried to bite me when I was
+                  <lb/>One day, however, <name type="dog" ref="#Sheila">Sheila</name> tried to bite me when I was
                   <lb/>freeing her from the gang line and I really laced into
                   <lb/>her. Biting is one thing that should never be tolerated in
-                  <lb/>dogs. Sometimes when I have boxed <name type="dog">Spot</name>'s ears he has
+                  <lb/>dogs. Sometimes when I have boxed <name type="dog" ref="#Spot">Spot</name>'s ears he has
                   <lb/>reached up and taken my gloved hand but to show he
                   <lb/>was only protesting my action he never closed down
                </p>
@@ -1444,11 +1472,11 @@
                   <lb/>dogs. The true viciousness of the large dogs immediately comes
                   <lb/>out and luckily for the small dogs they scamper away but only
                   <lb/>in the nick of time. I should hate to say what would happen
-                  <lb/>to a pup should a dog like <name type="dog">Spot</name> get a good grip on it when
+                  <lb/>to a pup should a dog like <name type="dog" ref="#Spot">Spot</name> get a good grip on it when
                   <lb/>no one was around.
                </p>
                <p>
-                  <lb/>I am trying to train <name type="dog">Spot</name> not to touch his meat until
+                  <lb/>I am trying to train <name type="dog" ref="#Spot">Spot</name> not to touch his meat until
                   <lb/>I tell him to. He does very well and lets me take meat
                   <lb/>away from him after he has started to eat. He is really
                   <lb/>a good dog. I sent a message to <persName>Beatie</persName> telling her
@@ -1461,11 +1489,11 @@
                   <lb/>seen it.
                </p>
                <p>
-                  <lb/>I have <persName><unclear>Peak</unclear></persName> in the basket tomorrow so I think I
+                  <lb/>I have <persName><unclear cert="medium">Perk</unclear></persName> in the basket tomorrow so I think I
                   <lb/>shall go to bed now. It is almost two AM.
                </p>
                <p>
-                  <lb/><persName>Cruzen</persName> has been made a commander.
+                  <lb/><persName ref="#Cruzen">Cruzen</persName> has been made a commander.
                </p>
                <p>
                   The dog teams should be in sometime soon—several days.
@@ -1494,7 +1522,7 @@
               </p>
               <p>
                  <lb/>The weather was good enough today so that the
-                 <lb/><rs>Beechcraft</rs> was able to make two flights out to the <name type="ship">Conder</name>.
+                 <lb/><rs>Beechcraft</rs> was able to make two flights out to the <name type="aircraft">Conder</name>.
                  <lb/>The drift <unclear>sought</unclear> some radio gear and all the d<del rend="overwritten">a</del>uffle bags
                  <lb/><del rend="overwritten"><unclear>sm</unclear></del> minus some of their content were brought in. The
                  <lb/><name type="ship">Conder</name> is now at the mercy of the elements forever.
