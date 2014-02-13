@@ -303,6 +303,12 @@
                   <desc>Lockhart's home on Cape Cod, Massachusetts, to which he retired and where he died in 2006</desc>
                   <location><geo>39.1500 -84.4500</geo></location>
                </place>
+               
+               <place type="base" xml:id="depot105"> 
+                 <placeName>105-Mile Depot</placeName>
+               <location><geo>78.1645 -155.3208</geo></location>
+               </place>
+               
             </listPlace>
             
             
