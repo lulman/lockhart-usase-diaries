@@ -373,7 +373,7 @@
                <bibl xml:id="Blondie" n="Blondie"><title level="m">Blondie</title>. Dir. Frank R. Strayer. Perf.
                   Penny Singleton, Arthur Lake, and Larry Simms. Columbia Pictures, 1938. Film.</bibl>
                
-               <bibl xml:id="Stark">Stark, David. <title level="a">Admiral Richard H. Cruzen -- A Biography.</title>
+               <bibl xml:id="Stark" n="Stark">Stark, David. <title level="a">Admiral Richard H. Cruzen -- A Biography.</title>
                <title level="m">Gallatin</title>. Davis County Historical Society. Gallatin, MO. 2 May 2004. Web. 12 Feb. 2014.</bibl>
                
                <bibl xml:id="TGN" n="Getty">Getty Research Institute.<title level="m">Getty
@@ -382,7 +382,7 @@
                <bibl xml:id="LOC" n="Library">The Library of Congress. <title level="m">Library of Congress Authorities</title>. 
                   6 Jan. 2012. Web. 12 Feb. 2014.</bibl>
                
-               <bibl xml:id="MPerkins"><title level="a">Mount Perkins.</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
+               <bibl xml:id="MPerkins" n="Mount"><title level="a">Mount Perkins.</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
                   Geological Survey. N. d. Web. 12 Feb. 2014. &lt;http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:5:::NO::P5_ANTAR_ID:11624&gt;.</bibl>               
                
             </listBibl>
