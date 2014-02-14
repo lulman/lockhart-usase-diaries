@@ -248,6 +248,10 @@
                   <note type="biographical">Jack Perkins led a biological party into the Fosdick Mountains in December 1940. Mount Perkins, a
                   peak at the east end of the Fosdick Mountains, was named after Perkins in 1947 <bibl><ref target="#MPerkins"><title level="a">Mount Perkins</title></ref></bibl>.</note>
                </person>
+               <person xml:id="Shirley">
+                  <persName>Shirley, Charles S.</persName>
+                  <occupation when="1940">photographer</occupation>
+               </person>
             </listPerson>
             
             <listPerson type="editors">
@@ -1014,11 +1018,11 @@
          <pb facs="journal-2-17.jpg" n="/7/7720f3e3-93eb-47d7-a27e-68622120c331"/>
          <fw type="pageNum" place="top">13</fw>
                <lb/>that he rolls <del rend="strikethrough">the</del> oranges before squeezing out the the juice in order
-               <lb/>to get the citric acid out of the skin. <persName>Shirley</persName> argues that he
+               <lb/>to get the citric acid out of the skin. <persName ref="#Shirley">Shirley</persName> argues that he
                <lb/>rolls the oranges in order to break the skin and the cellular
                <lb/>structure inside. They appealed to me being the chemist to
                <lb/>settle the argument.  I tried to steer clear but finally sided
-               <lb/>with <persName>Shirley</persName> which action made the cook leak water a
+               <lb/>with <persName ref="#Shirley">Shirley</persName> which action made the cook leak water a
                <lb/>little --- but not much.
             </p>
             <p>
