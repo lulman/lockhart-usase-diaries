@@ -308,6 +308,15 @@
                   <location><geo>39.1500 -84.4500</geo></location>
                </place>
                
+               <place type="address" xml:id="ArlingtonStreet" source="#eel-19401226a">
+                  <placeName>Arlington Street</placeName>
+                  <country>United States</country>
+                  <region type="city">Hyde Park</region>
+                  <region type="state">Massachusetts</region>
+                  <desc>The home of the Mahan family. Mr. Mahan, the father of Lockhart's friend Jack, passed away while Lockhart was in Antartica.</desc>
+                  <location><geo>42.2595897 -71.11632</geo></location>
+               </place>
+           
                <place type="base" xml:id="depot105"> 
                  <placeName>105-Mile Depot</placeName>
                <location><geo>78.1645 -155.3208</geo></location>
@@ -729,7 +738,7 @@
                  </p>
                   <p>
                      <lb/>The base has been operating on a very peculiar schedule 
-                     <lb/>since the trail parties went out. <persName>Guterko</persName> gets up about 1-2
+                     <lb/>since the trail parties went out. <persName>Gutenko</persName> gets up about 1-2
                      <lb/>PM and works preparing the only meal of the day a dinner
                      <lb/>The rest of the men get up anytime between 2 and 6 and then 
                      <lb/>stay up until they get tired enough to go to bed again about
