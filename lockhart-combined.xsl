@@ -179,6 +179,10 @@
         <br/><xsl:apply-templates/>
     </xsl:template>
     
+    <xsl:template match="tei:fw">
+        <div class="pageNum">&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<xsl:apply-templates/></div>
+    </xsl:template>
+    
     <xsl:template match="tei:seg[@type='softhyphen']">
         <xsl:apply-templates/>
     </xsl:template>

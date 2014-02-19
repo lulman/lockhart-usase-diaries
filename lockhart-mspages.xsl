@@ -74,7 +74,7 @@
     <!-- Define templates required for the diplomatic view. -->
     
     <xsl:template match="tei:pb">
-        <br/>
+        <br/><br/><hr/>
         <span class="pagebreak">[Page&#xA0;-&#xA0;<xsl:number count="tei:pb" format="1" level="any"/>
             &#xA0;(<a><xsl:attribute
                 name="href">http://people.cohums.ohio-state.edu/ulman1/lockhart-journals/lockhart-zoom.cfm?file=<xsl:value-of
@@ -101,6 +101,10 @@
     
     <xsl:template match="tei:fileDesc/tei:titleStmt/tei:title/tei:lb">
         <br/><xsl:apply-templates/>
+    </xsl:template>
+    
+    <xsl:template match="tei:fw">
+        <div class="pageNum">&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<xsl:apply-templates/></div>
     </xsl:template>
     
     <xsl:template match="tei:add[@place='above']"> &#x2191; <xsl:apply-templates/> &#x2193; </xsl:template>
