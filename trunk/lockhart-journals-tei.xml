@@ -252,6 +252,9 @@
                   <persName>Shirley, Charles S.</persName>
                   <occupation when="1940">photographer</occupation>
                </person>
+               <person xml:id="JackMahan">
+                  <persName>Mahan, Jack</persName>
+               </person>
             </listPerson>
             
             <listPerson type="editors">
