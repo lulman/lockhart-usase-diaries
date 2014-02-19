@@ -263,11 +263,7 @@
    <xsl:template match="tei:div[@type='letter']/tei:head">
       <p><xsl:apply-templates/></p>
    </xsl:template>
-   
-   <xsl:template match="fw">
-      <div class="pageNum"><xsl:apply-templates/><br/></div>
-   </xsl:template>
-   
+      
    <!-- Template rule for editorial divs in back matter -->
 
    <xsl:template match="tei:div[@type='editorial']">
