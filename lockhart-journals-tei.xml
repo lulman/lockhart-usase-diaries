@@ -1440,7 +1440,7 @@
            </div>
            
            <pb facs="journal-2-29" n="/3/32efdaee-b13d-4de5-a78b-8a38d1d92f44"/>
-           <fw type="pagenumber" place="topright">25</fw>
+           <fw type="pageNum" place="topright">25</fw>
             
             <div xml:id="eel-19410105a" type="entry">
                <lb/><dateline><date when="1941-01-05">Sunday January 5 1941</date></dateline>
@@ -1523,7 +1523,7 @@
                </p>
             </div>
            <pb facs="journal-2-31" n="/0/0809ecaf-5206-4733-b003-546f2f045970"/> 
-           <fw type="pagnumber" place="top-right">27</fw>
+           <fw type="pageNum" place="top-right">27</fw>
            <div xml:id="eel-19410109a" type="entry">
               <lb/><dateline><date when="1941-01-09">Thursday January 9<hi rend="superscript">th</hi> 1941</date></dateline>
               <p>
