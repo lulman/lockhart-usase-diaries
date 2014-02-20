@@ -261,6 +261,7 @@
                </person>
                <person xml:id="JackMahan">
                   <persName>Mahan, Jack</persName>
+                  <note type="biographical">A friend of Lockhart's whose father died during Christmas of 1940.</note>
                </person>
             </listPerson>
             
@@ -734,8 +735,8 @@
             <fw type="pageNum" place="top">4</fw> 
                   
                      <lb/>christmas spirit and strawberry pie to top things off then
-                     <lb/>more <unclear>lulling</unclear> until show time. We saw the <title type="movie">Jones family in
-                        <lb/>Hollywood</title> and <title type="movie">Risky Business</title>. I enjoyed both of them.
+                     <lb/>more <unclear>lulling</unclear> until show time. We saw the <title level="m" ref="#jfih">Jones family in
+                        <lb/>Hollywood</title> and <title level="m" ref="#rb">Risky Business</title>. I enjoyed both of them.
                   </p>
                   <p>
                      <lb/>It had been blowing about 35-40 miles an hour all day
@@ -791,7 +792,7 @@
                   <lb/>were given to me. One of them had not been read over the air
                   <lb/>It was from <persName>Beatie</persName> and wished me a merry christmas. The main
                   <lb/>item of the message, however, lead me to believe that some of my 
-                  <lb/>friends would not have a merry christmas; <persName>Jack Mahan</persName>'s father
+                  <lb/>friends would not have a merry christmas; <persName ref="#JackMahan">Jack Mahan</persName>'s father
                   <lb/>died about a week ago. I was very sorry to hear of it <choice><sic>allthough</sic><corr>although</corr></choice>
                   <lb/>I had been expecting it. Evidently his exceptionally strong heart
                   <lb/>just couldn't stand up any longer under the high pressure. It
