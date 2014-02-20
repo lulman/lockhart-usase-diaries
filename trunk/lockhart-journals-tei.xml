@@ -260,6 +260,18 @@
                   <persName>Mahan, Jack</persName>
                   <note type="biographical">A friend of Lockhart's whose father died during Christmas of 1940.</note>
                </person>
+               <person xml:id="MrsMahan">
+                  <persName>Mrs. Mahan</persName>
+                  <note type="biological">The wife of Mr. Mahan and mother to Jack and Margaret Mahan.</note>
+               </person>
+               <person xml:id="MrMahan">
+                  <persName>Mr. Mahan</persName>
+                  <note type="biological">The father of Lockhart's friend Jack. Mr. Mahan passed away during Lockhart's trip. He had suffered from heart trouble.</note>
+               </person>
+               <person xml:id="Gutenko">
+                  <persName>Gutenko</persName>
+                  <note type="biological">Gutenko was the cook for the West Base.</note>
+               </person>
             </listPerson>
             
             <listPerson type="editors">
@@ -703,7 +715,7 @@
                   <lb/>weighed 159 before and about 158 after. <persName>Tony</persName> weighed 189
                   <lb/>before and 163 after I weighed 162 before and 150 after.
                   <lb/>Those of us who lost weight lost only the fat that we had
-                  <lb/>put on during the winter night. <persName>Gutenko</persName> really put out a
+                  <lb/>put on during the winter night. <persName ref="#Gutenko">Gutenko</persName> really put out a
                   <lb/>meal. tomato juice, tomato soup steak potatoes and even
                   <lb/>figs for dessert and coffee. I really ate my share thus
                   <lb/>not living up to the statement I made on the trail. We
@@ -724,7 +736,7 @@
                   <lb/>different breakfast in several months. There was fruit toast
                   <lb/>cheeze and coffee and I had pleanty of all. From then
                   <lb/>on I spent the time until dinner cleaning up a little and
-                  <lb/>chewing the fat a lot. The dinner was one of the <persName>Gutenko's</persName> specials
+                  <lb/>chewing the fat a lot. The dinner was one of the <persName ref="#Gutenko">Gutenko's</persName> specials
                   <lb/>turkey with sweet potatoes asparagus spinach
                   <lb/>dressing cranberry sauce after <unclear cert="medium">boullim</unclear>; we had a little
                
@@ -746,7 +758,7 @@
                  </p>
                   <p>
                      <lb/>The base has been operating on a very peculiar schedule 
-                     <lb/>since the trail parties went out. <persName>Gutenko</persName> gets up about 1-2
+                     <lb/>since the trail parties went out. <persName ref="#Gutenko">Gutenko</persName> gets up about 1-2
                      <lb/>PM and works preparing the only meal of the day a dinner
                      <lb/>The rest of the men get up anytime between 2 and 6 and then 
                      <lb/>stay up until they get tired enough to go to bed again about
@@ -789,7 +801,7 @@
                   <lb/>were given to me. One of them had not been read over the air
                   <lb/>It was from <persName>Beatie</persName> and wished me a merry christmas. The main
                   <lb/>item of the message, however, lead me to believe that some of my 
-                  <lb/>friends would not have a merry christmas; <persName ref="#JackMahan">Jack Mahan</persName>'s father
+                  <lb/>friends would not have a merry christmas; <persName ref="#JackMahan">Jack Mahan</persName>'s <rs ref="#MrMahan">father</rs>
                   <lb/>died about a week ago. I was very sorry to hear of it <choice><sic>allthough</sic><corr>although</corr></choice>
                   <lb/>I had been expecting it. Evidently his exceptionally strong heart
                   <lb/>just couldn't stand up any longer under the high pressure. It
@@ -804,7 +816,7 @@
             <fw type="pageNum" place="top">6</fw>   
                   <lb/>plete. <persName>Beatie</persName> did not say whether <persName>Jack</persName> came home for
                   <lb/>the funeral. Since <persName>Ned</persName> and <persName>Bill</persName> have gotten married and
-                  <lb/>have moved out on their own only <persName>Mrs. Mahan</persName> and <persName>Margaret</persName>
+                  <lb/>have moved out on their own only <persName ref="#MrsMahan">Mrs. Mahan</persName> and <persName>Margaret</persName>
                   <lb/>will be living in <placeName>Arlington Street</placeName>. 
                   <lb/>
                </p>
@@ -1949,13 +1961,13 @@
                   <opener>
                   <lb/><dateline><date when="1940-12-26" type="sent">Dec 26 1940</date></dateline>
                      <address>
-                        <lb/><persName>Mrs J L Mahen</persName>
+                        <lb/><persName ref="#MrsMahan">Mrs J L Mahan</persName>
                         <lb/><addrLine>38 Arlington Street</addrLine>
                         <lb/><addrLine>Hyde Park Mass</addrLine>
                      </address>
                   </opener>
                   <p>
-                     <lb/>Extremely sorry to hear of <persName>Mr Mahans</persName> passing. Had been looking
+                     <lb/>Extremely sorry to hear of <persName ref="#MrMahan">Mr Mahan</persName>s passing. Had been looking
                      <lb/>forward to telling him of my many adventures. Feel certain
                      <lb/>that he is resting more peacefully now than he did during recent
                      <lb/>years. Anxious to get home to see you all again.
