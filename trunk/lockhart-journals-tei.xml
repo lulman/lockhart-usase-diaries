@@ -254,11 +254,8 @@
                   <note type="biographical">Was from San Diego California, worked both bases, and would have been survived by his wife Anna.</note>
                </person>
                <person xml:id="Richardson">
-                  <persName cert="medium">Richardson Hollis J.</persName>
-                  <note type="certainty"> There are several different Richardsons on the USASE list, most of them have "H" first 
-                     names or initials, their middles names variously start with "H", "E" or "K", I am tentatively going with 
-                     Hollis as he has a J. middle initial which could be Jack, there's no Jack Richardson that I can find so far.</note>
-               </person>
+                  <persName>Richardson H. H.</persName>
+                   </person>
                <person xml:id="JackMahan">
                   <persName>Mahan, Jack</persName>
                   <note type="biographical">A friend of Lockhart's whose father died during Christmas of 1940.</note>
@@ -1117,7 +1114,7 @@
             </p>
             <p>
                <lb/>Yesterday I worked on <persName>Tony</persName> again and today should have
-               <lb/>worked <del>of</del> on <persName>Jack Richardson</persName> but he was up even later
+               <lb/>worked <del>of</del> on <persName ref="#Richardson">Jack Richardson</persName> but he was up even later
                <lb/>than I so I didn't bother to wake him at ten this morning.
             </p>
             <p>
