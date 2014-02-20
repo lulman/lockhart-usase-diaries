@@ -1690,13 +1690,13 @@
                <lb/>and <persName>Tony</persName> had I thought had a great time showing <add place="above" rend="^">them</add> around
                <lb/>and telling them all his experiences.
                <lb/>With the coming of the <name type="ship">Bear</name> the Exploration really is on the
-               <lb/>wane. The storm will be in after a couple of weeks and
+               <lb/>wane. The <name type="ship">Star</name> will be in after a couple of weeks and
                <lb/><rs>West Base</rs> will become a thing of the past. The sooner
                <lb/>the better.
             </p>
          </div>
          <div xml:id="eel-19410113a" type="entry">
-               <lb/><dateline><date when="1941-01-13">Monday January 13 1941</date></dateline>
+               <lb/><dateline><date when="1941-01-13"><del rend="strikethrough">Jul</del>Jan 13 1941</date></dateline>
              <p>
                <lb/>This place has become a mad house and an open
                <lb/>house. During <del rend="strikethrough"><unclear cert="unknown"></unclear></del> the past few days everyone has been
@@ -1708,11 +1708,11 @@
                <lb/>dog sled rides.
              </p>
             <p>
-               <lb/>Today a little more order has prevailed. I saw a 
+               <lb/>Today a little more order has prevailed. I ran a 
             <pb facs="journal-2-36.jpg" n="/0/00f6b1f6-ee2b-45cd-bd18-44400d0a3392"/>
             <fw type="pageNum" place="top">32</fw>
-                  <lb/>metabolism best on <persName>Charlie Passel</persName> and arm <unclear>counting</unclear> using
-                  <lb/>my aim <unclear>awoke me</unclear>. <persName>Arnold</persName> made a very <unclear cert="high">reliable</unclear> suggestion
+                  <lb/>metabolism test on <persName>Charlie Passel</persName> and am continuing
+                  <lb/>my air analysis. <persName>Arnold</persName> made a very valuable suggestion
                   <lb/>and I shall follow it. I shall take air samples on the
                   <lb/>way back and check the idea that the oxygen content
                   <lb/>of the atmosphere varies with the latitude If this works out
@@ -1745,9 +1745,9 @@
                </p>
             </div>
            <pb facs="journal-2-37.jpg" n="/8/8079e385-54cd-4150-83cf-d2e8bd8d3aee"/>
-            <fw type="pageNum" place="top">35</fw>
+            <fw type="pageNum" place="top">33</fw>
             <div xml:id="eel-19410114a" type="entry">
-               <lb/><dateline><date when="1941-01-14"><del rend="strikethrough">W</del>Tuesday January 14 1941</date></dateline>
+               <lb/><dateline><date when="1941-01-14">1/14/41<del rend="strikethrough">W</del>Tuesday January 14 1941</date></dateline>
                <p>
                   <lb/>Had <persName>Dick</persName> in the basket this morning; everything <unclear>went</unclear>
                   <lb/>off <unclear cert="medium">alright</unclear>.
@@ -1756,7 +1756,7 @@
                   <lb/><emph style="underline">For</emph> breakfast we had some fried eggs sunny side
                   <lb/>up. <name type="ship">The Bear</name> exchanged several crates purchased <emph style="underline">in</emph>
                   <lb/><placeName>New Zealand</placeName> for some of our while frozen eggs. They
-                  <lb/>sure were good. I had these with some Virgina's ham.
+                  <lb/>sure were good. I had these with some Virgina ham.
                </p>
                <p>
                   <lb/>The wind had come up during the night and
@@ -2239,8 +2239,8 @@
                
                <div xml:id="eel-19410109" type="radiogram" subtype="recived" facs="journal-2-67" n="/3/3718a2d2-860d-48f8-a7ab-5ed54a1437bc">
                   <opener>
-                     <lb/><dateline><date when="1940-01-09" type="recived">9 jan 1940</date></dateline>
-                     <lb/>7<name type="call-sign">wlmc</name><placeName>boston mass</placeName><date when="1941-01-06">jan 6</date>
+                     <lb/><dateline><date when="1940-01-09" type="recived">9 jan 1941</date></dateline>
+                     <lb/>7 <name type="call-sign">wlmc</name> <placeName>boston mass</placeName> <date when="1941-01-06">jan 6</date>
                      <lb/><salute><persName>EARL LOCKHART</persName></salute>
                   </opener>
                   <p>
@@ -2267,7 +2267,7 @@
                      <lb/>it wont be long now until I climb the front stairs. Love to
                      <lb/>everyone. Will send airmail from various ports. 
                   </p>
-                  <signed><persName>Earl</persName></signed>
+                  <lb/><signed><persName>Earl</persName></signed>
                </div>
                
                <div xml:id="eel-19410416" type="radiogram" subtype="received" facs="journal-2-69" n="/3/3a1cb2ab-66fc-495d-974f-54174222c435" >
