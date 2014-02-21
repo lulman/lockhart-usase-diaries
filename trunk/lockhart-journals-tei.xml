@@ -342,6 +342,12 @@
                <location><geo>78.1645 -155.3208</geo></location>
                </place>
                
+               <place type="country" xml:id="Panama" source="#eel-journal2-radiograms">
+                  <placeName>Panama</placeName>
+                  <desc>Lockhart talks about traveling back through Panama on his way to Seattle on the return trip.</desc>
+                  <location><geo>8.537981 -80.782127</geo></location>
+               </place>
+               
             </listPlace>
             
             
@@ -1991,7 +1997,7 @@
                   <p>
                      <lb/>Arrived back at base for christmas. Had a wonderful trip. Awaiting
                      <lb/>arrival of ships for mail they hold. Anxious to get back to see
-                     <lb/>everyone. Return via <placeName>Valporaiso</placeName> <placeName>Panama</placeName> and <placeName>Seattle</placeName>. May have a 
+                     <lb/>everyone. Return via <placeName>Valporaiso</placeName> <placeName ref="#Panama">Panama</placeName> and <placeName>Seattle</placeName>. May have a 
                      <lb/>few days to spend with you while crossing country. Arrive <placeName>Seattle</placeName>
                      <lb/>middle April. Happy new year to all. 
                   </p>
