@@ -243,7 +243,7 @@
                   <note type="biographical">bio note</note>
                </person>
                <person xml:id="Perk">
-                  <persName>Perkins, Jack E.</persName>
+                  <persName>Perkins, Jack E. <addName type="nickname">Perk</addName></persName>
                   <occupation when="1940">biologist</occupation>
                   <note type="biographical">Jack Perkins led a biological party into the Fosdick Mountains in December 1940. Mount Perkins, a
                   peak at the east end of the Fosdick Mountains, was named after Perkins in 1947 <bibl><ref target="#MPerkins"><title level="a">Mount Perkins</title></ref></bibl>.</note>
