@@ -269,8 +269,12 @@
                   <note type="biological">The father of Lockhart's friend Jack. Mr. Mahan passed away during Lockhart's trip. He had suffered from heart trouble.</note>
                </person>
                <person xml:id="Gutenko">
-                  <persName>Gutenko</persName>
-                  <note type="biological">Gutenko was the cook for the West Base.</note>
+                  <persName>Gutenko, Sigmund</persName>
+                  <note type="biological">Gutenko was the cook for the West Base. He was from Baltimore, Maryland.</note>
+               </person>
+               <person xml:id="CharliePassel">
+                  <persName>Passel, Charles F</persName>
+                  <note type="biological">Passel, or Passell, (he's listed two different ways in the roster) was a geologist from Indianapolis, Indiana. Lockhart ran metabolism tests on him.</note>
                </person>
             </listPerson>
             
@@ -346,6 +350,10 @@
                   <placeName>Panama</placeName>
                   <desc>Lockhart talks about traveling back through Panama on his way to Seattle on the return trip.</desc>
                   <location><geo>8.537981 -80.782127</geo></location>
+               </place>
+               
+               <place type="geography" xml:id="BarrierEdge">
+                  <placeName>barrier edge</placeName>
                </place>
                
             </listPlace>
@@ -823,7 +831,7 @@
                   <lb/>plete. <persName>Beatie</persName> did not say whether <persName>Jack</persName> came home for
                   <lb/>the funeral. Since <persName>Ned</persName> and <persName>Bill</persName> have gotten married and
                   <lb/>have moved out on their own only <persName ref="#MrsMahan">Mrs. Mahan</persName> and <persName>Margaret</persName>
-                  <lb/>will be living in <placeName>Arlington Street</placeName>. 
+                  <lb/>will be living in <placeName ref="#ArlingtonStreet">Arlington Street</placeName>. 
                   <lb/>
                </p>
             </div> <!-- End of first dated entry. -->
@@ -840,7 +848,7 @@
                   <lb/>delicious <add place="above" rend="^">were</add> the oatmeal and cocoa of the trail. Although I
                   <lb/>meant to get going on my cleaning up for metabolism tests
                   <lb/>but I started writing reading and talking so very little was 
-                  <lb/>done. <persName>Buck Boyd</persName> and <persName><unclear>Sweet</unclear></persName> skiing down to the <geogName>barrier edge</geogName>
+                  <lb/>done. <persName>Buck Boyd</persName> and <persName><unclear>Sweet</unclear></persName> skiing down to the <geogName ref="#BarrierEdge">barrier edge</geogName>
                   <lb/>to see if the blizzard had carried out any of the <geogName>bay</geogName> ice.
                   <lb/>We found that the whole <geogName>bay</geogName> was still iced over and unless
                   <lb/>something drastic happens within the next two weeks we certainly
@@ -1726,7 +1734,7 @@
                <lb/>Today a little more order has prevailed. I ran a 
             <pb facs="journal-2-36.jpg" n="/0/00f6b1f6-ee2b-45cd-bd18-44400d0a3392"/>
             <fw type="pageNum" place="top">32</fw>
-                  <lb/>metabolism test on <persName>Charlie Passel</persName> and am continuing
+                  <lb/>metabolism test on <persName ref="#CharliePassel">Charlie Passel</persName> and am continuing
                   <lb/>my air analysis. <persName>Arnold</persName> made a very valuable suggestion
                   <lb/>and I shall follow it. I shall take air samples on the
                   <lb/>way back and check the idea that the oxygen content
@@ -1856,7 +1864,7 @@
                <p>
                   <lb/>All of the <!-- Spelling? -->food<!-- snip --> going back much of the radio gear
                   <lb/><!-- Spelling? -->meterological<!-- snip --> equipment and aviation gear has already
-                  <lb/>been taken down to the barrier edge. It looks as though
+                  <lb/>been taken down to the <geogName ref="#BarrierEdge">barrier edge</geogName>. It looks as though
                   <lb/>it won't be difficult to get <!-- underline -->all<!-- snip --> of the stuff going back
                   <lb/>down to the cache. Once down there it won't take long to
                   <lb/>load the stuff on the ships. The <name type="ship">Star</name>, by the way,
@@ -2070,7 +2078,7 @@
                      <lb/>Arrived back at base in time for Christmas. Had wonderful trip with
                      <lb/>dogs in new territory. Now anxiously waiting for mail on ships not
                      <lb/>far from here. Also anxious <choice><orig>toget</orig><corr>to get</corr></choice> home again. W shall return vis
-                     <lb/>Valparaiso Panama and Seattle. Journey's end probably in May.
+                     <lb/>Valparaiso <placeName ref="#Panama">Panama</placeName> and Seattle. Journey's end probably in May.
                   </p>
                   <lb/><closer>Earl</closer>
                </div>
