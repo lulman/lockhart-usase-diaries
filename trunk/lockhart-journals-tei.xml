@@ -290,6 +290,11 @@
                   <persName>Passel, Charles F</persName>
                   <note type="biological">Passel, or Passell, (he's listed two different ways in the roster) was a geologist from Indianapolis, Indiana. Lockhart ran metabolism tests on him.</note>
                </person>
+               <person xml:id="Fitz">
+                  <persName>Fitzsimmons, Roy F</persName>
+                  <note type="biological">Fitz was a physicist from Newark, New Jersey. Lockhart talks about running metabolism tests on him and 
+                  going out on excursions with him.</note>
+               </person>
             </listPerson>
             
             <listPerson type="editors">
@@ -1677,12 +1682,12 @@
               </p>
               <p>
                  <lb/>Now that everyone is in and the trail season is over
-                 <lb/>this <unclear>loosens</unclear> our Party's <unclear>moods.</unclear> A lot of <persName>Fitz's</persName> gear, two
+                 <lb/>this <unclear>loosens</unclear> our Party's <unclear>moods.</unclear> A lot of <persName ref="#Fitz">Fitz</persName>'s gear, two
                  <lb/>of <persName>Dick's</persName> dogs, 3 of Bursey's and one of <persName><unclear>Larry's</unclear></persName> and of
                  <lb/><unclear>common</unclear> the Condor.
               </p>
               <p>
-                 <lb/>I shall take Fitz in the <unclear>bashel</unclear> tomorrow for the start
+                 <lb/>I shall take <persName ref="#Fitz">Fitz</persName> in the <unclear>bashel</unclear> tomorrow for the start
                  <lb/>in the trail parties. There are only 6 men I want to get
                  <lb/>but there may be a <unclear>repeat</unclear> in the group. I am planning
                  <lb/>on a week. 
@@ -1707,7 +1712,7 @@
              </p>
              <p>
                 <lb/>After doing the analysis I went to bed for a few hours and
-                <lb/>then ran a metabolism test on <persName>Fitz.</persName>
+                <lb/>then ran a metabolism test on <persName ref="#Fitz">Fitz</persName>.
              </p>
              <p>
                 <lb/>About four o'clok the <name type="ship">Bear</name> came in on the radio and said
@@ -1974,7 +1979,7 @@
                   <lb/>Not much activity in camp today. <persName>Pete</persName> made
                   <lb/>several <unclear>hops</unclear> just for fun and also to make a
                   <lb/><placeName>Bay of Whales</placeName> <del rend="strikethrough">sun</del> aerial survey with <persName>Shirley</persName> doing the
-                  <lb/>photographing. <persName>Jack R.</persName> and <persName>Fitz</persName> layed out some
+                  <lb/>photographing. <persName>Jack R.</persName> and <persName ref="#Fitz">Fitz</persName> layed out some
                   <lb/>markers.
                </p>
                <p>
