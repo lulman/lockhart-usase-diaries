@@ -248,14 +248,28 @@
                   <note type="biographical">Jack Perkins led a biological party into the Fosdick Mountains in December 1940. Mount Perkins, a
                   peak at the east end of the Fosdick Mountains, was named after Perkins in 1947 <bibl><ref target="#MPerkins"><title level="a">Mount Perkins</title></ref></bibl>.</note>
                </person>
-               <person xml:id="Shirley">
+               <person xml:id="Shirley" source="#personnel">
                   <persName>Shirley, Charles S.</persName>
                   <occupation when="1940">photographer</occupation>
                   <note type="biographical">Was from San Diego California, worked both bases, and would have been survived by his wife Anna.</note>
                </person>
-               <person xml:id="Richardson">
+               <person xml:id="Richardson" source="#Passel">
                   <persName>Richardson H. H.</persName>
+                  <occupation>dog team driver</occupation>
+                  <note type="biographical">Goes primarily by the nickname "Jack</note>
                    </person>
+               <person xml:id="Sherman" source="#ANB">
+                  <persName>Sherman, General William Tecumseh</persName>
+                  <occupation>Union Army General</occupation>
+                  <birth when="18200208">
+                     <placeName>Lancaster, Ohio</placeName>
+                  </birth>
+                  <death when="18910214">
+                     <placeName>New York City, New York</placeName>
+                  </death>
+                  <note type="contextual">Lockhart mentions Sherman's burning of Atlanta while recording his 
+                     reactions to Gone With the Wind</note>
+               </person>
                <person xml:id="JackMahan">
                   <persName>Mahan, Jack</persName>
                   <note type="biographical">A friend of Lockhart's whose father died during Christmas of 1940.</note>
@@ -324,6 +338,7 @@
                   <location><geo>40.0667 -82.8000</geo></location>
                </place>
                
+               
                <place type="city" xml:id="WestDennis" source="#TGN">
                   <placeName>West Dennis</placeName>
                   <country>United States</country>
@@ -339,6 +354,20 @@
                   <region type="state">Massachusetts</region>
                   <desc>The home of the Mahan family. Mr. Mahan, the father of Lockhart's friend Jack, passed away while Lockhart was in Antartica.</desc>
                   <location><geo>42.2595897 -71.11632</geo></location>
+               </place>
+               
+               <place type="country" xml:id="Canada" source="#eel-19401229b">
+                 <placeName>Canada</placeName> 
+                  <desc>Lockhart expresses a desire to go camping, and considers Canada to be a 
+                     prime location for camp sites</desc>
+               </place>
+               
+               <place type="city" xml:id="Atlanta" source="#eel-19411231">
+                  <placeName>Atlanta</placeName>
+                  <country>United States</country>
+                  <region type="state">Georgia</region>
+                  <desc>Lockhart discusses Sherman's burning of Atlanta when talking about his 
+                     reactions to Gone with the Wind</desc>
                </place>
            
                <place type="base" xml:id="depot105"> 
@@ -421,6 +450,9 @@
                
                <bibl xml:id="TGN" n="Getty">Getty Research Institute.<title level="m">Getty
                   Thesaurus of Geographic Names Online</title> N.d. Web. 12 Feb. 2014.</bibl>
+               
+               <bibl xml:id="ANB" n="American National Biography">Oxford University Press<title level="m">American National Biography Online</title>
+               2010 Web. 22 Feb. 2014</bibl>
                
                <bibl xml:id="LOC" n="Library">The Library of Congress. <title level="m">Library of Congress Authorities</title>. 
                   6 Jan. 2012. Web. 12 Feb. 2014.</bibl>
@@ -1074,7 +1106,7 @@
             </p>
             <p>
                <lb/>I have come back from the trail with an intense desire to
-               <lb/>do some more camping - preferably in <country>Canada</country> - and all the
+               <lb/>do some more camping - preferably in <country ref="#Canada">Canada</country> - and all the
                <lb/>other activities that go with it hunting and fishing. I
                <lb/>presume that the best way to begin is to go some advertised 
                <lb/>camp and hire a guide for a week or so. <del rend="strikethrough">I shall get</del>
@@ -1086,9 +1118,9 @@
          </div>
          <pb facs="journal-2-18.jpg" n="/9/9940712b-a2cd-4eaa-92a9-e650af6a8fd1"/>
          <fw type="pageNum" place="top">14</fw>
-         <div xml:id="eel-19411231a" type="entry">
-            <lb/><dateline><del rend="strikethrough">Wednesday January 1 1941
-            <lb/>At last the new year has</del>
+         <div xml:id="eel-19411231" type="entry">
+            <lb/><dateline><del rend="strikethrough">Wednesday January 1 1941</del>
+            <lb/>At last the new year has
             <date when="1941-12-31"></date>Tuesday December 31 1941</dateline>
             <p>
                <lb/>We have been operating such an erratic schedule and
@@ -1127,7 +1159,7 @@
                <lb/>parents or even great grand parents the latter of whom were
                <lb/>the younger generation of those never-to-be-forgotten days.
                <lb/>If the Yankees had been able to win the war without
-               <lb/>the Sherman-in-Atlanta episode perhaps all of the
+               <lb/>the <persName ref="#ANB">Sherman</persName>-in-<placeName ref="#Atlanta">Atlanta</placeName> episode perhaps all of the
                <lb/>stigma which now is attached <del rend="strikethrough">th</del>to the word Northener
                <lb/>might have been avoided.  Conerning the <name>Civil War</name> no
                <lb/>one can say "that's all ancient History" because in
