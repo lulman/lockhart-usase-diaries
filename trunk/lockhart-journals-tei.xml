@@ -225,6 +225,25 @@
                   </desc>
                </item>
             </list>
+
+            <list type="rhetorical-figures">
+               <head>Rhetorical figures, schemes, and tropes</head>
+               <item>
+                  <interpGrp type="figures">
+                     <interp xml:id="adage"></interp>
+                     <interp xml:id="adynaton"></interp>
+                     <interp xml:id="aetiologia"></interp>
+                     <interp xml:id="anesis"></interp>
+                     <interp xml:id="anthypophora"></interp>
+                     <interp xml:id="aporia"></interp>
+                     <interp xml:id="epicrisis"></interp>
+                     <interp xml:id="metaphor"></interp>
+                  </interpGrp>
+                  <interpGrp type="tropes">
+                     <interp></interp>
+                  </interpGrp>
+               </item>
+            </list>
             
             <listPerson type="mentioned">
                <head>People Mentioned in Ernest E. Lockhart's Journal </head>
