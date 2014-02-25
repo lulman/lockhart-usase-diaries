@@ -342,6 +342,17 @@
                <person xml:id="Pete"><persName>Petras, Theodore A.</persName><note type="biological">Pete was an expedition man and a pilot on the North Star.</note></person><!-- will add details later -->
                <person xml:id="Mac"><persName>Mc Coy, James C.</persName><note type="biological">Mac was a pilot and part of the West Base crew.</note></person><!-- will add details -->
                <person xml:id="Walt"><persName>Giles, Walter R.</persName><note type="biological">Giles was an assistant pilot and raio operator for West Base.</note></person><!--will add details -->
+               <person xml:id="Ferranto" source="Google">
+                  <persName>Ferranto, Felix</persName>
+               </person> 
+               <person xml:id="Court" source="#Marquis">
+                  <persName>Court, Arnold</persName>
+                  <birth when="1914-06-20"><placeName ref="#Seattle">Seattle, WA</placeName></birth>
+                  <death when-custom="not before 1990"></death>
+                  <occupation>Climatologist/Meteorologist</occupation>
+                  <note type="biographical">bio note</note>
+               </person>
+                  
                
             </listPerson>
             
@@ -553,7 +564,9 @@
                   6 Jan. 2012. Web. 12 Feb. 2014.</bibl>
                
                <bibl xml:id="MPerkins" n="Mount"><title level="a">Mount Perkins.</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
-                  Geological Survey. N. d. Web. 12 Feb. 2014. &lt;http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:5:::NO::P5_ANTAR_ID:11624&gt;.</bibl>               
+                  Geological Survey. N. d. Web. 12 Feb. 2014. &lt;http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:5:::NO::P5_ANTAR_ID:11624&gt;.</bibl> 
+               
+               <bibl xml:id="Marquis" n="Marquis Who's Who"></bibl>
                
                <bibl xml:id="LibUTexas" n="lib.utexas.edu"><title>A Guide to the Charles F. Passel Antartic Exploration Collection, 1911-2001</title>
                </bibl>
@@ -1306,7 +1319,7 @@
                   <lb/>with no load. In order not to l<gap reason="overwritten"/>ose the valuable loads which
                   <lb/>have been made even heavier by the addition of the outpost's
                   <lb/>stuff it has been decided to send <persName>Tony</persName> and <persName>Jack</persName> out with
-                  <lb/>18 dogs and two sleds. <persName>Ferranto</persName> is hauling several dog sleds
+                  <lb/>18 dogs and two sleds. <persName ref="#Ferranto">Ferranto</persName> is hauling several dog sleds
                   <lb/>which are extra so that the single <del rend="strikethrough">do</del> sled dog teams can
                   <lb/>once more be <del rend="strikethrough">brought ba</del> made double sled dog teams. At
                   <lb/>least <persName>Tony</persName> and <persName>Jack</persName> will be able to carry home all the gear
