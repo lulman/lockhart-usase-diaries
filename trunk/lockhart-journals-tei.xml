@@ -459,10 +459,10 @@
            
                <place type="cache" xml:id="depot105"> 
                  <placeName>105-Mile Depot</placeName>
-               <location><geo>78.279767 -155.535556</geo></location>
+               <location><geo>-78.279767 -155.535556</geo></location>
                </place>
                
-               <place><placeName>Valparaiso</placeName></place>
+               <place type="city" xml:id="Valparaiso"><placeName>Valparaiso</placeName><location><geo>-33.0478 -71.6011</geo></location></place>
                
                <place><placeName>Dunedin</placeName></place>
                
