@@ -394,6 +394,11 @@
                   <location><geo>39.1500 -84.4500</geo></location>
                </place>
                
+               <place type="range" xml:id="HalFlood">
+                  <placeName>Hal Flood</placeName>
+                  <country>Artic</country>
+                  <desc>Range of snow covered mountains, reconnaissance flights by the United Antartic Service (1939-41), of which Lockhart was a member, explored the range.</desc>
+               </place>
                <place type="address" xml:id="ArlingtonStreet" source="#eel-19401226a">
                   <placeName>Arlington Street</placeName>
                   <country>United States</country>
