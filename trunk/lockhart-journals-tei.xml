@@ -2070,7 +2070,8 @@
                      <lb/>years. Anxious to get home to see you all again.
                   </p>
                   <lb/>
-                  <closer><persName>Earl</persName></closer>
+                  <closer>
+                  <lb/><persName>Earl</persName></closer>
                   </div> 
                <div xml:id="eel-19401231" type="radiogram" subtype="recieved" facs="journal-2-48">
                   <opener>
@@ -2083,7 +2084,8 @@
                      <lb/>return
                   </p>
                   <lb/>
-                  <closer><persName>mary</persName> and <persName>carl</persName></closer>
+                  <closer>
+                     <lb/><persName>mary</persName> and <persName>carl</persName></closer>
                </div>
                 
              
