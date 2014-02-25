@@ -314,11 +314,13 @@
                </person>
                <person xml:id="MrsMahan">
                   <persName>Mrs. Mahan</persName>
-                  <note type="biological">The wife of Mr. Mahan and mother to Jack and Margaret Mahan.</note>
+                  <note type="biological">The wife of Mr. Mahan and mother to Jack and Margaret Mahan. Lockhart sends her a radiogram
+                  to extend his condolences regarding the death of her husband.</note>
                </person>
                <person xml:id="MrMahan">
                   <persName>Mr. Mahan</persName>
-                  <note type="biological">The father of Lockhart's friend Jack. Mr. Mahan passed away during Lockhart's trip. He had suffered from heart trouble.</note>
+                  <note type="biological">The father of Lockhart's friend Jack. Mr. Mahan passed away during Lockhart's trip. He had suffered from heart trouble.
+                     Lockhart is saddened by his death and reminisces about their relationship, remarking that Mr. Mahan would've liked to hear about Antarctica.</note>
                </person>
                <person xml:id="Gutenko">
                   <persName>Gutenko, Sigmund</persName>
@@ -330,7 +332,7 @@
                   <birth when="1911">Indianapolis, Indiana</birth>
                   <death when="2001"></death>
                   <occupation when="1940">Geologist</occupation>
-                  <note type="biological">Passel was a geologist from Indianapolis, Indiana. Lockhart ran metabolism tests on him. In 1995, his antartic diaries, 
+                  <note type="biological">Passel was a geologist from Indianapolis, Indiana. Lockhart ran metabolism tests on him. In 1995, his antarctic diaries, 
                   called <title level="m">Ice</title>, were published.</note>
                </person>
                <person xml:id="Fitz">
@@ -474,6 +476,7 @@
                
                <place type="geography" xml:id="BarrierEdge">
                   <placeName>barrier edge</placeName>
+                  <desc>Lockhart is most likely referring to the edge of the Ross Ice Shelf.</desc>
                </place>
                
             </listPlace>
