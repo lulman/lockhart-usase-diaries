@@ -322,14 +322,20 @@
                </person>
                <person xml:id="Gutenko">
                   <persName>Gutenko, Sigmund</persName>
+                  <occupation when="1940">Cook</occupation>
                   <note type="biological">Gutenko was the cook for the West Base. He was from Baltimore, Maryland.</note>
                </person>
                <person xml:id="CharliePassel">
                   <persName>Passel, Charles F</persName>
-                  <note type="biological">Passel, or Passell, (he's listed two different ways in the roster) was a geologist from Indianapolis, Indiana. Lockhart ran metabolism tests on him.</note>
+                  <birth when="1911">Indianapolis, Indiana</birth>
+                  <death when="2001"></death>
+                  <occupation when="1940">Geologist</occupation>
+                  <note type="biological">Passel was a geologist from Indianapolis, Indiana. Lockhart ran metabolism tests on him. In 1995, his antartic diaries, 
+                  called <title level="m">Ice</title>, were published.</note>
                </person>
                <person xml:id="Fitz">
-                  <persName>Fitzsimmons, Roy F</persName>
+                  <persName>Fitzsimmons, Roy F<addName type="nickname">Fitz</addName></persName>
+                  <occupation when="1940">Physicist</occupation>
                   <note type="biological">Fitz was a physicist from Newark, New Jersey. Lockhart talks about running metabolism tests on him and 
                   going out on excursions with him.</note>
                </person>
@@ -549,6 +555,9 @@
                <bibl xml:id="MPerkins" n="Mount"><title level="a">Mount Perkins.</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
                   Geological Survey. N. d. Web. 12 Feb. 2014. &lt;http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:5:::NO::P5_ANTAR_ID:11624&gt;.</bibl>               
                
+               <bibl xml:id="LibUTexas" n="lib.utexas.edu"><title>A Guide to the Charles F. Passel Antartic Exploration Collection, 1911-2001</title>
+               </bibl>
+            
             </listBibl>
             
          </sourceDesc>
