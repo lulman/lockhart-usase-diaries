@@ -267,15 +267,21 @@
                   <note type="biographical">Jack Perkins led a biological party into the Fosdick Mountains in December 1940. Mount Perkins, a
                   peak at the east end of the Fosdick Mountains, was named after Perkins in 1947 <bibl><ref target="#MPerkins"><title level="a">Mount Perkins</title></ref></bibl>.</note>
                </person>
+               <person xml:id="Bursey" source="#Passel #personnel">
+                   <persName>Jack Bursey <addName type="nickname">Jack B.</addName></persName>
+                  <occupation when="1940">dog driver</occupation>
+                  <note type="biographical">Was from Grand Rapids, Michigan, and would have been survived by his wife Ada Bursey</note>
+               </person>
                <person xml:id="Shirley" source="#personnel">
                   <persName>Shirley, Charles S.</persName>
                   <occupation when="1940">photographer</occupation>
                   <note type="biographical">Was from San Diego California, worked both bases, and would have been survived by his wife Anna.</note>
                </person>
-               <person xml:id="Richardson" source="#Passel">
-                  <persName>Richardson H. H.</persName>
-                  <occupation>dog team driver</occupation>
-                  <note type="biographical">Goes primarily by the nickname "Jack</note>
+               <person xml:id="Richardson" source="#Passel #personnel">
+                  <persName>Richardson H. H. <addName type="nickname">Jack</addName></persName>
+                  <occupation>dog driver</occupation>
+                  <note type="biographical">A dog driver on the expedition who features in both Lockhart and Passel's accounts. Also took video footage of some of the expedition. Was from Franklin, New Hampshire 
+                     and would have been survived by his brother Harold C. RichardsonGoes primarily by the nickname "Jack</note>
                    </person>
                <person xml:id="Sherman" source="#ANB">
                   <persName>Sherman, General William Tecumseh</persName>
@@ -288,6 +294,19 @@
                   </death>
                   <note type="contextual">Lockhart mentions Sherman's burning of Atlanta while recording his 
                      reactions to Gone With the Wind</note>
+               </person>
+               <person xml:id="Warner" source="#personnel #Passel">
+                  <persName>Warner, Lawrence A. <addName type="nickname"></addName>Larry</persName>
+                  <occupation>geologist</occupation>
+                  <note type="biographical">A geologist on the expedition. Was from Monroe, Ohio and would have been 
+                     survived by his parents Mr. and Mrs. C.F. Warner </note>
+               </person>
+               <person xml:id="Guernsey" source="#Card">
+                  <persName>Guernsey, George Rockwell</persName>
+                  <birth when="18840215">Canton, Bradford Co., Pennsylvania</birth>
+                  <residence when="-1952">Wellesely, Massachusetts</residence>
+                  <note type="biographical">Lockhart exchanges radiograms with a George Guernsey of Wellesley Massachusetts, 
+                     about Christmas and his potential trips to Panama and Seattle</note>
                </person>
                <person xml:id="JackMahan">
                   <persName>Mahan, Jack</persName>
@@ -479,8 +498,12 @@
                <bibl xml:id="TGN" n="Getty">Getty Research Institute.<title level="m">Getty
                   Thesaurus of Geographic Names Online</title> N.d. Web. 12 Feb. 2014.</bibl>
                
-               <bibl xml:id="ANB" n="American National Biography">Oxford University Press<title level="m">American National Biography Online</title>
+               <bibl xml:id="ANB" n="American National Biography">Oxford University Press<title level="m">American National Biography</title>
                2010 Web. 22 Feb. 2014</bibl>
+               
+               <bibl xml:id="Card" n="The Garnsey-Guernsey Family Genealogy">comp. Card, Eva Louise Garnsey and Guernsey, Howard Abram <title level="m">The Garnsey-Guernsey Genealogy: An Account of Thirteen Generations 
+                  of Descendants from Henry Garnsey (---- -1692)of Dorchester, Mass., and Joseph Guernsie-Garnsey (---- -1688) of Stamford, Conn </title> <title level="s">Hathi Trust</title> Urbana, Ill. : E. and L. Card, 1963. Web. 25th Feb 2014
+                  </bibl>
                
                <bibl xml:id="LOC" n="Library">The Library of Congress. <title level="m">Library of Congress Authorities</title>. 
                   6 Jan. 2012. Web. 12 Feb. 2014.</bibl>
@@ -2125,12 +2148,12 @@
                      <lb/>happy and prosperous new year x hope to meet you on return to united
                      <lb/>states
                   </p>
-                  <lb/><closer><persName>the george guernsey</persName></closer>
+                  <lb/><closer><persName ref="#Guernsey">the george guernsey</persName></closer>
                </div>
                <div xml:id="eel-19410103a" type="radiogram" facs="journal-2-56" n="/C/cb5e3b56-14a4-46e0-9f63-dbecb3c47d5e">
                   <opener>
                     <lb/><date when="1941-01-03" type="received">Jan 3 1940</date>
-                    <lb/><persName>Mr Guernsey and Family</persName>
+                    <lb/><persName ref="#Guernsey">Mr Guernsey and Family</persName>
                      <lb/><placeName>7 Upland Rd
                      <lb/>Wellsley Mass</placeName>
                   </opener>
