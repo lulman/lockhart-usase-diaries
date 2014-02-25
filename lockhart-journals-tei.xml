@@ -427,10 +427,14 @@
                   <location><geo>33.7333 -84.3833</geo></location>
                </place>
            
-               <place type="base" xml:id="depot105"> 
+               <place type="cache" xml:id="depot105"> 
                  <placeName>105-Mile Depot</placeName>
-               <location><geo>78.1645 -155.3208</geo></location>
+               <location><geo>78.279767 -155.535556</geo></location>
                </place>
+               
+               <place><placeName>Valparaiso</placeName></place>
+               
+               <place><placeName>Dunedin</placeName></place>
                
                <place type="country" xml:id="Panama" source="#eel-journal2-radiograms">
                   <placeName>Panama</placeName>
@@ -1435,7 +1439,7 @@
               <fw type="pageNum" place="top">21<!-- seems faintly underlined and written on a slant in the very rounded corner of the page --> </fw>
                  
                  <lb/>to no avail what was needed was a complete new engine.
-                 <lb/><persName>Pete</persName> brought back <persName>Poppy</persName> and <persName>Giles</persName> and then went out
+                 <lb/><persName>Pete</persName> brought back <persName>Pappy</persName> and <persName>Giles</persName> and then went out
                  <lb/>for <persName>Paul</persName> and <persName>Mac</persName>. <persName>Pete</persName> had to go all the way to the 
                  <lb/>tractor and then to the plane. The overcast that had been
                  <lb/>increasing had become so bad that <persName>Pete</persName> was afraid 
