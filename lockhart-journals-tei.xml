@@ -306,7 +306,8 @@
                   <birth when="18840215">Canton, Bradford Co., Pennsylvania</birth>
                   <residence when="-1952">Wellesely, Massachusetts</residence>
                   <note type="biographical">Lockhart exchanges radiograms with a George Guernsey of Wellesley Massachusetts, 
-                     about Christmas and his potential trips to Panama and Seattle</note>
+                     about Christmas and his potential trips to Panama and Seattle. There's a Guernsey by that name living there according 
+                     to a family genealogy, barring another man with the same name it's presumably the same man</note>
                </person>
                <person xml:id="JackMahan">
                   <persName>Mahan, Jack</persName>
@@ -1508,7 +1509,7 @@
                     <pb facs="journal 2-26" n= "/6/619ac374-eef5-49d7-8b1c-12661079e5ed"/>
                  <fw type="pagenumber" place="top left">22</fw>
               
-                  <lb/>whites in <placeName><region>Florida</region></placeName>. I have spoken to <persName>Shirley</persName> about it and 
+                  <lb/>whites in <placeName><region>Florida</region></placeName>. I have spoken to <persName ref="#Shirley">Shirley</persName> about it and 
                   <lb/>hope he <unclear cert="high">reads</unclear> it. I should like to know if it at all <unclear cert="unknown">aw</unclear>
                   <lb/>accurate picture of the state where he lived much of his boyhood.
                   <lb/><title level="m">Gone with the Wind</title> tapered off slightly in <unclear cert="high">interest</unclear> and left me
@@ -2087,7 +2088,7 @@
                <p>
                   <lb/>Not much activity in camp today. <persName>Pete</persName> made
                   <lb/>several <unclear>hops</unclear> just for fun and also to make a
-                  <lb/><placeName>Bay of Whales</placeName> <del rend="strikethrough">sun</del> aerial survey with <persName>Shirley</persName> doing the
+                  <lb/><placeName>Bay of Whales</placeName> <del rend="strikethrough">sun</del> aerial survey with <persName ref="#Shirley">Shirley</persName> doing the
                   <lb/>photographing. <persName>Jack R.</persName> and <persName ref="#Fitz">Fitz</persName> layed out some
                   <lb/>markers.
                </p>
