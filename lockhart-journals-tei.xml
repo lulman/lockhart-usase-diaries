@@ -448,6 +448,16 @@
                     description
                  </desc>
               </org>
+               <org xml:id="Colliers">
+                  <orgName>Collier's Weekly</orgName>
+                  <state type="company">
+                     <desc>
+                        A magazine famous for running articles about social issues from the 20s on, also featured serialized stories
+                     </desc>
+                  </state>
+                  <note type="contextual">Lockhart is asked to be interviewed for Colliers' Weekly, but there doesn't seem to be an issue for 1941 with a 
+                     story that corresponds to the one he would have interviewed for</note>
+               </org>
             </listOrg>
             
             <listEvent>
@@ -504,6 +514,7 @@
                <bibl xml:id="Card" n="The Garnsey-Guernsey Family Genealogy">comp. Card, Eva Louise Garnsey and Guernsey, Howard Abram <title level="m">The Garnsey-Guernsey Genealogy: An Account of Thirteen Generations 
                   of Descendants from Henry Garnsey (---- -1692)of Dorchester, Mass., and Joseph Guernsie-Garnsey (---- -1688) of Stamford, Conn </title> <title level="s">Hathi Trust</title> Urbana, Ill. : E. and L. Card, 1963. Web. 25th Feb 2014
                   </bibl>
+               <bibl xml:id="Unz" n="Unz.org">Unz, Robert <title level="s">Collier's</title> <title level="m">Unz.org</title>Web. 25 Feb. 2014</bibl>
                
                <bibl xml:id="LOC" n="Library">The Library of Congress. <title level="m">Library of Congress Authorities</title>. 
                   6 Jan. 2012. Web. 12 Feb. 2014.</bibl>
@@ -2149,7 +2160,7 @@
                      <lb/><salute><persName>EARL LOCKHART</persName></salute>
                   </opener>
                   <p>
-                     <lb/>HAPPY PROSEPEROUS NEW YEAR X HOPE TO <add type="above">me</add> GET YOU ON RETURN <add place="above" rend="^">to the U.S.</add> X <persName>THE GUERNSEYS</persName>
+                     <lb/>HAPPY PROSEPEROUS NEW YEAR X HOPE TO <add type="above">me</add> GET YOU ON RETURN <add place="above" rend="^">to the U.S.</add> X <persName ref="#Guernsey">THE GUERNSEYS</persName>
                   </p>
                </div>
                <div xml:id="eel-19400102a" type="radiogram" facs="journal-2-55" n="/D/d008d323-2484-4321-bf8a-a17ef90e075a">
@@ -2430,7 +2441,7 @@
                      <lb/><persName>BILL LECKIE</persName> WANTS TO KNOW WHAS YOUR EXPERIECE WITH HARRIS FOOD MIXTURE
                      <lb/>SATISFACTORY OR UNSATISFACTORY STOP DID MEN FIND IT PALATABLE OR UNPALATABLE
                      <lb/>STOP <persName>BILL LECKIE</persName> WANTS TO KNOW WILL <persName>DR LOCKHART</persName> INTERVIEW REPRESENTATIVES
-                     <lb/>COLLIER WEEKLY AT <placeName>BALBOA</placeName> IN CONNECTIONWITH ARTICLE ON HARRIS FOOD MIXTURE
+                     <lb/><orgName ref="#Colliers">COLLIER WEEKLY</orgName> AT <placeName>BALBOA</placeName> IN CONNECTIONWITH ARTICLE ON HARRIS FOOD MIXTURE
                      <lb/>PROJECTED FOR BRITISH EMERGENCY FEEDING STOP PLEASE HAVE CABLE COLLECT
                      <lb/>TO ME 122 EAST FORTY SECOND STREET NEWYORKCITY STOP <persName>J E MACDONALD</persName> U S DEPART
                      <lb/>MENT OF INTERIOR AUTHORIZED THIS INQUIRY
