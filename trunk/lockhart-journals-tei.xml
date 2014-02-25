@@ -339,9 +339,9 @@
                   <note type="biological">Fitz was a physicist from Newark, New Jersey. Lockhart talks about running metabolism tests on him and 
                   going out on excursions with him.</note>
                </person>
-               <person xml:id="Pete"><persName>Petras, Theodore</persName></person><!-- will add details later -->
-               <person xml:id="Mac"><persName>Mc Coy, James</persName></person><!-- will add details -->
-               <person xml:id="Walt"><persName>Giles, Walter R.</persName></person><!--will add details -->
+               <person xml:id="Pete"><persName>Petras, Theodore A.</persName><note type="biological">Pete was an expedition man and a pilot on the North Star.</note></person><!-- will add details later -->
+               <person xml:id="Mac"><persName>Mc Coy, James C.</persName><note type="biological">Mac was a pilot and part of the West Base crew.</note></person><!-- will add details -->
+               <person xml:id="Walt"><persName>Giles, Walter R.</persName><note type="biological">Giles was an assistant pilot and raio operator for West Base.</note></person><!--will add details -->
                
             </listPerson>
             
