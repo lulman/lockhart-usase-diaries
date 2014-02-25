@@ -785,14 +785,14 @@
               <lb/>thing of quite different. I said that I probable wouldn't eat very much
               <lb/><unclear cert="medium">Peuk</unclear> said he would eat only a ham sandwich and a cup of coffee.
               <lb/><persName>Tony</persName> and <persName>Jack</persName> said they were going to fill up. We all had our
-              <lb/>doubts whether <persName>Gutenko</persName> would have anything for us.
+              <lb/>doubts whether <persName ref="#Gutenko">Gutenko</persName> would have anything for us.
               </p>
               <p>
                  <lb/>When we had come about 2 miles from the base,<persName>Tony</persName>
                  <lb/>and I stopped <persName>Jack</persName> who was leading and suggested that we
                  <lb/>let <persName><unclear cert="medium">Peuk</unclear></persName> take his team in first. <persName>Tony</persName> skied ahead breaking
                  <lb/>trail with <persName><unclear cert="medium">Peuk</unclear></persName> following a short distance behind I skied
-                 <lb/>ahead of old <persName>Spot</persName>. <persName>Paul</persName> came out to meet us and gave
+                 <lb/>ahead of old <name type="dog" ref="#Spot">Spot</name>. <persName>Paul</persName> came out to meet us and gave
                  <lb/>us a good hand clapp as we came up to him. There was
                  <lb/>preliminary gossip as we endrived in. We parked in
                  <lb/>front of the balloon house where we were met by almost the
@@ -802,7 +802,7 @@
                  <lb/>questions we net up camp and staked out the dogs. <persName>Douglas</persName>
                  <lb/>and <persName>Wiener</persName> hauled over some seal meat they had cut. The
                  <lb/>dogs sure enjoyed it and then yelped for more. By that time
-                 <lb/><persName>Gutenko</persName> said that <unclear>clun</unclear> was nearly ready and we all <unclear cert="medium">repaired</unclear> to
+                 <lb/><persName ref="#Gutenko">Gutenko</persName> said that <unclear>clun</unclear> was nearly ready and we all <unclear cert="medium">repaired</unclear> to
               
                <pb facs="journal-2-07.jpg"/>
                <fw type="pageNum" place="top">3</fw>
@@ -835,7 +835,7 @@
                   <lb/>on I spent the time until dinner cleaning up a little and
                   <lb/><seg ana="metaphor">chewing the fat</seg> a lot. The dinner was one of the <persName ref="#Gutenko">Gutenko's</persName> specials
                   <lb/>turkey with sweet potatoes asparagus spinach
-                  <lb/>dressing cranberry sauce after <unclear cert="medium">boullion</unclear>; we had a little
+                  <lb/>dressing cranberry sauce after boullion; we had a little
                
                <pb facs="journal-2-08.jpg" n="/7/7e20064a-fc13-42fd-a452-63a23c83f0c2"/>
             <fw type="pageNum" place="top">4</fw> 
