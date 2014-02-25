@@ -403,18 +403,28 @@
                   <location><geo>42.2595897 -71.11632</geo></location>
                </place>
                
-               <place type="country" xml:id="Canada" source="#eel-19401229b">
-                 <placeName>Canada</placeName> 
-                  <desc>Lockhart expresses a desire to go camping, and considers Canada to be a 
-                     prime location for camp sites</desc>
+               <place type="country" xml:id="NewZealand" source="#TGN">
+                  <placeName>New Zealand</placeName>
+                  <desc>Island nation of the Southwest Pacific. The Bear is mentioned having just 
+                     left New Zealand on its way to Antarctica early in the journal</desc>
+                  <location><geo>-42.0000 174.0000</geo></location>
                </place>
                
-               <place type="city" xml:id="Atlanta" source="#eel-19411231">
+               <place type="country" xml:id="Canada" source="#TGN">
+                 <placeName>Canada</placeName> 
+                  <desc>North American nation to the north of the United States. Lockhart expresses a desire to go camping, and considers Canada to be a 
+                     prime location for camp sites</desc>
+                  <location><geo>60.0000 -096.0000</geo></location>
+               </place>
+               
+               <place type="city" xml:id="Atlanta" source="#TGN">
                   <placeName>Atlanta</placeName>
                   <country>United States</country>
                   <region type="state">Georgia</region>
+                  <region type="county">Fulton</region>
                   <desc>Lockhart discusses Sherman's burning of Atlanta when talking about his 
                      reactions to Gone with the Wind</desc>
+                  <location><geo>33.7333 -84.3833</geo></location>
                </place>
            
                <place type="base" xml:id="depot105"> 
@@ -1069,7 +1079,7 @@
                   <lb/>hope the idea will be approved. <persName>Buck</persName> and I did not
                   <lb/>get any skua gulls&#x2014;he is not the shot he professes to be.
                   <lb/> In the future before the ships come in&#x2014;by the way, it is said
-                  <lb/>that the <name type="ship">Bear</name> has already left <placeName>New Zealand</placeName> for the <placeName>Bay</placeName>&#x2014;
+                  <lb/>that the <name type="ship">Bear</name> has already left <placeName ref="#NewZealand">New Zealand</placeName> for the <placeName>Bay</placeName>&#x2014;
                   <lb/>I shall do a little target practicing every day. <persName>Pete</persName> has
                   <lb/>just come in saying that there were more skua gulls out 
                   <lb/> there and brought in one as evidence.
