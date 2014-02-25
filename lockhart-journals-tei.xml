@@ -426,6 +426,14 @@
                      reactions to Gone with the Wind</desc>
                   <location><geo>33.7333 -84.3833</geo></location>
                </place>
+               
+               <place type="address" xml:id="UplandRoad" source="#TGN">
+                  <placeName>7 Upland Road</placeName>
+                  <country>United States</country>
+                  <region type="city">Wellesley</region>
+                  <region type="state">Massachusetts</region>
+                  <desc>The address of The Guernsey Family</desc>
+               </place>
            
                <place type="cache" xml:id="depot105"> 
                  <placeName>105-Mile Depot</placeName>
@@ -2192,7 +2200,7 @@
                   <opener>
                     <lb/><date when="1941-01-03" type="received">Jan 3 1940</date>
                     <lb/><persName ref="#Guernsey">Mr Guernsey and Family</persName>
-                     <lb/><placeName>7 Upland Rd
+                     <lb/><placeName ref="#UplandRoad">7 Upland Rd
                      <lb/>Wellsley Mass</placeName>
                   </opener>
                   <p>
