@@ -345,8 +345,14 @@
                <person xml:id="Pete"><persName>Petras, Theodore A.</persName><note type="biological">Pete was an expedition man and a pilot on the North Star.</note></person><!-- will add details later -->
                <person xml:id="Mac"><persName>Mc Coy, James C.</persName><note type="biological">Mac was a pilot and part of the West Base crew.</note></person><!-- will add details -->
                <person xml:id="Walt"><persName>Giles, Walter R.</persName><note type="biological">Giles was an assistant pilot and raio operator for West Base.</note></person><!--will add details -->
-               <person xml:id="Ferranto" source="Google">
+               <person xml:id="Ferranto" source="#FindAGrave #personnel">
                   <persName>Ferranto, Felix</persName>
+                  <birth when="1911-12-05"></birth>
+                  <death when="2002-10-20"></death>
+                  <occupation>USMC Radio Officer</occupation>
+                  <state type="rank"><desc>Seargeant, USMC</desc></state>
+                  <note type="biographical">Felix Ferranto was the radio operator for the Snow Cruiser. The Antarctic summit 
+                     Mount Ferranto was named after him in 1947<bibl><ref target="#MFerranto"><title level="a">Mount Ferranto</title></ref></bibl>.</note>
                </person> 
                <person xml:id="Court" source="#Marquis #Malone">
                   <persName>Court, Arnold</persName>
@@ -573,13 +579,18 @@
                <bibl xml:id="MPerkins" n="Mount"><title level="a">Mount Perkins.</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
                   Geological Survey. N. d. Web. 12 Feb. 2014. &lt;http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:5:::NO::P5_ANTAR_ID:11624&gt;.</bibl> 
                
+               <bibl xml:id="MFerranto" n="Mount"><title level="a">Mount Ferranto</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States 
+                  Geological Survey, n.d. Web. 26 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:4843,Mount%20Ferranto&gt;.</bibl>
+               
                <bibl xml:id="Marquis" n="Marquis">Marquis Biographies Online. <title level="m">Marquis Who's Who LLC.,</title> n.d. Web. 22 Feb. 2014</bibl>
                
                <bibl xml:id="Malone" n="Malone">Malone, Thomas F., ed. <title level="j">Compendium of Meteorology.</title> 
-                  Baltimore: Waverly Press, Inc., 1951. <title level="m">Internet Archive.</title> Web. 26 Feb. 2014</bibl>
+                  Baltimore: Waverly Press, Inc., 1951. <title level="m">Internet Archive.</title> Web. 26 Feb. 2014.</bibl>
                
                <bibl xml:id="LibUTexas" n="lib.utexas.edu"><title>A Guide to the Charles F. Passel Antartic Exploration Collection, 1911-2001</title>
                </bibl>
+               
+               <bibl xml:id="FindAGrave" n="FindAGrave"><title type="a">Felix Louis Ferranto</title> <title type="m">FindAGrave.com</title> N.p., n.d. Web. 26 Feb. 2014</bibl>
             
             </listBibl>
             
@@ -1305,12 +1316,12 @@
                <lb/>hold as much importance as the latter.  In taking these
             <pb facs="journal-2-20.jpg" n="/2/260a8f2d-eed9-433a-b3a2-677212c7965e"/>
             <fw type="pageNum" place="top">16</fw>
-                  <lb/>samples I am cooperating with <persName>Court</persName> the meteorologist who
+                  <lb/>samples I am cooperating with <persName ref="#Court">Court</persName> the meteorologist who
                   <lb/>tells me when to take the samples. The prime requisite is
                   <lb/>that the wind must have been blowing steadily from one
                   <lb/>direction for more than six hours. I shall do as many
                   <lb/>of these analyses as time and energy — mostly energy — will
-                  <lb/>permit. When correlated with the weather data <persName>Court</persName> has they
+                  <lb/>permit. When correlated with the weather data <persName ref="#Court">Court</persName> has they
                   <lb/>should be of some value to whomever studies that sort of
                   <lb/>thing. My interest in the matter lies only in the fact that
                   <lb/>I may be the only man for some time to come who will have
@@ -1451,7 +1462,7 @@
            <fw type="pageNum" place="top">20</fw> 
            
                  <lb/>to<!-- yes there are two tos --> get up at least by <time>ten</time> in order to <unclear cert="high">run</unclear> metabolism tests<!-- comma would make sense here -->
-                 <lb/>I have borrowed <persName>Court's</persName> alarm clock but when it rings I
+                 <lb/>I have borrowed <persName ref="#Court">Court's</persName> alarm clock but when it rings I
                  <lb/>just shut it off without waking up and go back to sleep<unclear>.</unclear> Some
                  <lb/>of the fellows ask me to call them at specific times but usually I
                  <lb/>forget until sometime<!-- until and sometime are written a bit more faintly than the rest of the text --> later. No damage has been done yet<!-- might not be period here --><unclear>.</unclear> </p>
@@ -1567,7 +1578,7 @@
                 <lb/>sled and harnessed the dogs. Tony then skied off in the 
                 <lb/>direction of the tank which had stopped about <num type="fraction">1/2</num> mile from
                 <lb/>camp. I had put on <unclear cert="high">my</unclear> skiis <!--he writes the workd 'skis' strangely here. There is an extra dot which seems like it goes with an extra letter i --> and was about to <unclear cert="medium">reach</unclear> the
-                <lb/><unclear cert="unknown">ge</unclear> <!--I honestly have no clue what these couple of letters are, excpt that they are not part of the word before them--> pole when the team started with <persName>Court</persName> aboard. <!--He wrote a word that startes with a capital C and ends with a lowwercase t, but I can't tell what it is. In context, its ptobably not a person or a dog; the dogs were pulling the sled with it and Lockhart told them to stop. If it was a person, then the person would have told the dogs to do that. --> I
+                <lb/><unclear cert="unknown">ge</unclear> <!--I honestly have no clue what these couple of letters are, excpt that they are not part of the word before them--> pole when the team started with <persName ref="#Court">Court</persName> aboard. <!--He wrote a word that startes with a capital C and ends with a lowwercase t, but I can't tell what it is. In context, its ptobably not a person or a dog; the dogs were pulling the sled with it and Lockhart told them to stop. If it was a person, then the person would have told the dogs to do that. --> I
                 <lb/>shouted myself hoarse in <num type="cardinal">thirty</num> seconds trying to get them
                 <lb/>to stop. <name type="dog">Spot</name> could hear me and wanted to stop but
                 <lb/>the onward ruch of my <unclear cert="low">nea</unclear> quartet that really wanted to
@@ -1579,7 +1590,7 @@
                 <lb/>had started back toward the camp. <persName>Tony</persName> thought he would 
                 <lb/>ski ahead and make a trail so that the team would follow
                 <lb/>but the team went right by him. I stopped and he joined 
-                <lb/>Court in the shed giving me a load of about <num type="cardinal">300</num> <measure>lbs</measure>. The dogs
+                <lb/><persName ref="#Court">Court</persName> in the shed giving me a load of about <num type="cardinal">300</num> <measure>lbs</measure>. The dogs
                 <lb/>were breathing hard now but their enthusiasm was unlimited. 
                 <lb/><name type="dog">Spot</name> was right out in front with his line tight and behaved
               
