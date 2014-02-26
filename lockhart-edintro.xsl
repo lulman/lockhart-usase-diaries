@@ -175,9 +175,10 @@
             <h2>Appendices</h2>            
             <xsl:apply-templates
                select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listPerson"/>
-            <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listOrg"></xsl:apply-templates>
+            <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:list[@type='dogs']"/>
             <xsl:apply-templates
                select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listPlace"/>
+            <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listOrg"></xsl:apply-templates>
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listEvent"></xsl:apply-templates>
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:revisionDesc"/>
             <hr/>
@@ -340,6 +341,19 @@
          </p>
       </xsl:for-each>
    </xsl:template>
+   
+   <xsl:template match="tei:list[@type='dogs']">
+      <h3 id="sled-dogs">List of Sled Dogs Mentioned in Ernest Lockhart's Journal</h3>
+      <xsl:for-each select="tei:item">
+         <xsl:sort select="tei:name[1]"/>
+         <p>
+            <strong><xsl:value-of select="tei:name"/></strong> 
+            (<xsl:value-of select="tei:state[@type='age']"/>-year-old* <xsl:value-of select="tei:trait[@type='sex']"/>&#xA0;
+            <xsl:value-of select="tei:trait[@type='breed']"/>): <xsl:apply-templates select="tei:desc"/>
+         </p>
+      </xsl:for-each>
+      <p>* Age at date of purchase (26 Sept. 1939).</p>
+   </xsl:template>   
 
    <!-- Format information about the revision history of your document. -->
    <xsl:template match="tei:TEI/tei:teiHeader/tei:revisionDesc">
