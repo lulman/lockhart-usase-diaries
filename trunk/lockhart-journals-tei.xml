@@ -508,13 +508,14 @@
                </org>
             </listOrg>
             
-            <listEvent>
+<!--            
+             <listEvent>
                <event when="1940-01-01">
                   <label>Label</label>
                   <desc>description</desc>
                </event>
             </listEvent>
-            
+-->            
             <listBibl>
                
                <!-- Though TEI provides for more fine-grained encoding, we will enter bibliography items
