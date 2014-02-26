@@ -346,7 +346,7 @@
                <person xml:id="Mac"><persName>Mc Coy, James C.</persName><note type="biological">Mac was a pilot and part of the West Base crew.</note></person><!-- will add details -->
                <person xml:id="Walt"><persName>Giles, Walter R.</persName><note type="biological">Giles was an assistant pilot and raio operator for West Base.</note></person><!--will add details -->
                <person xml:id="Ferranto" source="#FindAGrave #personnel">
-                  <persName>Ferranto, Felix</persName>
+                  <persName>Ferranto, Felix Louis</persName>
                   <birth when="1911-12-05"></birth>
                   <death when="2002-10-20"></death>
                   <occupation>USMC Radio Officer</occupation>
@@ -362,6 +362,13 @@
                   <note type="biographical">Court was the Chief Meteorologist for Lockhart's expedition. 
                      Court and Lockhart took samples of the air and worked together to determine whether 
                      the air in Antarctica is oxygen deficient.</note>
+               </person>
+               <person xml:id="DocFrazier" source="Google">
+                  <persName>Frazier, Dr. Russell G.</persName>
+                  <birth when="2014"></birth>
+                  <death when="2014"></death>
+                  <occupation>Medical Doctor</occupation>
+                  <note type="biographical">bio note</note>
                </person>
                   
                
@@ -1916,7 +1923,7 @@
                </p>
                <p>
                   <lb/>Recently <persName>Malcolm</persName> has threatened to take a walk
-                  <lb/>and <persName>Doc Frasier</persName> has made the recommendation that he
+                  <lb/>and <persName>Doc Frazier</persName> has made the recommendation that he
                   <lb/>be watched constantly. One of the Expeditions projects on the
                   <lb/>way home will be to get him back safely.
                </p>
