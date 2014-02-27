@@ -315,12 +315,12 @@
                </person>
                <person xml:id="MrsMahan">
                   <persName>Mrs. Mahan</persName>
-                  <note type="biological">The wife of Mr. Mahan and mother to Jack and Margaret Mahan. Lockhart sends her a radiogram
+                  <note type="biographical">The wife of Mr. Mahan and mother to Jack and Margaret Mahan. Lockhart sends her a radiogram
                   to extend his condolences regarding the death of her husband.</note>
                </person>
                <person xml:id="MrMahan">
                   <persName>Mr. Mahan</persName>
-                  <note type="biological">The father of Lockhart's friend Jack. Mr. Mahan passed away during Lockhart's trip. He had suffered from heart trouble.
+                  <note type="biographical">The father of Lockhart's friend Jack. Mr. Mahan passed away during Lockhart's trip. He had suffered from heart trouble.
                      Lockhart is saddened by his death and reminisces about their relationship, remarking that Mr. Mahan would've liked to hear about Antarctica.</note>
                </person>
                <person xml:id="Gutenko" source="personnel">
@@ -339,7 +339,7 @@
                <person xml:id="Fitz" source="personnel">
                   <persName>Fitzsimmons, Roy F <addName type="nickname">Fitz</addName></persName>
                   <occupation when="1940">Physicist</occupation>
-                  <note type="biological">Fitz was a physicist from Newark, New Jersey. Lockhart talks about running metabolism tests on him and 
+                  <note type="biographical">Fitz was a physicist from Newark, New Jersey. Lockhart talks about running metabolism tests on him and 
                   going out on excursions with him.</note>
                </person>
                <person xml:id="Pete"><persName>Petras, Theodore A.</persName><note type="biological">Pete was an expedition man and a pilot on the North Star.</note></person><!-- will add details later -->
