@@ -394,6 +394,18 @@
                   <death when-custom="unknown"></death>
                   <note type="biographical">Beatrice was Lockhart's older sister. They often sent radiograms back and forth.</note>
                </person>
+               <person xml:id="Hawthorne">
+                  <persName>Hawthorne, Roger</persName>
+                  <birth when-custom="unknown"></birth>
+                  <death when-custom="not before 1945"></death>
+                  <occupation when="1940">Recorder of the Expedition</occupation>
+                  <residence when="1940">Middleboro, Massachusetts</residence>
+                  <note type="biographical">Roger Hawthorne was the Recorder of the Expedition and later
+                  published an essay on the expedition for the American Philosophical Society entitled 
+                  "Exploratory Flights of Admiral Byrd (1940)." Lockhart distrusts him because he believes
+                  Hawthorne is in league with Byrd in exaggerating the dangers of their expedition for publicity purposes.</note>
+                  
+               </person>
                   
                
             </listPerson>
