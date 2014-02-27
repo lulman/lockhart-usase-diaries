@@ -449,9 +449,9 @@
                <place type="range" xml:id="HalFlood" source="#AntarcticFeatureDeatil">
                   <placeName>Hal Flood</placeName>
                   <country>Antartic</country>
-                  <desc>Range of snow covered mountains, reconnaissance flights by the United Antartic Service (1939-41), 
+                  <desc>Range of snow covered mountains. Reconnaissance flights by the United Antartic Service (1939-41), 
                      of which Lockhart was a member, explored the range. The principle mountain was named "Mount Hal Flood" 
-                     by Admiral Byrd for his uncle, the Hon. Henry D. Flood, U.S. Senator from Virginia.</desc>
+                     by Admiral Byrd for his uncle, the Hon. Henry D. Flood, U.S. Senator from Virginia. The name was later applied to the entire range.</desc>
                   <location><geo>76.0300 134.3000</geo></location>
                   </place>
                
@@ -514,6 +514,11 @@
                <place type="geography" xml:id="BarrierEdge">
                   <placeName>barrier edge</placeName>
                   <desc>Lockhart is most likely referring to the edge of the Ross Ice Shelf.</desc>
+               </place>
+               
+               <place type="city" xml:id="helsinki">
+                  <placeName>Helsinki</placeName>
+                  <country>Finland</country>
                </place>
                
             </listPlace>
@@ -2254,7 +2259,7 @@
                   <p>
                      <lb/>had a letter from trefts x hope you had a talk with him <choice><sic>frirday</sic><corr>friday</corr></choice>
                      <lb/>night as he expected to x he sent me two nice enlargements of snaps
-                     <lb/>you took in <placeName><choice><sic>helsiki</sic><corr>helsinwki</corr></choice></placeName> x missed <persName>carl</persName> this <choice><sic>xmas</sic><corr>christmas</corr></choice> had <choice><sic>peteinstead</sic><corr>pete instead</corr></choice> x i
+                     <lb/>you took in <placeName><choice><sic>helsiki</sic><corr>helsinki</corr></choice></placeName> x missed <persName>carl</persName> this <choice><sic>xmas</sic><corr>christmas</corr></choice> had <choice><sic>peteinstead</sic><corr>pete instead</corr></choice> x i
                      <lb/>hope my penguin is coming along x remember i'm going to have him
                      <lb/>mounted so if it will be easier to just <choice><sic>dring</sic><corr>bring</corr></choice> his hide ok by me
                      <lb/>happy new year
