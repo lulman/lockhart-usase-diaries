@@ -1554,9 +1554,9 @@
                     <pb facs="journal 2-26" n= "/6/619ac374-eef5-49d7-8b1c-12661079e5ed"/>
                  <fw type="pagenumber" place="top left">22</fw>
               
-                  <lb/>whites in <placeName><region>Florida</region></placeName>. I have spoken to <persName ref="#Shirley">Shirley</persName> about it and 
+                  <lb/>whites in <placeName>Florida</placeName>. I have spoken to <persName ref="#Shirley">Shirley</persName> about it and 
                   <lb/>hope he <unclear cert="high">reads</unclear> it. I should like to know if it at all <unclear cert="unknown">aw</unclear>
-                  <lb/>accurate picture of the state where he lived much of his boyhood.
+                  <lb/>accurate picture of the State where he lived much of his boyhood.
                   <lb/><title level="m">Gone with the Wind</title> tapered off slightly in <unclear cert="high">interest</unclear> and left me
                   <lb/>hanging in the air. I am not certain whether <persName type="fictional">Rhett Butler</persName>
                   <lb/>and <persName type="fictional">Scarlett</persName> should have found happiness or whether the ending 
@@ -1633,7 +1633,7 @@
                  <lb/>edge and saw several seals spouting in one of the cracks
                  <lb/>Those seals don't know it yet but they will become dog meat
                  <lb/>before long: <!-- The period here has a second dot above it so it looks like a colon; in context it could easily be read as a period--> We shall take the whole bunch of dogs down to
-                 <lb/>the barrier hill seals and haul<del>e</del> <!-- the e he deleted here was on the end of the word haul--> them to the top <unclear cert="medium">big</unclear> dogs and
+                 <lb/>the barrier hill seals and haul<del>e</del> <!-- the e he deleted here was on the end of the word haul--> them to the top by dogs and
                  <lb/>after cleaning them bring them back to camp. 
             </p>
             <p>
@@ -1648,10 +1648,10 @@
                  <lb/>back in camp.    
             </p>
             <p>
-                 <lb/>I then fed the dogs and left them tire but contented
+                 <lb/>I then fed the dogs and left them tired but contented
                  <lb/>Before going to bed I did an air sample and read a
                  <lb/>little. After I was in bed I also read. My bedtime reading 
-                 <lb/>consists of <title type="no-fictionalbook">Homo <unclear cert="low">enows</unclear></title> by <persName>Darwin</persName> a discussion of <persName>Darwin</persName>
+               <lb/>consists of <title type="no-fictionalbook">Homo versus Mr <persName>Darwin</persName></title> a discussion of <persName>Darwin</persName>
                  <lb/>then most recent book <title type="non-fictionalbook">The Descent of Man</title>. I bought the former
                  <lb/>in <placeName>New Zealand</placeName> to accompany the latter which I have at home
             </p>
@@ -2356,8 +2356,8 @@
                   <lb/> <signed><persName>margaret</persName></signed>
                   </closer>   
                   <note><lb/> NOW- <del type="pen-scrates">4</del>
-                  <lb/>0826
-                  <lb/>2
+                  <lb/>0825
+                  <lb/>28
                   </note> <!--The 2 is followed by illegible scribbles here; the three lines after margaret were all wrtten in after and at an angle-->
                                
                </div>  
@@ -2365,7 +2365,7 @@
                <div xml:id="eel-19401222a" type="radiogram" subtype="received" facs="journal-2-62" n="/4/4c005625-1a86-48c5-904b-89cd52cea965">
                 <opener>
                    <lb/><name type="call-sign">25 wlmc</name> <placeName type="city">cleveland</placeName> <date type="sent">dec 19</date> <date type="received">22 Dec 1940</date>
-                   <persName>LOCKHART</persName>
+                  <lb/><persName>LOCKHART</persName>
                 </opener> 
                   <p><lb/>
                   <lb/>
