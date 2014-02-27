@@ -374,11 +374,11 @@
                      extreme cold for long periods of time affects the human body. The Antarctic peak Mount 
                      Frazier was named after him in 1947 <bibl><ref target="#MFrazier"><title level="a">Mount Frazier</title></ref></bibl>.</note>
                </person>
-               <person xml:id="mamma" source="Wiki">
-                  <persName>Westhaver, Celeste Althea <addName type="nickname">mamma</addName> <addName type="formal">Mrs. Clinton Daniel Lockhart</addName></persName>
+               <person xml:id="mamma" source="CHANGETHIS">
+                  <persName>Westhaver, Celeste Althea <addName type="formal">Mrs. Clinton Daniel Lockhart</addName></persName>
                   <birth when="1877" precision="low"></birth>
                   <death notBefore="1930"></death>
-                  <state type="married" when="1904-09-21" precision="low"><desc>Married in Suffolk, Boston, MA, USA</desc></state>
+                  <event type="marriage" when="1904-09-21"><desc>Celeste Althea Westhaver married Clinton Daniel Lockhart in Boston Suffolk, MA, USA.</desc></event>
                   <note type="biographical">bio note</note>
                </person>
                <person xml:id="Beatie" source="Wiki">
@@ -1393,8 +1393,8 @@
                   <lb/>turned out beautifully.
                </p>
                <p>
-                  <lb/>Yesterday I had messages from <persName>mamma</persName> and <persName>Beatie</persName>
-                  <lb/>and in <persName>mamma's</persName> she said that she was expecting a penguin
+                  <lb/>Yesterday I had messages from <persName ref="#mamma">mamma</persName> and <persName>Beatie</persName>
+                  <lb/>and in <persName ref="#mamma">mamma's</persName> she said that she was expecting a penguin
                   <lb/>skin and since there seem to be plenty of Emperors around
                   <lb/>perhaps I should get busy and skin one myself. I
                   <lb/>hope to get an Adelie at least later on. They are small
@@ -1580,7 +1580,7 @@
                   <lb/>We had a mail bag today from <placeName>Kansas City</placeName> but <unclear cert="high">the</unclear> re-
                   <lb/>ception fell off so abruptly after the variety <unclear cert="low">here</unclear> that the letters
                   <lb/>were heard only very indistinctly. I know I had one letter <!--the fact tha he's talking bout hearing letters makes it very confusing as to what type of messege he's talking about. Or he made a typo when he wrote 'heard'--> from
-                  <lb/><unclear cert="medium"><persName>mamma</persName></unclear> but couldn't even get the gist of the letter.
+                  <lb/><unclear cert="medium"><persName ref="#mamma">mamma</persName></unclear> but couldn't even get the gist of the letter.
                   </p>
                   <p>
                   <lb/><unclear cert="high"><persName>Asman</persName></unclear> has been taking the <unclear cert="high">tank</unclear> out every night now that
@@ -2237,7 +2237,7 @@
                   </opener>
                   <p>
                      <lb/>Still out on trail when you spoke over air. Reception very poor.
-                     <lb/>Sorry. Thanks for sending pictures to mother. Leave here for
+                     <lb/>Sorry. Thanks for sending pictures to <persName ref="#mamma">mother</persName>. Leave here for
                      <lb/><placeName>Seattle</placeName> end of January. Please pass word along to <persName>Karlstrom</persName>.
                      <lb/>Arrive middle April. Be seeing you on way home if possible. 
                      <lb/>Happy new year.
@@ -2259,7 +2259,7 @@
                      <lb/>mounted so if it will be easier to just <choice><sic>dring</sic><corr>bring</corr></choice> his hide ok by me
                      <lb/>happy new year
                   </p>
-                  <lb/><signed><persName>mother</persName></signed>
+                  <lb/><signed><persName ref="#mamma">mother</persName></signed>
                </div>
                <div xml:id="eel-19410101" type="radiogram" subtype="received" facs="journal-2-54" n="/c/cdaed0da-eaf8-4e74-accc-daa62ff14cb3">
                   <opener>
