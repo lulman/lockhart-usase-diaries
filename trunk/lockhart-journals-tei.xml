@@ -267,10 +267,14 @@
                   <note type="biographical">Jack Perkins led a biological party into the Fosdick Mountains in December 1940. Mount Perkins, a
                   peak at the east end of the Fosdick Mountains, was named after Perkins in 1947 <bibl><ref target="#MPerkins"><title level="a">Mount Perkins</title></ref></bibl>.</note>
                </person>
-               <person xml:id="Bursey" source="#Passel #personnel">
+               <person xml:id="Bursey" source="#Passel #personnel #WikiBursey">
                    <persName>Jack Bursey <addName type="nickname">Jack B.</addName></persName>
+                  <birth when="1903-09-20">St. Lunaire, Newfoundland, Canada</birth>
+                  <death when="1980-03-01">Montague, Michigan</death>
                   <occupation when="1940">dog driver</occupation>
-                  <note type="biographical">Was from Grand Rapids, Michigan, and would have been survived by his wife Ada Bursey</note>
+                  <note type="biographical">A dog driver who had worked with Byrd on previous expeditions. Published two books about his expeditions, Antarctic Night and 
+                     St. Lunaire, Antarctic Lead Dog.During this expedition he made one of the longest dog trips ever recorded, and one of the Hal Flood mountains became named "Mt. Bursey" after him.
+                     Was from Grand Rapids, Michigan, and would have been survived by his wife Ada Bursey</note>
                </person>
                <person xml:id="Shirley" source="#personnel">
                   <persName>Shirley, Charles S.</persName>
@@ -567,6 +571,9 @@
                
                <head>Works Cited</head>
                
+               <bibl xml:id="WikiBursey" n="JackBursey">Wikipedia<title level="a">Jack Bursey</title><title level="s">Wikipedia, the free encylopedia</title> 
+                  http://en.wikipedia.org/wiki/Jack_Bursey 19 Nov 2012 Web. 27 Feb 2014.</bibl>
+               
                <bibl xml:id="Ronne" n="Ronne">Ronne, Finn. <title level="m">Antarctica My Destiny</title>. New
                   York: Hastings House, 1979. Print.
                </bibl>
@@ -600,11 +607,12 @@
                <bibl xml:id="TGN" n="Getty">Getty Research Institute.<title level="m">Getty
                   Thesaurus of Geographic Names Online</title> N.d. Web. 12 Feb. 2014.</bibl>
                
-               <bibl xml:id="ANB" n="American National Biography">Oxford University Press<title level="a">Sherman, William Tecumseh</title><title level="m">American National Biography</title>
-               2010 Web. 22 Feb. 2014</bibl>
+               <bibl xml:id="ANB" n="American National Biography">Oxford University Press<title level="a">Sherman, William Tecumseh</title>
+                  <title level="m">American National Biography</title> 2010 Web. 22 Feb. 2014</bibl>
                
                <bibl xml:id="Card" n="The Garnsey-Guernsey Family Genealogy">Card, Eva Louise Garnsey and Guernsey, Howard Abram <title level="m">The Garnsey-Guernsey Genealogy: An Account of Thirteen Generations 
-                  of Descendants from Henry Garnsey (---- -1692)of Dorchester, Mass., and Joseph Guernsie-Garnsey (---- -1688) of Stamford, Conn </title> <title level="s">Hathi Trust</title> Urbana, Ill. : E. and L. Card, 1963. Web. 25th Feb 2014
+                  of Descendants from Henry Garnsey (---- -1692)of Dorchester, Mass., and Joseph Guernsie-Garnsey (---- -1688) of Stamford, Conn </title> <title level="s">Hathi Trust</title> Urbana, Ill. 
+                  : E. and L. Card, 1963. Web. 25th Feb 2014
                   </bibl>
                <bibl xml:id="Unz" n="Unz.org">Unz, Robert <title level="s">Collier's</title> <title level="m">Unz.org</title>Web. 25 Feb. 2014</bibl>
                
