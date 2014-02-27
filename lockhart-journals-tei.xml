@@ -353,7 +353,7 @@
                   <state type="rank"><desc>Seargeant, USMC</desc></state>
                   <note type="biographical">Felix Ferranto was the radio operator for the Snow Cruiser. He achieved the 
                      rank of Lieutenant Colonel in the USMC. The Antarctic summit Mount Ferranto was named after him in
-                     1947<bibl><ref target="#MFerranto"><title level="a">Mount Ferranto</title></ref></bibl>.</note>
+                     1947 <bibl><ref target="#MFerranto"><title level="a">Mount Ferranto</title></ref></bibl>.</note>
                </person> 
                <person xml:id="Court" source="#Marquis #Malone">
                   <persName>Court, Arnold</persName>
@@ -372,17 +372,18 @@
                   <note type="biographical">Doc Frazier served as the physician for the 1939-1941 expedition. 
                      In addition to caring for those at West Base, he conudcted research on how exposure to 
                      extreme cold for long periods of time affects the human body. The Antarctic peak Mount 
-                     Frazier was named after him in 1947<bibl><ref target="#MFrazier"><title level="a">Mount Frazier</title></ref></bibl>.</note>
+                     Frazier was named after him in 1947 <bibl><ref target="#MFrazier"><title level="a">Mount Frazier</title></ref></bibl>.</note>
                </person>
                <person xml:id="mamma" source="Wiki">
                   <persName>Westhaver, Celeste Althea <addName type="nickname">mamma</addName> <addName type="formal">Mrs. Clinton Daniel Lockhart</addName></persName>
-                  <birth when-custom="1877?"></birth>
-                  <death when-custom="not before 1930"></death>
+                  <birth when="1877" precision="low"></birth>
+                  <death notBefore="1930"></death>
+                  <state type="married" when="1904-09-21" precision="low"><desc>Married in Suffolk, Boston, MA, USA</desc></state>
                   <note type="biographical">bio note</note>
                </person>
                <person xml:id="Beatie" source="Wiki">
                   <persName>Lockhart, Beatrice/Bernice R. <addName type="nickname">Beatie</addName></persName>
-                  <birth when-custom="1906?"></birth>
+                  <birth when="1906" precision="low"></birth>
                   <death when-custom="unknown"></death>
                   <note type="biographical">Beatrice was Lockhart's older sister. They often sent radiograms back and forth.</note>
                </person>
