@@ -357,18 +357,21 @@
                <person xml:id="Court" source="#Marquis #Malone">
                   <persName>Court, Arnold</persName>
                   <birth when="1914-06-20"><placeName ref="#Seattle">Seattle, WA</placeName></birth>
-                  <death when="1999"><!-- To add more information here --></death>
+                  <death when="1999"><!-- To add more information here (from OSU only source) --></death>
                   <occupation>Climatologist/Meteorologist</occupation>
-                  <note type="biographical">Court was the Chief Meteorologist for Lockhart's expedition. 
+                  <note type="biographical">Court was the Chief Meteorologist for the 1939-1941 expedition. 
                      Court and Lockhart took samples of the air and worked together to determine whether 
                      the air in Antarctica is oxygen deficient.</note>
                </person>
-               <person xml:id="DocFrazier" source="Google">
+               <person xml:id="DocFrazier" source="#Utah">
                   <persName>Frazier, Dr. Russell G.</persName>
-                  <birth when="2014"></birth>
-                  <death when="2014"></death>
+                  <birth when="1893-07-05"><placeName>Fraziers Bottom, WV</placeName></birth>
+                  <death when="1968-01-14"><placeName>Salt Lake City, UT</placeName></death>
                   <occupation>Medical Doctor</occupation>
-                  <note type="biographical">bio note</note>
+                  <note type="biographical">Doc Frazier served as the physician for the 1939-1941 expedition. 
+                     In addition to caring for those at West Base, he conudcted research on how exposure to 
+                     extreme cold for long periods of time affects the human body. The Antarctic peak Mount 
+                     Frazier was named after him in 1947<bibl><ref target="#MFrazier"><title level="a">Mount Frazier</title></ref></bibl>.</note>
                </person>
                   
                
@@ -586,8 +589,11 @@
                <bibl xml:id="MPerkins" n="Mount"><title level="a">Mount Perkins.</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
                   Geological Survey. N. d. Web. 12 Feb. 2014. &lt;http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:5:::NO::P5_ANTAR_ID:11624&gt;.</bibl> 
                
-               <bibl xml:id="MFerranto" n="Mount"><title level="a">Mount Ferranto</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States 
+               <bibl xml:id="MFerranto" n="Mount"><title level="a">Mount Ferranto.</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States 
                   Geological Survey, n.d. Web. 26 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:4843,Mount%20Ferranto&gt;.</bibl>
+               
+               <bibl xml:id="MFrazier" n="Mount"><title level="a">Mount Frazier.</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States 
+                  Geological Survey, n.d. Web. 26 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:5262,Mount%20Frazier&gt;.</bibl>
                
                <bibl xml:id="Marquis" n="Marquis">Marquis Biographies Online. <title level="m">Marquis Who's Who LLC.,</title> n.d. Web. 22 Feb. 2014</bibl>
                
@@ -598,6 +604,8 @@
                </bibl>
                
                <bibl xml:id="FindAGrave" n="FindAGrave"><title type="a">Felix Louis Ferranto</title> <title type="m">FindAGrave.com</title> N.p., n.d. Web. 26 Feb. 2014. &lt;http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=72466677&gt;</bibl>
+               
+               <bibl xml:id="Frazier" n="Frazier"><title type="a">Russell G. Frazier</title> <title>Utah History to Go</title> Utah.gov Services, n.d. Web. 26 Feb. 2014. &lt;http://historytogo.utah.gov/people/utahns_of_achievement/russellgfrazier.html&gt;</bibl>
             
             </listBibl>
             
