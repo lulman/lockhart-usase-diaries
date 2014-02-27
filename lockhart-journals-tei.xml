@@ -373,6 +373,18 @@
                      extreme cold for long periods of time affects the human body. The Antarctic peak Mount 
                      Frazier was named after him in 1947<bibl><ref target="#MFrazier"><title level="a">Mount Frazier</title></ref></bibl>.</note>
                </person>
+               <person xml:id="Mamma" source="Wiki">
+                  <persName>Westhaver, Celeste Althea <addName type="nickname">mamma</addName></persName>
+                  <birth></birth>
+                  <death></death>
+                  <note type="biographical">bio note</note>
+               </person>
+               <person xml:id="Beatie" source="Wiki">
+                  <persName>Lockhart, Beatrice/Bernice R. <addName type="nickname">Beatie</addName></persName>
+                  <birth></birth>
+                  <death></death>
+                  <note type="biographical">Beatrice was Lockhart's older sister. They often sent radiograms back and forth.</note>
+               </person>
                   
                
             </listPerson>
