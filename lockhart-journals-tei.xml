@@ -446,11 +446,15 @@
                   <location><geo>39.1500 -84.4500</geo></location>
                </place>
                
-               <place type="range" xml:id="HalFlood">
+               <place type="range" xml:id="HalFlood" source="#AntarcticFeatureDeatil">
                   <placeName>Hal Flood</placeName>
-                  <country>Artic</country>
-                  <desc>Range of snow covered mountains, reconnaissance flights by the United Antartic Service (1939-41), of which Lockhart was a member, explored the range.</desc>
-               </place>
+                  <country>Antartic</country>
+                  <desc>Range of snow covered mountains, reconnaissance flights by the United Antartic Service (1939-41), 
+                     of which Lockhart was a member, explored the range. The principle mountain was named "Mount Hal Flood" 
+                     by Admiral Byrd for his uncle, the Hon. Henry D. Flood, U.S. Senator from Virginia.</desc>
+                  <location><geo>76.0300 134.3000</geo></location>
+                  </place>
+               
                <place type="address" xml:id="ArlingtonStreet" source="#eel-19401226a">
                   <placeName>Arlington Street</placeName>
                   <country>United States</country>
@@ -620,6 +624,9 @@
                <bibl xml:id="FindAGrave" n="FindAGrave"><title type="a">Felix Louis Ferranto</title> <title type="m">FindAGrave.com</title> N.p., n.d. Web. 26 Feb. 2014. &lt;http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=72466677&gt;</bibl>
                
                <bibl xml:id="Frazier" n="Frazier"><title type="a">Russell G. Frazier</title> <title>Utah History to Go</title> Utah.gov Services, n.d. Web. 26 Feb. 2014. &lt;http://historytogo.utah.gov/people/utahns_of_achievement/russellgfrazier.html&gt;</bibl>
+               
+               <bibl xml:id="AntarcticFeatureDeatil" n="Mount"><title level="a">Antarctic Feature Detail</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States
+                  Geological Survey, n.d. Web 24 Feb. 2014 &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:5051,Flood%20Range&gt;</bibl>
             
             </listBibl>
             
@@ -2245,7 +2252,7 @@
                   <p>
                      <lb/>had a letter from trefts x hope you had a talk with him <choice><sic>frirday</sic><corr>friday</corr></choice>
                      <lb/>night as he expected to x he sent me two nice enlargements of snaps
-                     <lb/>you took in <placeName><choice><sic>helsiki</sic><corr>helsinki</corr></choice></placeName> x missed <persName>carl</persName> this <choice><sic>xmas</sic><corr>christmas</corr></choice> had <choice><sic>peteinstead</sic><corr>pete instead</corr></choice> x i
+                     <lb/>you took in <placeName><choice><sic>helsiki</sic><corr>helsinwki</corr></choice></placeName> x missed <persName>carl</persName> this <choice><sic>xmas</sic><corr>christmas</corr></choice> had <choice><sic>peteinstead</sic><corr>pete instead</corr></choice> x i
                      <lb/>hope my penguin is coming along x remember i'm going to have him
                      <lb/>mounted so if it will be easier to just <choice><sic>dring</sic><corr>bring</corr></choice> his hide ok by me
                      <lb/>happy new year
