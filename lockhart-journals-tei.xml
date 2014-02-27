@@ -381,14 +381,14 @@
                      extreme cold for long periods of time affects the human body. The Antarctic peak Mount 
                      Frazier was named after him in 1947 <bibl><ref target="#MFrazier"><title level="a">Mount Frazier</title></ref></bibl>.</note>
                </person>
-               <person xml:id="mamma" source="CHANGETHIS">
+               <person xml:id="mamma" source="UNSCHOLARLY">
                   <persName>Westhaver, Celeste Althea <addName type="formal">Mrs. Clinton Daniel Lockhart</addName></persName>
                   <birth when="1877" precision="low"></birth>
                   <death notBefore="1930"></death>
                   <event type="marriage" when="1904-09-21"><desc>Celeste Althea Westhaver married Clinton Daniel Lockhart in Boston Suffolk, MA, USA.</desc></event>
                   <note type="biographical">bio note</note>
                </person>
-               <person xml:id="Beatie" source="Wiki">
+               <person xml:id="Beatie" source="UNSCHOLARLY">
                   <persName>Lockhart, Beatrice/Bernice R. <addName type="nickname">Beatie</addName></persName>
                   <birth when="1906" precision="low"></birth>
                   <death when-custom="unknown"></death>
@@ -534,6 +534,14 @@
                <place type="geography" xml:id="BarrierEdge" source="#TGN">
                   <placeName>Barrier Edge</placeName>
                   <desc>Lockhart is most likely referring to the edge of the Ross Ice Shelf.</desc>
+               </place>
+               
+               <place type="city" xml:id="Mattapan" source="XX">
+                  <placeName>Mattapan</placeName>
+                  <country>United States</country>
+                  <region type="state">Massachusetts</region>
+                  <desc>A suburb of Boston, MA where Mamma and Beatie lived.</desc>
+                  <location><geo>42.27715 -71.091539</geo></location>
                </place>
                
                <place type="city" xml:id="helsinki" source="#TGN">
