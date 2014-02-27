@@ -315,7 +315,7 @@
                </person>
                <person xml:id="JackMahan">
                   <persName>Mahan, Jack</persName>
-                  <note type="biographical">A friend of Lockhart's whose father died during Christmas of 1940.</note>
+                  <note type="biographical">A friend of Lockhart's whose father passed away during Christmas of 1940.</note>
                </person>
                <person xml:id="MrsMahan">
                   <persName>Mrs. Mahan</persName>
@@ -330,21 +330,24 @@
                <person xml:id="Gutenko" source="personnel">
                   <persName>Gutenko, Sigmund</persName>
                   <occupation when="1940">Cook</occupation>
-                  <note type="biological">Gutenko was the cook for the West Base. He was from Baltimore, Maryland.</note>
+                  <residence when="1940">Baltimore, Maryland</residence>
+                  <note type="biographical">Gutenko was the cook for the West Base. He was from Baltimore, Maryland.</note>
                </person>
                <person xml:id="CharliePassel" source="personnel">
                   <persName>Passel, Charles F</persName>
                   <birth when="1911"><placeName>Indianapolis, Indiana</placeName></birth>
                   <death when="2001"></death>
                   <occupation when="1940">Geologist</occupation>
-                  <note type="biological">Passel was a geologist from Indianapolis, Indiana. Lockhart ran metabolism tests on him. In 1995, his antarctic diaries, 
+                  <residence when="1940">Indianapolis, Indiana</residence>
+                  <note type="biographical">Passel was a geologist from Indianapolis, Indiana. Lockhart ran metabolism tests on him. In 1995, his antarctic diaries detailing the expedition, 
                   called <title level="m">Ice</title>, were published.</note>
                </person>
                <person xml:id="Fitz" source="personnel">
                   <persName>Fitzsimmons, Roy F <addName type="nickname">Fitz</addName></persName>
                   <occupation when="1940">Physicist</occupation>
-                  <note type="biographical">Fitz was a physicist from Newark, New Jersey. Lockhart talks about running metabolism tests on him and 
-                  going out on excursions with him.</note>
+                  <residence when="1940">Newark, New Jersey</residence>
+                  <note type="biographical">Fitz was a physicist from Newark, New Jersey. Lockhart talks about running metabolism tests on him and them
+                  going out on excursions together.</note>
                </person>
                <person xml:id="Pete"><persName>Petras, Theodore A.</persName><note type="biological">Pete was an expedition man and a pilot on the North Star.</note></person><!-- will add details later -->
                <person xml:id="Mac"><persName>Mc Coy, James C.</persName><note type="biological">Mac was a pilot and part of the West Base crew.</note></person><!-- will add details -->
@@ -464,7 +467,7 @@
                   <country>United States</country>
                   <region type="city">Hyde Park</region>
                   <region type="state">Massachusetts</region>
-                  <desc>The home of the Mahan family. Mr. Mahan, the father of Lockhart's friend Jack, passed away while Lockhart was in Antartica.</desc>
+                  <desc>The home of the Mahan family. Mr. Mahan, the father of Lockhart's friend Jack, passed away while Lockhart was in Antarctica.</desc>
                   <location><geo>42.2595897 -71.11632</geo></location>
                </place>
                
@@ -509,14 +512,14 @@
                
                <place><placeName>Dunedin</placeName></place>
                
-               <place type="country" xml:id="Panama" source="#eel-journal2-radiograms">
+               <place type="country" xml:id="Panama" source="#eel-journal2-radiograms #TGN">
                   <placeName>Panama</placeName>
-                  <desc>Lockhart talks about traveling back through Panama on his way to Seattle on the return trip.</desc>
+                  <desc>Lockhart talks about traveling back through Panama on his return trip.</desc>
                   <location><geo>8.537981 -80.782127</geo></location>
                </place>
                
-               <place type="geography" xml:id="BarrierEdge">
-                  <placeName>barrier edge</placeName>
+               <place type="geography" xml:id="BarrierEdge" source="#TGN">
+                  <placeName>Barrier Edge</placeName>
                   <desc>Lockhart is most likely referring to the edge of the Ross Ice Shelf.</desc>
                </place>
                
@@ -633,8 +636,8 @@
                <bibl xml:id="Malone" n="Malone">Malone, Thomas F., ed. <title level="j">Compendium of Meteorology.</title> 
                   Baltimore: Waverly Press, Inc., 1951. <title level="m">Internet Archive.</title> Web. 26 Feb. 2014.</bibl>
                
-               <bibl xml:id="LibUTexas" n="lib.utexas.edu"><title>A Guide to the Charles F. Passel Antartic Exploration Collection, 1911-2001</title> n.d. Web. 25 Feb. 2015 
-               </bibl>
+               <bibl xml:id="LibUTexas" n="lib.utexas.edu"><title>A Guide to the Charles F. Passel Antartic Exploration Collection, 1911-2001</title> <title>University of Texas Library</title> 
+                  n.d. Web. 25 Feb. 2015</bibl>
                
                <bibl xml:id="FindAGrave" n="FindAGrave"><title type="a">Felix Louis Ferranto</title> <title type="m">FindAGrave.com</title> N.p., n.d. Web. 26 Feb. 2014. &lt;http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=72466677&gt;</bibl>
                
