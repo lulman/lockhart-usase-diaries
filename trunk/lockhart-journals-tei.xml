@@ -536,15 +536,7 @@
                   <desc>Lockhart is most likely referring to the edge of the Ross Ice Shelf.</desc>
                </place>
                
-               <place type="city" xml:id="Mattapan" source="XX">
-                  <placeName>Mattapan</placeName>
-                  <country>United States</country>
-                  <region type="state">Massachusetts</region>
-                  <desc>A suburb of Boston, MA where Mamma and Beatie lived.</desc>
-                  <location><geo>42.27715 -71.091539</geo></location>
-               </place>
-               
-               <place type="city" xml:id="helsinki" source="#TGN">
+               <place type="city" xml:id="helsinki" source="#eel-19401231e #TGN">
                   <placeName>Helsinki</placeName>
                   <country>Finland</country>
                   <location><geo>60.1333 25.0000</geo></location>
@@ -580,6 +572,13 @@
                      trusts, etc. Lockhart would have been interviewed about his experiences with Harris Food Mixture, but it seems that no such article ended up printed.
                   </desc>
                   </org>
+               <org xml:id="BostonTraveler">
+                  <orgName>Boston Traveler</orgName>
+                  <state type="company">
+                     <desc>description</desc>
+                  </state>
+                  
+               </org>
             </listOrg>
             
 <!--            
