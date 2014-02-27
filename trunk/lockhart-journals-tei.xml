@@ -456,10 +456,11 @@
                <place type="range" xml:id="HalFlood" source="#AntarcticFeatureDeatil">
                   <placeName>Hal Flood</placeName>
                   <country>Antartic</country>
+                  <location><geo>76.0300 134.3000</geo></location>
                   <desc>Range of snow covered mountains. Reconnaissance flights by the United Antartic Service (1939-41), 
                      of which Lockhart was a member, explored the range. The principle mountain was named "Mount Hal Flood" 
                      by Admiral Byrd for his uncle, the Hon. Henry D. Flood, U.S. Senator from Virginia. The name was later applied to the entire range.</desc>
-                  <location><geo>76.0300 134.3000</geo></location>
+                  
                   </place>
                
                <place type="address" xml:id="ArlingtonStreet" source="#eel-19401226a">
@@ -523,9 +524,12 @@
                   <desc>Lockhart is most likely referring to the edge of the Ross Ice Shelf.</desc>
                </place>
                
-               <place type="city" xml:id="helsinki">
+               <place type="city" xml:id="helsinki" source="#TGN">
                   <placeName>Helsinki</placeName>
                   <country>Finland</country>
+                  <location><geo>60.1333 25.0000</geo></location>
+                  <desc>Located on peninsula in Gulf of Finland. In a radiogram to Lockhart, his mother writes of having 'snaps' 
+                     he had taken in "helsiki" enlarged; presumably "helsiki" refers to the Finnish city, Helsinki.</desc>
                </place>
                
             </listPlace>
