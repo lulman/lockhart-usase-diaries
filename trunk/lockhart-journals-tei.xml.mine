@@ -275,7 +275,7 @@
                <person xml:id="Shirley" source="#personnel">
                   <persName>Shirley, Charles S.</persName>
                   <occupation when="1940">photographer</occupation>
-                  <note type="biographical">Was from San Diego California, worked both bases, and would have been survived by his wife Anna.</note>
+                  <note type="biographical">A photographer on the expedition. Was from San Diego California, worked both bases, and would have been survived by his wife Anna.</note>
                </person>
                <person xml:id="Richardson" source="#Passel #personnel">
                   <persName>Richardson H. H. <addName type="nickname">Jack</addName></persName>
@@ -286,13 +286,13 @@
                <person xml:id="Sherman" source="#ANB">
                   <persName>Sherman, General William Tecumseh</persName>
                   <occupation>Union Army General</occupation>
-                  <birth when="18200208">
+                  <birth when="1820-02-08">
                      <placeName>Lancaster, Ohio</placeName>
                   </birth>
-                  <death when="18910214">
+                  <death when="1891-02-14">
                      <placeName>New York City, New York</placeName>
                   </death>
-                  <note type="contextual">Lockhart mentions Sherman's burning of Atlanta while recording his 
+                  <note type="biographical">Lockhart mentions Sherman's burning of Atlanta while recording his 
                      reactions to Gone With the Wind</note>
                </person>
                <person xml:id="Warner" source="#personnel #Passel">
@@ -303,7 +303,7 @@
                </person>
                <person xml:id="Guernsey" source="#Card">
                   <persName>Guernsey, George Rockwell</persName>
-                  <birth when="18840215">Canton, Bradford Co., Pennsylvania</birth>
+                  <birth when="1884-02-15">Canton, Bradford Co., Pennsylvania</birth>
                   <residence when="-1952">Wellesely, Massachusetts</residence>
                   <note type="biographical">Lockhart exchanges radiograms with a George Guernsey of Wellesley Massachusetts, 
                      about Christmas and his potential trips to Panama and Seattle. There's a Guernsey by that name living there according 
@@ -315,31 +315,31 @@
                </person>
                <person xml:id="MrsMahan">
                   <persName>Mrs. Mahan</persName>
-                  <note type="biological">The wife of Mr. Mahan and mother to Jack and Margaret Mahan. Lockhart sends her a radiogram
+                  <note type="biographical">The wife of Mr. Mahan and mother to Jack and Margaret Mahan. Lockhart sends her a radiogram
                   to extend his condolences regarding the death of her husband.</note>
                </person>
                <person xml:id="MrMahan">
                   <persName>Mr. Mahan</persName>
-                  <note type="biological">The father of Lockhart's friend Jack. Mr. Mahan passed away during Lockhart's trip. He had suffered from heart trouble.
+                  <note type="biographical">The father of Lockhart's friend Jack. Mr. Mahan passed away during Lockhart's trip. He had suffered from heart trouble.
                      Lockhart is saddened by his death and reminisces about their relationship, remarking that Mr. Mahan would've liked to hear about Antarctica.</note>
                </person>
-               <person xml:id="Gutenko">
+               <person xml:id="Gutenko" source="personnel">
                   <persName>Gutenko, Sigmund</persName>
                   <occupation when="1940">Cook</occupation>
                   <note type="biological">Gutenko was the cook for the West Base. He was from Baltimore, Maryland.</note>
                </person>
-               <person xml:id="CharliePassel">
+               <person xml:id="CharliePassel" source="personnel">
                   <persName>Passel, Charles F</persName>
-                  <birth when="1911">Indianapolis, Indiana</birth>
+                  <birth when="1911"><placeName>Indianapolis, Indiana</placeName></birth>
                   <death when="2001"></death>
                   <occupation when="1940">Geologist</occupation>
                   <note type="biological">Passel was a geologist from Indianapolis, Indiana. Lockhart ran metabolism tests on him. In 1995, his antarctic diaries, 
                   called <title level="m">Ice</title>, were published.</note>
                </person>
-               <person xml:id="Fitz">
-                  <persName>Fitzsimmons, Roy F<addName type="nickname">Fitz</addName></persName>
+               <person xml:id="Fitz" source="personnel">
+                  <persName>Fitzsimmons, Roy F <addName type="nickname">Fitz</addName></persName>
                   <occupation when="1940">Physicist</occupation>
-                  <note type="biological">Fitz was a physicist from Newark, New Jersey. Lockhart talks about running metabolism tests on him and 
+                  <note type="biographical">Fitz was a physicist from Newark, New Jersey. Lockhart talks about running metabolism tests on him and 
                   going out on excursions with him.</note>
                </person>
                <person xml:id="Pete"><persName>Petras, Theodore A.</persName><note type="biological">Pete was an expedition man and a pilot on the North Star.</note></person><!-- will add details later -->
@@ -353,7 +353,7 @@
                   <state type="rank"><desc>Seargeant, USMC</desc></state>
                   <note type="biographical">Felix Ferranto was the radio operator for the Snow Cruiser. He achieved the 
                      rank of Lieutenant Colonel in the USMC. The Antarctic summit Mount Ferranto was named after him in
-                     1947<bibl><ref target="#MFerranto"><title level="a">Mount Ferranto</title></ref></bibl>.</note>
+                     1947 <bibl><ref target="#MFerranto"><title level="a">Mount Ferranto</title></ref></bibl>.</note>
                </person> 
                <person xml:id="Court" source="#Marquis #Malone">
                   <persName>Court, Arnold</persName>
@@ -372,25 +372,20 @@
                   <note type="biographical">Doc Frazier served as the physician for the 1939-1941 expedition. 
                      In addition to caring for those at West Base, he conudcted research on how exposure to 
                      extreme cold for long periods of time affects the human body. The Antarctic peak Mount 
-                     Frazier was named after him in 1947<bibl><ref target="#MFrazier"><title level="a">Mount Frazier</title></ref></bibl>.</note>
+                     Frazier was named after him in 1947 <bibl><ref target="#MFrazier"><title level="a">Mount Frazier</title></ref></bibl>.</note>
                </person>
-               <person xml:id="mamma" source="Wiki">
-                  <persName>Westhaver, Celeste Althea <addName type="nickname">mamma</addName> <addName type="formal">Mrs. Clinton Daniel Lockhart</addName></persName>
-                  <birth when-custom="1877?"></birth>
-                  <death when-custom="not before 1930"></death>
+               <person xml:id="mamma" source="UNSCHOLARLY">
+                  <persName>Westhaver, Celeste Althea <addName type="formal">Mrs. Clinton Daniel Lockhart</addName></persName>
+                  <birth when="1877" precision="low"></birth>
+                  <death notBefore="1930"></death>
+                  <event type="marriage" when="1904-09-21"><desc>Celeste Althea Westhaver married Clinton Daniel Lockhart in Boston Suffolk, MA, USA.</desc></event>
                   <note type="biographical">bio note</note>
                </person>
-               <person xml:id="Beatie" source="Wiki">
+               <person xml:id="Beatie" source="UNSCHOLARLY">
                   <persName>Lockhart, Beatrice/Bernice R. <addName type="nickname">Beatie</addName></persName>
-                  <birth when-custom="1906?"></birth>
+                  <birth when="1906" precision="low"></birth>
                   <death when-custom="unknown"></death>
                   <note type="biographical">Beatrice was Lockhart's older sister. They often sent radiograms back and forth.</note>
-               </person>
-               <person xml:id="Malcolm">
-                  <persName>Douglass, Malcolm C. <addName type="nickname">Malc, Doug</addName></persName>
-                  <note type="biographical">Malcolm served as one of the sled dog drivers for the West Base Opperations.
-                     Dr. Lockhart voiced concern to Doc Frazier about Malcolm's well being after he made the comment to just 
-                     walk off of the Base.</note>
                </person>
                   
                
@@ -451,11 +446,15 @@
                   <location><geo>39.1500 -84.4500</geo></location>
                </place>
                
-               <place type="range" xml:id="HalFlood">
+               <place type="range" xml:id="HalFlood" source="#AntarcticFeatureDeatil">
                   <placeName>Hal Flood</placeName>
-                  <country>Artic</country>
-                  <desc>Range of snow covered mountains, reconnaissance flights by the United Antartic Service (1939-41), of which Lockhart was a member, explored the range.</desc>
-               </place>
+                  <country>Antartic</country>
+                  <desc>Range of snow covered mountains, reconnaissance flights by the United Antartic Service (1939-41), 
+                     of which Lockhart was a member, explored the range. The principle mountain was named "Mount Hal Flood" 
+                     by Admiral Byrd for his uncle, the Hon. Henry D. Flood, U.S. Senator from Virginia.</desc>
+                  <location><geo>76.0300 134.3000</geo></location>
+                  </place>
+               
                <place type="address" xml:id="ArlingtonStreet" source="#eel-19401226a">
                   <placeName>Arlington Street</placeName>
                   <country>United States</country>
@@ -517,11 +516,15 @@
                   <desc>Lockhart is most likely referring to the edge of the Ross Ice Shelf.</desc>
                </place>
                
-               <place type="geography" xml:id="BayofWhales">
-                  <placeName>Bay of Whales</placeName>
-                  <desc>This bay is where the ships were normally positioned during the Expedition</desc>
-                  <location><geo></geo></location>
+               <place type="city" xml:id="Mattapan" source="XX">
+                  <placeName>Mattapan</placeName>
+                  <country>United States</country>
+                  <region type="state">Massachusetts</region>
+                  <desc>A suburb of Boston, MA where Mamma and Beatie lived.</desc>
+                  <location><geo>42.27715 -71.091539</geo></location>
                </place>
+               
+               <place></place>
                
             </listPlace>
             
@@ -546,9 +549,11 @@
                         A magazine famous for running articles about social issues from the 20s on, also featured serialized stories
                      </desc>
                   </state>
-                  <note type="contextual">Lockhart is asked to be interviewed for Colliers' Weekly, but there doesn't seem to be an issue for 1941 with a 
-                     story that corresponds to the one he would have interviewed for</note>
-               </org>
+                  <desc>
+                     Lockhart was asked about being interviewed for a story in Colliers, which ran weekly serial stories as well as exposés and "muckraking" articles about working conditions in factories, 
+                     trusts, etc. Lockhart would have been interviewed about his experiences with Harris Food Mixture, but it seems that no such article ended up printed.
+                  </desc>
+                  </org>
             </listOrg>
             
 <!--            
@@ -600,10 +605,10 @@
                <bibl xml:id="TGN" n="Getty">Getty Research Institute.<title level="m">Getty
                   Thesaurus of Geographic Names Online</title> N.d. Web. 12 Feb. 2014.</bibl>
                
-               <bibl xml:id="ANB" n="American National Biography">Oxford University Press<title level="m">American National Biography</title>
+               <bibl xml:id="ANB" n="American National Biography">Oxford University Press<title level="a">Sherman, William Tecumseh</title><title level="m">American National Biography</title>
                2010 Web. 22 Feb. 2014</bibl>
                
-               <bibl xml:id="Card" n="The Garnsey-Guernsey Family Genealogy">comp. Card, Eva Louise Garnsey and Guernsey, Howard Abram <title level="m">The Garnsey-Guernsey Genealogy: An Account of Thirteen Generations 
+               <bibl xml:id="Card" n="The Garnsey-Guernsey Family Genealogy">Card, Eva Louise Garnsey and Guernsey, Howard Abram <title level="m">The Garnsey-Guernsey Genealogy: An Account of Thirteen Generations 
                   of Descendants from Henry Garnsey (---- -1692)of Dorchester, Mass., and Joseph Guernsie-Garnsey (---- -1688) of Stamford, Conn </title> <title level="s">Hathi Trust</title> Urbana, Ill. : E. and L. Card, 1963. Web. 25th Feb 2014
                   </bibl>
                <bibl xml:id="Unz" n="Unz.org">Unz, Robert <title level="s">Collier's</title> <title level="m">Unz.org</title>Web. 25 Feb. 2014</bibl>
@@ -625,12 +630,15 @@
                <bibl xml:id="Malone" n="Malone">Malone, Thomas F., ed. <title level="j">Compendium of Meteorology.</title> 
                   Baltimore: Waverly Press, Inc., 1951. <title level="m">Internet Archive.</title> Web. 26 Feb. 2014.</bibl>
                
-               <bibl xml:id="LibUTexas" n="lib.utexas.edu"><title>A Guide to the Charles F. Passel Antartic Exploration Collection, 1911-2001</title>
+               <bibl xml:id="LibUTexas" n="lib.utexas.edu"><title>A Guide to the Charles F. Passel Antartic Exploration Collection, 1911-2001</title> n.d. Web. 25 Feb. 2015 
                </bibl>
                
                <bibl xml:id="FindAGrave" n="FindAGrave"><title type="a">Felix Louis Ferranto</title> <title type="m">FindAGrave.com</title> N.p., n.d. Web. 26 Feb. 2014. &lt;http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=72466677&gt;</bibl>
                
                <bibl xml:id="Frazier" n="Frazier"><title type="a">Russell G. Frazier</title> <title>Utah History to Go</title> Utah.gov Services, n.d. Web. 26 Feb. 2014. &lt;http://historytogo.utah.gov/people/utahns_of_achievement/russellgfrazier.html&gt;</bibl>
+               
+               <bibl xml:id="AntarcticFeatureDeatil" n="Mount"><title level="a">Antarctic Feature Detail</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States
+                  Geological Survey, n.d. Web 24 Feb. 2014 &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:5051,Flood%20Range&gt;</bibl>
             
             </listBibl>
             
@@ -1395,8 +1403,8 @@
                   <lb/>turned out beautifully.
                </p>
                <p>
-                  <lb/>Yesterday I had messages from <persName>mamma</persName> and <persName>Beatie</persName>
-                  <lb/>and in <persName>mamma's</persName> she said that she was expecting a penguin
+                  <lb/>Yesterday I had messages from <persName ref="#mamma">mamma</persName> and <persName>Beatie</persName>
+                  <lb/>and in <persName ref="#mamma">mamma's</persName> she said that she was expecting a penguin
                   <lb/>skin and since there seem to be plenty of Emperors around
                   <lb/>perhaps I should get busy and skin one myself. I
                   <lb/>hope to get an Adelie at least later on. They are small
@@ -1582,7 +1590,7 @@
                   <lb/>We had a mail bag today from <placeName>Kansas City</placeName> but <unclear cert="high">the</unclear> re-
                   <lb/>ception fell off so abruptly after the variety <unclear cert="low">here</unclear> that the letters
                   <lb/>were heard only very indistinctly. I know I had one letter <!--the fact tha he's talking bout hearing letters makes it very confusing as to what type of messege he's talking about. Or he made a typo when he wrote 'heard'--> from
-                  <lb/><unclear cert="medium"><persName>mamma</persName></unclear> but couldn't even get the gist of the letter.
+                  <lb/><unclear cert="medium"><persName ref="#mamma">mamma</persName></unclear> but couldn't even get the gist of the letter.
                   </p>
                   <p>
                   <lb/><unclear cert="high"><persName>Asman</persName></unclear> has been taking the <unclear cert="high">tank</unclear> out every night now that
@@ -2239,7 +2247,7 @@
                   </opener>
                   <p>
                      <lb/>Still out on trail when you spoke over air. Reception very poor.
-                     <lb/>Sorry. Thanks for sending pictures to mother. Leave here for
+                     <lb/>Sorry. Thanks for sending pictures to <persName ref="#mamma">mother</persName>. Leave here for
                      <lb/><placeName>Seattle</placeName> end of January. Please pass word along to <persName>Karlstrom</persName>.
                      <lb/>Arrive middle April. Be seeing you on way home if possible. 
                      <lb/>Happy new year.
@@ -2256,12 +2264,12 @@
                   <p>
                      <lb/>had a letter from trefts x hope you had a talk with him <choice><sic>frirday</sic><corr>friday</corr></choice>
                      <lb/>night as he expected to x he sent me two nice enlargements of snaps
-                     <lb/>you took in <placeName><choice><sic>helsiki</sic><corr>helsinki</corr></choice></placeName> x missed <persName>carl</persName> this <choice><sic>xmas</sic><corr>christmas</corr></choice> had <choice><sic>peteinstead</sic><corr>pete instead</corr></choice> x i
+                     <lb/>you took in <placeName><choice><sic>helsiki</sic><corr>helsinwki</corr></choice></placeName> x missed <persName>carl</persName> this <choice><sic>xmas</sic><corr>christmas</corr></choice> had <choice><sic>peteinstead</sic><corr>pete instead</corr></choice> x i
                      <lb/>hope my penguin is coming along x remember i'm going to have him
                      <lb/>mounted so if it will be easier to just <choice><sic>dring</sic><corr>bring</corr></choice> his hide ok by me
                      <lb/>happy new year
                   </p>
-                  <lb/><signed><persName>mother</persName></signed>
+                  <lb/><signed><persName ref="#mamma">mother</persName></signed>
                </div>
                <div xml:id="eel-19410101" type="radiogram" subtype="received" facs="journal-2-54" n="/c/cdaed0da-eaf8-4e74-accc-daa62ff14cb3">
                   <opener>
