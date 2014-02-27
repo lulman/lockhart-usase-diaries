@@ -323,21 +323,21 @@
                   <note type="biological">The father of Lockhart's friend Jack. Mr. Mahan passed away during Lockhart's trip. He had suffered from heart trouble.
                      Lockhart is saddened by his death and reminisces about their relationship, remarking that Mr. Mahan would've liked to hear about Antarctica.</note>
                </person>
-               <person xml:id="Gutenko">
+               <person xml:id="Gutenko" source="personnel">
                   <persName>Gutenko, Sigmund</persName>
                   <occupation when="1940">Cook</occupation>
                   <note type="biological">Gutenko was the cook for the West Base. He was from Baltimore, Maryland.</note>
                </person>
-               <person xml:id="CharliePassel">
+               <person xml:id="CharliePassel" source="personnel">
                   <persName>Passel, Charles F</persName>
-                  <birth when="1911">Indianapolis, Indiana</birth>
+                  <birth when="1911"><placeName>Indianapolis, Indiana</placeName></birth>
                   <death when="2001"></death>
                   <occupation when="1940">Geologist</occupation>
                   <note type="biological">Passel was a geologist from Indianapolis, Indiana. Lockhart ran metabolism tests on him. In 1995, his antarctic diaries, 
                   called <title level="m">Ice</title>, were published.</note>
                </person>
-               <person xml:id="Fitz">
-                  <persName>Fitzsimmons, Roy F<addName type="nickname">Fitz</addName></persName>
+               <person xml:id="Fitz" source="personnel">
+                  <persName>Fitzsimmons, Roy F <addName type="nickname">Fitz</addName></persName>
                   <occupation when="1940">Physicist</occupation>
                   <note type="biological">Fitz was a physicist from Newark, New Jersey. Lockhart talks about running metabolism tests on him and 
                   going out on excursions with him.</note>
@@ -614,7 +614,7 @@
                <bibl xml:id="Malone" n="Malone">Malone, Thomas F., ed. <title level="j">Compendium of Meteorology.</title> 
                   Baltimore: Waverly Press, Inc., 1951. <title level="m">Internet Archive.</title> Web. 26 Feb. 2014.</bibl>
                
-               <bibl xml:id="LibUTexas" n="lib.utexas.edu"><title>A Guide to the Charles F. Passel Antartic Exploration Collection, 1911-2001</title>
+               <bibl xml:id="LibUTexas" n="lib.utexas.edu"><title>A Guide to the Charles F. Passel Antartic Exploration Collection, 1911-2001</title> n.d. Web. 25 Feb. 2015 
                </bibl>
                
                <bibl xml:id="FindAGrave" n="FindAGrave"><title type="a">Felix Louis Ferranto</title> <title type="m">FindAGrave.com</title> N.p., n.d. Web. 26 Feb. 2014. &lt;http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=72466677&gt;</bibl>
