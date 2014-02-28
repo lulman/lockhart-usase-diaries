@@ -1100,7 +1100,7 @@
                   <lb/>I forgot to mention in yesterday's account that the tractor
                   <lb/>had gone into a crevase about 10 miles from <placeName>105</placeName> and the 
                   <lb/>situation looked impossible. Since the storm was raging out
-                  <lb/>there nothing could be done at the moment. Today at <del rend="strikethrough">the</del>
+                  <lb/>there <seg ana="adynaton">nothing could be done at the moment.</seg> Today at <del rend="strikethrough">the</del>
                   <lb/>the radio schedule time we were happy to learn that the
                <!--
                   Yonina-H: begin below this comment transcribing journal-2-11.jpg) with a page break.
@@ -1179,19 +1179,56 @@
                   <lb/>day were asked to fill the snow melter. The snow
                   <lb/>melter requires filling only about once every five days
                   <lb/>as compared with every other day during the old regime.   
-               </p>
+               
               
                <!--
                   Sean-K: begin below this comment transcribing journal-2-13.jpg) with a page break.
                   You are "inside" a paragraph that begins on journal-2-12, but we will
                   resolve that encoding later. For now, this encoding is valid.
                -->
-              
-               
-            </div>
+            
            
-            <div xml:id="eel-19401228a" type="entry">
-               <p>
+      
+               <pb facs="journal-2-13" n="/1/12f99dbd-ffe1-45a9-b2bd-0b2223148468"/>
+               <fw type="pageNum" place="top">9</fw>
+               <lb/>after that a few minutes of reading and <seg ana="metaphor">chewing the
+               <lb/>fat</seg> and <subst><del rend="overwritten">than</del><add place="inline">then</add></subst> more cleaning. The trail gang
+               <lb/>came in at eight oclock by radio and said
+               <lb/>that they wanted to evacuate <persName>Fritz</persName> tomorrow <subst><del rend="overwritten"><gap></gap></del><add place="inline">en</add></subst>
+               <lb/>masse. I think <persName>Fritz</persName> will try to get them to put
+               <lb/>it off for another day. I shall take <persName>Arnold's</persName>
+               <lb/>midnight <choice><sic>meterological</sic><corr>meteorological</corr></choice> observations so that he can
+               <lb/>get a little more sleep in one stretch than he
+               <lb/>has been accustomed to.
+             
+                  </p>
+               <lb/>
+            </div>
+           <div xml:id="eel-19401228a" type="entry">
+              <lb/><dateline><date when="1940-12-28">Saturday December 28 1940</date></dateline>
+              <p>
+                 <lb/>An early start on the daily log today <subst><del rend="overwritten">bea</del><add place="inline">because</add></subst> I am
+                 <lb/>faced with one of those moments when I should be doing
+                 <lb/><choice><orig><distinct type="archaic_orthography" time="11-16">some thing</distinct></orig> <reg source="OED">something</reg></choice> but am not.
+                  
+   
+              </p>
+          
+              <p>
+                 <lb/>I had asked both <persName><unclear cert="medium">Peuk</unclear></persName> and <persName>Tony</persName> to awaken me if either
+                 <lb/>of them got up before 10 AM. I did this because already
+                 <lb/>I am begninng to tire of the present all-night schedule, and want
+                 <lb/>to do my work in the day time. However neither of them were
+                 <lb/>up when <persName>Pappy Reece</persName> called <persName>Bailey</persName> at 11 AM consequently
+                 <lb/>it was that time when I got up. I had offered to take
+                 <lb/><persName><unclear cert="high">Count's</unclear></persName> noon observation but he was up and took it himself.
+                 <lb/>I got some instruction on changing sheets on the triple register
+                 <lb/>so that again I shall be assistant <choice><sic>meterologist</sic><corr>meteorologist</corr></choice>. After
+                 <lb/>this instruction I went into the galley to prepare my breakfast
+                 <lb/>Tony was already there and told me there were some frozen
+                 <lb/><choice><sic>straw berries</sic><corr>strawberries</corr></choice> outside the door. I had some of them with corn flakes
+                 <lb/>and cream. They sure were good. While I was eating them
+                 
             <pb facs="journal-2-14.jpg" n="/5/5debfbea-aaeb-4e48-8d0c-b2aa8b0c8828"/>
             <fw type="pageNum" place="top">10</fw>
                   <lb/>I prepared what will probably be my usual <foreign xml:lang="french">piece-de-resistance</foreign>
@@ -1214,9 +1251,9 @@
                   <lb/>beyond <geogName type="mountain">Hal Flood</geogName> after each one of the members of the
                   <lb/>Expedition. I think that would be quite something and
                   <lb/>hope the idea will be approved. <persName>Buck</persName> and I did not
-                  <lb/>get any skua gulls&#x2014;he is not the shot he professes to be.
+                  <lb/>get any skua gulls&#x2014;he is not <seg ana="metonymy">the shot</seg> he professes to be.
                   <lb/> In the future before the ships come in&#x2014;by the way, it is said
-                  <lb/>that the <name type="ship">Bear</name> has already left <placeName ref="#NewZealand">New Zealand</placeName> for the <placeName>Bay</placeName>&#x2014;
+                  <lb/>that the <name type="ship">Bear</name> has already left <placeName>New Zealand</placeName> for the <placeName>Bay</placeName>&#x2014;
                   <lb/>I shall do a little target practicing every day. <persName>Pete</persName> has
                   <lb/>just come in saying that there were more skua gulls out 
                   <lb/> there and brought in one as evidence.
@@ -1239,7 +1276,7 @@
                <lb/>until I see them again anyway.
             </p>
             <p>
-               <lb/>Enough for now.
+               <lb/><seg ana="anesis">Enough for now.</seg>
             </p>
          </div>
          <div xml:id="eel-19401229a" type="entry">
@@ -1281,8 +1318,8 @@
                  <lb/>test did not go off very well and we shall repeat it. We
                  <lb/>finished up just in time for me to take the noon observation
                  <lb/>and change the sheets. In the afternoon I began jumping
-                 <lb/>the gas analysis apparatus and after finishing that made an
-                 <lb/>end of <title type="book">Death Sails with Magellan</title>. No gun practice today
+                 <lb/>the gas analysis apparatus and after finishing that <seg ana="metaphor">made an
+                 <lb/>end of</seg> <title type="book">Death Sails with Magellan</title>. No gun practice today
                  <lb/>After dinner got ready for the <unclear cert="high">usim</unclear> analysis and completed
                  <lb/>my sock washing. Then came the seal chopping chore. The dogs
                  <lb/>sure make a fuss over the seal meat probably because they
@@ -1290,11 +1327,11 @@
                  <lb/>penguin and <persName>Pete</persName> has been spending most of the evening
                  <lb/>drawing blood and skinning it. There should be more of them
                  <lb/>in one the ice within the next few days. <persName>Asman</persName> and <persName>Pete</persName> took
-                 <lb/>the tank out for a spin and were not able to get it up out of
+                 <lb/>the tank out for <seg ana="metaphor">a spin</seg> and were not able to get it up out of
                  <lb/>the <geogFeat>bight</geogFeat> so they left it there. They gave it another try tonight
-                 <lb/>but it was no soap. They will have to wait a while longer until
+                 <lb/>but it was <seg ana="metaphor">no soap</seg>. They will have to wait a while longer until
                  <lb/>the surface gets a little harder. <del rend="strikethrough">They</del> The boys don't do much
-                 <lb/>work around here but they do sit and chew the fat. More 
+                 <lb/>work around here but they do sit and <seg ana="metaphor">chew the fat</seg>. More 
                  <lb/><choice><sic>arguements</sic><corr>arguments</corr></choice> can arise over the most obscure&#x2014;and some not
                  <lb/>so obscure&#x2014;topics that I have <unclear>ever</unclear> imagined. Right
                  <lb/>now the cook who has been considered&#x2014;by himself&#x2014;an authority
@@ -1305,8 +1342,8 @@
                <lb/>to get the citric acid out of the skin. <persName ref="#Shirley">Shirley</persName> argues that he
                <lb/>rolls the oranges in order to break the skin and the cellular
                <lb/>structure inside. They appealed to me being the chemist to
-               <lb/>settle the argument.  I tried to steer clear but finally sided
-               <lb/>with <persName ref="#Shirley">Shirley</persName> which action made the cook leak water a
+               <lb/>settle the argument.  I tried to <seg ana="metaphor">steer clear</seg> but finally sided
+               <lb/>with <persName ref="#Shirley">Shirley</persName> which action made the cook <seg ana="metaphor">leak water</seg> a
                <lb/>little --- but not much.
             </p>
             <p>
@@ -1342,7 +1379,7 @@
             </p>
             <p>
                <lb/>Yesterday which normally would have been written up early
-               <lb/>this morning slipped by with no entry entirely because I had
+               <lb/>this morning <seg ana="metaphor">slipped by</seg> with no entry entirely because I had
                <lb/>gotten so far into <title>Gone with the Wind</title> that wartime was a thing
                <lb/>of minor importance.  I read that amazing <subst><del rend="strikethrough">epis</del><add place="above">narrative</add></subst> of life
                <lb/>among the Southerners during the <name>Civil War</name> days until almost
