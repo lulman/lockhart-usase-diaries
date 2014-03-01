@@ -381,14 +381,14 @@
                      extreme cold for long periods of time affects the human body. The Antarctic peak Mount 
                      Frazier was named after him in 1947 <bibl><ref target="#MFrazier"><title level="a">Mount Frazier</title></ref></bibl>.</note>
                </person>
-               <person xml:id="mamma" source="UNSCHOLARLY">
+               <person xml:id="mamma" source="ACGenealogy">
                   <persName>Westhaver, Celeste Althea <addName type="formal">Mrs. Clinton Daniel Lockhart</addName></persName>
                   <birth when="1877" precision="low"></birth>
                   <death notBefore="1930"></death>
                   <event type="marriage" when="1904-09-21"><desc>Celeste Althea Westhaver married Clinton Daniel Lockhart in Boston Suffolk, MA, USA.</desc></event>
                   <note type="biographical">bio note</note>
                </person>
-               <person xml:id="Beatie" source="UNSCHOLARLY">
+               <person xml:id="Beatie" source="ACGenealogy">
                   <persName>Lockhart, Beatrice/Bernice R. <addName type="nickname">Beatie</addName></persName>
                   <birth when="1906" precision="low"></birth>
                   <death when-custom="unknown"></death>
@@ -544,6 +544,25 @@
                      he had taken in "helsiki" enlarged; presumably "helsiki" refers to the Finnish city, Helsinki.</desc>
                </place>
                
+               <place type="city" xml:id="Mattapan" source="#personnel #eel-19401226 #eel-19410104a">
+                 	<placeName>Mattapan</placeName>
+                  <country>United States</country>
+                  <region type="state">Massachusetts</region>
+                  <region type="county">Suffolk</region>
+                  <desc>A suburb of Boston, MA where Mamma and Beatie lived. Lockhart is also listed as living here, 
+                     so this is presumably the Lockhart family's hometown.</desc>
+                  <location><geo>42.27715 -71.091539</geo></location>
+               </place>
+               
+               <place type="base" xml:id="EastBase" source="#James">
+                  <placeName>East Base</placeName>
+                  <country>Antarctica</country>
+                  <desc>East Base is a U.S. station located near Margeurite Bay on Stonington Island.   
+                     It was established in March 1940 and has been used as a base only once since then 
+                     (by the Ronne Antarctic Research Expedition in January 1948). During the 1939-1941
+                     expedition, Richard Black was in charge of East Base.</desc>
+                  <location><geo>-68.193247 -67.014542</geo></location>
+               </place>
             </listPlace>
             
             
@@ -668,6 +687,10 @@
                
                <bibl xml:id="AntarcticFeatureDeatil" n="Mount"><title level="a">Antarctic Feature Detail</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States
                   Geological Survey, n.d. Web 24 Feb. 2014 &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:5051,Flood%20Range&gt;</bibl>
+               
+               <bibl xml:id="ACGenealogy" n="Atlantic"><title level="m">Atlantic Canada Genealogy Project.</title>N.p., n.d. Web. 26 Feb. 2014.</bibl>
+               
+               <bibl xml:id="Stations" n="James">James, Donald.<title level="m">U.S. Stations and Camps in Antarctica.</title><title>NASA Quest.</title>NASA, n.d. Web. 1 Mar. 2014.</bibl>
             
             </listBibl>
             
