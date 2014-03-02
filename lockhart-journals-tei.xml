@@ -475,6 +475,14 @@
                   <death>unknown</death>
                   <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
+               <person xml:id="Malcolm">
+                  <persName>Douglass, Malcolm C.</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note type="biographical">Malcolm was a sled dog driver on the Expedition who at one point
+                  expressed his mood by stating that he may just walk off the base, suggesting suicidal
+                  thoughts.</note>
+               </person>
             </listPerson>
             
             <listPerson type="editors">
