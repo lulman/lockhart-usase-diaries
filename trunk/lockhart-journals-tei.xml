@@ -407,82 +407,7 @@
                   
                </person>
                   
-                  <person xml:id="Mary">
-                     <persName>Mary</persName>
-                     <birth>unknown</birth>
-                     <death>unknown</death>
-                     <note type="biographical">Sent correspondence to Lockhart through both mail and radiograms 
-                     with her husband Carl.</note>
-                  </person>
-                <person xml:id="Carl">
-                   <persName>Carl</persName>
-                   <birth>unknown</birth>
-                   <death>unknown</death>
-                   <note type="biographical">Sent correspondence to Lockhart through both mail and radiograms
-                   with his wife Mary.</note>
-                </person>
-               <person xml:id="Papa">
-                  <persName>Papa</persName>
-                  <birth>unknown</birth>
-                  <death>unknown</death>
-                  <note type="biographical">Sent correspondence to Lockhart.</note>
-               </person>
-               <person xml:id="Peter">
-                  <persName>Peter</persName>
-                  <birth>unknown</birth>
-                  <death>unknown</death>
-                  <note type="biographical">Sent correspondence to Lockhart.</note>
-               </person>
-               <person xml:id="Van">
-                  <persName>Van</persName>
-                  <birth>unknown</birth>
-                  <death>unknown</death>
-                  <note type="biographical">Sent correspondence to Lockhart.</note>
-               </person>
-               <person xml:id="Vivian">
-                  <persName>Vivian</persName>
-                  <birth>unknown</birth>
-                  <death>unknown</death>
-                  <note type="biographical">Sent correspondence to Lockhart.</note>
-               </person>
-               <person xml:id="Dave">
-                  <persName>Dave</persName>
-                  <birth>unknown</birth>
-                  <death>unknown</death>
-                  <note type="biographical">Sent correspondence to Lockhart.</note>
-               </person>
-               <person xml:id="Henry">
-                  <persName>Henry</persName>
-                  <birth>unknown</birth>
-                  <death>unknown</death>
-                  <note type="biographical">Sent correspondence to Lockhart.</note>
-               </person>
-               <person xml:id="Dot">
-                  <persName>Dot</persName>
-                  <birth>unknown</birth>
-                  <death>unknown</death>
-                  <note>Sent correspondence to Lockhart</note>
-               </person>
-               <person xml:id="Elenore">
-                  <persName>Elenore</persName>
-                  <birth>unknown</birth>
-                  <death>unknown</death>
-                  <note type="biographical">Sent correspondence to Lockhart.</note>
-               </person>
-               <person xml:id="Jenene">
-                  <persName>Jenene</persName>
-                  <birth>unknown</birth>
-                  <death>unknown</death>
-                  <note type="biographical">Sent correspondence to Lockhart.</note>
-               </person>
-               <person xml:id="Malcolm">
-                  <persName>Douglass, Malcolm C.</persName>
-                  <birth>unknown</birth>
-                  <death>unknown</death>
-                  <note type="biographical">Malcolm was a sled dog driver on the Expedition who at one point
-                  expressed his mood by stating that he may just walk off the base, suggesting suicidal
-                  thoughts.</note>
-               </person>
+               
             </listPerson>
             
             <listPerson type="editors">
@@ -618,21 +543,7 @@
                   <desc>Located on peninsula in Gulf of Finland. In a radiogram to Lockhart, his mother writes of having 'snaps' 
                      he had taken in "helsiki" enlarged; presumably "helsiki" refers to the Finnish city, Helsinki.</desc>
                </place>
-               <place type="geography" xml:id="BayofWhales" source="#TGN">
-                  <placeName>Bay of Whales</placeName>
-                  <desc>This bay was the loading and unloading spot for the Expedition's supplies from the boats. 
-                  The boats were mostly anchored here during the expedidtion, haveing to move periodically
-                  to avoid issues with ice.</desc>
-               </place>
-               <place type="city" xml:id="Seattle" source="#TNG">
-                  <placeName>Seattle</placeName>
-                  <country>United States</country>
-                  <region type="state">Washington</region>
-                  <region type="county">King County</region>
-                  <desc>Seattle was originally the final destination of The Star, but was redirected on the
-                  return trip to join The Bear in Boston. Lockhart presumed that Seattle would be the location
-                  of his final air samples.</desc>
-               </place>
+               
                <place type="city" xml:id="Mattapan" source="#personnel #eel-19401226 #eel-19410104a">
                  	<placeName>Mattapan</placeName>
                   <country>United States</country>
@@ -649,7 +560,7 @@
                   <desc>East Base is a U.S. station located near Margeurite Bay on Stonington Island.   
                      It was established in March 1940 and has been used as a base only once since then 
                      (by the Ronne Antarctic Research Expedition in January 1948). During the 1939-1941
-                     expedition, Richard Black was in charge of East Base.</desc>
+                     expedition, Richard Black of the US Navy was the East Base commander.</desc>
                   <location><geo>-68.193247 -67.014542</geo></location>
                </place>
             </listPlace>
@@ -686,6 +597,14 @@
                      <desc>description</desc>
                   </state>
                   
+               </org>
+               <org xml:id="USDptoftheInt">
+                  <orgName>U.S. Department of the Interior</orgName>
+                  <state type="government"></state>
+                  <desc>In 1941, the U.S. Department of the Interior authorized a radiogram sent to Dr. Lockhart 
+                     from William Leckie. In this radiogram, Leckie asked Lockhart what Lockhart thought about 
+                     Harris Food Mixture, a form of nourishment that was presumably easily transported and used 
+                     in Antarctic expeditions.</desc>
                </org>
             </listOrg>
             
@@ -1136,7 +1055,7 @@
                      <lb/>off moments the fellows go skiing and walking with the dogs.
                      <lb/>All of the pups which were hardly able to walk when we
                      <lb/>left now have the run of the camp. They certainly are a
-                     <lb/>nice bunch. <persName>Pappy Grey</persName> has those which he harnesses to
+                     <lb/>nice bunch. <persName>Pappy Gray</persName> has those which he harnesses to
                      <lb/>the airplane sled and drives around. In general the men
                      <lb/>here haven't much to do and take their time doing it.
                      <lb/>The men who have regular schedules to meet such as the
@@ -1688,7 +1607,7 @@
            <fw type="pageNum" place="top">20</fw> 
            
                  <lb/>to<!-- yes there are two tos --> get up at least by <time>ten</time> in order to <unclear cert="high">run</unclear> metabolism tests<!-- comma would make sense here -->
-                 <lb/>I have borrowed <persName ref="#sd">Court's</persName> alarm clock but when it rings I
+                 <lb/>I have borrowed <persName ref="#Court">Court's</persName> alarm clock but when it rings I
                  <lb/>just shut it off without waking up and go back to sleep<unclear>.</unclear> Some
                  <lb/>of the fellows ask me to call them at specific times but usually I
                  <lb/>forget until sometime<!-- until and sometime are written a bit more faintly than the rest of the text --> later. No damage has been done yet<!-- might not be period here --><unclear>.</unclear> </p>
@@ -1800,7 +1719,7 @@
                 <lb/>down to <placeName>the Bay</placeName>. After dinner I got <unclear cert="high"><persName>Tony</persName></unclear> to help me haul
                 <lb/>a seal out of the tunnel <del>and</del> in order to have something to feed
                 <lb/>the dogs after we got back. While we were waiting for
-                <lb/><persName>Court</persName> who was to accompany us Tony and I dug out the 
+                <lb/><persName>Grant</persName> who was to accompany us Tony and I dug out the 
                 <lb/>sled and harnessed the dogs. Tony then skied off in the 
                 <lb/>direction of the tank which had stopped about <num type="fraction">1/2</num> mile from
                 <lb/>camp. I had put on <unclear cert="high">my</unclear> skiis <!--he writes the workd 'skis' strangely here. There is an extra dot which seems like it goes with an extra letter i --> and was about to <unclear cert="medium">reach</unclear> the
@@ -1824,7 +1743,7 @@
               <fw type="pahenumber" place="top left">24</fw>
             
                  <lb/>beautifully. We finally hit the trail to the barrier cache <!--the last three latters of the world barrier are pretty smudged here-->
-                 <lb/>and as we headed toward it we saw <persName><name type="nickname">Pappy</name>Grey</persName> in the 
+                 <lb/>and as we headed toward it we saw <persName><name type="nickname">Pappy</name>Greg</persName> in the 
                  <lb/>distance with his great team of three dogs. I stopped
                  <lb/>and waited for him to come up and there he followed me
                  <lb/>down to the barrels. We parked the teams and went to the
