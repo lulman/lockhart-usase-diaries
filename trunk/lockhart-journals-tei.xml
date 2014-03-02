@@ -618,7 +618,21 @@
                   <desc>Located on peninsula in Gulf of Finland. In a radiogram to Lockhart, his mother writes of having 'snaps' 
                      he had taken in "helsiki" enlarged; presumably "helsiki" refers to the Finnish city, Helsinki.</desc>
                </place>
-               
+               <place type="geography" xml:id="BayofWhales" source="#TGN">
+                  <placeName>Bay of Whales</placeName>
+                  <desc>This bay was the loading and unloading spot for the Expedition's supplies from the boats. 
+                  The boats were mostly anchored here during the expedidtion, haveing to move periodically
+                  to avoid issues with ice.</desc>
+               </place>
+               <place type="city" xml:id="Seattle" source="#TNG">
+                  <placeName>Seattle</placeName>
+                  <country>United States</country>
+                  <region type="state">Washington</region>
+                  <region type="county">King County</region>
+                  <desc>Seattle was originally the final destination of The Star, but was redirected on the
+                  return trip to join The Bear in Boston. Lockhart presumed that Seattle would be the location
+                  of his final air samples.</desc>
+               </place>
                <place type="city" xml:id="Mattapan" source="#personnel #eel-19401226 #eel-19410104a">
                  	<placeName>Mattapan</placeName>
                   <country>United States</country>
