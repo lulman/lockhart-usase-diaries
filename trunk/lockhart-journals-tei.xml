@@ -407,7 +407,20 @@
                   
                </person>
                   
-               
+                  <person xml:id="Mary">
+                     <persName>Mary</persName>
+                     <birth>unknown</birth>
+                     <death>unknown</death>
+                     <note type="biographical">Sent correspondence to Lockhart through both mail and radiograms 
+                     with her husband Carl.</note>
+                  </person>
+                <person xml:id="Carl">
+                   <persName>Carl</persName>
+                   <birth>unknown</birth>
+                   <death>unknown</death>
+                   <note type="biographical">Sent correspondence to Lockhart through both mail and radiograms
+                   with his wife Mary</note>
+                </person>
             </listPerson>
             
             <listPerson type="editors">
