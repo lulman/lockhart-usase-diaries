@@ -419,8 +419,62 @@
                    <birth>unknown</birth>
                    <death>unknown</death>
                    <note type="biographical">Sent correspondence to Lockhart through both mail and radiograms
-                   with his wife Mary</note>
+                   with his wife Mary.</note>
                 </person>
+               <person xml:id="Papa">
+                  <persName>Papa</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note type="biographical">Sent correspondence to Lockhart.</note>
+               </person>
+               <person xml:id="Peter">
+                  <persName>Peter</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note type="biographical">Sent correspondence to Lockhart.</note>
+               </person>
+               <person xml:id="Van">
+                  <persName>Van</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note type="biographical">Sent correspondence to Lockhart.</note>
+               </person>
+               <person xml:id="Vivian">
+                  <persName>Vivian</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note type="biographical">Sent correspondence to Lockhart.</note>
+               </person>
+               <person xml:id="Dave">
+                  <persName>Dave</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note type="biographical">Sent correspondence to Lockhart.</note>
+               </person>
+               <person xml:id="Henry">
+                  <persName>Henry</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note type="biographical">Sent correspondence to Lockhart.</note>
+               </person>
+               <person xml:id="Dot">
+                  <persName>Dot</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note>Sent correspondence to Lockhart</note>
+               </person>
+               <person xml:id="Elenore">
+                  <persName>Elenore</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note type="biographical">Sent correspondence to Lockhart.</note>
+               </person>
+               <person xml:id="Jenene">
+                  <persName>Jenene</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note type="biographical">Sent correspondence to Lockhart.</note>
+               </person>
             </listPerson>
             
             <listPerson type="editors">
