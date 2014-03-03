@@ -332,7 +332,7 @@
                   <occupation when="1940">Cook</occupation>
                   <residence when="1940">Baltimore, Maryland</residence>
                   <note type="biographical">Gutenko was the cook for the West Base. He was from Baltimore, Maryland. The Gutenko Mountains
-                  in Anartica are named after him.</note>
+                  in Anarctica are named after him.</note>
                </person>
                <person xml:id="CharliePassel" source="#personnel #Passel">
                   <persName>Passel, Charles F</persName>
@@ -340,7 +340,7 @@
                   <death when="2001"></death>
                   <occupation when="1940">Geologist</occupation>
                   <residence when="1940">Indianapolis, Indiana</residence>
-                  <note type="biographical">Passel was a geologist from Indianapolis, Indiana. Lockhart ran metabolism tests on him. In 1995, his antarctic diaries detailing the expedition, 
+                  <note type="biographical">Passel was a geologist from Indianapolis, Indiana. Lockhart ran metabolism tests on him. In 1995, his Antarctic diaries detailing the expedition, 
                   called <title level="m">Ice</title>, were published.</note>
                </person>
                <person xml:id="PappyGray" source="#personnel">
@@ -585,7 +585,7 @@
                
                <place type="country" xml:id="Panama" source="#eel-journal2-radiograms #TGN">
                   <placeName>Panama</placeName>
-                  <desc>Lockhart talks about traveling back through Panama on his return trip.</desc>
+                  <desc>Lockhart talks about traveling back through Panama on his return trip in several radiograms.</desc>
                   <location><geo>8.537981 -80.782127</geo></location>
                </place>
                
@@ -594,6 +594,7 @@
                   <country>Anarctica</country>
                   <desc>Lockhart is most likely referring to the edge of the Ross Ice Shelf. He describes two members of the expedition
                   skiing down to the barrier edge to look at the bay.</desc>
+                  <location><geo>-81.5000 -175.0000</geo></location>
                </place>
                
                <place type="city" xml:id="helsinki" source="#eel-19401231e #TGN">
@@ -770,7 +771,7 @@
                <bibl xml:id="Malone" n="Malone">Malone, Thomas F., ed. <title level="j">Compendium of Meteorology.</title> 
                   Baltimore: Waverly Press, Inc., 1951. <title level="m">Internet Archive.</title> Web. 26 Feb. 2014.</bibl>
                
-               <bibl xml:id="LibUTexas" n="lib.utexas.edu"><title>A Guide to the Charles F. Passel Antartic Exploration Collection, 1911-2001</title> <title>University of Texas Library</title> 
+               <bibl xml:id="LibUTexas" n="lib.utexas.edu"><title level="a">A Guide to the Charles F. Passel Antartic Exploration Collection, 1911-2001</title> <title>University of Texas Library</title> 
                   n.d. Web. 25 Feb. 2015</bibl>
                
                <bibl xml:id="FindAGrave" n="FindAGrave"><title type="a">Felix Louis Ferranto</title> <title type="m">FindAGrave.com</title> N.p., n.d. Web. 26 Feb. 2014. &lt;http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=72466677&gt;.</bibl>
@@ -794,7 +795,7 @@
                   <title>NASA Quest.</title> NASA, n.d. Web. 2 Mar. 2014.</bibl>
                
                <bibl xml:id="MGutenko" n="Mount"><title level="a">Gutenko Mountains.</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States 
-                  Geological Survey, n.d. Web. 3 Mar. 2014 &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:6165,Gutenko%20Mountains &gt;.</bibl>
+                  Geological Survey, n.d. Web. 3 Mar. 2014.</bibl>
             
             </listBibl>
             
