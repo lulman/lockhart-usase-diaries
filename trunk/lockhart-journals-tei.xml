@@ -346,11 +346,11 @@
                  <persName>Gray, Orville <addName type="nickname">Pappy</addName></persName> 
                  <occupation when="1940">aviation mechanic and captain</occupation> 
                  <residence when="1940">Folmouth, Virginia</residence> 
-                 <note>Orville "Pappy" Gray was an airplane mechanic from West Base.</note>
-                 <note>Not to be confused with J.A. "Pappy" Reece, a radio operator. Where "Pappy" is mentioned and specified as neither, as in journals 2-24 and 2-25, the person is question is dealing with eingine trouble on the Condor and is thus presumably Gray.</note> 
-                 <note>Lockhart mentions him harnessing pupies to the airplane sled and driving them around.</note>
-                 <note>Gray was the one who flew the Beechcraft back to get engine parts for the Condor when the Condor's engine broke down</note>
-                 <note>Gray is mentioned being spotted by coincidence and then joined when Lockhart, Tony, and Court were out going toward the Barrier Cache</note> 
+                 <note>Orville "Pappy" Gray was an airplane mechanic from West Base.
+                       Not to be confused with J.A. "Pappy" Reece, a radio operator. Where "Pappy" is mentioned and specified as neither, as in journals 2-24 and 2-25, the person is question is dealing with eingine trouble on the Condor and is thus presumably Gray. 
+                       Lockhart mentions him harnessing pupies to the airplane sled and driving them around.
+                       Gray was the one who flew the Beechcraft back to get engine parts for the Condor when the Condor's engine broke down.
+                       Gray is mentioned being spotted by coincidence and then joined when Lockhart, Tony, and Court were out going toward the Barrier Cache</note> 
                </person>
                <person xml:id="ClarkGable">
                 <persName>Gable, Wiliam Clark</persName>
@@ -358,10 +358,29 @@
                 <death when="1960-11-16">West Holywood, California</death>
                 <occupation when="1940">Actor</occupation>
                 <residence when="1940">Encio, California</residence>
-                <note type="biographical">Gable appeared in 97 films from 1924 to 1961, his last film being released after his death.</note>
-                <note type="biographical">Gable was nominate for the Best Leading Actor Academy award in 1934, 1935, and 1939. He won it in 1934 for his role in "It Happened One Night</note>  
-                <note type="biographical">Gabel was leading actor in over 60 films and is best known for his role in Gone With the Wind in 1939</note>
+                <note type="biographical">Gable appeared in 97 films from 1924 to 1961, his last film being released after his death.
+                Gable was nominate for the best leading actor academy award in 1934, 1935, and 1939. He won it in 1934 for his role in "It Happened One Night." 
+                Gabel was leading actor in over 60 films and is best known for his role in Gone With the Wind in 1939</note>
                 <note>Lockhart mentions Gabel when comparing the film adaptation of Gone with the Wind to the novel. Lockhart finds Gabel fitting in his role as Rhett Butler</note>  
+               </person>
+               <person xml:id="VivienLeigh">
+                <persName>Leigh, Vivien</persName>
+                <birth when="1913-11-05">Darjeeling, British India</birth>
+                <death when="1967-07-08">London, England</death>
+                <occupation when="1940">Actress</occupation>
+                <residence when="1940">England</residence>
+                <note type="biographical">Leigh appeared in 37 plays and 20 films from 1935 to 1966.
+                 Leigh won the best actress academy award in 1939 and 1951 for her roles in Gone with the Wind and A Streetcare Named Desire, respectively.
+                 Leigh is best known for the aforementioned roles and was married to Brirish actor Laurence Olivier from 1940 to 1960.</note>
+                <note>Lockhart mentions Leigh when comparing the film adaptation of Gone with the Wind to the novel. Lockhart expresses doubt that Leigh was the right acress to play Scarlett</note>  
+               </person>
+               <person xml:id="MargaretMitchell">
+                 <persName>Mitchell, Margaret</persName>
+                 <birth when="1900-11-08">Atlanta, Georgia</birth>
+                 <death when="1949-08-16">Atlanta, Georgia</death>
+                 <occupation when="1940">Housewife (formerly a writer and journalist)</occupation>
+                 <residence>Atlanta, Georgia</residence>
+                 <note type="biographical"></note> 
                </person>
                <person xml:id="Fitz" source="personnel ">
                   <persName>Fitzsimmons, Roy F <addName type="nickname">Fitz</addName></persName>
