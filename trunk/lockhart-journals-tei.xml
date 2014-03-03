@@ -379,8 +379,24 @@
                  <birth when="1900-11-08">Atlanta, Georgia</birth>
                  <death when="1949-08-16">Atlanta, Georgia</death>
                  <occupation when="1940">Housewife (formerly a writer and journalist)</occupation>
-                 <residence>Atlanta, Georgia</residence>
-                 <note type="biographical"></note> 
+                 <residence when="1940">Atlanta, Georgia</residence>
+                 <note type="biographical">Margaret Mitchell was an author and a journalist for The Atlanta Journal.
+                        Gone with the Wind, the only work of hers published during her lifetime, won the Pulitzer Prize for Fiction in 1937
+                        Over 30 million copies of the novel Gone with the Wind have been printed worldwide.</note>
+                 <note>Lockhart mentions Mitchell in his comparison of the film adaptation of Gone with the Wind to the novel. He is unsure
+                       which ending was more appropriate; Mitchell's written ending of the film ending,</note> 
+               </person>
+               <person xml:id="Darwin">
+                <persName>Darwin, Charles</persName>
+                <birth when="1809-02-12">Shropshire, United Kingdom</birth>
+                <death when="1882-04-19">Downe, United Kingdom</death>
+                <occupation>Geologist and Naturalist</occupation> 
+                <note type="biographical">Charles Darwin is one of the most influential scientists th world has known. His theory of natural selection 
+                    forms the basis of modern views on the diversity of life and how different forms of life come about.</note>
+                  <note>Lockhart mentions Darwin when he says that he is 
+                        reading "Homo versus Darwin a judicial examination of statements recently published by Mr. Darwin regarding 'The Descent of Man'"
+                        itself a commentaty on Daron's book "The Descent of Man, and Selection in Relation to Sex." 
+                        Lockhart said that he bought the commentary to accompany the book itself, which he had at home.</note>  
                </person>
                <person xml:id="Fitz" source="personnel ">
                   <persName>Fitzsimmons, Roy F <addName type="nickname">Fitz</addName></persName>
