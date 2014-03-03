@@ -610,6 +610,18 @@
                   <location><geo>42.27715 -71.091539</geo></location>
                </place>
                
+               <place type="city" xml:id="cleveland">
+                 <placeName>Cleveland, Ohio</placeName> 
+                  <country>United States</country>
+                  <region type="state">Ohio</region>
+                  <region type="county">Cuyahoga</region>
+                  <location><geo>41.482222, -81.669722</geo></location>
+                  <desc>There are four radiograms here involving Cleveland; one that Lockhart sent and three that he received.
+                       These radiograms are all between Lockhart and Margaret Mann/Mrs. W.H. Mann. These two are likely the same person. Weather or not this was thrut, the woman lived in Cleveland. 
+                       Note that the radiogram sent by Lockhart was to Mrs. W.H. but the ones recieved were from Margaret. Also note that the four radiograms are not necessarily on any order.
+                       In these radigrams, she and Lockhart mostly talk about holiday wishes and when his coming return.</desc>
+              </place>
+               
                <place type="base" xml:id="EastBase" source="#James">
                   <placeName>East Base</placeName>
                   <country>Antarctica</country>
