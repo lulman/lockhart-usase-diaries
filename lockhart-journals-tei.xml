@@ -331,11 +331,11 @@
                   <persName>Gutenko, Sigmund</persName>
                   <occupation when="1940">Cook</occupation>
                   <residence when="1940">Baltimore, Maryland</residence>
-                  <note type="biographical">Gutenko was the cook for the West Base. He was from Baltimore, Maryland. The Gutenko Mountains
+                  <note type="biographical">Gutenko was the cook and steward for the West Base. He was from Baltimore, Maryland. The Gutenko Mountains
                   in Anarctica are named after him.</note>
                </person>
                <person xml:id="CharliePassel" source="#personnel #Passel">
-                  <persName>Passel, Charles F</persName>
+                  <persName>Passel, Charles F.</persName>
                   <birth when="1911"><placeName>Indianapolis, Indiana</placeName></birth>
                   <death when="2001"></death>
                   <occupation when="1940">Geologist</occupation>
@@ -399,12 +399,14 @@
                         itself a commentaty on Daron's book "The Descent of Man, and Selection in Relation to Sex." 
                         Lockhart said that he bought the commentary to accompany the book itself, which he had at home.</note>  
                </person>
-               <person xml:id="Fitz" source="#personnel">
-                  <persName>Fitzsimmons, Roy F <addName type="nickname">Fitz</addName></persName>
+               <person xml:id="Fitz" source="#personnel #WikiFitz">
+                  <persName>Fitzsimmons, Roy <addName type="nickname">Fitz</addName></persName>
+                  <birth when="1916"></birth>
+                  <death when="1945"></death>
                   <occupation when="1940">Physicist</occupation>
                   <residence when="1940">Newark, New Jersey</residence>
-                  <note type="biographical">Fitz was a physicist from Newark, New Jersey. Lockhart talks about running metabolism tests on him and them
-                  going out on excursions together.</note>
+                  <note type="biographical">Fitz was a physicist from Newark, New Jersey. He ran the Rockefeller Mountains seismic station during the expedition. Lockhart talks about running metabolism tests on him and them
+                  going out on excursions together. Mount Fitzsimmons in Anarctica is named after him.</note>
                </person>
                <person xml:id="Pete"><persName>Petras, Theodore A.</persName><note type="biological">Pete was an expedition man and a pilot on the North Star.</note></person><!-- will add details later -->
                <person xml:id="Mac"><persName>Mc Coy, James C.</persName><note type="biological">Mac was a pilot and part of the West Base crew.</note></person><!-- will add details -->
@@ -796,6 +798,9 @@
                
                <bibl xml:id="MGutenko" n="Mount"><title level="a">Gutenko Mountains.</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States 
                   Geological Survey, n.d. Web. 3 Mar. 2014.</bibl>
+               
+               <bibl xml:id="WikiFitz" n="RoyFitzsimmons"><title level="a">Roy Fitzsimmons</title><title level="s">Wikipedia, the free encylopedia</title> 
+                 10 May 2013. Web. 3 March 2014.</bibl>
             
             </listBibl>
             
