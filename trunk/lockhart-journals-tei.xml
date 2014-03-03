@@ -598,7 +598,7 @@
                   </state>
                   
                </org>
-               <org xml:id="USDptoftheInt" source="#eel-19410427 ">
+               <org xml:id="USDptoftheInt" source="#eel-19410427 #Richard">
                   <orgName>US Department of the Interior</orgName>
                   <state type="government"></state>
                   <desc>Per the President Roosevelt's suggestion, the Department of the Interior was one of the 
@@ -699,9 +699,14 @@
                <bibl xml:id="AntarcticFeatureDeatil" n="Mount"><title level="a">Antarctic Feature Detail</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States
                   Geological Survey, n.d. Web 24 Feb. 2014 &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:5051,Flood%20Range&gt;</bibl>
                
-               <bibl xml:id="ACGenealogy" n="Atlantic"><title level="m">Atlantic Canada Genealogy Project.</title>N.p., n.d. Web. 26 Feb. 2014. &lt;http://www3.telus.net/chignecto/atlanticcanada/aqwg2503.htm&gt;.</bibl>
+               <bibl xml:id="ACGenealogy" n="Atlantic"><title level="m">Atlantic Canada Genealogy Project.</title> N.p., n.d. Web. 26 Feb. 2014. &lt;http://www3.telus.net/chignecto/atlanticcanada/aqwg2503.htm&gt;.</bibl>
                
-               <bibl xml:id="Stations" n="James">James, Donald.<title level="m">U.S. Stations and Camps in Antarctica.</title><title>NASA Quest.</title>NASA, n.d. Web. 1 Mar. 2014.</bibl>
+               <bibl xml:id="Stations" n="James">James, Donald.<title level="m">U.S. Stations and Camps in Antarctica.</title>
+                  <title>NASA Quest.</title>NASA, n.d. Web. 1 Mar. 2014.</bibl>
+               
+               <bibl xml:id="Richard" n="Richard"><title level="a">Richard E. Byrd: Byrd Antarctic Expedition III: 
+                  The United States Antarctic Service Expedition</title>South-Pole.com. N.p., n.d. Web. 2 Mar. 2014.
+                  &lt;http://www.south-pole.com/p0000109.htm&gt;.</bibl>
             
             </listBibl>
             
