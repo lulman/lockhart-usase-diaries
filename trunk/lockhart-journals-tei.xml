@@ -563,6 +563,15 @@
                      expedition, Richard Black of the US Navy was the East Base commander.</desc>
                   <location><geo>-68.193247 -67.014542</geo></location>
                </place>
+               
+               <place type="geography" xml:id="SouthPole" source="#Amundsen-Scott">
+                  <placeName>South Pole</placeName>
+                  <country>Antarctica</country>
+                  <desc>Though in fact a very specific location, the term "south pole" was used colloquially in 
+                     radiograms to refer to the entire continent of Antarctica and the bases where the expedition
+                     took place. The 1939-1941 expedition did not reach the South Pole, nor was it intended to do so..</desc>
+                  <location><geo>90.0000 0.0000</geo></location>
+               </place>
             </listPlace>
             
             
@@ -702,11 +711,15 @@
                <bibl xml:id="ACGenealogy" n="Atlantic"><title level="m">Atlantic Canada Genealogy Project.</title> N.p., n.d. Web. 26 Feb. 2014. &lt;http://www3.telus.net/chignecto/atlanticcanada/aqwg2503.htm&gt;.</bibl>
                
                <bibl xml:id="Stations" n="James">James, Donald.<title level="m">U.S. Stations and Camps in Antarctica.</title>
-                  <title>NASA Quest.</title>NASA, n.d. Web. 1 Mar. 2014.</bibl>
+                  <title>NASA Quest.</title> NASA, n.d. Web. 1 Mar. 2014.</bibl>
                
                <bibl xml:id="Richard" n="Richard"><title level="a">Richard E. Byrd: Byrd Antarctic Expedition III: 
                   The United States Antarctic Service Expedition</title>South-Pole.com. N.p., n.d. Web. 2 Mar. 2014.
                   &lt;http://www.south-pole.com/p0000109.htm&gt;.</bibl>
+               
+               <bibl xml:id="Amundsen-Scott" n="National"><title level="m">National Science Foundation Office of Polar
+                  Programs U.S. Antarctic Program: Your Stay at Amundsen-Scott South Pole Station.</title> 
+                  <title>NASA Quest.</title> NASA, n.d. Web. 2 Mar. 2014.</bibl>
             
             </listBibl>
             
