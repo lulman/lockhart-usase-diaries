@@ -342,7 +342,28 @@
                   <note type="biographical">Passel was a geologist from Indianapolis, Indiana. Lockhart ran metabolism tests on him. In 1995, his antarctic diaries detailing the expedition, 
                   called <title level="m">Ice</title>, were published.</note>
                </person>
-               <person xml:id="Fitz" source="personnel">
+               <person xml:id="PappyGray" source="#personnel">
+                 <persName>Gray, Orville <addName type="nickname">Pappy</addName></persName> 
+                 <occupation when="1940">aviation mechanic and captain</occupation> 
+                 <residence when="1940">Folmouth, Virginia</residence> 
+                 <note>Orville "Pappy" Gray was an airplane mechanic from West Base.</note>
+                 <note>Not to be confused with J.A. "Pappy" Reece, a radio operator. Where "Pappy" is mentioned and specified as neither, as in journals 2-24 and 2-25, the person is question is dealing with eingine trouble on the Condor and is thus presumably Gray.</note> 
+                 <note>Lockhart mentions him harnessing pupies to the airplane sled and driving them around.</note>
+                 <note>Gray was the one who flew the Beechcraft back to get engine parts for the Condor when the Condor's engine broke down</note>
+                 <note>Gray is mentioned being spotted by coincidence and then joined when Lockhart, Tony, and Court were out going toward the Barrier Cache</note> 
+               </person>
+               <person xml:id="ClarkGable">
+                <persName>Gable, Wiliam Clark</persName>
+                <birth when="1901-02-01">Cadiz, Ohio</birth>
+                <death when="1960-11-16">West Holywood, California</death>
+                <occupation when="1940">Actor</occupation>
+                <residence when="1940">Encio, California</residence>
+                <note type="biographical">Gable appeared in 97 films from 1924 to 1961, his last film being released after his death.</note>
+                <note type="biographical">Gable was nominate for the Best Leading Actor Academy award in 1934, 1935, and 1939. He won it in 1934 for his role in "It Happened One Night</note>  
+                <note type="biographical">Gabel was leading actor in over 60 films and is best known for his role in Gone With the Wind in 1939</note>
+                <note>Lockhart mentions Gabel when comparing the film adaptation of Gone with the Wind to the novel. Lockhart finds Gabel fitting in his role as Rhett Butler</note>  
+               </person>
+               <person xml:id="Fitz" source="personnel ">
                   <persName>Fitzsimmons, Roy F <addName type="nickname">Fitz</addName></persName>
                   <occupation when="1940">Physicist</occupation>
                   <residence when="1940">Newark, New Jersey</residence>
