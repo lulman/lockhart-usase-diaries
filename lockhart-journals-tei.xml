@@ -424,13 +424,13 @@
                <person xml:id="Court" source="#Arnold #Malone">
                   <persName>Court, Arnold</persName>
                   <birth when="1914-06-20"><placeName ref="#Seattle">Seattle, WA</placeName></birth>
-                  <death when="1999"><!-- To add more information here (from OSU only source) --></death>
+                  <death when="1999"></death>
                   <occupation>Climatologist/Meteorologist</occupation>
                   <note type="biographical">Court was the Chief Meteorologist for the 1939-1941 expedition. 
                      Court and Lockhart took samples of the air and worked together to determine whether 
                      the air in Antarctica is oxygen deficient.</note>
                </person>
-               <person xml:id="DocFrazier" source="#Utah">
+               <person xml:id="DocFrazier" source="#Russell">
                   <persName>Frazier, Dr. Russell G.</persName>
                   <birth when="1893-07-05"><placeName>Fraziers Bottom, WV</placeName></birth>
                   <death when="1968-01-14"><placeName>Salt Lake City, UT</placeName></death>
@@ -440,14 +440,14 @@
                      extreme cold for long periods of time affects the human body. The Antarctic peak Mount 
                      Frazier was named after him in 1947 <bibl><ref target="#MFrazier"><title level="a">Mount Frazier</title></ref></bibl>.</note>
                </person>
-               <person xml:id="mamma" source="ACGenealogy">
+               <person xml:id="mamma" source="Atlantic">
                   <persName>Westhaver, Celeste Althea <addName type="formal">Mrs. Clinton Daniel Lockhart</addName></persName>
                   <birth when="1877" precision="low"></birth>
                   <death notBefore="1930"></death>
-                  <event type="marriage" when="1904-09-21"><desc>Celeste Althea Westhaver married Clinton Daniel Lockhart in Boston Suffolk, MA, USA.</desc></event>
-                  <note type="biographical">bio note</note>
+                  <event type="marriage" when="1904-09-21"><desc>Celeste Althea Westhaver married Clinton Daniel Lockhart in Boston, Suffolk, MA, USA.</desc></event>
+                  <note type="biographical">Celeste Althea Westhaver was Lockhart's mother. They often corresponded via radiogram.</note>
                </person>
-               <person xml:id="Beatie" source="ACGenealogy">
+               <person xml:id="Beatie" source="Atlantic">
                   <persName>Lockhart, Beatrice/Bernice R. <addName type="nickname">Beatie</addName></persName>
                   <birth when="1906" precision="low"></birth>
                   <death when-custom="unknown"></death>
@@ -639,7 +639,7 @@
                   <location><geo>-68.193247 -67.014542</geo></location>
                </place>
                
-               <place type="geography" xml:id="SouthPole" source="#Amundsen-Scott">
+               <place type="geography" xml:id="SouthPole" source="#National">
                   <placeName>South Pole</placeName>
                   <country>Antarctica</country>
                   <desc>Though in fact a very specific location, the term "south pole" was used colloquially in 
@@ -768,7 +768,7 @@
                <bibl xml:id="MFrazier" n="Mount"><title level="a">Mount Frazier.</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States 
                   Geological Survey, n.d. Web. 26 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:5262,Mount%20Frazier&gt;.</bibl>
                
-               <bibl xml:id="Marquis" n="Arnold"><title level="a">Arnold Court</title>Marquis Biographies Online. <title level="m">Marquis Who's Who LLC.,</title> n.d. Web. 22 Feb. 2014. &lt;http://search.marquiswhoswho.com.proxy.lib.ohio-state.edu/profile/100002028842&gt;.</bibl>
+               <bibl xml:id="Arnold" n="Arnold"><title level="a">Arnold Court</title>Marquis Biographies Online. <title level="m">Marquis Who's Who LLC.,</title> n.d. Web. 22 Feb. 2014. &lt;http://search.marquiswhoswho.com.proxy.lib.ohio-state.edu/profile/100002028842&gt;.</bibl>
                
                <bibl xml:id="Malone" n="Malone">Malone, Thomas F., ed. <title level="j">Compendium of Meteorology.</title> 
                   Baltimore: Waverly Press, Inc., 1951. <title level="m">Internet Archive.</title> Web. 26 Feb. 2014.</bibl>
@@ -778,21 +778,21 @@
                
                <bibl xml:id="FindAGrave" n="FindAGrave"><title type="a">Felix Louis Ferranto</title> <title type="m">FindAGrave.com</title> N.p., n.d. Web. 26 Feb. 2014. &lt;http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=72466677&gt;.</bibl>
                
-               <bibl xml:id="Frazier" n="Frazier"><title type="a">Russell G. Frazier</title> <title>Utah History to Go</title> Utah.gov Services, n.d. Web. 26 Feb. 2014. &lt;http://historytogo.utah.gov/people/utahns_of_achievement/russellgfrazier.html&gt;.</bibl>
+               <bibl xml:id="Russell" n="Russell"><title type="a">Russell G. Frazier</title> <title>Utah History to Go</title> Utah.gov Services, n.d. Web. 26 Feb. 2014. &lt;http://historytogo.utah.gov/people/utahns_of_achievement/russellgfrazier.html&gt;.</bibl>
                
                <bibl xml:id="AntarcticFeatureDeatil" n="Mount"><title level="a">Antarctic Feature Detail</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States
                   Geological Survey, n.d. Web 24 Feb. 2014 &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:5051,Flood%20Range&gt;</bibl>
                
-               <bibl xml:id="ACGenealogy" n="Atlantic"><title level="m">Atlantic Canada Genealogy Project.</title> N.p., n.d. Web. 26 Feb. 2014. &lt;http://www3.telus.net/chignecto/atlanticcanada/aqwg2503.htm&gt;.</bibl>
+               <bibl xml:id="Atlantic" n="Atlantic"><title level="m">Atlantic Canada Genealogy Project.</title> N.p., n.d. Web. 26 Feb. 2014. &lt;http://www3.telus.net/chignecto/atlanticcanada/aqwg2503.htm&gt;.</bibl>
                
-               <bibl xml:id="Stations" n="James">James, Donald.<title level="m">U.S. Stations and Camps in Antarctica.</title>
+               <bibl xml:id="James" n="James">James, Donald.<title level="m">U.S. Stations and Camps in Antarctica.</title>
                   <title>NASA Quest.</title> NASA, n.d. Web. 1 Mar. 2014.</bibl>
                
                <bibl xml:id="Richard" n="Richard"><title level="a">Richard E. Byrd: Byrd Antarctic Expedition III: 
                   The United States Antarctic Service Expedition</title>South-Pole.com. N.p., n.d. Web. 2 Mar. 2014.
                   &lt;http://www.south-pole.com/p0000109.htm&gt;.</bibl>
                
-               <bibl xml:id="Amundsen-Scott" n="National"><title level="m">National Science Foundation Office of Polar
+               <bibl xml:id="National" n="National"><title level="m">National Science Foundation Office of Polar
                   Programs U.S. Antarctic Program: Your Stay at Amundsen-Scott South Pole Station.</title> 
                   <title>NASA Quest.</title> NASA, n.d. Web. 2 Mar. 2014.</bibl>
                
@@ -1586,23 +1586,23 @@
                   <lb/>at all. The tractor goes into the snow up to its belly even
                   <lb/>with no load. In order not to l<gap reason="overwritten"/>ose the valuable loads which
                   <lb/>have been made even heavier by the addition of the outpost's
-                  <lb/>stuff it has been decided to send <persName>Tony</persName> and <persName>Jack</persName> out with
+                  <lb/>stuff it has been decided to send <persName>Tony</persName> and <persName ref="#Richardson">Jack</persName> out with
                   <lb/>18 dogs and two sleds. <persName ref="#Ferranto">Ferranto</persName> is hauling several dog sleds
                   <lb/>which are extra so that the single <del rend="strikethrough">do</del> sled dog teams can
                   <lb/>once more be <del rend="strikethrough">brought ba</del> made double sled dog teams. At
-                  <lb/>least <persName>Tony</persName> and <persName>Jack</persName> will be able to carry home all the gear
+                  <lb/>least <persName>Tony</persName> and <persName ref="#Richardson">Jack</persName> will be able to carry home all the gear
                   <lb/>our party left with the tractor and probably some besides. We
                   <lb/>sure hope that the scientific specimens can be brought back.
                </p>
                <p>
-                  <lb/><persName>Jack Perkins</persName> has just completed some beautiful jobs on the
+                  <lb/><persName ref="#Perk">Jack Perkins</persName> has just completed some beautiful jobs on the
             <pb facs="journal-2-21" n="/6/62075637-9661-48cc-b73d-16b55c7b6a3c"/>
             <fw type="pageNum" place="top">17</fw>
                   <lb/>Adelie an Emperor and a snowy petrel. The skins have
                   <lb/>turned out beautifully.
                </p>
                <p>
-                  <lb/>Yesterday I had messages from <persName ref="#mamma">mamma</persName> and <persName>Beatie</persName>
+                  <lb/>Yesterday I had messages from <persName ref="#mamma">mamma</persName> and <persName ref="Beatie">Beatie</persName>
                   <lb/>and in <persName ref="#mamma">mamma's</persName> she said that she was expecting a penguin
                   <lb/>skin and since there seem to be plenty of Emperors around
                   <lb/>perhaps I should get busy and skin one myself. I
@@ -1629,7 +1629,7 @@
                   <lb/>to have both bases say something <gap reason="overwritten"/>for New Years to the folks
                   <lb/>in the <country>United States</country>. Conditions have been so bad recently
                   <lb/>that little hope for a strong signal was held. They
-                  <lb/>had trouble pulling <placeName>East Base</placeName> through but they finally did
+                  <lb/>had trouble pulling <placeName ref="#EastBase">East Base</placeName> through but they finally did
                   <lb/>It was not until about an hour and a half later that our
             <pb facs="journal-2-22" n="/e/ee43a5aa-0d07-45c2-b54b-dbf8b7e67102"/>
             <fw type="pageNum" place="top">18</fw>
@@ -1637,8 +1637,8 @@
                   <lb/>The signal strength held only for a few minutes <gap rend="overwritten"/>and not
                   <lb/>long enough for our choral singing to take place. At
                   <lb/>the last minute almost a few of us worked out the words
-                  <lb/>to <title>Auld Lang Syne</title> and <title>Show Me the Way to Go Home</title>. None
-                  <lb/>of us knew all of both songs completely. <persName>Pete</persName> was to
+                  <lb/>to <title level="a">Auld Lang Syne</title> and <title level="a">Show Me the Way to Go Home</title>. None
+                  <lb/>of us knew all of both songs completely. <persName ref="#Pete">Pete</persName> was to
                   <lb/>accompany us with his <gap rend="overwritten"/><choice><abbr>uke</abbr><expan>ukelele</expan></choice>. Just as we were about to
                   <lb/>go on our signal strength dropped and our chance was
                   <lb/>gone. Ah well another time maybe.
