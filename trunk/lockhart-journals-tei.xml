@@ -854,9 +854,9 @@
                <bibl xml:id="LibUTexas" n="lib.utexas.edu"><title level="a">A Guide to the Charles F. Passel Antartic Exploration Collection, 1911-2001</title> <title>University of Texas Library</title> 
                   n.d. Web. 25 Feb. 2015</bibl>
                
-               <bibl xml:id="FindAGrave" n="FindAGrave"><title type="a">Felix Louis Ferranto.</title> <title type="m">FindAGrave.com</title> N.p., n.d. Web. 26 Feb. 2014. &lt;http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=72466677&gt;.</bibl>
+               <bibl xml:id="FindAGrave" n="FindAGrave"><title level="a">Felix Louis Ferranto.</title> <title type="m">FindAGrave.com.</title> N.p., n.d. Web. 26 Feb. 2014. &lt;http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=72466677&gt;.</bibl>
                
-               <bibl xml:id="Russell" n="Russell"><title type="a">Russell G. Frazier.</title> <title level="m">Utah History to Go.</title> Utah.gov Services, n.d. Web. 26 Feb. 2014. &lt;http://historytogo.utah.gov/people/utahns_of_achievement/russellgfrazier.html&gt;.</bibl>
+               <bibl xml:id="Russell" n="Russell"><title level="a">Russell G. Frazier.</title> <title level="m">Utah History to Go.</title> Utah.gov Services, n.d. Web. 26 Feb. 2014. &lt;http://historytogo.utah.gov/people/utahns_of_achievement/russellgfrazier.html&gt;.</bibl>
                
                <bibl xml:id="FloodRange" n="Flood"><title level="a">Flood Range</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States
                   Geological Survey, n.d. Web 24 Feb. 2014 &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:5051,Flood%20Range&gt;</bibl>
@@ -870,7 +870,7 @@
                   The United States Antarctic Service Expedition</title> <title level="m">South-Pole.com.</title> N.p., n.d. Web. 2 Mar. 2014.
                   &lt;http://www.south-pole.com/p0000109.htm&gt;.</bibl>
                
-               <bibl xml:id="National" n="National"><title level="A">National Science Foundation Office of Polar
+               <bibl xml:id="National" n="National"><title level="a">National Science Foundation Office of Polar
                   Programs U.S. Antarctic Program: Your Stay at Amundsen-Scott South Pole Station.</title> 
                   <title level="m">NASA Quest.</title> NASA, n.d. Web. 2 Mar. 2014.</bibl>
                
