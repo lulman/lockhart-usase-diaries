@@ -465,7 +465,7 @@
                   <note type="biographical">Celeste Althea Westhaver was Lockhart's mother. They often corresponded via radiogram.</note>
                </person>
                <person xml:id="Beatie" source="Atlantic">
-                  <persName>Lockhart, Beatrice/Bernice R. <addName type="nickname">Beatie</addName></persName>
+                  <persName>Lockhart, Beatrice R. <addName type="nickname">Beatie</addName></persName>
                   <birth when="1906" precision="low"></birth>
                   <death when-custom="unknown"></death>
                   <note type="biographical">Beatrice was Lockhart's older sister. They often sent radiograms to each other.</note>
@@ -1070,7 +1070,7 @@
                <bibl xml:id="MBerlin" n="Mount"><title level="a">Mount Berlin</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
                   Geological Survey. n.d. Web. 28 Feb. 2014 &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:1274,Mount%20Berlin&gt;</bibl>
                
-               <bibl xml:id="Arnold" n="Arnold"><title level="a">Arnold Court</title>Marquis Biographies Online. <title level="m">Marquis Who's Who LLC.,</title> n.d. Web. 22 Feb. 2014. &lt;http://search.marquiswhoswho.com.proxy.lib.ohio-state.edu/profile/100002028842&gt;.</bibl>
+               <bibl xml:id="Arnold" n="Arnold"><title level="a">Arnold Court.</title> <title level="m">Marquis Biographies Online.</title> Marquis Who's Who LLC., n.d. Web. 22 Feb. 2014. &lt;http://search.marquiswhoswho.com.proxy.lib.ohio-state.edu/profile/100002028842&gt;.</bibl>
                
                <bibl xml:id="Malone" n="Malone">Malone, Thomas F., ed. <title level="j">Compendium of Meteorology.</title> 
                   Baltimore: Waverly Press, Inc., 1951. <title level="m">Internet Archive.</title> Web. 26 Feb. 2014.</bibl>
@@ -1922,7 +1922,7 @@
                <p>
                   <lb/>I had a message from the <persName ref="#Guernsey"><choice><sic>Guernsey's</sic><corr>Guernseys</corr></choice></persName> today <del rend="strikethrough">wh</del>
                   <lb/>wishing me a happy new year and a safe return. I
-                  <lb/>have also had a message from <persName>Mary</persName> and <persName>Carl</persName> but at the
+                  <lb/>have also had a message from <persName ref="#Mary">Mary</persName> and <persName ref="#Carl">Carl</persName> but at the
                   <lb/>moment I can't remember what day it came in. I
                   <lb/>certainly am anxious to get home. I can see now that
                   <lb/>I shan't spend much time travelling across country. When
