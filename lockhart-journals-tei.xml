@@ -468,9 +468,10 @@
                   <persName>Louis Colombo <addName type="nickname">Tony</addName></persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
-                  <occupation when="1940">Supply Man</occupation>
+                  <occupation when="1940">Supply Man, Asisstant Mechanic</occupation>
                   <residence when="1940">Astoria, New York</residence>
-                  <note type="biographical">Louis "Tony" Colombo was a member of the biological party of the USAS and the West Base.</note>
+                  <note type="biographical">Louis "Tony" Colombo was a part of the West Base. He is listed as being the "supply man" as 
+                     well as the asisstant mechanic in varying sources.</note>
                </person>
                <person xml:id="Asman" source="#Passel #personnel">
                   <persName>Adam Asman <addName type="nickname">Sgt., Nib, Nibble</addName></persName>
@@ -482,11 +483,30 @@
                </person>
                <person xml:id="CharlesFord" source="#eel-19401228a">
                   <persName>Charles Ford</persName>
-                  <note type="biographical">Author of the book "Death Sails with Magellan."</note>
+                  <note type="biographical">Author of the book "Death Sails with Magellan," which Lockhart reads during the expedition.</note>
                </person>
-               <person xml:id="BuckBoyd" source="#Passel"></person>
-               <person xml:id="WilliamLeckie"></person>
-               <person xml:id="Klondicke" source="#Passel"></person>
+               <person xml:id="BuckBoyd" source="#Passel #personnel">
+                  <persName>Vernon D. Boyd <addName type="nickname">Buck</addName></persName>
+                  <birth when-custom="unknown"></birth>
+                  <death when-custom="unknown"></death>
+                  <occupation when="1940">Master Mechanic</occupation>
+                  <residence>Uniontown, Pennsylvania</residence>
+                  <note type="biographical">Vernon "Buck" Boyd was the master mechanic for the West Base of the 1939-41 USAS expedition.</note>
+               </person>
+               <person xml:id="BillLeckie" source="#eel-19410427">
+                  <persName>William Leckie <addName type="nickname">Bill</addName></persName>
+                  <birth when-custom="uknown"></birth>
+                  <death when-custom="unknown"></death>
+                  <occupation when="1941">Unknown</occupation>
+                  <residence>Unknown</residence>
+                  <note type="biographical">Either possibly related to the Department of the Interior, or involved in some kind of 
+                     experiment regarding food and dietary needs based on his query of the "Harris food mixture" in a radiogram to Lockhart.</note>
+               </person>
+               <person xml:id="Klondicke" source="#Passel">
+                  <persName>Leonard M. Berlin</persName>
+                  <occupation when="1940">Cadastral Engineer</occupation>
+                  <note type="biographical"> Leonard "Klondicke" Berlin was a surveyor and a member of the West Base</note>
+               </person>
                
             </listPerson>
             
@@ -548,12 +568,11 @@
                <place type="range" xml:id="HalFlood" source="#AntarcticFeatureDeatil">
                   <placeName>Hal Flood</placeName>
                   <country>Antartic</country>
-                  <location><geo>-76.0300 -134.3000</geo></location>
                   <desc>Range of snow covered mountains. Reconnaissance flights by the United Antartic Service (1939-41), 
                      of which Lockhart was a member, explored the range. The principle mountain was named "Mount Hal Flood" 
                      by Admiral Byrd for his uncle, the Hon. Henry D. Flood, U.S. Senator from Virginia. The name was later applied to the entire range.</desc>
-                  
-                  </place>
+                  <location><geo>-76.0300 -134.3000</geo></location>
+               </place>
                
                <place type="address" xml:id="ArlingtonStreet" source="#eel-19401226a">
                   <placeName>Arlington Street</placeName>
@@ -623,9 +642,9 @@
                <place type="city" xml:id="helsinki" source="#eel-19401231e #TGN">
                   <placeName>Helsinki</placeName>
                   <country>Finland</country>
-                  <location><geo>60.1333 25.0000</geo></location>
                   <desc>Located on peninsula in Gulf of Finland. In a radiogram to Lockhart, his mother writes of having 'snaps' 
                      he had taken in "helsiki" enlarged; presumably "helsiki" refers to the Finnish city, Helsinki.</desc>
+                  <location><geo>60.1333 25.0000</geo></location>
                </place>
                
                <place type="city" xml:id="Mattapan" source="#personnel #eel-19401226 #eel-19410104a">
@@ -667,6 +686,14 @@
                      radiograms to refer to the entire continent of Antarctica and the bases where the expedition
                      took place. The 1939-1941 expedition did not reach the South Pole, nor was it intended to do so..</desc>
                   <location><geo>90.0000 0.0000</geo></location>
+               </place>
+               
+               <place type="city" xml:id="Wellesley" source="#TGN #eel-19410103a">
+                  <placeName>Wellesley</placeName>
+                  <region type="state">Massachusetts</region>
+                  <country>United States</country>
+                  <desc>Home of the Guernsey family.</desc>
+                  <location><geo>42.2833 -71.2833</geo></location>
                </place>
             </listPlace>
             
