@@ -710,6 +710,15 @@
                  He mentions South Moon Under whic takes place in Florida.</desc> 
                </place>
                
+               <place type="city" xml:id="Balboa" source="#TGN">
+                 <placeName type="city">Balboa</placeName> 
+                 <country>Roublic of Panama</country>
+                 <region type="geographic">Central America</region>
+                  <location><geo>8.9500 -79.5667</geo></location>
+                  <desc>Balboa is mentioned along with Valparaiso as a stopover city for mail going to the Anartic 
+                  expedition, as well as the place where journalists wanted to interview Lockhart</desc>
+               </place>
+               
                <place type="base" xml:id="EastBase" source="#James">
                   <placeName>East Base</placeName>
                   <country>Antarctica</country>
