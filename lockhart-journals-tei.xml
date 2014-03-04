@@ -510,7 +510,34 @@
                   <occupation when="1940">Cadastral Engineer</occupation>
                   <note type="biographical"> Leonard "Klondicke" Berlin was a surveyor and a member of the West Base</note>
                </person>
+               <person xml:id="Wiener" source="#personnel">
+                  <persName>Murray Wiener</persName>
+                  <birth when="1909" precision="low"></birth>
+                  <death when-custom="unknown"></death>
+                  <occupation when="1940">Physicist and Dog Doctor</occupation>
+                  <residence>130 Main St  Bradley Beach, NJ</residence>
+                  <note>Wiener was a member of the west base along side Lockhart. In his lifetime he made three trips to the Antarctic. He is often mentioned in the journal.</note>
+               </person>
+               <person xml:id="Siple" source="#personnel">
+                  <persName>Dr Paul A. Siple</persName>
+                  <birth when="1908">December 18, 1908</birth>
+                  <death when="1968">Novemeber 25, 1968 </death>
+                  <occupation when="1940">Base Leader</occupation>
+                  <residence>1158 W. 5th Street Erie, PA</residence>
+                  <note>Dr. Siple was base leader at the west base. He is often referred to as Siple, but is also called Paul in the Lockhart journal.</note>
+               </person>
+               <person xml:id="Wade" source="#Passel">
+                  <persName>Dr. F. Alton Wade</persName>
+                  <birth when="1903" precision="low"></birth>
+                  <death when="1978" precision="low"></death>
+                  <occupation>Senior Scientist and Geographer</occupation>
+                  <residence>Oxford, Oh</residence>
+                  <note>Doctor Wade was the Senior Scientist and a member of the Snow Cruiser Unit.</note>
+               </person>
                
+             
+               
+             
             </listPerson>
             
             <listPerson type="editors">
