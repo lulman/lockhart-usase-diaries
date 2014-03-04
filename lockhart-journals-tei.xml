@@ -482,6 +482,66 @@
                   <residence when="1940">Astoria, New York</residence>
                   <note type="biographical">Louis "Tony" Colombo, a member of the biological party of the West Base, is listed as being the "supply man" as 
                      well as the asisstant mechanic in varying sources. Mount Colombo, a mountain in the Ford Ranges, was later named for him.</note>
+                  
+                  <person xml:id="Mary">
+                     <persName>Mary</persName>
+                     <birth>unknown</birth>
+                     <death>unknown</death>
+                     <note type="biographical">Sent correspondence to Lockhart through both mail and radiograms 
+                     with her husband Carl.</note>
+                  </person>
+                <person xml:id="Carl">
+                   <persName>Carl</persName>
+                   <birth>unknown</birth>
+                   <death>unknown</death>
+                   <note type="biographical">Sent correspondence to Lockhart through both mail and radiograms
+                   with his wife Mary.</note>
+                </person>
+               <person xml:id="Papa">
+                  <persName>Papa</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note type="biographical">Sent correspondence to Lockhart.</note>
+                  
+                  <person xml:id="Mary">
+                     <persName>Mary</persName>
+                     <birth>unknown</birth>
+                     <death>unknown</death>
+                     <note type="biographical">Sent correspondence to Lockhart through both mail and radiograms 
+                     with her husband Carl.</note>
+                  </person>
+                <person xml:id="Carl">
+                   <persName>Carl</persName>
+                   <birth>unknown</birth>
+                   <death>unknown</death>
+                   <note type="biographical">Sent correspondence to Lockhart through both mail and radiograms
+                   with his wife Mary.</note>
+                </person>
+               <person xml:id="Papa">
+                  <persName>Papa</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note type="biographical">Sent correspondence to Lockhart.</note>
+                  
+                  <person xml:id="Mary">
+                     <persName>Mary</persName>
+                     <birth>unknown</birth>
+                     <death>unknown</death>
+                     <note type="biographical">Sent correspondence to Lockhart through both mail and radiograms 
+                     with her husband Carl.</note>
+                  </person>
+                <person xml:id="Carl">
+                   <persName>Carl</persName>
+                   <birth>unknown</birth>
+                   <death>unknown</death>
+                   <note type="biographical">Sent correspondence to Lockhart through both mail and radiograms
+                   with his wife Mary.</note>
+                </person>
+               <person xml:id="Papa">
+                  <persName>Papa</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
                <person xml:id="Asman" source="#Passel #personnel #AsmanR">
                   <persName>Adam Asman <addName type="nickname">Sgt., Nib, Nibble</addName></persName>
@@ -492,10 +552,20 @@
                   <note type="biographical">In Charles Passel's personal account of his experiences during the 1939-41 expedition, he refers to Asman as "Sgt."; 
                      presumably Asman was a member of US army. As a member of the U.S. Antarctic Service (USAS) West Base party, during the expedition he served 
                      as the army tank driver. Later Asman Ridge, a ridge on the south side of Arthur glacier, was named for Asman.</note>
+               <person xml:id="Peter">
+                  <persName>Peter</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
                <person xml:id="CharlesFord" source="#eel-19401228a">
                   <persName>Charles Ford</persName>
                   <note type="biographical">Author of the book "Death Sails with Magellan," which Dr. Lockhart reads during the expedition.</note>
+               <person xml:id="Van">
+                  <persName>Van</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
                <person xml:id="BuckBoyd" source="#Passel #personnel #BoydG">
                   <persName>Vernon D. Boyd <addName type="nickname">Buck</addName></persName>
@@ -506,6 +576,11 @@
                   <note type="biographical">Vernon "Buck" Boyd, a member of the 1939-41 U.S. Antarctic Service (USAS) West Base. According to Charles Passel's 
                      personel account of the expedition, Boyd is isted as the "master mechanic." A glacier flowing between Bailey Ridge and Mount Douglass in 
                      the Ford Ranges was later named Boyd Glacier for him.</note>
+               <person xml:id="Vivian">
+                  <persName>Vivian</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
                <person xml:id="BillLeckie" source="#eel-19410427">
                   <persName>William Leckie <addName type="nickname">Bill</addName></persName>
@@ -516,6 +591,11 @@
                   <note type="biographical">In 1941, the Dept. of the Interior authorized a radiogram sent to Dr. Lockhart from William Leckie, in which
                      Leckie asked for Lockhart's opinion of Harris Food Mixture, a form of nourishment
                      that was presumably used in Antarctic expeditions.</note>
+               <person xml:id="Dave">
+                  <persName>Dave</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
                <person xml:id="Klondicke" source="#Passel #personnel #MBerlin">
                   <persName>Leonard M. Berlin</persName>
@@ -526,6 +606,11 @@
                   <note type="biographical"> Leonard "Klondicke" Berlin, a member of the 1939-41 U.S. Antarctic Service (USAS) West Base, 
                      was a cadastral engineer on the expedition according to Charles Passel's personal account. Mount Berlin, formerly Mount Hal Flood, 
                      was named for Berlin.</note>
+               <person xml:id="Henry">
+                  <persName>Henry</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
                
                <person xml:id="Trefts">
@@ -548,6 +633,11 @@
                   <occupation when="1940">Physicist and Dog Doctor</occupation>
                   <residence>130 Main St  Bradley Beach, NJ</residence>
                   <note>Wiener was a member of the west base along side Lockhart. In his lifetime he made three trips to the Antarctic. He is often mentioned in the journal.</note>
+               <person xml:id="Dot">
+                  <persName>Dot</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note>Sent correspondence to Lockhart</note>
                </person>
                <person xml:id="Bailey">
                   <persName>Bailey, Clay w.</persName>
@@ -565,6 +655,11 @@
                   <occupation when="1940">Base Leader</occupation>
                   <residence>1158 W. 5th Street Erie, PA</residence>
                   <note>Dr. Siple was base leader at the west base. He is often referred to as Siple, but is also called Paul in the Lockhart journal.</note>
+               <person xml:id="Elenore">
+                  <persName>Elenore</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
                <person xml:id= "Douglas">
                   <persName>Douglas, Doug</persName>
@@ -584,6 +679,20 @@
                   <occupation>Senior Scientist and Geographer</occupation>
                   <residence>Oxford, Oh</residence>
                   <note>Doctor Wade was the Senior Scientist and a member of the Snow Cruiser Unit.</note>
+               <person xml:id="Jenene">
+                  <persName>Jenene</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note type="biographical">Sent correspondence to Lockhart.</note>
+               </person>
+               
+               <person xml:id="Malcolm">
+                  <persName>Douglass, Malcolm C.</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note type="biographical">Malcolm was a sled dog driver on the Expedition who at one point
+                  expressed his mood by stating that he may just walk off the base, suggesting suicidal
+                  thoughts.</note>
                </person>
             </listPerson>
             
