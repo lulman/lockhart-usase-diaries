@@ -344,7 +344,7 @@
                   <note type="biographical">Passel was a geologist from Indianapolis, Indiana. Lockhart ran metabolism tests on him. In 1995, his Antarctic diaries detailing the expedition, 
                   called <title level="m">Ice</title>, were published.</note>
                </person>
-               <person xml:id="PappyGray" source="#personnel">
+               <person xml:id="PappyGray" source="#personnel #Gray #Pappy #Pappy Gray">
                  <persName>Gray, Orville <addName type="nickname">Pappy</addName></persName> 
                  <occupation when="1940">aviation mechanic and captain</occupation> 
                  <residence when="1940">Folmouth, Virginia</residence> 
@@ -690,7 +690,7 @@
                   <location><geo>42.27715 -71.091539</geo></location>
                </place>
                
-               <place type="city" xml:id="cleveland">
+               <place type="city" xml:id="Cleveland" source="#TGN">
                  <placeName>Cleveland, Ohio</placeName> 
                   <country>United States</country>
                   <region type="state">Ohio</region>
@@ -701,6 +701,14 @@
                        Note that the radiogram sent by Lockhart was to Mrs. W.H. but the ones recieved were from Margaret. Also note that the four radiograms are not necessarily on any order.
                        In these radigrams, she and Lockhart mostly talk about holiday wishes and when his coming return.</desc>
               </place>
+               
+               <place type="state" xml:id="Florida" source="#TGN">
+                 <placeName type="state">Florida</placeName>
+                 <country>United States</country>
+                 <location><geo>28.1000, -81.6000</geo></location>
+                 <desc>Lockhart mentions Florida in talking about the books he has been reading, which have taken place in the south.
+                 He mentions South Moon Under whic takes place in Florida.</desc> 
+               </place>
                
                <place type="base" xml:id="EastBase" source="#James">
                   <placeName>East Base</placeName>
