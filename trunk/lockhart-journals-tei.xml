@@ -465,35 +465,38 @@
                   "Exploratory Flights of Admiral Byrd (1940)." Lockhart distrusts him because he believes
                   Hawthorne is in league with Byrd in exaggerating the dangers of their expedition for publicity purposes.</note>
                </person>
-               <person xml:id="Tony" source="#Passel #personnel">
-                  <persName>Louis Colombo <addName type="nickname">Tony</addName></persName>
+               <person xml:id="Tony" source="#Passel #personnel #MColombo">
+                  <persName>Louis P. Colombo <addName type="nickname">Tony</addName></persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
                   <occupation when="1940">Supply Man, Asisstant Mechanic</occupation>
                   <residence when="1940">Astoria, New York</residence>
-                  <note type="biographical">Louis "Tony" Colombo was a part of the West Base. He is listed as being the "supply man" as 
-                     well as the asisstant mechanic in varying sources. Dr. Lockhart notes that Tony will be his first victim for his metabolism tests.</note>
+                  <note type="biographical">Louis "Tony" Colombo, a member of the biological party of the West Base, is listed as being the "supply man" as 
+                     well as the asisstant mechanic in varying sources. Mount Colombo, a mountain in the Ford Ranges, was later named for him.</note>
                </person>
-               <person xml:id="Asman" source="#Passel #personnel">
+               <person xml:id="Asman" source="#Passel #personnel #AsmanR">
                   <persName>Adam Asman <addName type="nickname">Sgt., Nib, Nibble</addName></persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
                   <occupation when="1940">Tank Driver</occupation>
                   <residence>Westerfield, Massachusetts</residence>
                   <note type="biographical">In Charles Passel's personal account of his experiences during the 1939-41 expedition, he refers to Asman as "Sgt."; 
-                     presumably Asman was a member of US army. During the expedition he served as the army tank driver for the West Base.</note>
+                     presumably Asman was a member of US army. As a member of the U.S. Antarctic Service (USAS) West Base party, during the expedition he served 
+                     as the army tank driver. Later Asman Ridge, a ridge on the south side of Arthur glacier, was named for Asman.</note>
                </person>
                <person xml:id="CharlesFord" source="#eel-19401228a">
                   <persName>Charles Ford</persName>
                   <note type="biographical">Author of the book "Death Sails with Magellan," which Dr. Lockhart reads during the expedition.</note>
                </person>
-               <person xml:id="BuckBoyd" source="#Passel #personnel">
+               <person xml:id="BuckBoyd" source="#Passel #personnel #BoydG">
                   <persName>Vernon D. Boyd <addName type="nickname">Buck</addName></persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
                   <occupation when="1940">Master Mechanic</occupation>
                   <residence>Uniontown, Pennsylvania</residence>
-                  <note type="biographical">Vernon "Buck" Boyd was the master mechanic for the West Base of the 1939-41 USAS expedition.</note>
+                  <note type="biographical">Vernon "Buck" Boyd, a member of the 1939-41 U.S. Antarctic Service (USAS) West Base. According to Charles Passel's 
+                     personel account of the expedition, Boyd is isted as the "master mechanic." A glacier flowing between Bailey Ridge and Mount Douglass in 
+                     the Ford Ranges was later named Boyd Glacier for him.</note>
                </person>
                <person xml:id="BillLeckie" source="#eel-19410427">
                   <persName>William Leckie <addName type="nickname">Bill</addName></persName>
@@ -781,7 +784,7 @@
                      trusts, etc. Lockhart would have been interviewed about his experiences with Harris Food Mixture, but it seems that no such article ended up printed.
                   </desc>
                   </org>
-               <org xml:id="BostonTraveler">
+               <org xml:id="BostonTraveler" source="#LOC">
                   <orgName>Boston Traveler</orgName>
                   <state type="company">
                      <desc>A daily newspaper based in Boston, Massachusetts, published by Boston Herald, Inc. It ran from 1914-1967. 
@@ -869,10 +872,10 @@
                <bibl xml:id="Unz" n="Unz.org">Unz, Robert <title level="s">Collier's</title> <title level="m">Unz.org</title>Web. 25 Feb. 2014</bibl>
                
                <bibl xml:id="LOC" n="Library">The Library of Congress. <title level="m">Library of Congress Authorities</title>. 
-                  6 Jan. 2012. Web. 12 Feb. 2014.</bibl>
-               
+                  6 Jan. 2012. Web. 12 Feb. 2014.</bibl>             
+
                <bibl xml:id="MPerkins" n="Mount"><title level="a">Mount Perkins.</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
-                  Geological Survey. N. d. Web. 12 Feb. 2014. &lt;http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:5:::NO::P5_ANTAR_ID:11624&gt;.</bibl> 
+                  Geological Survey. N. d. Web. 12 Feb. 2014. &lt;http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:5:::NO::P5_ANTAR_ID:11624&gt;.</bibl>
                
                <bibl xml:id="MFerranto" n="Mount"><title level="a">Mount Ferranto.</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States 
                   Geological Survey, n.d. Web. 26 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:4843,Mount%20Ferranto&gt;.</bibl>
@@ -880,7 +883,16 @@
                <bibl xml:id="MFrazier" n="Mount"><title level="a">Mount Frazier.</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States 
                   Geological Survey, n.d. Web. 26 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:5262,Mount%20Frazier&gt;.</bibl>
                
-               <bibl xml:id="Arnold" n="Arnold"><title level="a">Arnold Court.</title> <title level="m">Marquis Biographies Online.</title> Marquis Who's Who LLC., n.d. Web. 22 Feb. 2014. &lt;http://search.marquiswhoswho.com.proxy.lib.ohio-state.edu/profile/100002028842&gt;.</bibl>
+               <bibl xml:id="MColombo" n="Mount"><title level="a">Mount Colombo</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
+                  Geological Survey. N.d. Web 28 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:2978,Mount%20Colombo&gt;.</bibl>
+               
+               <bibl xml:id="AsmanR" n="Ridge"><title level="a">Asman Ridge</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
+                  Geological Survey, N.d. Web. 28 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:653,Asman%20Ridge&gt;</bibl>
+               
+               <bibl xml:id="BoydG" n="Glacier"><title level="a">Boyd Glacier</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
+                  Geological Survey. N.d. We 28 Feb. 2014 &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:1786,Boyd%20Glacier&gt;</bibl>
+               
+               <bibl xml:id="Arnold" n="Arnold"><title level="a">Arnold Court</title>Marquis Biographies Online. <title level="m">Marquis Who's Who LLC.,</title> n.d. Web. 22 Feb. 2014. &lt;http://search.marquiswhoswho.com.proxy.lib.ohio-state.edu/profile/100002028842&gt;.</bibl>
                
                <bibl xml:id="Malone" n="Malone">Malone, Thomas F., ed. <title level="j">Compendium of Meteorology.</title> 
                   Baltimore: Waverly Press, Inc., 1951. <title level="m">Internet Archive.</title> Web. 26 Feb. 2014.</bibl>
@@ -1485,7 +1497,7 @@
                   <lb/>ready to begin metabolism tests in the morning. <persName ref="#Tony">Tony</persName> will
                   <lb/> be the first victim. I also changed water on the socks I
                   <lb/>had been soaking overnight and then sat down to read a bit
-                  <lb/>more in <title type="n">Death Sails with Magellan</title>. <persName ref="#CharlesFord">Charles Ford</persName> the
+                  <lb/>more in <title type="m">Death Sails with Magellan</title>. <persName ref="#CharlesFord">Charles Ford</persName> the
                   <lb/>author certainly had done a marvellous job in this book
                   <lb/>I shall have to get it for my own library when I get home.
                   <lb/>Just as <persName ref="#BuckBoyd">Buck</persName> and I were going out skua gull hunting
@@ -1564,7 +1576,7 @@
                  <lb/>finished up just in time for me to take the noon observation
                  <lb/>and change the sheets. In the afternoon I began jumping
                  <lb/>the gas analysis apparatus and after finishing that <seg ana="metaphor">made an
-                 <lb/>end of</seg> <title type="n">Death Sails with Magellan</title>. No gun practice today
+                 <lb/>end of</seg> <title type="m">Death Sails with Magellan</title>. No gun practice today
                  <lb/>After dinner got ready for the <unclear cert="high">usim</unclear> analysis and completed
                  <lb/>my sock washing. Then came the seal chopping chore. The dogs
                  <lb/>sure make a fuss over the seal meat probably because they
