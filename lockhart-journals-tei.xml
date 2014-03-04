@@ -2511,8 +2511,8 @@
                   <lb/><dateline><date when="1940-12-26" type="sent">Dec 26 1940</date></dateline>
                      <address>
                         <lb/><persName ref="#MrsMahan">Mrs J L Mahan</persName>
-                        <lb/><addrLine>38 Arlington Street</addrLine>
-                        <lb/><addrLine>Hyde Park Mass</addrLine>
+                        <lb/><addrLine>38 <ref type="ArlingtonStreet">Arlington Street</ref></addrLine>
+                        <lb/><addrLine><ref type="HydePark">Hyde Park</ref> Mass</addrLine>
                      </address>
                   </opener>
                   <p>
@@ -2528,7 +2528,7 @@
                <div xml:id="eel-19401231" type="radiogram" subtype="recieved" facs="journal-2-48">
                   <opener>
                      <lb/><dateline><date when="1940-12-28" type="recieved">8 dec 1940</date></dateline>
-                     <lb/>wlcm wilmington del not date
+                     <lb/>wlcm <ref type="Wilmington">wilmington</ref> del not date
                      <lb/><persName>LOCKHARD</persName>
                   </opener>
                   <p>
