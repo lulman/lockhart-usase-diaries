@@ -534,10 +534,6 @@
                   <residence>Oxford, Oh</residence>
                   <note>Doctor Wade was the Senior Scientist and a member of the Snow Cruiser Unit.</note>
                </person>
-               
-             
-               
-             
             </listPerson>
             
             <listPerson type="editors">
@@ -746,6 +742,17 @@
                   <desc>Wilmington is the home of Mary and Carl that Lockhart recieves radiograms from.</desc>
                   <location><geo>39.7458° N, 75.5467° W</geo></location>
                </place>
+               <place type="building" xml:id="BalloonHouse" source="#eel-19401225a #Passel">
+                  <placeName>Balloon House</placeName>
+                  <country>Antartica</country>
+                  <desc>The ballon house was where the weather balloons and radar information was kept.</desc>
+               </place>
+               <place type="building" xml:id="Barracks" source="#Passel">
+                  <placeName>Barracks</placeName>
+                  <country>Antartica</country>
+                  <desc>The barracks are the buildings where the men on the expidition lived at. It was where their beds and personal items could be found.</desc>
+               </place>
+
             </listPlace>
             
             
