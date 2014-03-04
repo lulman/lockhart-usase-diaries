@@ -725,6 +725,27 @@
                   <desc>Home of the Guernsey family.</desc>
                   <location><geo>42.2833 -71.2833</geo></location>
                </place>
+               <place type="unknown" xml:id="FortWiener" source="#eel-19401225a">
+                  <placeName>Fort Wiener</placeName>
+                  <country>Antartica</country>
+                  <desc>More than likely the Barracks or tent of Murray Wiener</desc>
+                  <location cert="unknown"></location>
+                  <note>There is not mention of an actual Fort Wiener beyond this journal that can be found, therefore leading to the belief that this location is actually a nickname for the barracks or a tent of Murry Wiener.</note>
+               </place>
+               <place type="city" xml:id="HydePark" source="#eel-journal2-radiograms #eel-19401226b">
+                  <placeName>Hyde Park</placeName>
+                  <region type="state">Massachusetts</region>
+                  <country>United States</country>
+                  <desc>Home of the Mahan family that Lockhart was close to. They lived more specficall on Arlington Street.</desc>
+                  <location><geo>42.2556° N, 71.1244° W</geo></location>
+               </place>
+               <place type="city" xml:id="Wilmington" source="#eel-19401231">
+                  <placeName>Wilmington, Delaware</placeName>
+                  <region type="state">Delaware</region>
+                  <country>United States</country>
+                  <desc>Wilmington is the home of Mary and Carl that Lockhart recieves radiograms from.</desc>
+                  <location><geo>39.7458° N, 75.5467° W</geo></location>
+               </place>
             </listPlace>
             
             
