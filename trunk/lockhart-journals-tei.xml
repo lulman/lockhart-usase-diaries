@@ -324,6 +324,7 @@
                </person>
                <person xml:id="MrMahan">
                   <persName>Mr. Mahan</persName>
+                  <death when="1940"></death>
                   <note type="biographical">The father of Lockhart's friend Jack. Mr. Mahan passed away during Lockhart's trip. He had suffered from heart trouble.
                      Lockhart is saddened by his death and reminisces about their relationship, remarking that Mr. Mahan would've liked to hear about Antarctica.</note>
                </person>
@@ -1207,7 +1208,7 @@
                      <lb/>off moments the fellows go skiing and walking with the dogs.
                      <lb/>All of the pups which were hardly able to walk when we
                      <lb/>left now have the run of the camp. They certainly are a
-                     <lb/>nice bunch. <persName>Pappy Gray</persName> has those which he harnesses to
+                     <lb/>nice bunch. <persName ref="#PappyGray">Pappy Gray</persName> has those which he harnesses to
                      <lb/>the airplane sled and drives around. In general the men
                      <lb/>here haven't much to do and take their time doing it.
                      <lb/>The men who have regular schedules to meet such as the
@@ -1237,7 +1238,7 @@
                <p>
                   <lb/>All of the radiograms that had come in during my absence 
                   <lb/>were given to me. One of them had not been read over the air
-                  <lb/>It was from <persName>Beatie</persName> and wished me a merry christmas. <seg ana="aetiologia">The main
+                  <lb/>It was from <persName ref="#Beatie">Beatie</persName> and wished me a merry christmas. <seg ana="aetiologia">The main
                   <lb/>item of the message, however, lead me to believe that some of my 
                   <lb/>friends would not have a merry christmas; <persName ref="#JackMahan">Jack Mahan</persName>'s <rs ref="#MrMahan">father</rs>
                   <lb/>died about a week ago.</seg> I was very sorry to hear of it <choice><sic>allthough</sic><corr>although</corr></choice>
@@ -1252,7 +1253,7 @@
              
                   <pb facs="journal-2-10.jpg" n="/9/960c09a7-4b71-4178-af01-76b2587d91dd"/>
             <fw type="pageNum" place="top">6</fw>   
-                  <lb/>plete. <persName>Beatie</persName> did not say whether <persName>Jack</persName> came home for
+                  <lb/>plete. <persName ref="#Beatie">Beatie</persName> did not say whether <persName ref="#JackMahan">Jack</persName> came home for
                   <lb/>the funeral. Since <persName>Ned</persName> and <persName>Bill</persName> have gotten married and
                   <lb/>have moved out on their own only <persName ref="#MrsMahan">Mrs. Mahan</persName> and <persName>Margaret</persName>
                   <lb/>will be living in <placeName ref="#ArlingtonStreet">Arlington Street</placeName>. 
@@ -1265,14 +1266,14 @@
                   <lb/>I slept very well in my old cloth bag. I am lost now
                   <lb/>that I don't have a watch and consequently with the present
                   <lb/>schedule I didn't know whether I should get up or try to go
-                  <lb/>back to sleep. The predicament was relieved by <persName>Arnold</persName> who
+                  <lb/>back to sleep. The predicament was relieved by <persName ref="#Arnold">Arnold</persName> who
                   <lb/>happened to pass by. I got up when he said it was 11 30
                   <lb/>The whole biological party was in the galley preparing breakfast
                   <lb/>egg toast <unclear>fig</unclear> <unclear>prunes</unclear> coffee. Already I have forgotten how
                   <lb/>delicious <add place="above" rend="^">were</add> the oatmeal and cocoa of the trail. Although I
                   <lb/>meant to get going on my cleaning up for metabolism tests
                   <lb/>but I started writing reading and talking so very little was 
-                  <lb/>done. <persName>Buck Boyd</persName> and <persName><unclear>Sweet</unclear></persName> skiing down to the <geogName ref="#BarrierEdge">barrier edge</geogName>
+                  <lb/>done. <persName ref="#BuckBoyd">Buck Boyd</persName> and <persName><unclear>Sweet</unclear></persName> skiing down to the <geogName ref="#BarrierEdge">barrier edge</geogName>
                   <lb/>to see if the blizzard had carried out any of the <geogName>bay</geogName> ice.
                   <lb/>We found that the whole <geogName>bay</geogName> was still iced over and unless
                   <lb/>something drastic happens within the next two weeks we certainly
@@ -1281,7 +1282,7 @@
                </p>
                <p>
                   <lb/>I forgot to mention in yesterday's account that the tractor
-                  <lb/>had gone into a crevase about 10 miles from <placeName>105</placeName> and the 
+                  <lb/>had gone into a crevase about 10 miles from <placeName ref="#depot105">105</placeName> and the 
                   <lb/>situation looked impossible. Since the storm was raging out
                   <lb/>there <seg ana="adynaton">nothing could be done at the moment.</seg> Today at <del rend="strikethrough">the</del>
                   <lb/>the radio schedule time we were happy to learn that the
