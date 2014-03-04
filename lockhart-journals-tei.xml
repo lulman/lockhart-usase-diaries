@@ -231,6 +231,8 @@
                   <name type="aircraft">Condor</name>
                   <desc>Description</desc>
                </item>
+               <item xml:id="Beechcraft"><name type="aircraft">Beechcraft</name><desc></desc></item>
+               <item xml:id="SnowCruiser"></item>
             </list>
 
             <list type="rhetorical-figures">
@@ -1877,7 +1879,7 @@
                  <lb/>parties have been dogged<!-- ged fainter --> unfortunately by soft surface<!-- t and surface fainter --> and heavy 
                  <lb/>loads and are getting low on gas for the tractor and dog food.
                  <lb/>Last night after the schedule the airplane gang decided to take the
-                 <lb/><name type="aircraft">Condor</name> out with supplies and bring back some of the load<unclear>.</unclear><!-- very faint dot looks like a faded period here and is a good word space away from typical end of sentence punctuation -->
+                 <lb/><name type="aircraft" ref="#Condor">Condor</name> out with supplies and bring back some of the load<unclear>.</unclear><!-- very faint dot looks like a faded period here and is a good word space away from typical end of sentence punctuation -->
                  <lb/>The weather was not so hot<!-- was not so hot fainter --> with some overcast coming in from
                  <lb/>the east. They took off about <time>11PM</time> and <unclear cert="high">soon</unclear> reported that <!-- faint dot at the edge of the right margin -->
                  <lb/>the overcast was becoming heavier. Not long after<!-- after a bit fainter --> they said they 
@@ -1891,8 +1893,8 @@
                  <lb/>between the <unclear cert="high">parties</unclear> and after making a rapid check up
                  <lb/>found that #4<!-- # sign written high and not on the line --> cylinder had failed and the piston had 
                  <lb/>gone right through the cowling. Since this was the master 
-                 <lb/>cylinder things looked black. <persName>Pete</persName> and <persName ref="#pappygray">Pappy</persName> warmed
-                 <lb/>up the <name type="aircraft">Beechcraft</name> and took off about <time>2:30 AM</time> <persName ref="#PappyGray">Pappy</persName> had
+                 <lb/>cylinder things looked black. <persName ref="#Pete">Pete</persName> and <persName ref="#pappygray">Pappy</persName> warmed
+                 <lb/>up the <name type="aircraft" ref="#Beechcraft">Beechcraft</name> and took off about <time>2:30 AM</time> <persName ref="#PappyGray">Pappy</persName> had
                  <lb/>all the spare cylinder gear he could find in the shop but
                  
              
@@ -1906,23 +1908,23 @@
                  <lb/>increasing had become so bad that <persName ref="#Pete">Pete</persName> was afraid 
                  <lb/>he had missed the plane when he had flown some time 
                  <lb/>and had just decided to make <del rend="strikethrough"><unclear>tlo</unclear>back</del> tracks back to 
-                 <lb/>the base when the <name>Condor</name> loomed up. He landed <del rend="strikethrough"><unclear>too</unclear></del> and 
-                 <lb/>while <persName ref="#Siple">Paul</persName><!-- Paul is written somewhat faintly --> and <persName>Mac</persName> were getting ready took off again 
+                    <lb/>the base when the <name type="aircraft" ref="#Condor">Condor</name> loomed up. He landed <del rend="strikethrough"><unclear>too</unclear></del> and 
+                 <lb/>while <persName ref="#Siple">Paul</persName><!-- Paul is written somewhat faintly --> and <persName ref="#Mac">Mac</persName> were getting ready took off again 
                  <lb/><add place="above" rend="^">accompanied by <persName>Paul</persName></add> with food and dog food for the dog team parties. They
                  <lb/>could fly no more than 25 feet off the ground - overcast
-                 <lb/><unclear confidence=".4">pinning</unclear> them down but made the trip of <num>10</num> miles successfully <unclear>.</unclear>
+                 <lb/><unclear confidence=".4">pinning</unclear> them down but made the trip of 10 miles successfully <unclear>.</unclear>
                  <lb/>After a few minutes of greetings and <unclear cert="high">fare wells</unclear> they went 
-                 <lb/>back to the <name type="aircraft">Condor</name>. After packing in as much gear a<!-- something written over the "a" -->s the
+                    <lb/>back to the <name type="aircraft" ref="#Condor">Condor</name>. After packing in as much gear a<!-- something written over the "a" -->s the
                  <lb/>little plane would stand the three men turned for home
-                 <lb/>leaving the <name type="aircraft">Condor</name> in what will probably be her last  
+                    <lb/>leaving the <name type="aircraft" ref="#Condor">Condor</name> in what will probably be her last  
                  <lb/>landing place. She tried to do her job but just wasn't 
                  <lb/>good enough. <persName ref="#Pete">Pete</persName> had some difficulty getting down here 
                  <lb/>at the base but landed safely. Now the trail parties 
-                 <lb/>will have to battle their way in and the <name type="airfact">Beechcraft</name> will
-                 <lb/>make some flights out to the <name type="aircraft">Condor</name> to salvage some of the 
+                 <lb/>will have to battle their way in and the <name type="airfact" ref="#Beechcraft">Beechcraft</name> will
+                    <lb/>make some flights out to the <name type="aircraft" ref="#Condor">Condor</name> to salvage some of the 
                  <lb/>valuable instruments such as the drift indicator worth about 
                  <lb/>$1500. We all are happy that the accident didn't happen
-                 <lb/>when the <name type="aircraft">Condor</name> was 500 miles from the base. </p>
+                    <lb/>when the <name type="aircraft" ref="#Condor">Condor</name> was 500 miles from the base. </p>
                  <p>
                  <lb/>My reading has tended to be southern in nature<unclear>.</unclear>
                  <lb/>After finishing <title>Gone with the Wind</title><!-- might be a slightly larger space than usual after Wind --> I started in on <title>South
