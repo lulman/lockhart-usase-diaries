@@ -750,7 +750,7 @@
                <place type="building" xml:id="Barracks" source="#Passel">
                   <placeName>Barracks</placeName>
                   <country>Antartica</country>
-                  <desc>The barracks are the buildings where the men on the expidition lived at. It was where their beds and personal items could be found.</desc>
+                  <desc>The barracks are presumably living quarters. It was where their beds and personal items could be found.</desc>
                </place>
 
             </listPlace>
