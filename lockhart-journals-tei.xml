@@ -437,7 +437,7 @@
                   <death when="1968-01-14"><placeName>Salt Lake City, UT</placeName></death>
                   <occupation>Medical Doctor</occupation>
                   <note type="biographical">Doc Frazier served as the physician for the 1939-1941 expedition. 
-                     In addition to caring for those at West Base, he conudcted research on how exposure to 
+                     In addition to caring for those at West Base, he conducted research on how exposure to 
                      extreme cold for long periods of time affects the human body. The Antarctic peak Mount 
                      Frazier was named after him in 1947 <bibl><ref target="#MFrazier"><title level="a">Mount Frazier</title></ref></bibl>.</note>
                </person>
@@ -452,7 +452,7 @@
                   <persName>Lockhart, Beatrice/Bernice R. <addName type="nickname">Beatie</addName></persName>
                   <birth when="1906" precision="low"></birth>
                   <death when-custom="unknown"></death>
-                  <note type="biographical">Beatrice was Lockhart's older sister. They often sent radiograms back and forth.</note>
+                  <note type="biographical">Beatrice was Lockhart's older sister. They often sent radiograms to each other.</note>
                </person>
                <person xml:id="Hawthorne">
                   <persName>Hawthorne, Roger</persName>
@@ -680,9 +680,9 @@
                <place type="city" xml:id="Mattapan" source="#personnel #eel-19401226 #eel-19410104a">
                  	<placeName>Mattapan</placeName>
                   <country>United States</country>
-                  <region type="state">Massachusetts</region>
                   <region type="county">Suffolk</region>
-                  <desc>A suburb of Boston, MA where Mamma and Beatie lived. Lockhart is also listed as living here, 
+                  <region type="state">Massachusetts</region>
+                  <desc>A suburb of Boston, MA where Mamma and Beatie lived. Dr. Lockhart is also listed as living here, 
                      so this is presumably the Lockhart family's hometown.</desc>
                   <location><geo>42.27715 -71.091539</geo></location>
                </place>
@@ -714,7 +714,7 @@
                   <country>Antarctica</country>
                   <desc>Though in fact a very specific location, the term "south pole" was used colloquially in 
                      radiograms to refer to the entire continent of Antarctica and the bases where the expedition
-                     took place. The 1939-1941 expedition did not reach the South Pole, nor was it intended to do so..</desc>
+                     took place. The 1939-1941 expedition did not reach the South Pole, nor was it intended to do so.</desc>
                   <location><geo>90.0000 0.0000</geo></location>
                </place>
                
@@ -784,8 +784,8 @@
                <org xml:id="USDptoftheInt" source="#eel-19410427 #Richard">
                   <orgName>US Department of the Interior</orgName>
                   <state type="government"></state>
-                  <desc>Per the President Roosevelt's suggestion, the Department of the Interior was one of the 
-                     departments that helped plan and fund this expedition. It was too great a task for any one
+                  <desc>Per President Roosevelt's suggestion, the Department of the Interior was one of the 
+                     departments that helped plan and fund the 1939-1941 expedition. It was too great a task for any one
                      department to finance independently. Sponsors included the DOI, the US Navy, the US State 
                      Department, the US Department of the Treasury, and various private citizens and organizations.
                      In 1941, the DOI authorized a radiogram sent to Dr. Lockhart from William Leckie. In this
@@ -894,7 +894,7 @@
                   <title level="m">NASA Quest.</title> NASA, n.d. Web. 1 Mar. 2014.</bibl>
                
                <bibl xml:id="Richard" n="Richard"><title level="a">Richard E. Byrd: Byrd Antarctic Expedition III: 
-                  The United States Antarctic Service Expedition</title> <title level="m">South-Pole.com.</title> N.p., n.d. Web. 2 Mar. 2014.
+                  The United States Antarctic Service Expedition.</title> <title level="m">South-Pole.com.</title> N.p., n.d. Web. 2 Mar. 2014.
                   &lt;http://www.south-pole.com/p0000109.htm&gt;.</bibl>
                
                <bibl xml:id="National" n="National"><title level="a">National Science Foundation Office of Polar
