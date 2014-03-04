@@ -178,7 +178,8 @@
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:list[@type='dogs']"/>
             <xsl:apply-templates
                select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listPlace"/>
-            <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listOrg"></xsl:apply-templates>
+      <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:list[@type='vehicles']"/>
+      <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listOrg"></xsl:apply-templates>
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listEvent"></xsl:apply-templates>
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:revisionDesc"/>
             <hr/>
@@ -341,6 +342,18 @@
          </p>
       </xsl:for-each>
    </xsl:template>
+   
+   <xsl:template match="tei:list[@type='vehicles']">
+      <h3 id="VehiclesMentioned">List of Expedition Vehicles Mentioned in Ernest Lockhart's Journal</h3>
+      <xsl:for-each select="tei:item">
+         <xsl:sort select="tei:name[1]"/>
+         <p>
+            <strong><xsl:value-of select="tei:name[1]"/></strong>:
+            <xsl:apply-templates select="tei:desc"/>
+         </p>
+      </xsl:for-each>
+   </xsl:template>
+   
    
    <xsl:template match="tei:list[@type='dogs']">
       <h3 id="sled-dogs">List of Sled Dogs Mentioned in Ernest Lockhart's Journal</h3>
