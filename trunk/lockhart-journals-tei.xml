@@ -1091,14 +1091,14 @@
                <p>
                   <lb/>At the exact moment when christmas bells should have
                   <lb/>begun ringing here in the <placeName>Antarctic</placeName> if any christmas bells
-                  <lb/>had been available, <persName ref="#Perk">Perk</persName> <persName>Jack</persName> <persName>Tony</persName> and I were making
+                  <lb/>had been available, <persName ref="#Perk">Perk</persName> <persName>Jack</persName> <persName ref="#Tony">Tony</persName> and I were making
                   <lb/>our last big "Putsch" toward <rs>the base</rs> We had left
                   <lb/><placeName>Fort Wiener</placeName> at 930 PM and at 11 PM when we were
                   <lb/>only 10.5 miles from <rs>the base</rs> decided not to camp until
                   <lb/>morning but push on in. <del rend="strikethrough">Tony and the <unclear>rest</unclear></del> While we were
                   <lb/>resting we drank a toast to ourselves — as a party — and
                   <lb/>to a merry christmas, finishing up the half a pint which
-                  <lb/>I had <seg ana="metaphor">nursed</seg> along so carefully for two and a half months. <persName>Tony</persName>
+                  <lb/>I had <seg ana="metaphor">nursed</seg> along so carefully for two and a half months. <persName ref="#Tony">Tony</persName>
                   <lb/>and I started out again and again and for a while had some
                   <lb/>difficulty staying ahead of the dogs. They were running now
                   <lb/>just as well as they did when we first hit the good
@@ -1108,7 +1108,7 @@
                   <lb/>that we should never have made the base when we did
                   <lb/>if we hadn't combinded our teams. At one o'clock we
                   <lb/>could just see the base and the airplane looming on the
-                  <lb/>horizon. <persName>Tony</persName> had been seeing things for several hours
+                  <lb/>horizon. <persName ref="#Tony">Tony</persName> had been seeing things for several hours
                   <lb/>but always he had to say <said aloud= "true" direct= "true">I guess I was wrong</said>
                   <lb/>when a large trail flag <del rend= "strikethrough"><unclear cert="high">br</unclear></del> came into view. All sorts
                   <lb/>of thoughts began clicking through our minds as the base
@@ -1116,7 +1116,7 @@
                <pb facs= "journal-2-06.jpg"/>
                   <fw type="pageNum" place="top">2</fw>
            
-              <lb/>became larger and larger. <persName>Tony</persName><del rend= "strikethrough"><unclear cert="high">br</unclear></del>, I know, was especially
+              <lb/>became larger and larger. <persName ref="#Tony">Tony</persName><del rend= "strikethrough"><unclear cert="high">br</unclear></del>, I know, was especially
               <lb/>anxious to get into the barracks to tell his stories. The
               <lb/>rest of us were wondering what the present set up was like-
               <lb/>we had heard so many reports while we were out on the trail
@@ -1126,13 +1126,13 @@
               <lb/>somewhat rigid diet but now that we were approaching some-
               <lb/>thing of quite different. I said that I probable wouldn't eat very much
               <lb/><persName ref="#Perk">Perk</persName> said he would eat only a ham sandwich and a cup of coffee.
-              <lb/><persName>Tony</persName> and <persName>Jack</persName> said they were going to fill up. We all had our
+              <lb/><persName ref="#Tony">Tony</persName> and <persName>Jack</persName> said they were going to fill up. We all had our
               <lb/>doubts whether <persName ref="#Gutenko">Gutenko</persName> would have anything for us.
               </p>
               <p>
-                 <lb/>When we had come about 2 miles from the base,<persName>Tony</persName>
+                 <lb/>When we had come about 2 miles from the base,<persName ref="#Tony">Tony</persName>
                  <lb/>and I stopped <persName>Jack</persName> who was leading and suggested that we
-                 <lb/>let <persName ref="#Perk">Perk</persName> take his team in first. <persName>Tony</persName> skied ahead breaking
+                 <lb/>let <persName ref="#Perk">Perk</persName> take his team in first. <persName ref="#Tony">Tony</persName> skied ahead breaking
                  <lb/>trail with <persName ref="#Perk">Perk</persName> following a short distance behind I skied
                  <lb/>ahead of old <name type="dog" ref="#Spot">Spot</name>. <persName>Paul</persName> came out to meet us and gave
                  <lb/>us a good hand clapp as we came up to him. There was
@@ -1151,7 +1151,7 @@
                
                   <lb/>the barracks. We took our clothes off and weighed in.
                   <lb/><persName ref="#Perk">Perk</persName> weighed 193 before and 173 after (in same clothes) <persName>Jack</persName>
-                  <lb/>weighed 159 before and about 158 after. <persName>Tony</persName> weighed 189
+                  <lb/>weighed 159 before and about 158 after. <persName ref="#Tony">Tony</persName> weighed 189
                   <lb/>before and 163 after I weighed 162 before and 150 after.
                   <lb/>Those of us who lost weight lost only the fat that we had
                   <lb/>put on during the winter night. <persName ref="#Gutenko">Gutenko</persName> really put out a
@@ -1162,7 +1162,7 @@
                   <lb/>than 16 hours which was very good time considering the stops
                   <lb/>we made, this surface and the condition we and the dogs
                   <lb/>were in. Then we sat around and talked for several more
-                  <lb/>hours. <persName>Jack</persName> and I went out to sleep in the tent but <persName>Tony</persName>
+                  <lb/>hours. <persName>Jack</persName> and I went out to sleep in the tent but <persName ref="#Tony">Tony</persName>
                   <lb/>and <persName ref="#Perk">Perk</persName> stayed inside. It was almost six oclock before
                   <lb/>we got out there <persName>Arnold</persName> came out with us and fed us with
                   <lb/>some of the dish and there was a lot of it.
@@ -1399,7 +1399,7 @@
               </p>
           
               <p>
-                 <lb/>I had asked both <persName><unclear cert="medium">Peuk</unclear></persName> and <persName>Tony</persName> to awaken me if either
+                 <lb/>I had asked both <persName><unclear cert="medium">Peuk</unclear></persName> and <persName ref="#Tony">Tony</persName> to awaken me if either
                  <lb/>of them got up before 10 AM. I did this because already
                  <lb/>I am begninng to tire of the present all-night schedule, and want
                  <lb/>to do my work in the day time. However neither of them were
@@ -1409,7 +1409,7 @@
                  <lb/>I got some instruction on changing sheets on the triple register
                  <lb/>so that again I shall be assistant <choice><sic>meterologist</sic><corr>meteorologist</corr></choice>. After
                  <lb/>this instruction I went into the galley to prepare my breakfast
-                 <lb/>Tony was already there and told me there were some frozen
+                 <lb/><persName ref="#Tony">Tony</persName> was already there and told me there were some frozen
                  <lb/><choice><sic>straw berries</sic><corr>strawberries</corr></choice> outside the door. I had some of them with corn flakes
                  <lb/>and cream. They sure were good. While I was eating them
                  
@@ -1421,20 +1421,20 @@
                </p>
                <p>
                   <lb/>In the laboratory I learned up a little more and am now
-                  <lb/>ready to begin metabolism tests in the morning. <persName>Tony</persName> will
+                  <lb/>ready to begin metabolism tests in the morning. <persName ref="#Tony">Tony</persName> will
                   <lb/> be the first victim. I also changed water on the socks I
                   <lb/>had been soaking overnight and then sat down to read a bit
-                  <lb/>more in <title type="book">Death Sails with Magellan</title>. <persName>Charles Ford</persName> the
+                  <lb/>more in <title type="n">Death Sails with Magellan</title>. <persName ref="#CharlesFord">Charles Ford</persName> the
                   <lb/>author certainly had done a marvellous job in this book
                   <lb/>I shall have to get it for my own library when I get home.
-                  <lb/>Just as <persName>Buck</persName> and I were going out skua gull hunting
+                  <lb/>Just as <persName ref="#BuckBoyd">Buck</persName> and I were going out skua gull hunting
                   <lb/><persName>Paul</persName> stopped me to show some of the airplane pictures.
-                  <lb/><geogName type="mountain">Hal Flood</geogName> is certaintly a large and beautiful mountain
+                  <lb/><geogName type="mountain" ref="#HalFlood">Hal Flood</geogName> is certaintly a large and beautiful mountain
                   <lb/>He also said that he was going to see if it wouldn't 
                   <lb/>be possible to name <del rend="strikethrough">one of the</del><add place="above">a</add> mountain in the region
-                  <lb/>beyond <geogName type="mountain">Hal Flood</geogName> after each one of the members of the
+                  <lb/>beyond <geogName type="mountain" ref="#HalFlood">Hal Flood</geogName> after each one of the members of the
                   <lb/>Expedition. I think that would be quite something and
-                  <lb/>hope the idea will be approved. <persName>Buck</persName> and I did not
+                  <lb/>hope the idea will be approved. <persName ref="#BuckBoyd">Buck</persName> and I did not
                   <lb/>get any skua gulls&#x2014;he is not <seg ana="metonymy">the shot</seg> he professes to be.
                   <lb/> In the future before the ships come in&#x2014;by the way, it is said
                   <lb/>that the <name type="ship">Bear</name> has already left <placeName>New Zealand</placeName> for the <placeName>Bay</placeName>&#x2014;
@@ -1477,7 +1477,7 @@
             </p>
             <p>
                <lb/>After dinner I got a few things ready for the morning metabolism
-               <lb/>test on <persName>Tony</persName> and then spent some time bringing in coal and taking
+               <lb/>test on <persName ref="#Tony">Tony</persName> and then spent some time bringing in coal and taking
                <lb/>out the garbage, chores assigned to me or my share in today's
                <lb/>cleaning up. The rest of the evening was spent in reading. While
                <lb/>I was out feeding the dogs, <persName>Pete</persName> and <persName>Bailey</persName> killed a few skua gulls
@@ -1498,19 +1498,19 @@
               <p>
                  <lb/>I had a very difficult time getting up this morning. Although
                  <lb/>I wanted to get up at <time>10</time> it was close to <time>11</time> before I descended
-                 <lb/>from my heaven. I dressed and then woke <persName>Tony</persName>. The metabolism
+                 <lb/>from my heaven. I dressed and then woke <persName ref="#Tony">Tony</persName>. The metabolism
                  <lb/>test did not go off very well and we shall repeat it. We
                  <lb/>finished up just in time for me to take the noon observation
                  <lb/>and change the sheets. In the afternoon I began jumping
                  <lb/>the gas analysis apparatus and after finishing that <seg ana="metaphor">made an
-                 <lb/>end of</seg> <title type="book">Death Sails with Magellan</title>. No gun practice today
+                 <lb/>end of</seg> <title type="n">Death Sails with Magellan</title>. No gun practice today
                  <lb/>After dinner got ready for the <unclear cert="high">usim</unclear> analysis and completed
                  <lb/>my sock washing. Then came the seal chopping chore. The dogs
                  <lb/>sure make a fuss over the seal meat probably because they
                  <lb/>are getting plenty of it. <unclear cert="low">Iut</unclear> brought in the first Adelie
                  <lb/>penguin and <persName>Pete</persName> has been spending most of the evening
                  <lb/>drawing blood and skinning it. There should be more of them
-                 <lb/>in one the ice within the next few days. <persName>Asman</persName> and <persName>Pete</persName> took
+                 <lb/>in one the ice within the next few days. <persName ref="#Asman">Asman</persName> and <persName>Pete</persName> took
                  <lb/>the tank out for <seg ana="metaphor">a spin</seg> and were not able to get it up out of
                  <lb/>the <geogFeat>bight</geogFeat> so they left it there. They gave it another try tonight
                  <lb/>but it was <seg ana="metaphor">no soap</seg>. They will have to wait a while longer until
@@ -1601,7 +1601,7 @@
                <lb/>the war days themselves.
             </p>
             <p>
-               <lb/>Yesterday I worked on <persName>Tony</persName> again and today should have
+               <lb/>Yesterday I worked on <persName ref="#Tony">Tony</persName> again and today should have
                <lb/>worked <del>of</del> on <persName ref="#Richardson">Jack Richardson</persName> but he was up even later
                <lb/>than I so I didn't bother to wake him at ten this morning.
             </p>
@@ -1637,11 +1637,11 @@
                   <lb/>at all. The tractor goes into the snow up to its belly even
                   <lb/>with no load. In order not to l<gap reason="overwritten"/>ose the valuable loads which
                   <lb/>have been made even heavier by the addition of the outpost's
-                  <lb/>stuff it has been decided to send <persName>Tony</persName> and <persName ref="#Richardson">Jack</persName> out with
+                  <lb/>stuff it has been decided to send <persName ref="#Tony">Tony</persName> and <persName ref="#Richardson">Jack</persName> out with
                   <lb/>18 dogs and two sleds. <persName ref="#Ferranto">Ferranto</persName> is hauling several dog sleds
                   <lb/>which are extra so that the single <del rend="strikethrough">do</del> sled dog teams can
                   <lb/>once more be <del rend="strikethrough">brought ba</del> made double sled dog teams. At
-                  <lb/>least <persName>Tony</persName> and <persName ref="#Richardson">Jack</persName> will be able to carry home all the gear
+                  <lb/>least <persName ref="#Tony">Tony</persName> and <persName ref="#Richardson">Jack</persName> will be able to carry home all the gear
                   <lb/>our party left with the tractor and probably some besides. We
                   <lb/>sure hope that the scientific specimens can be brought back.
                </p>
@@ -1843,7 +1843,7 @@
                   <lb/><unclear cert="medium"><persName ref="#mamma">mamma</persName></unclear> but couldn't even get the gist of the letter.
                   </p>
                   <p>
-                  <lb/><unclear cert="high"><persName>Asman</persName></unclear> has been taking the <unclear cert="high">tank</unclear> out every night now that
+                  <lb/><unclear cert="high"><persName ref="#Asman">Asman</persName></unclear> has been taking the <unclear cert="high">tank</unclear> out every night now that
                   <lb/>the temperature has fallen somewhat. He is trying to make a 
                   <lb/>hard path from here to the old cache so that he can get
                   <lb/>some of the boxes down there. Tonight he got stuck and had to 
@@ -1869,11 +1869,11 @@
                 <lb/>only occasional variation will relieve the monotony which is 
                 <lb/>heightened because the <unclear cert="high">hour</unclear> of departure is indeed not far off. 
                 <lb/>The variety of today's <unclear reason="script" cert="high">routine</unclear> was the trip I took with the dogs
-                <lb/>down to <placeName>the Bay</placeName>. After dinner I got <unclear cert="high"><persName>Tony</persName></unclear> to help me haul
+                <lb/>down to <placeName>the Bay</placeName>. After dinner I got <unclear cert="high"><persName ref="#Tony">Tony</persName></unclear> to help me haul
                 <lb/>a seal out of the tunnel <del>and</del> in order to have something to feed
                 <lb/>the dogs after we got back. While we were waiting for
-                <lb/><persName>Court</persName> who was to accompany us Tony and I dug out the 
-                <lb/>sled and harnessed the dogs. Tony then skied off in the 
+                <lb/><persName>Court</persName> who was to accompany us <persName ref="#Tony">Tony</persName>and I dug out the 
+                <lb/>sled and harnessed the dogs. <persName ref="#Tony">Tony</persName>then skied off in the 
                 <lb/>direction of the tank which had stopped about <num type="fraction">1/2</num> mile from
                 <lb/>camp. I had put on <unclear cert="high">my</unclear> skiis <!--he writes the workd 'skis' strangely here. There is an extra dot which seems like it goes with an extra letter i --> and was about to <unclear cert="medium">reach</unclear> the
                 <lb/><unclear cert="unknown">ge</unclear> <!--I honestly have no clue what these couple of letters are, excpt that they are not part of the word before them--> pole when the team started with <persName ref="#Court">Court</persName> aboard. <!--He wrote a word that startes with a capital C and ends with a lowwercase t, but I can't tell what it is. In context, its ptobably not a person or a dog; the dogs were pulling the sled with it and Lockhart told them to stop. If it was a person, then the person would have told the dogs to do that. --> I
@@ -1885,7 +1885,7 @@
                 <lb/>stil very anxious to get going but I made them get down
                 <lb/>and wait for my command to go. <name type="dog">Spot</name> answered the
                 <lb/>commands very well and we headed toward the tank which 
-                <lb/>had started back toward the camp. <persName>Tony</persName> thought he would 
+                <lb/>had started back toward the camp. <persName ref="#Tony">Tony</persName> thought he would 
                 <lb/>ski ahead and make a trail so that the team would follow
                 <lb/>but the team went right by him. I stopped and he joined 
                 <lb/><persName ref="#Court">Court</persName> in the shed giving me a load of about <num type="cardinal">300</num> <measure>lbs</measure>. The dogs
@@ -2050,7 +2050,7 @@
                  <lb/>bring it back to camp. Twelve seal have been killed so far
                  <lb/>and about 6 have been brought back. Today while
                  <lb/>I was down onn the bay ice having parked the team up
-                 <lb/>above on the barrier my companions, <persName>Tony</persName> <persName><addName type="nickname">Doc</addName></persName> and <persName>Joe
+                 <lb/>above on the barrier my companions, <persName ref="#Tony">Tony</persName> <persName><addName type="nickname">Doc</addName></persName> and <persName>Joe
                  <lb/>Wells</persName>, and I were disturbed in our picture taking and
                  <pb facs="journal-2-32" n="/1/10894952-c9d4-42f8-bd1b-9ef6df38aca7"/>
                  <fw type= "pageNum" place="top">28</fw>
@@ -2063,7 +2063,7 @@
                  <lb/>in such poor shape although alive that if <persName>Joe</persName> had
                  <lb/>had any shells left in the 45 I should have put him
                  <lb/>out of his misery right then. I tied him on the sled and
-                 <lb/>had <persName>Tony</persName>hold him while we made the trip back to camp.
+                 <lb/>had <persName ref="#Tony">Tony</persName>hold him while we made the trip back to camp.
                  <lb/>After arrival at camp I went in to get a revolver and shells
                  <lb/>and told <persName><unclear>Siple</unclear></persName> that I was going to shoot the dog. He
                  <lb/>wanted me to get <persName>Dick's</persName> opinion on the dog's condition. When
@@ -2172,7 +2172,7 @@
             </p>
             <p>
                <lb/>Some of the boys from the west came up to the base
-               <lb/>and <persName>Tony</persName> had I thought had a great time showing <add place="above" rend="^">them</add> around
+               <lb/>and <persName ref="#Tony">Tony</persName> had I thought had a great time showing <add place="above" rend="^">them</add> around
                <lb/>and telling them all his experiences.
                <lb/>With the coming of the <name type="ship">Bear</name> the Exploration really is on the
                <lb/>wane. The <name type="ship">Star</name> will be in after a couple of weeks and
@@ -2187,7 +2187,7 @@
                <lb/>house. During <del rend="strikethrough"><unclear cert="unknown"></unclear></del> the past few days everyone has been
                <lb/><del rend="strikethrough"><unclear cert="unknown"></unclear></del>irritation everyone else cause greatly little work has
                <lb/>been done. Movies have been shown to the sailors every 
-               <lb/>night and after the shows Buck takes them down to 
+               <lb/>night and after the shows <persName ref="#BuckBoyd">Buck</persName> takes them down to 
                <lb/>the <unclear cert="low">barrier</unclear> on the <rs>West Base</rs> <unclear cert="low">limited</unclear> - the tractor with
                <lb/>the dog sled hitched on behind. I have given several
                <lb/>dog sled rides.
@@ -2219,7 +2219,7 @@
                   <lb/>way home will be to get him back safely.
                </p>
                <p>
-                  <lb/><persName>Tony</persName> is driving my team while I am busy and he
+                  <lb/><persName ref="#Tony">Tony</persName> is driving my team while I am busy and he
                   <lb/>doesn't seem to be doing so well. He isn't as strict with
                   <lb/>the dogs as I am and they, intelligent animals as they 
                   <lb/>are, take advantage of his good nature.
@@ -2335,7 +2335,7 @@
                   <lb/>we shall be leaving and glad to do so.   
                </p>
                <p>
-                  <lb/><persName>Tony</persName> had been doing a good job with the dogs even
+                  <lb/><persName ref="#Tony">Tony</persName> had been doing a good job with the dogs even
                   <lb/>if he does get lost now and then and the team
             <!-- Misha Exit -->
            <pb facs="jouranl-2-40.jpg" n="/c/c459ce06-004e-4068-b349-a293327f6170"/>
@@ -2353,7 +2353,7 @@
                <lb/>some pictures of the landing. <persName>Wiener</persName> had carried out my
                <lb/>instructions and I removed the flasks. They went up only to
                <lb/><measure>17000 ft</measure> because the rubber tubing caused the wings to
-               <lb/>vibrate. After dinner I got <persName>Buck</persName> to light his oxygen torch
+               <lb/>vibrate. After dinner I got <persName ref="#BuckBoyd">Buck</persName> to light his oxygen torch
                <lb/>so that I could seal off the flasks. It was unsucessful
                <lb/>because the pressure inside the flasks was so great that
                <lb/>holes <subst><del rend="strikethrough">blew out</del><add place="above">were made in</add></subst> in the tubing where it was heated. I have
@@ -2367,7 +2367,7 @@
             </p>
             <p>
                <lb/>I didn't do much else but sit around and talk to
-               <lb/><persName>Klimdike</persName> about <placeName>Alaska</placeName>. I went to bed after my
+               <lb/><persName ref="#Klondicke">Klimdike</persName> about <placeName>Alaska</placeName>. I went to bed after my
                <lb/>midnight metereological observation.
             </p>
             
@@ -2389,7 +2389,7 @@
                   <lb/>Most of the day was spent doing gas analyses.
                </p>
                <p>
-                  <lb/><persName>Tony</persName> presented me not only with a special <name type="ship">Bear</name>
+                  <lb/><persName ref="#Tony">Tony</persName> presented me not only with a special <name type="ship">Bear</name>
                   <lb/>cachet but also with cancelled stamped envelope<subst><del rend="overwritten">d</del><add place="inline">s</add></subst>
                   <lb/>bearing the cancellation st<subst><del rend="overwritten">p</del><add place="inline">a</add></subst>amps of the various places
                   <lb/>visited on her trip down here. They make a very valuable
@@ -2514,7 +2514,7 @@
                   <p>
                      <lb/>had a letter from trefts x hope you had a talk with him <choice><sic>frirday</sic><corr>friday</corr></choice>
                      <lb/>night as he expected to x he sent me two nice enlargements of snaps
-                     <lb/>you took in <placeName><choice><sic>helsiki</sic><corr>helsinki</corr></choice></placeName> x missed <persName>carl</persName> this <choice><sic>xmas</sic><corr>christmas</corr></choice> had <choice><sic>peteinstead</sic><corr>pete instead</corr></choice> x i
+                     <lb/>you took in <placeName ref="#helsinki"><choice><sic>helsiki</sic><corr>helsinki</corr></choice></placeName> x missed <persName>carl</persName> this <choice><sic>xmas</sic><corr>christmas</corr></choice> had <choice><sic>peteinstead</sic><corr>pete instead</corr></choice> x i
                      <lb/>hope my penguin is coming along x remember i'm going to have him
                      <lb/>mounted so if it will be easier to just <choice><sic>dring</sic><corr>bring</corr></choice> his hide ok by me
                      <lb/>happy new year
@@ -2524,7 +2524,7 @@
                <div xml:id="eel-19410101" type="radiogram" subtype="received" facs="journal-2-54" n="/c/cdaed0da-eaf8-4e74-accc-daa62ff14cb3">
                   <opener>
                      <lb/><dateline><date when="1941-01-01" type="received">JAN 1 1941</date></dateline>
-                     <lb/>NR 12 <name>WLMC</name> <placeName>WELLESLEY MASS</placeName> <date when="1940-12-29" type="sent">DEC 29</date>
+                     <lb/>NR 12 <name>WLMC</name> <placeName ref="#Wellesley">WELLESLEY MASS</placeName> <date when="1940-12-29" type="sent">DEC 29</date>
                      <lb/><salute><persName>EARL LOCKHART</persName></salute>
                   </opener>
                   <p>
@@ -2533,7 +2533,7 @@
                </div>
                <div xml:id="eel-19400102a" type="radiogram" facs="journal-2-55" n="/D/d008d323-2484-4321-bf8a-a17ef90e075a">
                   <opener>
-                     <lb/>3 <name type="call-sign">wlmc</name> <placeName>wellesley mass</placeName> <date when="1941-12-28" type="received">dec 28</date><dateline><date when="1941-01-02" type="transmitted">Jan 2 1941</date></dateline>
+                     <lb/>3 <name type="call-sign">wlmc</name> <placeName ref="#Wellesley">wellesley mass</placeName> <date when="1941-12-28" type="received">dec 28</date><dateline><date when="1941-01-02" type="transmitted">Jan 2 1941</date></dateline>
                      <lb/><salute><persName>LOCKHART</persName></salute>
                   </opener>
                   <p>
@@ -2791,7 +2791,7 @@
                  <p>
                     <lb/>MSG DR E E LOCKHART X COULD YOU ARRANGE WITH THE POWER THAT BE
                     <lb/>AND SEE IF YOU CAN GET ONE OF SHELIA PUPS FOR ME X LET ME KNOW
-                    <lb/>MANY THANKS REGARDS TO ALL <persName>TONY COLUMBO</persName>
+                    <lb/>MANY THANKS REGARDS TO ALL <persName ref="#Tony">TONY COLUMBO</persName>
                     <lb/>
                     <!-- See if this bottom should be closer but without LB -->
                  </p> 
@@ -2806,16 +2806,16 @@
                   </opener>
                   <p>
                      <lb/><persName>DR ERNEST LOCKHART</persName>
-                     <lb/><persName>BILL LECKIE</persName> WANTS TO KNOW WHAS YOUR EXPERIECE WITH HARRIS FOOD MIXTURE
+                     <lb/><persName ref="#BillLeckie">BILL LECKIE</persName> WANTS TO KNOW WHAS YOUR EXPERIECE WITH HARRIS FOOD MIXTURE
                      <lb/>SATISFACTORY OR UNSATISFACTORY STOP DID MEN FIND IT PALATABLE OR UNPALATABLE
-                     <lb/>STOP <persName>BILL LECKIE</persName> WANTS TO KNOW WILL <persName>DR LOCKHART</persName> INTERVIEW REPRESENTATIVES
+                     <lb/>STOP <persName ref="#BillLeckie">BILL LECKIE</persName> WANTS TO KNOW WILL <persName>DR LOCKHART</persName> INTERVIEW REPRESENTATIVES
                      <lb/><orgName ref="#Colliers">COLLIER WEEKLY</orgName> AT <placeName>BALBOA</placeName> IN CONNECTIONWITH ARTICLE ON HARRIS FOOD MIXTURE
                      <lb/>PROJECTED FOR BRITISH EMERGENCY FEEDING STOP PLEASE HAVE CABLE COLLECT
                      <lb/>TO ME 122 EAST FORTY SECOND STREET NEWYORKCITY STOP <persName>J E MACDONALD</persName> U S DEPART
                      <lb/>MENT OF INTERIOR AUTHORIZED THIS INQUIRY
                   </p>
                   
-                  <closer> BY <persName>WILLIAM LECKIE</persName></closer>
+                  <closer> BY <persName ref="#BillLeckie">WILLIAM LECKIE</persName></closer>
                </div>
                <!-- A div for a radiogram from a later date would follow. -->
             </body> <!-- Close body of text #2, telegrams. -->
