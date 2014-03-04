@@ -1546,7 +1546,7 @@
                   <lb/>hope the idea will be approved. <persName ref="#BuckBoyd">Buck</persName> and I did not
                   <lb/>get any skua gulls&#x2014;he is not <seg ana="metonymy">the shot</seg> he professes to be.
                   <lb/> In the future before the ships come in&#x2014;by the way, it is said
-                  <lb/>that the <name type="ship">Bear</name> has already left <placeName>New Zealand</placeName> for the <placeName>Bay</placeName>&#x2014;
+                  <lb/>that the <name type="ship">Bear</name> has already left <placeName ref="#NewZealand">New Zealand</placeName> for the <placeName>Bay</placeName>&#x2014;
                   <lb/>I shall do a little target practicing every day. <persName>Pete</persName> has
                   <lb/>just come in saying that there were more skua gulls out 
                   <lb/> there and brought in one as evidence.
@@ -2032,7 +2032,7 @@
                  <lb/>little. After I was in bed I also read. My bedtime reading 
                <lb/>consists of <title type="no-fictionalbook">Homo versus Mr <persName>Darwin</persName></title> a discussion of <persName>Darwin</persName>
                  <lb/>then most recent book <title type="non-fictionalbook">The Descent of Man</title>. I bought the former
-                 <lb/>in <placeName>New Zealand</placeName> to accompany the latter which I have at home
+                 <lb/>in <placeName ref="#NewZealand">New Zealand</placeName> to accompany the latter which I have at home
             </p>
             <p>
                  <lb/>It was <time>three AM</time> before I turned out the light. I was
@@ -2349,7 +2349,7 @@
                <p>
                   <lb/><emph style="underline">For</emph> breakfast we had some fried eggs sunny side
                   <lb/>up. <name type="ship">The Bear</name> exchanged several crates purchased <emph style="underline">in</emph>
-                  <lb/><placeName>New Zealand</placeName> for some of our while frozen eggs. They
+                  <lb/><placeName ref="#NewZealand">New Zealand</placeName> for some of our while frozen eggs. They
                   <lb/>sure were good. I had these with some Virgina ham.
                </p>
                <p>
