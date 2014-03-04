@@ -792,6 +792,12 @@
                      radiogram, Leckie asked for Lockhart's opinion of Harris Food Mixture, a form of nourishment
                      that was presumably easily transported and was therefore used in Antarctic expeditions.</desc>
                </org>
+               <org xml:id="ThePolarTimes">
+                  <orgName>The Polar Times</orgName>
+                  <state type="company"></state>
+                  <desc>The Polar Times was produced as an inhouse magazine during discovery expedition to Antarctica.
+                     The original purpose is to maintain morale and document the lives and work of the people on the expidition.</desc>
+               </org>
             </listOrg>
             
 <!--            
