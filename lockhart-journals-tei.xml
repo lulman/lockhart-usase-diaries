@@ -1891,8 +1891,8 @@
                  <lb/>between the <unclear cert="high">parties</unclear> and after making a rapid check up
                  <lb/>found that #4<!-- # sign written high and not on the line --> cylinder had failed and the piston had 
                  <lb/>gone right through the cowling. Since this was the master 
-                 <lb/>cylinder things looked black. <persName>Pete</persName> and <persName>Pappy</persName> warmed
-                 <lb/>up the <name type="aircraft">Beechcraft</name> and took off about <time>2:30 AM</time> <persName>Pappy</persName> had
+                 <lb/>cylinder things looked black. <persName>Pete</persName> and <persName ref="#pappygray">Pappy</persName> warmed
+                 <lb/>up the <name type="aircraft">Beechcraft</name> and took off about <time>2:30 AM</time> <persName ref="#PappyGray">Pappy</persName> had
                  <lb/>all the spare cylinder gear he could find in the shop but
                  
              
@@ -1901,13 +1901,13 @@
                  
                  <lb/>to no avail what was needed was a complete new engine.
                  <lb/><persName ref="#Pete">Pete</persName> brought back <persName ref="#PappyGray">Pappy</persName> and <persName ref="#Giles">Giles</persName> and then went out
-                 <lb/>for <persName ref="#">Paul</persName> and <persName ref="#Mac">Mac</persName>. <persName>Pete</persName> had to go all the way to the 
+                 <lb/>for <persName ref="#Siple">Paul</persName> and <persName ref="#Mac">Mac</persName>. <persName ref="#Pete">Pete</persName> had to go all the way to the 
                  <lb/>tractor and then to the plane. The overcast that had been
                  <lb/>increasing had become so bad that <persName ref="#Pete">Pete</persName> was afraid 
                  <lb/>he had missed the plane when he had flown some time 
                  <lb/>and had just decided to make <del rend="strikethrough"><unclear>tlo</unclear>back</del> tracks back to 
                  <lb/>the base when the <name>Condor</name> loomed up. He landed <del rend="strikethrough"><unclear>too</unclear></del> and 
-                 <lb/>while <persName>Paul</persName><!-- Paul is written somewhat faintly --> and <persName>Mac</persName> were getting ready took off again 
+                 <lb/>while <persName ref="#Siple">Paul</persName><!-- Paul is written somewhat faintly --> and <persName>Mac</persName> were getting ready took off again 
                  <lb/><add place="above" rend="^">accompanied by <persName>Paul</persName></add> with food and dog food for the dog team parties. They
                  <lb/>could fly no more than 25 feet off the ground - overcast
                  <lb/><unclear confidence=".4">pinning</unclear> them down but made the trip of <num>10</num> miles successfully <unclear>.</unclear>
