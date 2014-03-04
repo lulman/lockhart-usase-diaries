@@ -471,7 +471,7 @@
                   <occupation when="1940">Supply Man, Asisstant Mechanic</occupation>
                   <residence when="1940">Astoria, New York</residence>
                   <note type="biographical">Louis "Tony" Colombo was a part of the West Base. He is listed as being the "supply man" as 
-                     well as the asisstant mechanic in varying sources.</note>
+                     well as the asisstant mechanic in varying sources. Dr. Lockhart notes that Tony will be his first victim for his metabolism tests.</note>
                </person>
                <person xml:id="Asman" source="#Passel #personnel">
                   <persName>Adam Asman <addName type="nickname">Sgt., Nib, Nibble</addName></persName>
@@ -479,11 +479,12 @@
                   <death when-custom="unknown"></death>
                   <occupation when="1940">Tank Driver</occupation>
                   <residence>Westerfield, Massachusetts</residence>
-                  <note type="biographical">Adam Asman was an army tank driver for the West Base.</note>
+                  <note type="biographical">In Charles Passel's personal account of his experiences during the 1939-41 expedition, he refers to Asman as "Sgt."; 
+                     presumably Asman was a member of US army. During the expedition he served as the army tank driver for the West Base.</note>
                </person>
                <person xml:id="CharlesFord" source="#eel-19401228a">
                   <persName>Charles Ford</persName>
-                  <note type="biographical">Author of the book "Death Sails with Magellan," which Lockhart reads during the expedition.</note>
+                  <note type="biographical">Author of the book "Death Sails with Magellan," which Dr. Lockhart reads during the expedition.</note>
                </person>
                <person xml:id="BuckBoyd" source="#Passel #personnel">
                   <persName>Vernon D. Boyd <addName type="nickname">Buck</addName></persName>
@@ -499,8 +500,9 @@
                   <death when-custom="unknown"></death>
                   <occupation when="1941">Unknown</occupation>
                   <residence>Unknown</residence>
-                  <note type="biographical">Either possibly related to the Department of the Interior, or involved in some kind of 
-                     experiment regarding food and dietary needs based on his query of the "Harris food mixture" in a radiogram to Lockhart.</note>
+                  <note type="biographical">In 1941, the Dept. of the Interior authorized a radiogram sent to Dr. Lockhart from William Leckie, in which
+                     Leckie asked for Lockhart's opinion of Harris Food Mixture, a form of nourishment
+                     that was presumably used in Antarctic expeditions.</note>
                </person>
                <person xml:id="Klondicke" source="#Passel">
                   <persName>Leonard M. Berlin</persName>
@@ -565,7 +567,7 @@
                   <location><geo>39.1500 -84.4500</geo></location>
                </place>
                
-               <place type="range" xml:id="HalFlood" source="#AntarcticFeatureDeatil">
+               <place type="range" xml:id="HalFlood" source="#FloodRange">
                   <placeName>Hal Flood</placeName>
                   <country>Antartic</country>
                   <desc>Range of snow covered mountains. Reconnaissance flights by the United Antartic Service (1939-41), 
@@ -729,7 +731,6 @@
                      <desc>A daily newspaper based in Boston, Massachusetts, published by Boston Herald, Inc. It ran from 1914-1967. 
                         In his journal, Lockhart mentions that the newspaper is sponsoring a mail bag to be delivered to the base camps.</desc>
                   </state>
-                  
                </org>
                <org xml:id="USDptoftheInt" source="#eel-19410427 #Richard">
                   <orgName>US Department of the Interior</orgName>
@@ -829,7 +830,7 @@
                
                <bibl xml:id="Russell" n="Russell"><title type="a">Russell G. Frazier</title> <title>Utah History to Go</title> Utah.gov Services, n.d. Web. 26 Feb. 2014. &lt;http://historytogo.utah.gov/people/utahns_of_achievement/russellgfrazier.html&gt;.</bibl>
                
-               <bibl xml:id="AntarcticFeatureDeatil" n="Mount"><title level="a">Antarctic Feature Detail</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States
+               <bibl xml:id="FloodRange" n="Flood"><title level="a">Flood Range</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States
                   Geological Survey, n.d. Web 24 Feb. 2014 &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:5051,Flood%20Range&gt;</bibl>
                
                <bibl xml:id="Atlantic" n="Atlantic"><title level="m">Atlantic Canada Genealogy Project.</title> N.p., n.d. Web. 26 Feb. 2014. &lt;http://www3.telus.net/chignecto/atlanticcanada/aqwg2503.htm&gt;.</bibl>
