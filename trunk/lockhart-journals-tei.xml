@@ -226,14 +226,21 @@
                </item>
             </list>
 
+
             <list type="vehicles">
                <item xml:id="Condor">
                   <name type="aircraft">Condor</name>
                   <desc>Description</desc>
                </item>
+               <item xml:id="Bear">
+                  <name type="ship">U.S.S. Bear, Bear of Oakland</name>
+                  <desc>One of two ships used on the 1939-41 expedition led by Admiral Byrd. Originally named the "Bear of Oakland," it was 
+                     used during Admiral Byrd's second expedition (1934-35) as an ice ship, then later  reconditoned and comissioned by the 
+                     U.S. navy as the "U.S.S. Bear" before being assigned to the 1939-41 expedition.</desc>
+               </item>
                <item xml:id="Beechcraft"><name type="aircraft">Beechcraft</name><desc></desc></item>
                <item xml:id="SnowCruiser"></item>
-            </list>
+               </list>
 
             <list type="rhetorical-figures">
                <head>Rhetorical figures, schemes, and tropes</head>
@@ -483,35 +490,36 @@
                   <note type="biographical">Louis "Tony" Colombo, a member of the biological party of the West Base, is listed as being the "supply man" as 
                      well as the asisstant mechanic in varying sources. Mount Colombo, a mountain in the Ford Ranges, was later named for him.</note>
                </person>
-                  <person xml:id="Mary">
-                     <persName>Mary</persName>
-                     <birth>unknown</birth>
-                     <death>unknown</death>
-                     <note type="biographical">Sent correspondence to Lockhart through both mail and radiograms 
-                     with her husband Carl.</note>
-                  </person>
-                <person xml:id="Carl">
-                   <persName>Carl</persName>
-                   <birth>unknown</birth>
-                   <death>unknown</death>
-                   <note type="biographical">Sent correspondence to Lockhart through both mail and radiograms
-                   with his wife Mary.</note>
-                </person>
-               <person xml:id="Papa">
-                  <persName>Papa</persName>
-                  <birth>unknown</birth>
-                  <death>unknown</death>
-                  <note type="biographical">Sent correspondence to Lockhart.</note>
-               </person> 
-               <person xml:id="Asman" source="#Passel #personnel #AsmanR">
+               <person xml:id="Asman" source="#Passel #personnel #AsmanR #White">
                   <persName>Adam Asman <addName type="nickname">Sgt., Nib, Nibble</addName></persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
                   <occupation when="1940">Tank Driver</occupation>
                   <residence>Westerfield, Massachusetts</residence>
                   <note type="biographical">In Charles Passel's personal account of his experiences during the 1939-41 expedition, he refers to Asman as "Sgt."; 
-                     presumably Asman was a member of US army. As a member of the U.S. Antarctic Service (USAS) West Base party, during the expedition he served 
-                     as the army tank driver. Later Asman Ridge, a ridge on the south side of Arthur glacier, was named for Asman.</note>
+                     presumably Asman was a member of the US army. As a member of the U.S. Antarctic Service (USAS) West Base party, during the expedition he served 
+                     as the army tank driver. He mentioned in a newspaper article written in 1944, as having special assignment in the Arctic with Byrd testing army 
+                     tanks under extreme conditions. Later Asman Ridge, a ridge on the south side of Arthur glacier, was named for Asman.</note>
+               </person>
+               <person xml:id="Mary">
+                     <persName>Mary</persName>
+                     <birth>unknown</birth>
+                     <death>unknown</death>
+                     <note type="biographical">Sent correspondence to Lockhart through both mail and radiograms 
+                     with her husband Carl.</note>
+               </person>
+               <person xml:id="Carl">
+                   <persName>Carl</persName>
+                   <birth>unknown</birth>
+                   <death>unknown</death>
+                   <note type="biographical">Sent correspondence to Lockhart through both mail and radiograms
+                   with his wife Mary.</note>
+               </person>
+               <person xml:id="Papa">
+                  <persName>Papa</persName>
+                  <birth>unknown</birth>
+                  <death>unknown</death>
+                  <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
                   <person xml:id="Peter">
                   <persName>Peter</persName>
@@ -562,7 +570,7 @@
                   <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
                <person xml:id="Klondicke" source="#Passel #personnel #MBerlin">
-                  <persName>Leonard M. Berlin</persName>
+                  <persName>Leonard M. Berlin<addName type="nickname">Klondicke, Len</addName></persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
                   <occupation when="1940">Cadastral Engineer</occupation>
@@ -726,7 +734,8 @@
                   <country>Antartic</country>
                   <desc>Range of snow covered mountains. Reconnaissance flights by the United Antartic Service (1939-41), 
                      of which Lockhart was a member, explored the range. The principle mountain was named "Mount Hal Flood" 
-                     by Admiral Byrd for his uncle, the Hon. Henry D. Flood, U.S. Senator from Virginia. The name was later applied to the entire range.</desc>
+                     (later changed to Mount Berlin) by Admiral Byrd for his uncle, the Hon. Henry D. Flood, U.S. Senator 
+                     from Virginia. The name was later applied to the entire range.</desc>
                   <location><geo>-76.0300 -134.3000</geo></location>
                   </place>
                
@@ -1089,13 +1098,17 @@
                   Programs U.S. Antarctic Program: Your Stay at Amundsen-Scott South Pole Station.</title> 
                   <title level="m">NASA Quest.</title> NASA, n.d. Web. 2 Mar. 2014.</bibl>
                
-               <bibl xml:id="MGutenko" n="Mount"><title level="a">Gutenko Mountains.</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States 
+               <bibl xml:id="MGutenko" n="Mount"><title level="a">Gutenko Mountains.</title> <title level="m">Geographic Names Information System (GNIS).</title> United States 
                   Geological Survey, n.d. Web. 3 Mar. 2014.</bibl>
                
                <bibl xml:id="WikiFitz" n="RoyFitzsimmons"><title level="a">Roy Fitzsimmons</title><title level="s">Wikipedia, the free encylopedia</title> 
                  10 May 2013. Web. 3 March 2014.</bibl>
+               
                <bibl xml:id="Bertrand" n="Bertrand"><title level="m">Americans in Antarctica.</title>New York: American Geographical Society, 1971. Print.</bibl>
                
+               <bibl xml:id="White" n="White"> White, James A. <title level="a">Byrd Expeditions Paying Off Today On Our Frozen Fronts.</title> <title level="j">The Palm Beach Post</title>
+                Google news, n.d. Web. 4 March 2014.</bibl>
+            
             </listBibl>
             
          </sourceDesc>
@@ -1671,7 +1684,7 @@
                   <lb/>author certainly had done a marvellous job in this book
                   <lb/>I shall have to get it for my own library when I get home.
                   <lb/>Just as <persName ref="#BuckBoyd">Buck</persName> and I were going out skua gull hunting
-                  <lb/><persName>Paul</persName> stopped me to show some of the airplane pictures.
+                  <lb/><persName ref="#Siple">Paul</persName> stopped me to show some of the airplane pictures.
                   <lb/><geogName type="mountain" ref="#HalFlood">Hal Flood</geogName> is certaintly a large and beautiful mountain
                   <lb/>He also said that he was going to see if it wouldn't 
                   <lb/>be possible to name <del rend="strikethrough">one of the</del><add place="above">a</add> mountain in the region
@@ -1680,22 +1693,22 @@
                   <lb/>hope the idea will be approved. <persName ref="#BuckBoyd">Buck</persName> and I did not
                   <lb/>get any skua gulls&#x2014;he is not <seg ana="metonymy">the shot</seg> he professes to be.
                   <lb/> In the future before the ships come in&#x2014;by the way, it is said
-                  <lb/>that the <name type="ship">Bear</name> has already left <placeName ref="#NewZealand">New Zealand</placeName> for the <placeName>Bay</placeName>&#x2014;
-                  <lb/>I shall do a little target practicing every day. <persName>Pete</persName> has
+                  <lb/>that the <name type="ship" ref="#Bear">Bear</name> has already left <placeName ref="#NewZealand">New Zealand</placeName> for the <placeName>Bay</placeName>&#x2014;
+                  <lb/>I shall do a little target practicing every day. <persName ref="#Pete">Pete</persName> has
                   <lb/>just come in saying that there were more skua gulls out 
                   <lb/> there and brought in one as evidence.
                </p>
                <p>
                   <lb/><del rend="strikethrough"><unclear>Even</unclear></del> I spoke to <persName>Bailey</persName> about getting a contact with the
                   <lb/>folks. He said that although conditions were very bad he
-                  <lb/>would speak to <persName>Charlie</persName>. It is so little trouble for them to              
+                  <lb/>would speak to <persName ref="#CharliePassel">Charlie</persName>. It is so little trouble for them to              
          <pb facs="journal-2-15.jpg" n="/d/d478311c-345a-4728-bde3-f72769e0f239"/>
          <fw type="pageNum" place="top">11</fw>            
                <lb/>get over there that it is worth the chance they will be
                <lb/>taking.
             </p>
             <p>
-               <lb/>There is going to be a mail lag <unclear cert="high">sponsored</unclear> by the <name>Boston
+               <lb/>There is going to be a mail bag sponsored by the <name ref="#BostonTraveler">Boston
                <lb/>Traveler</name> in <date>Jan 31</date>. We may not be able to get it
                <lb/>here because the ships will be on their way or almost
                <lb/>ready to go. It won't be <choice><sic>worth while</sic><corr>worthwhile</corr></choice> to tell the folks
@@ -1709,21 +1722,21 @@
          <div xml:id="eel-19401229a" type="entry">
             <lb/><dateline><date when="19401229">12/29/40</date> <time>1:30am</time></dateline>
             <p>
-               <lb/>Not long after <persName>Pete</persName> brought his skua gull in <persName>Wiener</persName> went out
-               <lb/>with his 22 rifle and brought back two more which <persName>Pete</persName>
+               <lb/>Not long after <persName ref="#Pete">Pete</persName> brought his skua gull in <persName ref="#Wiener">Wiener</persName> went out
+               <lb/>with his 22 rifle and brought back two more which <persName ref="#Pete">Pete</persName>
                <lb/>immediately worked on for blood samples. He had some trouble
                <lb/>getting the birds to bleed and then trouble getting the blood to
                <lb/>centrifuge properly. I made a few suggestions such as using
                <lb/>oxalate to prevent the blood from coagulating and the faster centrifugation
                <lb/>of the fresh blood. I hope to kill a few more so that I can skin them
-               <lb/>and salt them down to take <unclear cert="medium">back</unclear>.
+               <lb/>and salt them down to take back.
             </p>
             <p>
                <lb/>After dinner I got a few things ready for the morning metabolism
                <lb/>test on <persName ref="#Tony">Tony</persName> and then spent some time bringing in coal and taking
                <lb/>out the garbage, chores assigned to me or my share in today's
                <lb/>cleaning up. The rest of the evening was spent in reading. While
-               <lb/>I was out feeding the dogs, <persName>Pete</persName> and <persName>Bailey</persName> killed a few skua gulls
+               <lb/>I was out feeding the dogs, <persName ref="#Pete">Pete</persName> and <persName>Bailey</persName> killed a few skua gulls
                <lb/>with the shotgun. It is lucky that the gulls are not 
                <lb/>yet accustomed to the shots or there would be much <del rend="strikethrough">less</del> fewer
                <lb/>targets available.
@@ -1747,20 +1760,20 @@
                  <lb/>and change the sheets. In the afternoon I began jumping
                  <lb/>the gas analysis apparatus and after finishing that <seg ana="metaphor">made an
                  <lb/>end of</seg> <title type="m">Death Sails with Magellan</title>. No gun practice today
-                 <lb/>After dinner got ready for the <unclear cert="high">usim</unclear> analysis and completed
+                 <lb/>After dinner got ready for the urine analysis and completed
                  <lb/>my sock washing. Then came the seal chopping chore. The dogs
                  <lb/>sure make a fuss over the seal meat probably because they
                  <lb/>are getting plenty of it. <unclear cert="low">Iut</unclear> brought in the first Adelie
-                 <lb/>penguin and <persName>Pete</persName> has been spending most of the evening
+                 <lb/>penguin and <persName ref="#Perk">Perk</persName> has been spending most of the evening
                  <lb/>drawing blood and skinning it. There should be more of them
-                 <lb/>in one the ice within the next few days. <persName ref="#Asman">Asman</persName> and <persName>Pete</persName> took
+                 <lb/>in one the ice within the next few days. <persName ref="#Asman">Asman</persName> and <persName ref="#Pete">Pete</persName> took
                  <lb/>the tank out for <seg ana="metaphor">a spin</seg> and were not able to get it up out of
                  <lb/>the <geogFeat>bight</geogFeat> so they left it there. They gave it another try tonight
                  <lb/>but it was <seg ana="metaphor">no soap</seg>. They will have to wait a while longer until
                  <lb/>the surface gets a little harder. <del rend="strikethrough">They</del> The boys don't do much
                  <lb/>work around here but they do sit and <seg ana="metaphor">chew the fat</seg>. More 
                  <lb/><choice><sic>arguements</sic><corr>arguments</corr></choice> can arise over the most obscure&#x2014;and some not
-                 <lb/>so obscure&#x2014;topics that I have <unclear>ever</unclear> imagined. Right
+                 <lb/>so obscure&#x2014;topics that I have <choice><sic>every</sic><corr>ever</corr></choice> imagined. Right
                  <lb/>now the cook who has been considered&#x2014;by himself&#x2014;an authority
                  <lb/>on almost any subject one can bring up has been telling the boys             
          <pb facs="journal-2-17.jpg" n="/7/7720f3e3-93eb-47d7-a27e-68622120c331"/>
