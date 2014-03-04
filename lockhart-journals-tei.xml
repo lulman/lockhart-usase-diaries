@@ -225,6 +225,13 @@
                   </desc>
                </item>
             </list>
+            
+            <list type="vehicles">
+               <item xml:id="Condor">
+                  <name type="aircraft">Condor</name>
+                  <desc>Description</desc>
+               </item>
+            </list>
 
             <list type="rhetorical-figures">
                <head>Rhetorical figures, schemes, and tropes</head>
