@@ -508,10 +508,14 @@
                      Leckie asked for Lockhart's opinion of Harris Food Mixture, a form of nourishment
                      that was presumably used in Antarctic expeditions.</note>
                </person>
-               <person xml:id="Klondicke" source="#Passel">
+               <person xml:id="Klondicke" source="#Passel #personnel #MBerlin">
                   <persName>Leonard M. Berlin</persName>
+                  <birth when-custom="unknown"></birth>
+                  <death when-custom="unknown"></death>
                   <occupation when="1940">Cadastral Engineer</occupation>
-                  <note type="biographical"> Leonard "Klondicke" Berlin was a surveyor and a member of the West Base</note>
+                  <residence when="1940">Juneau, Alaska</residence>
+                  <note type="biographical"> Leonard "Klondicke" Berlin, a member of the 1939-41 U.S. Antarctic Service (USAS) West Base, 
+                     was a cadastral engineer on the expedition. Mount Berlin, formerly Mount Hal Flood, was named for Berlin.</note>
                </person>
                <person xml:id="Wiener" source="#personnel">
                   <persName>Murray Wiener</persName>
@@ -884,13 +888,16 @@
                   Geological Survey, n.d. Web. 26 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:5262,Mount%20Frazier&gt;.</bibl>
                
                <bibl xml:id="MColombo" n="Mount"><title level="a">Mount Colombo</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
-                  Geological Survey. N.d. Web 28 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:2978,Mount%20Colombo&gt;.</bibl>
+                  Geological Survey. n.d. Web. 28 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:2978,Mount%20Colombo&gt;.</bibl>
                
                <bibl xml:id="AsmanR" n="Ridge"><title level="a">Asman Ridge</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
-                  Geological Survey, N.d. Web. 28 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:653,Asman%20Ridge&gt;</bibl>
+                  Geological Survey, n.d. Web. 28 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:653,Asman%20Ridge&gt;</bibl>
                
                <bibl xml:id="BoydG" n="Glacier"><title level="a">Boyd Glacier</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
-                  Geological Survey. N.d. We 28 Feb. 2014 &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:1786,Boyd%20Glacier&gt;</bibl>
+                  Geological Survey. n.d. Web. 28 Feb. 2014 &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:1786,Boyd%20Glacier&gt;</bibl>
+               
+               <bibl xml:id="MBerlin" n="Mount"><title level="a">Mount Berlin</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
+                  Geological Survey. n.d. Web. 28 Feb. 2014 &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:1274,Mount%20Berlin&gt;</bibl>
                
                <bibl xml:id="Arnold" n="Arnold"><title level="a">Arnold Court</title>Marquis Biographies Online. <title level="m">Marquis Who's Who LLC.,</title> n.d. Web. 22 Feb. 2014. &lt;http://search.marquiswhoswho.com.proxy.lib.ohio-state.edu/profile/100002028842&gt;.</bibl>
                
