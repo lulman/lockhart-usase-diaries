@@ -822,8 +822,8 @@
                <bibl xml:id="Stark" n="Stark">Stark, David. <title level="a">Admiral Richard H. Cruzen -- A Biography.</title>
                <title level="m">Gallatin</title>. Davis County Historical Society. Gallatin, MO. 2 May 2004. Web. 12 Feb. 2014.</bibl>
                
-               <bibl xml:id="TGN" n="Getty">Getty Research Institute.<title level="m">Getty
-                  Thesaurus of Geographic Names Online</title> N.d. Web. 12 Feb. 2014.</bibl>
+               <bibl xml:id="TGN" n="Getty">Getty Research Institute. <title level="m">Getty
+                  Thesaurus of Geographic Names Online.</title> N.d. Web. 12 Feb. 2014.</bibl>
                
                <bibl xml:id="ANB" n="American National Biography"><title level="a">Sherman, William Tecumseh</title>
                   <title level="m">American National Biography</title> Oxford University Press 2010 Web. 22 Feb. 2014</bibl>
@@ -846,7 +846,7 @@
                <bibl xml:id="MFrazier" n="Mount"><title level="a">Mount Frazier.</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States 
                   Geological Survey, n.d. Web. 26 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:5262,Mount%20Frazier&gt;.</bibl>
                
-               <bibl xml:id="Arnold" n="Arnold"><title level="a">Arnold Court</title>Marquis Biographies Online. <title level="m">Marquis Who's Who LLC.,</title> n.d. Web. 22 Feb. 2014. &lt;http://search.marquiswhoswho.com.proxy.lib.ohio-state.edu/profile/100002028842&gt;.</bibl>
+               <bibl xml:id="Arnold" n="Arnold"><title level="a">Arnold Court.</title> <title level="m">Marquis Biographies Online.</title> Marquis Who's Who LLC., n.d. Web. 22 Feb. 2014. &lt;http://search.marquiswhoswho.com.proxy.lib.ohio-state.edu/profile/100002028842&gt;.</bibl>
                
                <bibl xml:id="Malone" n="Malone">Malone, Thomas F., ed. <title level="j">Compendium of Meteorology.</title> 
                   Baltimore: Waverly Press, Inc., 1951. <title level="m">Internet Archive.</title> Web. 26 Feb. 2014.</bibl>
@@ -854,25 +854,25 @@
                <bibl xml:id="LibUTexas" n="lib.utexas.edu"><title level="a">A Guide to the Charles F. Passel Antartic Exploration Collection, 1911-2001</title> <title>University of Texas Library</title> 
                   n.d. Web. 25 Feb. 2015</bibl>
                
-               <bibl xml:id="FindAGrave" n="FindAGrave"><title type="a">Felix Louis Ferranto</title> <title type="m">FindAGrave.com</title> N.p., n.d. Web. 26 Feb. 2014. &lt;http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=72466677&gt;.</bibl>
+               <bibl xml:id="FindAGrave" n="FindAGrave"><title type="a">Felix Louis Ferranto.</title> <title type="m">FindAGrave.com</title> N.p., n.d. Web. 26 Feb. 2014. &lt;http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=72466677&gt;.</bibl>
                
-               <bibl xml:id="Russell" n="Russell"><title type="a">Russell G. Frazier</title> <title>Utah History to Go</title> Utah.gov Services, n.d. Web. 26 Feb. 2014. &lt;http://historytogo.utah.gov/people/utahns_of_achievement/russellgfrazier.html&gt;.</bibl>
+               <bibl xml:id="Russell" n="Russell"><title type="a">Russell G. Frazier.</title> <title level="m">Utah History to Go.</title> Utah.gov Services, n.d. Web. 26 Feb. 2014. &lt;http://historytogo.utah.gov/people/utahns_of_achievement/russellgfrazier.html&gt;.</bibl>
                
                <bibl xml:id="FloodRange" n="Flood"><title level="a">Flood Range</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States
                   Geological Survey, n.d. Web 24 Feb. 2014 &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:5051,Flood%20Range&gt;</bibl>
                
                <bibl xml:id="Atlantic" n="Atlantic"><title level="m">Atlantic Canada Genealogy Project.</title> N.p., n.d. Web. 26 Feb. 2014. &lt;http://www3.telus.net/chignecto/atlanticcanada/aqwg2503.htm&gt;.</bibl>
                
-               <bibl xml:id="James" n="James">James, Donald.<title level="m">U.S. Stations and Camps in Antarctica.</title>
-                  <title>NASA Quest.</title> NASA, n.d. Web. 1 Mar. 2014.</bibl>
+               <bibl xml:id="James" n="James">James, Donald. <title level="a">U.S. Stations and Camps in Antarctica.</title>
+                  <title level="m">NASA Quest.</title> NASA, n.d. Web. 1 Mar. 2014.</bibl>
                
                <bibl xml:id="Richard" n="Richard"><title level="a">Richard E. Byrd: Byrd Antarctic Expedition III: 
-                  The United States Antarctic Service Expedition</title>South-Pole.com. N.p., n.d. Web. 2 Mar. 2014.
+                  The United States Antarctic Service Expedition</title> <title level="m">South-Pole.com.</title> N.p., n.d. Web. 2 Mar. 2014.
                   &lt;http://www.south-pole.com/p0000109.htm&gt;.</bibl>
                
-               <bibl xml:id="National" n="National"><title level="m">National Science Foundation Office of Polar
+               <bibl xml:id="National" n="National"><title level="A">National Science Foundation Office of Polar
                   Programs U.S. Antarctic Program: Your Stay at Amundsen-Scott South Pole Station.</title> 
-                  <title>NASA Quest.</title> NASA, n.d. Web. 2 Mar. 2014.</bibl>
+                  <title level="m">NASA Quest.</title> NASA, n.d. Web. 2 Mar. 2014.</bibl>
                
                <bibl xml:id="MGutenko" n="Mount"><title level="a">Gutenko Mountains.</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States 
                   Geological Survey, n.d. Web. 3 Mar. 2014.</bibl>
