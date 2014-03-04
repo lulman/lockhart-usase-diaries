@@ -1166,9 +1166,9 @@
                   <lb/>begun ringing here in the <placeName>Antarctic</placeName> if any christmas bells
                   <lb/>had been available, <persName ref="#Perk">Perk</persName> <persName>Jack</persName> <persName ref="#Tony">Tony</persName> and I were making
                   <lb/>our last big "Putsch" toward <rs>the base</rs> We had left
-                  <lb/><placeName>Fort Wiener</placeName> at 930 PM and at 11 PM when we were
+                  <lb/><placeName ref="FortWiener">Fort Wiener</placeName> at 930 PM and at 11 PM when we were
                   <lb/>only 10.5 miles from <rs>the base</rs> decided not to camp until
-                  <lb/>morning but push on in. <del rend="strikethrough">Tony and the <unclear>rest</unclear></del> While we were
+                  <lb/>morning but push on in. <del rend="strikethrough"><persName ref="Tony">Tony</persName> and the <unclear>rest</unclear></del> While we were
                   <lb/>resting we drank a toast to ourselves — as a party — and
                   <lb/>to a merry christmas, finishing up the half a pint which
                   <lb/>I had <seg ana="metaphor">nursed</seg> along so carefully for two and a half months. <persName ref="#Tony">Tony</persName>
@@ -1183,14 +1183,14 @@
                   <lb/>could just see the base and the airplane looming on the
                   <lb/>horizon. <persName ref="#Tony">Tony</persName> had been seeing things for several hours
                   <lb/>but always he had to say <said aloud= "true" direct= "true">I guess I was wrong</said>
-                  <lb/>when a large trail flag <del rend= "strikethrough"><unclear cert="high">br</unclear></del> came into view. All sorts
-                  <lb/>of thoughts began clicking through our minds as the base
+                  <lb/>when a large <ref type="trailflag">trail flag</ref> <del rend= "strikethrough"><unclear cert="high">br</unclear></del> came into view. All sorts
+                  <lb/>of thoughts began clicking through our minds as the <rs>base</rs>
                
                <pb facs= "journal-2-06.jpg"/>
                   <fw type="pageNum" place="top">2</fw>
            
               <lb/>became larger and larger. <persName ref="#Tony">Tony</persName><del rend= "strikethrough"><unclear cert="high">br</unclear></del>, I know, was especially
-              <lb/>anxious to get into the barracks to tell his stories. The
+              <lb/>anxious to get into the <ref type="Barracks">barracks</ref> to tell his stories. The
               <lb/>rest of us were wondering what the present set up was like-
               <lb/>we had heard so many reports while we were out on the trail
               <lb/>that we had no idea what we were walking into. I
@@ -1204,26 +1204,26 @@
               </p>
               <p>
                  <lb/>When we had come about 2 miles from the base,<persName ref="#Tony">Tony</persName>
-                 <lb/>and I stopped <persName>Jack</persName> who was leading and suggested that we
+                 <lb/>and I stopped <persName ref="#Richardson">Jack</persName> who was leading and suggested that we
                  <lb/>let <persName ref="#Perk">Perk</persName> take his team in first. <persName ref="#Tony">Tony</persName> skied ahead breaking
                  <lb/>trail with <persName ref="#Perk">Perk</persName> following a short distance behind I skied
-                 <lb/>ahead of old <name type="dog" ref="#Spot">Spot</name>. <persName>Paul</persName> came out to meet us and gave
+                 <lb/>ahead of old <name type="dog" ref="#Spot">Spot</name>. <persName ref="#Siple">Paul</persName> came out to meet us and gave
                  <lb/>us a good hand clapp as we came up to him. There was
                  <lb/>preliminary gossip as we endrived in. We parked in
-                 <lb/>front of the balloon house where we were met by almost the
+                 <lb/>front of the <ref type="BalloonHouse">balloon house</ref> where we were met by almost the
                  <lb/>whole camp personnel. We had been wondering whether any
                  <lb/>but a dozen few would be waiting up for us and now were
                  <lb/>surprised to see everyone. While we were answering various
                  <lb/>questions we net up camp and staked out the dogs. <persName>Douglas</persName>
-                 <lb/>and <persName>Wiener</persName> hauled over some seal meat they had cut. The
+                 <lb/>and <persName ref="#Wiener">Wiener</persName> hauled over some seal meat they had cut. The
                  <lb/>dogs sure enjoyed it and then yelped for more. By that time
                  <lb/><persName ref="#Gutenko">Gutenko</persName> said that <unclear>clun</unclear> was nearly ready and we all <unclear cert="medium">repaired</unclear> to
               
                <pb facs="journal-2-07.jpg"/>
                <fw type="pageNum" place="top">3</fw>
                
-                  <lb/>the barracks. We took our clothes off and weighed in.
-                  <lb/><persName ref="#Perk">Perk</persName> weighed 193 before and 173 after (in same clothes) <persName>Jack</persName>
+                  <lb/>the <ref type="Barracks">barracks</ref>. We took our clothes off and weighed in.
+                  <lb/><persName ref="#Perk">Perk</persName> weighed 193 before and 173 after (in same clothes) <persName ref="#Richardson">Jack</persName>
                   <lb/>weighed 159 before and about 158 after. <persName ref="#Tony">Tony</persName> weighed 189
                   <lb/>before and 163 after I weighed 162 before and 150 after.
                   <lb/>Those of us who lost weight lost only the fat that we had
@@ -1235,14 +1235,14 @@
                   <lb/>than 16 hours which was very good time considering the stops
                   <lb/>we made, this surface and the condition we and the dogs
                   <lb/>were in. Then we sat around and talked for several more
-                  <lb/>hours. <persName>Jack</persName> and I went out to sleep in the tent but <persName ref="#Tony">Tony</persName>
+                  <lb/>hours. <persName ref="#Richardson">Jack</persName> and I went out to sleep in the tent but <persName ref="#Tony">Tony</persName>
                   <lb/>and <persName ref="#Perk">Perk</persName> stayed inside. It was almost six oclock before
-                  <lb/>we got out there <persName>Arnold</persName> came out with us and fed us with
+                  <lb/>we got out there <persName ref="#Arnold">Arnold</persName> came out with us and fed us with
                   <lb/>some of the dish and there was a lot of it.
                </p>
                <p>
                   <lb/>I slept <seg ana="adage">the sleep of the blessed</seg> for about three hours and
-                  <lb/>then dozed for about three hours <del rend="strikethrough"><unclear cert="low">f</unclear></del> more. <persName>Jack</persName> and <persName>Doug</persName>
+                  <lb/>then dozed for about three hours <del rend="strikethrough"><unclear cert="low">f</unclear></del> more. <persName ref="#Richardson">Jack</persName> and <persName>Doug</persName>
                   <lb/>talking in the next tent convinced me that it was time to get
                   <lb/>up. after dressing I went into the galley to have my first
                   <lb/>different breakfast in several months. There was fruit toast
