@@ -418,7 +418,7 @@
                </person>
                <person xml:id="Pete"><persName>Petras, Theodore A.</persName><note type="biological">Pete was an expedition man and a pilot on the North Star.</note></person><!-- will add details later -->
                <person xml:id="Mac"><persName>Mc Coy, James C.</persName><note type="biological">Mac was a pilot and part of the West Base crew.</note></person><!-- will add details -->
-               <person xml:id="Walt"><persName>Giles, Walter R.</persName><note type="biological">Giles was an assistant pilot and raio operator for West Base.</note></person><!--will add details -->
+               <person xml:id="Giles"><persName>Giles, Walter R.</persName><note type="biological">Giles was an assistant pilot and raio operator for West Base.</note></person><!--will add details -->
                <person xml:id="Ferranto" source="#FindAGrave #personnel">
                   <persName>Ferranto, Felix Louis</persName>
                   <birth when="1911-12-05"></birth>
@@ -1900,10 +1900,10 @@
               <fw type="pageNum" place="top">21<!-- seems faintly underlined and written on a slant in the very rounded corner of the page --> </fw>
                  
                  <lb/>to no avail what was needed was a complete new engine.
-                 <lb/><persName>Pete</persName> brought back <persName>Pappy</persName> and <persName>Giles</persName> and then went out
-                 <lb/>for <persName>Paul</persName> and <persName>Mac</persName>. <persName>Pete</persName> had to go all the way to the 
+                 <lb/><persName ref="#Pete">Pete</persName> brought back <persName ref="#PappyGray">Pappy</persName> and <persName ref="#Giles">Giles</persName> and then went out
+                 <lb/>for <persName ref="#">Paul</persName> and <persName ref="#Mac">Mac</persName>. <persName>Pete</persName> had to go all the way to the 
                  <lb/>tractor and then to the plane. The overcast that had been
-                 <lb/>increasing had become so bad that <persName>Pete</persName> was afraid 
+                 <lb/>increasing had become so bad that <persName ref="#Pete">Pete</persName> was afraid 
                  <lb/>he had missed the plane when he had flown some time 
                  <lb/>and had just decided to make <del rend="strikethrough"><unclear>tlo</unclear>back</del> tracks back to 
                  <lb/>the base when the <name>Condor</name> loomed up. He landed <del rend="strikethrough"><unclear>too</unclear></del> and 
@@ -1916,7 +1916,7 @@
                  <lb/>little plane would stand the three men turned for home
                  <lb/>leaving the <name type="aircraft">Condor</name> in what will probably be her last  
                  <lb/>landing place. She tried to do her job but just wasn't 
-                 <lb/>good enough. <persName>Pete</persName> had some difficulty getting down here 
+                 <lb/>good enough. <persName ref="#Pete">Pete</persName> had some difficulty getting down here 
                  <lb/>at the base but landed safely. Now the trail parties 
                  <lb/>will have to battle their way in and the <name type="airfact">Beechcraft</name> will
                  <lb/>make some flights out to the <name type="aircraft">Condor</name> to salvage some of the 
