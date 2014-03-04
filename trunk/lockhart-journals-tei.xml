@@ -664,10 +664,12 @@
                   <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
                
-               <person xml:id="Malcolm">
+               <person xml:id="Malcolm" source="#personnel">
                   <persName>Douglass, Malcolm C.</persName>
                   <birth>unknown</birth>
                   <death>unknown</death>
+                  <occupation when="1940">Sled Dog Driver</occupation>
+                  <residence>East Orange, N.J.</residence>
                   <note type="biographical">Malcolm was a sled dog driver on the Expedition who at one point
                   expressed his mood by stating that he may just walk off the base, suggesting suicidal
                   thoughts.</note>
@@ -930,24 +932,54 @@
                   <placeName>Barracks</placeName>
                   <country>Antartica</country>
                   <desc>The barracks are presumably living quarters. It was where their beds and personal items could be found.</desc>
-               </place>            
+               </place>  
+               <place type="geography" xml:id="Equator" source="#eel-19410113a">
+                  <placeName>Equator</placeName>
+                  <location><geo>0° latitude</geo></location>
+                  <desc>The equator was to be a set location to compare air samples against, though it is unclear if these samples were taken.</desc>
+               </place>
+               <place type="geography" xml:id="BayofWhales" source="#TGN">
+                  <placeName>Bay of Whales</placeName>
+                  <location><geo>78.3000° S, 164.2000° W</geo></location>
+                  <desc>The Bay is where the ships did their loading and unloading and were also stored here for the duration of the Expedition</desc>
+               </place>
+               <place type="city" xml:id="Seattle" source="#TGN">
+                  <placeName>Seattle</placeName>
+                  <location><geo>47.6097° N, 122.333°1 W</geo></location>
+                  <region type="state">Washington</region>
+                  <country>United States</country>
+                  <desc>This was to be the final destination for The Star before it was redirected to join The Bear in Boston.</desc>
+               </place>
             </listPlace>
             
             
             
             <listOrg>
                <head>List of Organizations Mentioned in Earnest E. Lockhart's Journal</head>
-              <org xml:id="XXXX">
+              <org xml:id="AARS" source="#QST">
                  <orgName>Army Amateur Radio System</orgName>
                  <state type="company">
                     <desc>
-                       description
+                       The Army Amature Radio System was an organization of amature radio operators that would send and receive radio messages for the military.
                     </desc>
                  </state>
                  <desc>
-                    description
+                    The AARS sent and received messages between members of the Expedition and their families back home. Once the message was recorded in the states, it was
+                    then mailed out to the family members. The family members could then respond with a written letter that would then be transmitted back to the Expedition.
                  </desc>
               </org>
+               <org xml:id="WLMC" source="#QST">
+                  <orgName>WLMC</orgName>
+                  <state type="operator">
+                     <desc>
+                        WLMC was operated by Edward J. Day as part of the Army Amature Radio System during the time of the Expedition.
+                     </desc>
+                  </state>
+                  <desc>
+                     WLMC appears to be the only opperator in the United States who received and transcribed radiograms for the Expedition.
+                     Between November 25 1939 to May 4 1941, this station processed around 15,000 messages to and from the Expedition.
+                  </desc>
+               </org>
                <org xml:id="Colliers">
                   <orgName>Collier's Weekly</orgName>
                   <state type="company">
