@@ -515,7 +515,8 @@
                   <occupation when="1940">Cadastral Engineer</occupation>
                   <residence when="1940">Juneau, Alaska</residence>
                   <note type="biographical"> Leonard "Klondicke" Berlin, a member of the 1939-41 U.S. Antarctic Service (USAS) West Base, 
-                     was a cadastral engineer on the expedition. Mount Berlin, formerly Mount Hal Flood, was named for Berlin.</note>
+                     was a cadastral engineer on the expedition according to Charles Passel's personal account. Mount Berlin, formerly Mount Hal Flood, 
+                     was named for Berlin.</note>
                </person>
                <person xml:id="Wiener" source="#personnel">
                   <persName>Murray Wiener</persName>
