@@ -808,10 +808,9 @@
                   </org>
                <org xml:id="BostonTraveler" source="#LOC">
                   <orgName>Boston Traveler</orgName>
-                  <state type="company">
+                  <state type="company"></state>
                      <desc>A daily newspaper based in Boston, Massachusetts, published by Boston Herald, Inc. It ran from 1914-1967. 
                         In his journal, Lockhart mentions that the newspaper is sponsoring a mail bag to be delivered to the base camps.</desc>
-                  </state>
                </org>
                <org xml:id="USDptoftheInt" source="#eel-19410427 #Richard">
                   <orgName>US Department of the Interior</orgName>
@@ -1513,7 +1512,7 @@
                  
             <pb facs="journal-2-14.jpg" n="/5/5debfbea-aaeb-4e48-8d0c-b2aa8b0c8828"/>
             <fw type="pageNum" place="top">10</fw>
-                  <lb/>I prepared what will probably be my usual <foreign xml:lang="french">piece-de-resistance</foreign>
+                  <lb/>I prepared what probably will be my usual <foreign xml:lang="french">piece-de-resistance</foreign>
                   <lb/>scrambled eggs <foreign xml:lang="french">ala</foreign> <persName>Lockhart</persName>. These with toast and coffee
                   <lb/> completed the morning repast.
                </p>
@@ -2626,7 +2625,7 @@
                      <lb/><salute><persName>EARL LOCKHART</persName></salute>
                   </opener>
                   <p>
-                     <lb/>HAPPY PROSEPEROUS NEW YEAR X HOPE TO <add type="above">me</add> GET YOU ON RETURN <add place="above" rend="^">to the U.S.</add> X <persName ref="#Guernsey">THE GUERNSEYS</persName>
+                     <lb/>HAPPY PROSEPEROUS NEW YEAR X HOPE TO <add place="above">me</add> GET YOU ON RETURN <add place="above" rend="^">to the U.S.</add> X <persName ref="#Guernsey">THE GUERNSEYS</persName>
                   </p>
                </div>
                <div xml:id="eel-19400102a" type="radiogram" facs="journal-2-55" n="/D/d008d323-2484-4321-bf8a-a17ef90e075a">
