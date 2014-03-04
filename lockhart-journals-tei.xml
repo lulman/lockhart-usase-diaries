@@ -225,7 +225,7 @@
                   </desc>
                </item>
             </list>
-            
+
             <list type="vehicles">
                <item xml:id="Condor">
                   <name type="aircraft">Condor</name>
@@ -527,6 +527,20 @@
                      was a cadastral engineer on the expedition according to Charles Passel's personal account. Mount Berlin, formerly Mount Hal Flood, 
                      was named for Berlin.</note>
                </person>
+               
+               <person xml:id="Trefts">
+                  <persName>George W. Trefts</persName>
+                  <birth when="1919"></birth>
+                  <death when="1994"></death>
+                  <occupation when="1940">military personnel</occupation>
+               </person>
+               
+               <person xml:id="Schlossbach">
+                  <persName>Schlossbach, Isaac <addName type="nickname">Lt., Cmdr., Ike, </addName></persName>
+                  <birth when="1891-08-20"><placeName>Bradley Beach, NJ</placeName></birth>
+                  <death when="1984"><placeName>Bradley Beach, NJ</placeName></death>
+                  <occupation> American Polar Explorer, submariner and aviation pioneer and Navigator.</occupation>
+                  <note>Ike Schlossbach is referenced as "Schlossback" within the Journals written by Lockhart.</note>
                <person xml:id="Wiener" source="#personnel">
                   <persName>Murray Wiener</persName>
                   <birth when="1909" precision="low"></birth>
@@ -535,6 +549,15 @@
                   <residence>130 Main St  Bradley Beach, NJ</residence>
                   <note>Wiener was a member of the west base along side Lockhart. In his lifetime he made three trips to the Antarctic. He is often mentioned in the journal.</note>
                </person>
+               <person xml:id="Bailey">
+                  <persName>Bailey, Clay w.</persName>
+                  <birth when-custom="unknown"></birth>
+                  <death when-custom="unknown"></death>
+                  <occupation when="1939">Radio Chief</occupation>
+                  <residence>Belmont, Mass</residence>
+                  <note type="biographical">Clay Bailey was a commander in the United States Navy and member of the Byrd Antartic
+                  Expedition. In 1939 until 1941, Bailey served as a radio chief for Rare Radio for the West Base Party of the 
+                  United States Antarctic Service.</note>
                <person xml:id="Siple" source="#personnel">
                   <persName>Dr Paul A. Siple</persName>
                   <birth when="1908">December 18, 1908</birth>
@@ -543,6 +566,17 @@
                   <residence>1158 W. 5th Street Erie, PA</residence>
                   <note>Dr. Siple was base leader at the west base. He is often referred to as Siple, but is also called Paul in the Lockhart journal.</note>
                </person>
+               <person xml:id= "Douglas">
+                  <persName>Douglas, Doug</persName>
+                  <birth when-custom="unknown"></birth>
+                  <death when-custom="unknown"></death>
+               </person>
+               <person xml:id="Joe">
+                  <persName>Wells, Joe</persName>
+                  <birth when-custom="unknown"></birth>
+                  <death when-custom="unknown"></death>
+               </person>
+               
                <person xml:id="Wade" source="#Passel">
                   <persName>Dr. F. Alton Wade</persName>
                   <birth when="1903" precision="low"></birth>
@@ -615,7 +649,7 @@
                      of which Lockhart was a member, explored the range. The principle mountain was named "Mount Hal Flood" 
                      by Admiral Byrd for his uncle, the Hon. Henry D. Flood, U.S. Senator from Virginia. The name was later applied to the entire range.</desc>
                   <location><geo>-76.0300 -134.3000</geo></location>
-               </place>
+                  </place>
                
                <place type="address" xml:id="ArlingtonStreet" source="#eel-19401226a">
                   <placeName>Arlington Street</placeName>
@@ -684,6 +718,21 @@
                   <location><geo>-81.5000 -175.0000</geo></location>
                </place>
                
+               <place type="geography" xml:id="LittleAmerica">
+                 <placeName>Little America</placeName>
+                  <region type="harbor">Bay of Whales</region>
+                  <desc>Little America was used as an Antarctic Exploration Base which Lockhart periodically references
+                  within his journals.</desc>
+                  <location><geo>-77.0000 -162.0000</geo></location>
+               </place>
+               
+               <place type="interstate" xml:id="Route90">
+                  <placeName>U.S Route 90</placeName>
+                  <country>United States</country>
+                  <desc>U.S Route 90 is a United States highway which spans east-west. "90" is reference by Lockhart in his
+                  journals when he talks about the Tractor Party"s route returning to base. </desc>
+               </place>
+               
                <place type="city" xml:id="helsinki" source="#eel-19401231e #TGN">
                   <placeName>Helsinki</placeName>
                   <country>Finland</country>
@@ -714,6 +763,11 @@
                        In these radigrams, she and Lockhart mostly talk about holiday wishes and when his coming return.</desc>
               </place>
                
+               <place type="city" xml:id="richmond">
+                 <placeName>Richmond, Indiana</placeName> 
+                  <country>United States</country>
+                  <region type="state">Indiana</region>
+                  <location><geo>39.830189, -84.890668</geo></location>
                <place type="state" xml:id="Florida" source="#TGN">
                  <placeName type="state">Florida</placeName>
                  <country>United States</country>
@@ -904,10 +958,10 @@
                <bibl xml:id="Unz" n="Unz.org">Unz, Robert <title level="s">Collier's</title> <title level="m">Unz.org</title>Web. 25 Feb. 2014</bibl>
                
                <bibl xml:id="LOC" n="Library">The Library of Congress. <title level="m">Library of Congress Authorities</title>. 
-                  6 Jan. 2012. Web. 12 Feb. 2014.</bibl>             
-
+                  6 Jan. 2012. Web. 12 Feb. 2014.</bibl>
+               
                <bibl xml:id="MPerkins" n="Mount"><title level="a">Mount Perkins.</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
-                  Geological Survey. N. d. Web. 12 Feb. 2014. &lt;http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:5:::NO::P5_ANTAR_ID:11624&gt;.</bibl>
+                  Geological Survey. N. d. Web. 12 Feb. 2014. &lt;http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:5:::NO::P5_ANTAR_ID:11624&gt;.</bibl> 
                
                <bibl xml:id="MFerranto" n="Mount"><title level="a">Mount Ferranto.</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States 
                   Geological Survey, n.d. Web. 26 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:4843,Mount%20Ferranto&gt;.</bibl>
@@ -961,7 +1015,7 @@
                <bibl xml:id="WikiFitz" n="RoyFitzsimmons"><title level="a">Roy Fitzsimmons</title><title level="s">Wikipedia, the free encylopedia</title> 
                  10 May 2013. Web. 3 March 2014.</bibl>
                <bibl xml:id="Bertrand" n="Bertrand"><title level="m">Americans in Antarctica.</title>New York: American Geographical Society, 1971. Print.</bibl>
-            
+               
             </listBibl>
             
          </sourceDesc>
@@ -2174,7 +2228,7 @@
                  <lb/>out of his misery right then. I tied him on the sled and
                  <lb/>had <persName ref="#Tony">Tony</persName>hold him while we made the trip back to camp.
                  <lb/>After arrival at camp I went in to get a revolver and shells
-                 <lb/>and told <persName><unclear>Siple</unclear></persName> that I was going to shoot the dog. He
+                 <lb/>and told <persName>Siple</persName> that I was going to shoot the dog. He
                  <lb/>wanted me to get <persName>Dick's</persName> opinion on the dog's condition. When
                  <lb/><persName>Dick</persName> saw him he said he had seen dogs in worse condition
                  <lb/>and that I sould let <name type="dog">Shippy</name> stay in the <unclear>machine</unclear> shop
@@ -2184,7 +2238,7 @@
                  <lb/>I would rather shoot my dogs there than subject them to a
                  <lb/>sea voyage none of them likes because most of them are
                  <lb/>not pets and most likely will be done away with later on.
-                 <lb/>Well, I left him in the <unclear>medicine</unclear>shop until after dinner
+                 <lb/>Well, I left him in the medicine shop until after dinner
                  <lb/>when he began throwing up. I spoke to <persName>Dick</persName>again and
                  <lb/>he said since it was my dog I could do whatever I
                  <lb/>wanted with him. I took him out to the wind <unclear>moa</unclear>
@@ -2254,10 +2308,10 @@
                 <lb/>realize how close they were to the bay and they were already tied
                 <lb/>up when I arrived on the <unclear>ceene</unclear> at quarter of five. After the
                 <lb/>crew had sunk the dead men a group of us were welcomed around
-                <lb/>by Captain <persName>Cruzen</persName> and then we went <unclear>out</unclear> to the admiral's
+                <lb/>by Captain <persName>Cruzen</persName> and then we went out to the admiral's
                 <lb/>quarter's (unoccupied) and recieved our mail. I was one
                 <lb/>of the most fortunate ones and had a large bundle including
-                <lb/>some <unclear>files</unclear> and some candy. I also received the money I had
+                <lb/>some files and some candy. I also received the money I had
                 <lb/>asked for. I hardly knew which letter to open first but
                 <lb/>decided to open the smallest one and save the big one, like
                 <lb/><persName><unclear>Reasie's</unclear></persName> and <persName><unclear>Carl's</unclear></persName> and <persName><unclear>Jean's</unclear></persName> for the end because they would
