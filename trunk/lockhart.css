@@ -118,8 +118,8 @@ height: 360px;
 visibility: hidden;	
 }
 
-p.nameListing {
-display: block;
+a.nameListing:before {
+display: inline-block;
 content: " ";
 margin-top: -360px;
 height: 360px;
