@@ -297,9 +297,7 @@
          <xsl:sort select="tei:persName[1]"/>
          <p>
             <xsl:element name="a"><xsl:attribute name="class">nameListing</xsl:attribute><xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute>
-            </xsl:element><strong><xsl:value-of select="tei:persName"/>
-               <xsl:if test="tei:persName/tei:addName[@type='nickname']"> ("<xsl:value-of select="tei:persName/tei:addName[@type='nickname']"/>")</xsl:if>
-            </strong>
+            </xsl:element><strong><xsl:apply-templates select="tei:persName"/></strong>
          <xsl:if test="tei:birth">
             <xsl:text> (b. </xsl:text><xsl:value-of
             select="tei:birth/@when"/><xsl:if test="tei:death"> - d. <xsl:value-of
@@ -307,6 +305,10 @@
             <xsl:apply-templates select="tei:note[@type='biographical']"/> <button onclick="goBack()">Go Back</button>
          </p>
       </xsl:for-each>
+   </xsl:template>
+   
+   <xsl:template match="tei:addName[@type='nickname']">
+      ("<xsl:apply-templates/>")
    </xsl:template>
    
    <xsl:template match="tei:listOrg">

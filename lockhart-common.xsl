@@ -338,7 +338,6 @@
    <xsl:template match="tei:persName">
       <xsl:element name="a"><xsl:attribute name="class">nameLink</xsl:attribute><xsl:attribute name="href">lockhart-edintro.html<xsl:value-of select="@ref"/></xsl:attribute><xsl:apply-templates/></xsl:element>
    </xsl:template>
-   <xsl:template match="tei:persName/tei:addName[@type='nickname']"/>
 
    <!-- ANNOTATIONS -->
 
