@@ -64,6 +64,13 @@ li {
 a:link {
 	text-decoration: none;
 }
+a:link span.nameLink {
+	text-decoration: none;
+	color:black;
+}
+a:visited {
+    color:black;
+}
 a:hover {
 	font-style: italic;
 }
@@ -101,12 +108,7 @@ margin-top: -300px;
 height: 300px;
 visibility: hidden;
 }
-a:link {
-  text-decoration: none;
-}
-a:hover {
-  font-weight: bold;
-}
+
 p.hang15 a:before {
 display: inline-block;
 content: " ";
@@ -225,6 +227,7 @@ table {
 	border-color: #666; 
 	border-collapse:collapse;
 }
+
 td {
 	border-width:1px;
 	border-style:solid;
