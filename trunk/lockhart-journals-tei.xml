@@ -501,37 +501,37 @@
                      as the army tank driver. He mentioned in a newspaper article written in 1944, as having special assignment in the Arctic with Byrd testing army 
                      tanks under extreme conditions. Later Asman Ridge, a ridge on the south side of Arthur glacier, was named for Asman.</note>
                </person>
-               <person xml:id="Mary">
+               <person xml:id="Mary" source="#eel-19410110">
                      <persName>Mary</persName>
                      <birth>unknown</birth>
                      <death>unknown</death>
                      <note type="biographical">Sent correspondence to Lockhart through both mail and radiograms 
                      with her husband Carl.</note>
                </person>
-               <person xml:id="Carl">
+               <person xml:id="Carl" source="#eel-19410110">
                    <persName>Carl</persName>
                    <birth>unknown</birth>
                    <death>unknown</death>
                    <note type="biographical">Sent correspondence to Lockhart through both mail and radiograms
                    with his wife Mary.</note>
                </person>
-               <person xml:id="Papa">
+               <person xml:id="Papa" source="#eel-19410110">
                   <persName>Papa</persName>
                   <birth>unknown</birth>
                   <death>unknown</death>
-                  <note type="biographical">Sent correspondence to Lockhart.</note>
+                  <note type="biographical">Lockhart received pictures of Papa while on the Expedition</note>
                </person>
-                  <person xml:id="Peter">
+               <person xml:id="Peter" source="#eel-19410110">
                   <persName>Peter</persName>
                   <birth>unknown</birth>
                   <death>unknown</death>
-                  <note type="biographical">Sent correspondence to Lockhart.</note>
+                  <note type="biographical">Lockhart received pictures of Peter while on the Expedition.</note>
                </person>
                <person xml:id="CharlesFord" source="#eel-19401228a">
                   <persName>Charles Ford</persName>
                   <note type="biographical">Author of the book "Death Sails with Magellan," which Dr. Lockhart reads during the expedition.</note>
                </person>
-                  <person xml:id="Van">
+               <person xml:id="Van" source="#eel-19410110" >
                   <persName>Van</persName>
                   <birth>unknown</birth>
                   <death>unknown</death>
@@ -547,7 +547,7 @@
                      personel account of the expedition, Boyd is isted as the "master mechanic." A glacier flowing between Bailey Ridge and Mount Douglass in 
                      the Ford Ranges was later named Boyd Glacier for him.</note>
                </person>
-               <person xml:id="Vivian">
+               <person xml:id="Vivian" source="#eel-19410110" >
                   <persName>Vivian</persName>
                   <birth>unknown</birth>
                   <death>unknown</death>
@@ -563,7 +563,7 @@
                      Leckie asked for Lockhart's opinion of Harris Food Mixture, a form of nourishment
                      that was presumably used in Antarctic expeditions.</note>
                </person>
-               <person xml:id="Dave">
+               <person xml:id="Dave" source="#eel-19410110">
                   <persName>Dave</persName>
                   <birth>unknown</birth>
                   <death>unknown</death>
@@ -579,7 +579,7 @@
                      was a cadastral engineer on the expedition according to Charles Passel's personal account. Mount Berlin, formerly Mount Hal Flood, 
                      was named for Berlin.</note>
                </person>
-               <person xml:id="Henry">
+               <person xml:id="Henry" source="#eel-19410110">
                   <persName>Henry</persName>
                   <birth>unknown</birth>
                   <death>unknown</death>
@@ -608,7 +608,7 @@
                   <residence>130 Main St  Bradley Beach, NJ</residence>
                   <note>Wiener was a member of the west base along side Lockhart. In his lifetime he made three trips to the Antarctic. He is often mentioned in the journal.</note>
                </person>
-                  <person xml:id="Dot">
+               <person xml:id="Dot" source="#eel-19410110">
                   <persName>Dot</persName>
                   <birth>unknown</birth>
                   <death>unknown</death>
@@ -632,7 +632,7 @@
                   <residence>1158 W. 5th Street Erie, PA</residence>
                   <note>Dr. Siple was base leader at the west base. He is often referred to as Siple, but is also called Paul in the Lockhart journal.</note>
                </person>
-                  <person xml:id="Elenore">
+               <person xml:id="Elenore" source="#eel-19410110">
                   <persName>Elenore</persName>
                   <birth>unknown</birth>
                   <death>unknown</death>
@@ -657,7 +657,7 @@
                   <residence>Oxford, Oh</residence>
                   <note>Doctor Wade was the Senior Scientist and a member of the Snow Cruiser Unit.</note>
                </person>
-                  <person xml:id="Jenene">
+               <person xml:id="Jenene" source="#eel-19410110">
                   <persName>Jenene</persName>
                   <birth>unknown</birth>
                   <death>unknown</death>
@@ -2451,23 +2451,23 @@
            <pb facs="journal-2-35.jpg" n="/7/7fcaf75e-b11c-4550-b8c6-1f54f7e00792"/>
          <fw type="pageNum" place="top">31</fw>
             <p>
-               <lb/>I read them all all over again. I had one from <persName>Mary</persName>
-               <lb/>which had in it some pictures of <persName>Carl</persName> and her and
+               <lb/>I read them all all over again. I had one from <persName ref="#Mary">Mary</persName>
+               <lb/>which had in it some pictures of <persName ref="#Carl">Carl</persName> and her and
                <lb/>one of one of her sisters. I enjoyed also the pictures
-               <lb/><persName>Beatie</persName> sent of <persName>Pete</persName>, <persName>Peter</persName>, <persName>Papa</persName>, and the house. Both
-               <lb/><persName>Van</persName> <del rend="strikethrough">I</del> and <persName>Vivian</persName> sent letters with pictures in them of the
-               <lb/>new baby. <persName>George</persName> also sent pictures in his letter. Other
-               <lb/>letters came from <persName>Dave</persName> and <persName>Mary</persName>, <persName>Henery</persName>, <persName>Dot</persName>, <persName>Elenore</persName>
-               <lb/><persName>Jenene</persName>. <del rend="strikethrough"><unclear cert="low">Is</unclear></del> I had one of <del rend="strikethrough">of</del> the most pleasant of times
+               <lb/><persName ref="#Beatie">Beatie</persName> sent of <persName ref="#Pete">Pete</persName>, <persName ref="#Peter">Peter</persName>, <persName ref="#Papa">Papa</persName>, and the house. Both
+               <lb/><persName ref="#Van">Van</persName> <del rend="strikethrough">I</del> and <persName ref="#Vivian">Vivian</persName> sent letters with pictures in them of the
+               <lb/>new baby. <persName ref="#George">George</persName> also sent pictures in his letter. Other
+               <lb/>letters came from <persName ref="#Dave">Dave</persName> and <persName ref="#Mary">Mary</persName>, <persName ref="#Henry">Henery</persName>, <persName ref="#Dot">Dot</persName>, <persName ref="#Elenore">Elenore</persName>
+               <lb/><persName ref="#Jenene">Jenene</persName>. <del rend="strikethrough"><unclear cert="low">Is</unclear></del> I had one of <del rend="strikethrough">of</del> the most pleasant of times
                <lb/>I have had in a long while.
             </p>
             <p>
                <lb/>Some of the boys from the west came up to the base
                <lb/>and <persName ref="#Tony">Tony</persName> had I thought had a great time showing <add place="above" rend="^">them</add> around
                <lb/>and telling them all his experiences.
-               <lb/>With the coming of the <name type="ship">Bear</name> the Exploration really is on the
-               <lb/>wane. The <name type="ship">Star</name> will be in after a couple of weeks and
-               <lb/><rs>West Base</rs> will become a thing of the past. The sooner
+               <lb/>With the coming of the <name type="ship" ref="#Bear">Bear</name> the Exploration really is on the
+               <lb/>wane. The <name type="ship" ref="#Star">Star</name> will be in after a couple of weeks and
+               <lb/><placeName ref="#WestBase">West Base</placeName> will become a thing of the past. The sooner
                <lb/>the better.
             </p>
          </div>
@@ -2479,7 +2479,7 @@
                <lb/><del rend="strikethrough"><unclear cert="unknown"></unclear></del>irritation everyone else cause greatly little work has
                <lb/>been done. Movies have been shown to the sailors every 
                <lb/>night and after the shows <persName ref="#BuckBoyd">Buck</persName> takes them down to 
-               <lb/>the <unclear cert="low">barrier</unclear> on the <rs>West Base</rs> <unclear cert="low">limited</unclear> - the tractor with
+               <lb/>the <unclear cert="low">barrier</unclear> on the <placeName ref="#WestBase">West Base</placeName> <unclear cert="low">limited</unclear> - the tractor with
                <lb/>the dog sled hitched on behind. I have given several
                <lb/>dog sled rides.
              </p>
@@ -2488,24 +2488,24 @@
             <pb facs="journal-2-36.jpg" n="/0/00f6b1f6-ee2b-45cd-bd18-44400d0a3392"/>
             <fw type="pageNum" place="top">32</fw>
                   <lb/>metabolism test on <persName ref="#CharliePassel">Charlie Passel</persName> and am continuing
-                  <lb/>my air analysis. <persName>Arnold</persName> made a very valuable suggestion
+                  <lb/>my air analysis. <persName ref="#Arnold">Arnold</persName> made a very valuable suggestion
                   <lb/>and I shall follow it. I shall take air samples on the
                   <lb/>way back and check the idea that the oxygen content
                   <lb/>of the atmosphere varies with the latitude If this works out
-                  <lb/>I should have a curve showing on increase to <rs>East Base</rs>
-                  <lb/>or there about a decrease to the <geogName>equator</geogName> and there are
-                  <lb/>increases of air to <placeName>Seattle</placeName>. This would be something
+                  <lb/>I should have a curve showing on increase to <placeName ref="#EastBase">East Base</placeName>
+                  <lb/>or there about a decrease to the <geogName ref="#Equator">equator</geogName> and there are
+                  <lb/>increases of air to <placeName ref="#Seattle">Seattle</placeName>. This would be something
                   <lb/>worth while to the meteorologists and can be done with little
                   <lb/>expendeture of time.
                </p>
                <p>
-                  <lb/><persName>Park</persName> has two valuable finds both Ross seals a
+                  <lb/><persName ref="#Perk">Perk</persName> has two valuable finds both Ross seals a
                   <lb/>male and female. These seals are very brave and have 
                   <lb/>not been reported for many years.
                </p>
                <p>
-                  <lb/>Recently <persName>Malcolm</persName> has threatened to take a walk
-                  <lb/>and <persName>Doc Frazier</persName> has made the recommendation that he
+                  <lb/>Recently <persName ref="#Malcolm">Malcolm</persName> has threatened to take a walk
+                  <lb/>and <persName ref="#DocFrazier">Doc Frazier</persName> has made the recommendation that he
                   <lb/>be watched constantly. One of the Expeditions projects on the
                   <lb/>way home will be to get him back safely.
                </p>
@@ -2525,35 +2525,35 @@
             <div xml:id="eel-19410114a" type="entry">
                <lb/><dateline><date when="1941-01-14">1/14/41<del rend="strikethrough">W</del>Tuesday January 14 1941</date></dateline>
                <p>
-                  <lb/>Had <persName>Dick</persName> in the basket this morning; everything <unclear>went</unclear>
+                  <lb/>Had <persName ref="#Richardson">Dick</persName> in the basket this morning; everything <unclear>went</unclear>
                   <lb/>off <unclear cert="medium">alright</unclear>.
                </p>
                <p>
                   <lb/><emph style="underline">For</emph> breakfast we had some fried eggs sunny side
-                  <lb/>up. <name type="ship">The Bear</name> exchanged several crates purchased <emph style="underline">in</emph>
+                  <lb/>up. <name type="ship" ref="#Bear">The Bear</name> exchanged several crates purchased <emph style="underline">in</emph>
                   <lb/><placeName ref="#NewZealand">New Zealand</placeName> for some of our while frozen eggs. They
                   <lb/>sure were good. I had these with some Virgina ham.
                </p>
                <p>
                   <lb/>The wind had come up during the night and
-                  <lb/>about <time>ten</time> this morning the ice in the <geogFeat>Bay</geogFeat> began
-                  <lb/>breaking up and the <name type="ship">Bear</name> <emph style="underline">had</emph> to move out. <unclear>If</unclear> in
+                  <lb/>about <time>ten</time> this morning the ice in the <geogFeat ref="#BayofWhales">Bay</geogFeat> began
+                  <lb/>breaking up and the <name type="ship" ref="#Bear">Bear</name> <emph style="underline">had</emph> to move out. <unclear>If</unclear> in
                   <lb/>having to stay out all day. The ice which had expanded
                   <lb/>from <num>1.5</num> to <num>2</num> miles past the new <unclear>laviner</unclear> cache all cracked
                   <lb/>up and was being taken out by the SSE wind. It looks 
                   <lb/>as though it will crack out as far back as the cache,
-                  <lb/>which means a lot of <geogFeat>Bay</geogFeat> ice has to move out. It
+                  <lb/>which means a lot of <geogFeat ref="#BayofWhales">Bay</geogFeat> ice has to move out. It
                   <lb/>also means that we may have an easier time loading
                   <lb/>than was expected.
                </p>
                <p>
                   <lb/>I read the reports of the expedition that have been
                   <lb/>published in various newspapers and reprinted in the <date>March</date>
-                  <lb/>issue of the <title>Polar Times</title>. I have never seen such a 
+                  <lb/>issue of the <title ref="#ThePolarTimes">Polar Times</title>. I have never seen such a 
                   <lb/>mess of rubbish collected together in one small volume in
-                  <lb/>my life. It was all "the Admiral this" and "<persName>Byrd</persName> that"
+                  <lb/>my life. It was all "the Admiral this" and "<persName ref="#Richard">Byrd</persName> that"
                   <lb/>No matter where the airplanes flew the mountains they saw
-                  <lb/>had been previously "discovered" by <persName>Byrd</persName>. One clipping
+                  <lb/>had been previously "discovered" by <persName ref="#Richard">Byrd</persName>. One clipping
                   <lb/>also stated that the admiral made flights and took
                   <lb/>pictures enough "to map accurately" about <measure>35000</measure> sq.
                   <lb/>miles of <emph style="underline">new</emph> territory. We all know that they only
@@ -3029,34 +3029,34 @@
                <div xml:id="eel-19410109" type="radiogram" subtype="recived" facs="journal-2-67" n="/3/3718a2d2-860d-48f8-a7ab-5ed54a1437bc">
                   <opener>
                      <lb/><dateline><date when="1940-01-09" type="recived">9 jan 1941</date></dateline>
-                     <lb/>7 <name type="call-sign">wlmc</name> <placeName>boston mass</placeName> <date when="1941-01-06">jan 6</date>
-                     <lb/><salute><persName>EARL LOCKHART</persName></salute>
+                     <lb/>7 <name type="call-sign" ref="#WLMC">wlmc</name> <placeName ref="#Boston">boston mass</placeName> <date when="1941-01-06">jan 6</date>
+                     <lb/><salute><persName ref="#EEL">EARL LOCKHART</persName></salute>
                   </opener>
                   <p>
-                     <lb/>dear <persName>earl</persName> x we are anxiously watching the papers for news of the arrival
-                     <lb/>of the <name type="ship">bear</name> x what rejoicing there will be in your neck of the woods
-                     <lb/>x weather has turned cold here x feels like your summer x little <persName>petere</persName>
+                     <lb/>dear <persName ref="#EEL">earl</persName> x we are anxiously watching the papers for news of the arrival
+                     <lb/>of the <name type="ship" ref="#Bear">bear</name> x what rejoicing there will be in your neck of the woods
+                     <lb/>x weather has turned cold here x feels like your summer x little <persName ref="#Peter">petere</persName>
                      <lb/>now <num>thirty five</num> pounds x love
                   </p>
-                  <lb/><signed><persName>beatie</persName></signed>
+                  <lb/><signed><persName ref="#Beatie">beatie</persName></signed>
                </div>
                
                <div xml:id="eel-19410109b" type="radiogram" subtype="sent" facs="journal-2-68" n="/4/45528f49-dcdb-4ded-bf96-07f60c260cf0">
                   <opener>
                      <lb/><dateline><date when="1940-01-09" type="sent">Jan 9 1941</date></dateline>
                      <address>
-                        <lb/><persName>Mrs C D Lockhart</persName>
+                        <lb/><persName ref="#mamma">Mrs C D Lockhart</persName>
                         <lb/><addrLine>49 Taunton Ave</addrLine>
-                        <lb/><addrLine><placeName>Mattapan Mass</placeName></addrLine>
+                        <lb/><addrLine><placeName ref="#Mattapan">Mattapan Mass</placeName></addrLine>
                      </address>
                   </opener>
                   <p>
-                     <lb/>The <name type="ship">Bear</name> arrives tomorrow. This is my last message although the
-                     <lb/><name type="ship">Star</name> probably wont leave before the first in <date>Febuary</date>. So
+                     <lb/>The <name type="ship" ref="#Bear">Bear</name> arrives tomorrow. This is my last message although the
+                     <lb/><name type="ship" ref="#Star">Star</name> probably wont leave before the first in <date>Febuary</date>. So
                      <lb/>it wont be long now until I climb the front stairs. Love to
                      <lb/>everyone. Will send airmail from various ports. 
                   </p>
-                  <lb/><signed><persName>Earl</persName></signed>
+                  <lb/><signed><persName ref="#EEL">Earl</persName></signed>
                </div>
                
                <div xml:id="eel-19410416" type="radiogram" subtype="received" facs="journal-2-69" n="/3/3a1cb2ab-66fc-495d-974f-54174222c435" >
