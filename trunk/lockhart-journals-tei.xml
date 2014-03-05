@@ -536,7 +536,11 @@
                </person>
                <person xml:id="CharlesFord" source="#eel-19401228a">
                   <persName>Charles Ford</persName>
-                  <note type="biographical">Author of the book "Death Sails with Magellan," which Dr. Lockhart reads during the expedition.</note>
+                  <birth when-custom="unknown"></birth>
+                  <death when-custom="unknown"></death>
+                  <occupation when="1940">It is unknown whether, at this time, he had any other occupation beyond being an author.</occupation>
+                  <residence when="1940">Unknown</residence>
+                  <note type="biographical">Author of the book "Death Sails with Magellan," published in 1937, which Dr. Lockhart reads during the expedition.</note>
                </person>
                <person xml:id="Van" source="#eel-19410110" >
                   <persName>Van</persName>
