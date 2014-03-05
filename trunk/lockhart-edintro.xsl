@@ -295,14 +295,15 @@
       <h3 id="peopleMentioned">List of People Mentioned in Ernest Lockhart's Journal</h3>
       <xsl:for-each select="tei:person">
          <xsl:sort select="tei:persName[1]"/>
-         <p>
-            <xsl:element name="a"><xsl:attribute name="name"><xsl:value-of select="@xml:id"></xsl:value-of></xsl:attribute></xsl:element><strong><xsl:value-of select="tei:persName"/></strong>
+         <xsl:element name="p"><xsl:attribute name="class">nameListing</xsl:attribute>
+            <xsl:element name="a"><xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute>
+            </xsl:element><strong><xsl:value-of select="tei:persName"/></strong>
          <xsl:if test="tei:birth">
             <xsl:text> (b. </xsl:text><xsl:value-of
             select="tei:birth/@when"/><xsl:if test="tei:death"> - d. <xsl:value-of
                select="tei:death/@when"></xsl:value-of></xsl:if>)</xsl:if>.
             <xsl:apply-templates select="tei:note[@type='biographical']"/> <button onclick="goBack()">Go Back</button>
-         </p>
+         </xsl:element>
       </xsl:for-each>
    </xsl:template>
    
