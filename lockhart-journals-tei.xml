@@ -432,7 +432,7 @@
                   <note type="biographical">Fitz was a physicist from Newark, New Jersey. He ran the Rockefeller Mountains seismic station during the expedition. Lockhart talks about running metabolism tests on him and them
                   going out on excursions together. Mount Fitzsimmons in Anarctica is named after him.</note>
                </person>
-               <person xml:id="Pete" source="#Bertrand #personnel #Passel #Petras"><persName>Petras, Theodore A. <addName type="nickname">Pete</addName>
+               <person xml:id="Pete" source="#Bertrand #personnel #Passel #Petras #eel-19410103"><persName>Petras, Theodore A. <addName type="nickname">Pete</addName>
                </persName>
                   <birth when="1911-05-16"><placeName>Birmingham, Alabama</placeName></birth>
                   <death when="2004-05-09"><placeName>Miami, FL</placeName></death>
@@ -445,19 +445,22 @@
                      enjoyed "making hops" in planes and taking tanks out for fun; Pete also played ukelele. Pete also shot skua gulls and tried to get blood samples from them.  
                      He achieved the rank of Colonel in the USMC and was inducted into the 
                      Alabama Aviation Hall of Fame on December 17, 1993.</note></person>
-               <person xml:id="Mac" source="#Bertrand #personnel #Passel"><persName>Mc Coy, James C. <addName type="nickname">Mac</addName></persName>
+               <person xml:id="Mac" source="#Bertrand #personnel #Passel #mccoy #jamescharles #eel-19410103"><persName>McCoy, James C. <addName type="nickname">Mac</addName> <addName>McCoy, Charles James</addName><addName>McCoy, James Charles</addName>
+               </persName>
                   <birth when="1905-05-09"><placeName>Bountiful, Utah</placeName></birth>
                   <death when="1981-03-03"><placeName>Jacksonville, FL</placeName></death>
                   <occupation>Pilot</occupation>
-                  <note type="biological">Mac was a pilot and part of the West Base crew. He was a member of the dog team 
-                  and was transported back to West Base by Pete the day of the Condor incident.</note></person>
-               <person xml:id="Giles" source="#Bertrand #Passel #personnel"><persName>Giles, Walter R. <addName>Giles, W. R. </addName><addName type="nickname">Giles</addName></persName> 
+                  <note type="biological">Mac was a pilot and part of the West Base crew. His rank during the expedition was ACMM (Aviation Chief Machinist Mate) (NAP) in the USN.
+                     He was a member of the dog team 
+                  that was transported back to West Base by Pete the day of the Condor incident on January 3, 1941. Mac achieved the rank of Commander. He discovered and named a mountain after his wife, Alma McCoy; 
+                  the mountain's name was later changed to Mount McCoy.</note></person>
+               <person xml:id="Giles" source="#Bertrand #Passel #personnel eel-19410103"><persName>Giles, Walter R. <addName>Giles, W. R. </addName><addName type="nickname">Giles</addName></persName> 
                   <birth when="1912-01-03"><placeName>Newtown County, GA</placeName></birth>
                   <death when="1996-04-11"><placeName>Rockdale, GA</placeName> </death>
                   <occupation>Assistant Pilot and Radio Operator</occupation>
                   <note type="biological">Giles, whose name is often listed as W.R. Giles, was an assistant pilot and raio operator for West Base. 
-                     He was part of the dog team that was transported back to West Base At the time of the expedition, he 
-                  was a Staff Sergeant (NAP) in the USMC. He achieved the rank of Colonel in the USMC.</note></person><!--will add details -->
+                     He was part of the dog team that was transported back to West Base by Pete the day of the Condor incident on January 3, 1941.  At the time of the expedition, he 
+                  was a Staff Sergeant (NAP) in the USMC. He achieved the rank of Colonel in the USMC.</note></person>
                <person xml:id="Ferranto" source="#FindAGrave #personnel">
                   <persName>Ferranto, Felix Louis</persName>
                   <birth when="1911-12-05"></birth>
@@ -1178,6 +1181,10 @@
                <bibl xml:id="White" n="White"> White, James A. <title level="a">Byrd Expeditions Paying Off Today On Our Frozen Fronts.</title> <title level="j">The Palm Beach Post</title>
                 Google news, n.d. Web. 4 March 2014.</bibl>
                <bibl xml:id="Petras" n="Petras"><title level="a">Theodore A. Petras</title><title level="m">Enlisted Naval Aviation Pilots</title>Turner Publishing Company, 2002.</bibl>
+               <bibl xml:id="McCoy" n="McCoy"><title level="a">Commander James Charles McCoy Explorer</title><title level="m">Geneaology.Rootsweb.Ancestry.Com</title>N.p., n.d. Web. 27 February 2014. 
+                  http://freepages.genealogy.rootsweb.ancestry.com/~jcmccoyjr/UnderConstruct/Page_5x.html</bibl>
+               <bibl xml:id="JamesCharles" n="JamesCharles"><title level="a">James Charles McCoy</title><title level="m">Ancestry.Com</title>N.p., n.d. Web. 27 February 2014.
+                  http://records.ancestry.com/James_Charles_McCoy_records.ashx?pid=80142976</bibl>
             
             </listBibl>
             
