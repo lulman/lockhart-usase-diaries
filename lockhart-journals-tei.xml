@@ -832,12 +832,15 @@
                <location><geo>-78.279767 -155.535556</geo></location>
                </place>
                
-               <place type="city" xml:id="Valparaiso" source="#Bertrand #TGN">
-                  <placeName>Valparaiso</placeName>
-                  <desc></desc>
+               <place type="city" xml:id="Valparaiso" source="#Bertrand #TGN #eel-19410115a #eel-19401231a #eel-19410116">
+                  <placeName>Valparaiso <addName>Valpo</addName></placeName>
+                  <country>Chile</country>
+                  <desc>Supplies, including the Condor plane, were loaded at Valparaiso, and mail was available for the crew from people
+                     who had not been able to send mail on the Star before it departed. 
+                     Lockhart's ship passed through Valpo, Panama, and Seattle on his way home.</desc>
                   <location><geo>-33.0478 -71.6011</geo></location></place>
                
-               <place type="city" xml:id="Dunedin" source="#Bertrand #TGN eel-19410115a eel-19410116a"><placeName>Dunedin</placeName>
+               <place type="city" xml:id="Dunedin" source="#Bertrand #TGN #eel-19410115a #eel-19410116a"><placeName>Dunedin</placeName>
                   <country>New Zealand</country>
                   <desc>The Star spent several days in Dunedin on its way to West Base to pick up the crew. 
                   According to Lockhart it took about 10 days to travel from Dunedin to West Base.</desc>
@@ -2918,7 +2921,7 @@
                     <lb/><closer><persName ref="#Beatie">beatie</persName></closer>
                     <!-- There are some handwritten letters in pencil on the bottom of this radiogram. Possibly used to send it? -->
                 </div>
-               <div xml:id="eel-1941-01-16" type="radiogram" subtype="received" facs="journal-2-59" n="/4/4741f814-0c98-42d0-89e7-013bfe2836fa">
+               <div xml:id="eel-19410116" type="radiogram" subtype="received" facs="journal-2-59" n="/4/4741f814-0c98-42d0-89e7-013bfe2836fa">
                   <opener> 
                   <lb/><dateline><date when="1941-01-16" type="received">JAN 16/41</date></dateline>
                      <lb/>
