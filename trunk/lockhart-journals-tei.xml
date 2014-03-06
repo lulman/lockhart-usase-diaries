@@ -264,6 +264,10 @@
                   mostly used for moving personel and equipment and also served as a test of the tank in extreme
                   cold weather.</desc>
                </item>
+               <item xml:id="Star">
+                 <name type="ship">U.S.C.G.C. North Star, Star</name>
+                  <desc>forthcoming</desc>
+               </item>
                </list>
 
             <list type="rhetorical-figures">
@@ -1020,6 +1024,14 @@
                   <country>United States</country>
                   <desc>This was to be the final destination for The Star before it was redirected to join The Bear in Boston.</desc>
                </place>
+               <place type="city" xml:id="KansasCity">
+                  <placeName>Kansas City</placeName>
+                  <location><geo>39.0997° N, 94.5786° W</geo></location>
+                  <region type="state">Missouri</region>
+                  <country>United States</country>
+                  <desc>forthcoming</desc>
+               </place>
+               
             </listPlace>
             
             
@@ -2655,10 +2667,10 @@
                 <lb/>since <persName>Byrd</persName> seems to be the only one who is getting credit
                 <lb/>for all the work done down here even though he has 
                 <lb/>had actually little to do with the goings on, it must
-                <lb/>be he and his stooge <persName>Hawthorne</persName> who have contrived to
+                <lb/>be he and his stooge <persName ref="#Hawthorne">Hawthorne</persName> who have contrived to
                 <lb/>keep the exaggerations and untruths on the same high
                 <lb/>plane as maintained on previous expeditions. <persName>Hawthorne</persName>
-                <lb/>who is coming down in the <name type="ship">Star</name> presumably to collect
+                <lb/>who is coming down in the <name type="ship" ref="#Star">Star</name> presumably to collect
                 <lb/>film journals diaries etc is suspected of having his
                 <lb/>own ax to grind--a book on the expedition for the
                 <lb/>Admiral--and consequently will have little cooperation
@@ -2762,7 +2774,10 @@
                   <lb/>visited on her trip down here. They make a very valuable
                   <lb/>collection. When I get home I shall make a cachet
                   <lb/>of linoleum or wood and cachet these envelopes. Then
-                  <lb/>they will be collectors items. I also shall have
+                  <lb/>they will be collectors items.  
+                  <ptr type="noteAnchor" target="cachets"/><note xml:id="cachets" resp="ed">
+                     forthcoming
+                  </note> I also shall have
                   <lb/><persName>Wallace</persName> the yeoman and postmaster aboard the <name type="ship">Bear</name>
                   <lb/>cancel some stamped envelopes so that I can have
                   <lb/>many left over after I send my mail out.
