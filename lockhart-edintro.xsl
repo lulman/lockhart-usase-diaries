@@ -534,6 +534,11 @@
          </img>
          <br/>
          <xsl:value-of select="tei:head"/>
+         <xsl:if test="tei:media">
+            <xsl:element name="a"><xsl:attribute name="href"><xsl:value-of select="tei:media/@url" /></xsl:attribute>
+               <xsl:attribute name="target">_blank</xsl:attribute>
+               <br/>Click to Enlarge</xsl:element>
+         </xsl:if>
       </div>
    </xsl:template> 
   
