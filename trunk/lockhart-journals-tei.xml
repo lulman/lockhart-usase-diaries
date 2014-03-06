@@ -451,7 +451,7 @@
                   <death when="1945"></death>
                   <occupation when="1940">Physicist</occupation>
                   <residence when="1940">Newark, New Jersey</residence>
-                  <note type="biographical">Fitz was a physicist from Newark, New Jersey. He ran the Rockefeller Mountains seismic station during the expedition. Lockhart talks about running metabolism tests on him and them
+                  <note type="biographical">Roy Fitzsimmons was a physicist from Newark, New Jersey. He ran the Rockefeller Mountains seismic station during the expedition. Lockhart talks about running metabolism tests on him and them
                   going out on excursions together. Mount Fitzsimmons in Anarctica is named after him.</note>
                </person>
                <person xml:id="Pete" source="#Bertrand #personnel #Passel #Petras #eel-19410103"><persName>Petras, Theodore A. <addName type="nickname">Pete</addName>
@@ -1648,11 +1648,11 @@
                   <lb/>back to sleep. The predicament was relieved by <persName ref="#Arnold">Arnold</persName> who
                   <lb/>happened to pass by. I got up when he said it was 11 30
                   <lb/>The whole biological party was in the galley preparing breakfast
-                  <lb/>egg toast <unclear>fig</unclear> <unclear>prunes</unclear> coffee. Already I have forgotten how
+                  <lb/>egg toast figs prunes coffee. Already I have forgotten how
                   <lb/>delicious <add place="above" rend="^">were</add> the oatmeal and cocoa of the trail. Although I
                   <lb/>meant to get going on my cleaning up for metabolism tests
                   <lb/>but I started writing reading and talking so very little was 
-                  <lb/>done. <persName ref="#BuckBoyd">Buck Boyd</persName> and <persName><unclear>Sweet</unclear></persName> skiing down to the <geogName ref="#BarrierEdge">barrier edge</geogName>
+                  <lb/>done. <persName ref="#BuckBoyd">Buck Boyd</persName> and <persName><unclear>Sweut</unclear></persName> skiing down to the <geogName ref="#BarrierEdge">barrier edge</geogName>
                   <lb/>to see if the blizzard had carried out any of the <geogName>bay</geogName> ice.
                   <lb/>We found that the whole <geogName>bay</geogName> was still iced over and unless
                   <lb/>something drastic happens within the next two weeks we certainly
