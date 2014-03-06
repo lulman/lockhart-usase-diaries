@@ -229,8 +229,12 @@
 
             <list type="vehicles">
                <item xml:id="Condor">
-                  <name type="aircraft">Condor</name>
-                  <desc></desc>
+                  <name type="aircraft" source="#Bertrand #eel-19410103">Condor</name>
+                  <desc>Twin-motored Curtiss-Wright Condor biplane loaded at Valparaiso. Each base had a Condor plane. According to Bertrand,
+                  this type of plane was the same as the William Horlick which had been used on
+                  long flights during the Second Byrd Expedition. These planes had been used for 5 years by the USMC.
+                  The Condor was used to bring supplies to trail parties and dog teams. Lockhart writes about the Condor's final flight on January 3, 1941; it had engine trouble according to 
+                  Lockhart; Bertrand mentions a fire. After this engine failure or fire, the Condor was subsequently abandoned.</desc>
                </item>
                <item xml:id="Bear">
                   <name type="ship">U.S.S. Bear, Bear of Oakland</name>
@@ -238,8 +242,21 @@
                      used during Admiral Byrd's second expedition (1933-35) as an ice ship, then later  reconditoned and comissioned by the 
                      U.S. navy as the "U.S.S. Bear" before being assigned to the 1939-41 expedition.</desc>
                </item>
-               <item xml:id="Beechcraft"><name type="aircraft">Beechcraft</name><desc></desc></item>
-               <item xml:id="SnowCruiser"></item>
+               <item xml:id="Beechcraft">
+                  <name type="aircraft" source="#Bertrand #eel-19410303">Beechcraft</name>
+                  <desc>According to Bertrand, the Beechcraft was a new, light, single-motored, 5 passenger plane 
+                  that was mounted on skis and supposed to be transported on the Snow Cruiser for aerial exploration
+                  within a distance of 300 miles. When the Condor was disabled on January 3, 1941, Pete and Pappy flew the Beechcraft to rescue 
+                  supplies left in the Condor and to fly men back to West Base.</desc>
+               </item>
+               <item xml:id="SnowCruiser">
+                  <name type="cruiser" source="#bertrand">Snow Cruiser</name>
+                  <desc>According to Bertrand, the Snow Cruiser could store food for a year, and it 
+                  carried 2500 gallons of diesel oil which would last 5000 miles as well as 1000 gallons of gas for flying. 
+                  Its maximum speed was 30 miles per hour, and it was created to function at very low temperatures
+                  and travel in deep, soft snow. It could also be living space for the crew. It ultimately failed. 
+               </desc>
+               </item>
                <item xml:id="tank">
                   <name type="tank">tank</name>
                   <desc>The tank appears to be a Marmon-Herrington CTLS that was used during the Expedition.
@@ -2160,7 +2177,8 @@
                  <lb/>landing place. She tried to do her job but just wasn't 
                  <lb/>good enough. <persName ref="#Pete">Pete</persName> had some difficulty getting down here 
                  <lb/>at the base but landed safely. Now the trail parties 
-                 <lb/>will have to battle their way in and the <name type="airfact" ref="#Beechcraft">Beechcraft</name> will
+                 <lb/>will have to battle their way in and the <name type="airfact" ref="#
+                    ">Beechcraft</name> will
                     <lb/>make some flights out to the <name type="aircraft" ref="#Condor">Condor</name> to salvage some of the 
                  <lb/>valuable instruments such as the drift indicator worth about 
                  <lb/>$1500. We all are happy that the accident didn't happen
