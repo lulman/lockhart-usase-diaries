@@ -820,16 +820,29 @@
                   <desc>The address of The Guernsey Family</desc>
                </place>
            
-               <place type="cache" xml:id="depot105" source="#Passel #Bertrand"> 
+               <place type="cache" xml:id="depot105" source="#Passel #Bertrand #TGN #eel-19401226a">
+                  
                  <placeName>105-Mile Depot</placeName>
                   <country>Antarctica</country>
-                  <desc>Cache and depot established 105 miles east of West Base. Lockhart refers to it as 105; Passel calls it Cache 105, and Bertrand refers to it as Depot 105.</desc>
+                  <desc>Cache and depot established 105 miles east of West Base and 10 miles south
+                     of Breckenridge Peak Rockefeller Mountains. It was named because of its distance from West Base.
+                     The depot was established prior to the sledge journeys so the parties could restock supplies and dog food.
+                     Other caches of dog food were also estblished between West Base and Depot 105.
+                     Lockhart refers to it as 105; Passel calls it 105 Mile Cache, and Bertrand refers to it as 105-Mile Depot.</desc>
                <location><geo>-78.279767 -155.535556</geo></location>
                </place>
                
-               <place type="city" xml:id="Valparaiso"><placeName>Valparaiso</placeName><location><geo>-33.0478 -71.6011</geo></location></place>
+               <place type="city" xml:id="Valparaiso" source="#Bertrand #TGN">
+                  <placeName>Valparaiso</placeName>
+                  <desc></desc>
+                  <location><geo>-33.0478 -71.6011</geo></location></place>
                
-               <place><placeName>Dunedin</placeName></place>
+               <place type="city" xml:id="Dunedin" source="#Bertrand #TGN eel-19410115a eel-19410116a"><placeName>Dunedin</placeName>
+                  <country>New Zealand</country>
+                  <desc>The Star spent several days in Dunedin on its way to West Base to pick up the crew. 
+                  According to Lockhart it took about 10 days to travel from Dunedin to West Base.</desc>
+                  <location><geo>-45.8667 170.5000</geo></location>
+                  </place>
                
                <place type="country" xml:id="Panama" source="#eel-journal2-radiograms #TGN">
                   <placeName>Panama</placeName>
