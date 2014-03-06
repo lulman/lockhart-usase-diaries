@@ -459,7 +459,7 @@
                   <birth when="1911-05-16"><placeName>Birmingham, Alabama</placeName></birth>
                   <death when="2004-05-09"><placeName>Miami, FL</placeName></death>
                   <occupation>Pilot</occupation>
-                  <note type="biological">Pete, not to be confused with Lockhart's dog or a baby named Peter who was
+                  <note type="biographical">Pete, not to be confused with Lockhart's dog or a baby named Peter who was
                     mentioned in the journals, was an expedition man and a pilot. Pete's rank during the expedition was 
                     was Tech Sergeant (NAP) in the USMC. 
                      He was assigned to the Snow Cruiser and piloted the Condor on its last flight before it caught fire and was abandoned on January 3, 1941. 
@@ -472,7 +472,7 @@
                   <birth when="1905-05-09"><placeName>Bountiful, Utah</placeName></birth>
                   <death when="1981-03-03"><placeName>Jacksonville, FL</placeName></death>
                   <occupation>Pilot</occupation>
-                  <note type="biological">Mac was a pilot and part of the West Base crew. His rank during the expedition was ACMM (Aviation Chief Machinist Mate) (NAP) in the USN.
+                  <note type="biographical">Mac was a pilot and part of the West Base crew. His rank during the expedition was ACMM (Aviation Chief Machinist Mate) (NAP) in the USN.
                      He was a member of the dog team 
                   that was transported back to West Base by Pete the day of the Condor incident on January 3, 1941. Mac achieved the rank of Commander. He discovered and named a mountain after his wife, Alma McCoy; 
                   the mountain's name was later changed to Mount McCoy.</note></person>
@@ -480,7 +480,7 @@
                   <birth when="1912-01-03"><placeName>Newtown County, GA</placeName></birth>
                   <death when="1996-04-11"><placeName>Rockdale, GA</placeName> </death>
                   <occupation>Assistant Pilot and Radio Operator</occupation>
-                  <note type="biological">Giles, whose name is often listed as W.R. Giles, was an assistant pilot and raio operator for West Base. 
+                  <note type="biographical">Giles, whose name is often listed as W.R. Giles, was an assistant pilot and raio operator for West Base. 
                      He was part of the dog team that was transported back to West Base by Pete the day of the Condor incident on January 3, 1941.  At the time of the expedition, he 
                   was a Staff Sergeant (NAP) in the USMC. He achieved the rank of Colonel in the USMC.</note></person>
                <person xml:id="Ferranto" source="#FindAGrave #personnel">
