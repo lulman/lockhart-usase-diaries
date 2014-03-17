@@ -1563,7 +1563,8 @@
                   
                      <lb/>christmas spirit and strawberry pie to top things off then
                      <lb/>more <unclear>lulling</unclear> until <seg ana="metaphor">show time</seg>. We saw the <title level="m" ref="#jfih">Jones family in
-                        <lb/>Hollywood</title> and <title level="m" ref="#rb">Risky Business</title>. I enjoyed both of them.
+                        <lb/>Hollywood</title> and <title level="m" ref="#rb">Risky Business</title><ptr type="noteAnchor" target="movies"/>
+                  <note resp="ed" xml:id="movies"> annotation </note>. I enjoyed both of them.
                   </p>
                   <p>
                      <lb/>It had been blowing about 35-40 miles an hour all day
