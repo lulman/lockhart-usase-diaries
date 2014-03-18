@@ -1115,7 +1115,10 @@
             formatting (e.g., titles). -->
                
                <head>Works Cited</head>
-               
+               <bibl xml:id="GMTAntarctica" n="AntarcticaStandardTime"><title level="a">Antarctica</title><title level="s">Greenwich Mean Time</title>
+                  http://wwp.greenwichmeantime.com/time-zone/antarctica/</bibl>
+               <bibl xml:id="Magellan" n="FordMagellan">Ford, Charles.<title level="a">Death Sails with Magellan</title><title level="s">Hathi Trust</title>
+                  http://babel.hathitrust.org/cgi/pt?id=mdp.39015059400450;view=1up;seq=8</bibl>
                <bibl xml:id="WikiBursey" n="JackBursey"><title level="a">Jack Bursey</title><title level="s">Wikipedia, the free encylopedia</title> 
                   http://en.wikipedia.org/wiki/Jack_Bursey 19 Nov 2012 Web. 27 Feb 2014.</bibl>
                
@@ -1684,7 +1687,7 @@
                   <p>
                      <lb/>At this time&#x2014;about 2 AM&#x2014;I don't feel particularly
                      <lb/>tired so am staying up<unclear>.</unclear> I ha<subst instant="true"><del type="overwritten">d</del><add place="inline">ve</add></subst>d been reading <title level="m">Death
-                        <lb/>Sails with Magellan</title> but stopped to help <persName>Count</persName> release
+                        <lb/>Sails with Magellan</title> <ptr type="noteAnchor" target="#NoteMagellan"/><note resp="ed" xml:id="NoteMagellan">A novel set during Magellan's voyage from the point of view of his crewmen, ending in his death, written in 1937 <bibl><ref target="#Magellan">Death Sails With Magellan</ref></bibl> </note> but stopped to help <persName>Count</persName> release
                      <lb/>one of his <choice><sic>raysende</sic><corr>radiosonde</corr></choice> <choice><sic>ballons</sic><corr>balloons</corr></choice>. It got caught in one of
                      <lb/><persName>Railey's</persName> antennas but I was able to climb the pole
                      <lb/>and free it. While helping him I noticed a bunch
@@ -1804,7 +1807,7 @@
                   <lb/>ready to begin metabolism tests in the morning. <persName ref="#Tony">Tony</persName> will
                   <lb/> be the first victim. I also changed water on the socks I
                   <lb/>had been soaking overnight and then sat down to read a bit
-                  <lb/>more in <title type="m">Death Sails with Magellan</title>. <persName ref="#CharlesFord">Charles Ford</persName> the
+                  <lb/>more in <title type="m">Death Sails with Magellan</title><ptr type="noteAnchor" target="#NoteMagellan2"/><note resp="ed" xml:id="NoteMagellan2">See note on page 11</note>. <persName ref="#CharlesFord">Charles Ford</persName> the
                   <lb/>author certainly had done a marvellous job in this book
                   <lb/>I shall have to get it for my own library when I get home.
                   <lb/>Just as <persName ref="#BuckBoyd">Buck</persName> and I were going out skua gull hunting
@@ -1883,7 +1886,7 @@
                  <lb/>finished up just in time for me to take the noon observation
                  <lb/>and change the sheets. In the afternoon I began jumping
                  <lb/>the gas analysis apparatus and after finishing that <seg ana="metaphor">made an
-                 <lb/>end of</seg> <title type="m">Death Sails with Magellan</title>. No gun practice today
+                 <lb/>end of</seg> <title type="m">Death Sails with Magellan</title> <note target="#NoteMagellan" type="annotation">See note on page 11</note>. No gun practice today
                  <lb/>After dinner got ready for the urine analysis and completed
                  <lb/>my sock washing. Then came the seal chopping chore. The dogs
                  <lb/>sure make a fuss over the seal meat probably because they
@@ -1931,10 +1934,10 @@
          <div xml:id="eel-19411231" type="entry">
             <lb/><dateline><del rend="strikethrough">Wednesday January 1 1941</del>
             <lb/>At last the new year has
-            <date when="1941-12-31"></date>Tuesday December 31 1941</dateline>
+               <date when="1941-12-31"></date>Tuesday December 31 1941 <corr evidence="internal">1940</corr></dateline>
             <p>
                <lb/>We have been operating such an erratic schedule and
-               <lb/>also have to deal with <term>Greenwich Mean Time</term> that
+               <lb/>also have to deal with <term>Greenwich Mean Time</term><ptr type="noteAnchor" target="#GMT"/><note resp="ed" xml:id="GMT">Because the expedition is at one of the poles, they technically are in all time zones at once but experience it as a single day. They appear to have chosen GMT as their offical time to go by, which Lockhart has here temporarily lost track of.<bibl><ref target="#GMTAntarctica">"Antarctica"</ref></bibl></note> that
                <lb/>I have been confused concerning the day and date for
                <lb/>several days. Yesterday I thought today was to be New Year
                <lb/>and now that we are actually in the New Year by camp
