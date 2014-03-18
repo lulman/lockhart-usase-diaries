@@ -1115,10 +1115,12 @@
             formatting (e.g., titles). -->
                
                <head>Works Cited</head>
+               <bibl xml:id="WikiGWTW" n="Gone With the Wind"><title level="a">Gone With the Wind</title><title level="s">Wikipedia, the free encylopedia</title>
+                  http://en.wikipedia.org/wiki/Gone_with_the_Wind 18 Mar 2014. Web. 18 Mar 2014.</bibl>
                <bibl xml:id="GMTAntarctica" n="AntarcticaStandardTime"><title level="a">Antarctica</title><title level="s">Greenwich Mean Time</title>
-                  http://wwp.greenwichmeantime.com/time-zone/antarctica/</bibl>
+                  http://wwp.greenwichmeantime.com/time-zone/antarctica/ Web. 18 Mar 2014.</bibl>
                <bibl xml:id="Magellan" n="FordMagellan">Ford, Charles.<title level="a">Death Sails with Magellan</title><title level="s">Hathi Trust</title>
-                  http://babel.hathitrust.org/cgi/pt?id=mdp.39015059400450;view=1up;seq=8</bibl>
+                  http://babel.hathitrust.org/cgi/pt?id=mdp.39015059400450;view=1up;seq=8 Web. 18 Mar 2014.</bibl>
                <bibl xml:id="WikiBursey" n="JackBursey"><title level="a">Jack Bursey</title><title level="s">Wikipedia, the free encylopedia</title> 
                   http://en.wikipedia.org/wiki/Jack_Bursey 19 Nov 2012 Web. 27 Feb 2014.</bibl>
                
@@ -1914,7 +1916,7 @@
                <lb/>little --- but not much.
             </p>
             <p>
-               <lb/>I began reading <title>Gone with the Wind</title> and hope it won't
+               <lb/>I began reading <title>Gone with the Wind</title><ptr type="noteAnchor" target="#NoteGTW"/><note resp="ed" xml:id="NoteGTW">The 1936 novel by Margaret Mitchell about the fate of plantation heiress Scarlett O'Hara, infamous for its almost nostalgic portrayal of slavery and plantation life, but also extremely popular internationally to this day. Famously adapted into the 1939 film starring Vivien Leigh and Clark Gable, which Lockhart also discusses<bibl><ref target="#WikiGWTW"></ref></bibl></note> and hope it won't
                <lb/>take too much of my time.
             </p>
             <p>
