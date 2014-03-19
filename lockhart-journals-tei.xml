@@ -1568,7 +1568,8 @@
                   
                      <lb/>christmas spirit and strawberry pie to top things off then
                      <lb/>more <unclear>lulling</unclear> until <seg ana="metaphor">show time</seg>. We saw the <title level="m" ref="#jfih">Jones family in
-                        <lb/>Hollywood</title> and <title level="m" ref="#rb">Risky Business</title><ptr type="noteAnchor" target="movies"/>
+                        <lb/>Hollywood</title><ptr type="noteAnchor" target="movies"/><note resp="ed" xml:id="movies"></note> 
+                  and <title level="m" ref="#rb">Risky Business</title> <ptr type="noteAnchor" target="movies"/>
                   <note resp="ed" xml:id="movies"></note>. I enjoyed both of them.
                   </p>
                   <p>
