@@ -515,18 +515,23 @@
                      extreme cold for long periods of time affects the human body. The Antarctic peak Mount 
                      Frazier was named after him in 1947 <bibl><ref target="#MFrazier"><title level="a">Mount Frazier</title></ref></bibl>.</note>
                </person>
-               <person xml:id="mamma" source="Atlantic">
+               <person xml:id="mamma" source="KoulorisCorrespondence">
                   <persName>Westhaver, Celeste Althea <addName type="formal">Mrs. Clinton Daniel Lockhart</addName></persName>
-                  <birth when="1877" precision="low"></birth>
-                  <death notBefore="1930"></death>
+                  <birth when="1880-10-23"></birth>
+                  <death when="1957-10"></death>
                   <event type="marriage" when="1904-09-21"><desc>Celeste Althea Westhaver married Clinton Daniel Lockhart in Boston, Suffolk, MA, USA.</desc></event>
-                  <note type="biographical">Celeste Althea Westhaver was Lockhart's mother. They often corresponded via radiogram.</note>
+                  <note type="biographical">Celeste Althea Westhaver was Lockhart's mother. She and her 
+                     husband were both born and raised in Nova Scotia, on opposite sides of the Bay of 
+                     Fundy. In their 20s, both Celeste and Clinton immigrated to Boston. Whether they 
+                     knew each other beforehand is unclear. While her son, Ernest Lockhart, was in 
+                     Antarctica, Celeste Althea often corresponded with him via radiogram.</note>
                </person>
-               <person xml:id="Beatie" source="Atlantic">
+               <person xml:id="Beatie" source="KoulourisCorrespondence">
                   <persName>Lockhart, Beatrice R. <addName type="nickname">Beatie</addName></persName>
-                  <birth when="1906" precision="low"></birth>
-                  <death when-custom="unknown"></death>
-                  <note type="biographical">Beatrice was Lockhart's older sister. They often sent radiograms to each other.</note>
+                  <birth when="1905-05"></birth>
+                  <death when="1990-07"></death>
+                  <note type="biographical">Beatrice had two younger brothers: Clinton Carl and Ernest Earl. 
+                     While Ernest was in Antarctica, he and Beatie often corresponded via radiogram.</note>
                </person>
                <person xml:id="Hawthorne">
                   <persName>Hawthorne, Roger</persName>
