@@ -1240,6 +1240,10 @@
                <bibl xml:id="JamesCharles" n="JamesCharles"><title level="a">James Charles McCoy</title><title level="m">Ancestry.Com</title>N.p., n.d. Web. 27 February 2014.
                   http://records.ancestry.com/James_Charles_McCoy_records.ashx?pid=80142976</bibl>
             
+               <bibl xml:id="IMBdRB" n="IMBdRB"><title level="a">Risky Business</title><title level="m">IMDb</title>IMDb, n.d. Web.</bibl> 
+               <bibl xml:id="IMBdJF" n="IMBdJF"><title level="a">Jones Family in Hollywood</title><title level="m">IMDb</title>IMDb, n.d. Web.</bibl>
+               <bibl xml:id="IMBdGwtW" n="IMBdGwtW"><title level="a">Gone with the Wind</title><title level="m">IMDb</title>IMDb, n.d. Web.</bibl>
+               
             </listBibl>
             
          </sourceDesc>
@@ -1571,9 +1575,9 @@
                   
                      <lb/>christmas spirit and strawberry pie to top things off then
                      <lb/>more <unclear>lulling</unclear> until <seg ana="metaphor">show time</seg>. We saw the <title level="m" ref="#jfih">Jones family in
-                        <lb/>Hollywood</title><ptr type="noteAnchor" target="movies"/><note resp="ed" xml:id="movies"></note> 
+                        <lb/>Hollywood</title><ptr type="noteAnchor" target="movies"/><note resp="ed" xml:id="movies">A 1939 comedy starring Jed Prouty and Spring Byington.</note> 
                   and <title level="m" ref="#rb">Risky Business</title> <ptr type="noteAnchor" target="movies"/>
-                  <note resp="ed" xml:id="movies"></note>. I enjoyed both of them.
+                  <note resp="ed" xml:id="movie">A 1939 crime drama starring George Murphy and Dorothea Kent. There is no relation to the 1983 movie of the same name.</note>. I enjoyed both of them.
                   </p>
                   <p>
                      <lb/>It had been blowing about 35-40 miles an hour all day
