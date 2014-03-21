@@ -1248,7 +1248,7 @@
                <bibl xml:id="IMBdRB" n="IMBdRB"><title level="a">Risky Business</title><title level="m">IMDb</title>IMDb, n.d. Web.</bibl> 
                <bibl xml:id="IMBdJF" n="IMBdJF"><title level="a">Jones Family in Hollywood</title><title level="m">IMDb</title>IMDb, n.d. Web.</bibl>
                <bibl xml:id="IMBdGwtW" n="IMBdGwtW"><title level="a">Gone with the Wind</title><title level="m">IMDb</title>IMDb, n.d. Web.</bibl>
-               
+               <bibl xml:id="IMBdB" n="IMBdB"><title level="a">Blondie</title><title level="m">IMDb</title>IMDb, n.d. Web.</bibl>
             </listBibl>
             
          </sourceDesc>
@@ -1580,10 +1580,10 @@
                   
                      <lb/>christmas spirit and strawberry pie to top things off then
                      <lb/>more lulling until <seg ana="metaphor">show time</seg>. We saw the <title level="m" ref="#jfih">Jones family in
-                     <lb/>Hollywood</title><ptr type="noteAnchor" target="notemovies"/><note resp="ed" xml:id="jfih">A 1939 comedy starring Jed Prouty and Spring Byington.
+                     <lb/>Hollywood</title><ptr type="noteAnchor" target="notemovies1"/><note resp="ed" xml:id="jfih">A 1939 comedy starring Jed Prouty and Spring Byington.
                          <bibl><ref target="#IMBdJF">"Jones Family in Hollywood"</ref></bibl></note>
-                  and <title level="m" ref="#rb">Risky Business</title> <ptr type="noteAnchor" target="notemovies"/>
-                  <note resp="ed" xml:id="rb">A 1939 crime drama starring George Murphy and Dorothea Kent. There is no relation to the 1983 movie of the same name.
+                  and <title level="m" ref="#rb">Risky Business</title> <ptr type="noteAnchor" target="notemovies2"/>
+                  <note resp="ed" xml:id="rb">A 1939 crime drama starring George Murphy and Dorothea Kent. There is no relation to the 1983 movie of the same name starring Tom Cruise.
                      <bibl><ref target="#IMBdRB">"Risky Business</ref></bibl></note>. I enjoyed both of them.
                   </p>
                   <p>
@@ -2236,7 +2236,7 @@
                   <lb/>read the book and thought about the movie that has been made
                   <lb/>from it <persName>Clark Gable</persName> certainly is the man to play <persName type="fictional">Rhett Butler</persName>
                     <lb/>I am not so sure about <persName>Vivien Leigh</persName> as <persName type="fictional">Scarlett</persName><ptr type="noteAnchor" target="notemovies3"/>
-                    <note resp="ed" xml:id="GwtW">The film "Gone with the Wind" was released in 1939. Over 1,400 actresses auditioned for the part of Scarlett O'Hara before Vivian Leigh was chosen.<bibl><ref target="#IMBdGwtW">"Gone with the Wind"</ref></bibl></note>!
+                    <note resp="ed" xml:id="GwtW">The film "Gone with the Wind" was released in 1939 to rave reviews. Over 1,400 actresses auditioned for the part of Scarlett O'Hara before Vivian Leigh was chosen.<bibl><ref target="#IMBdGwtW">"Gone with the Wind"</ref></bibl></note>!
                   </p>
                   <p>
                   <lb/>We had a mail bag today from <placeName>Kansas City</placeName> but <unclear cert="high">the</unclear> re-
@@ -2402,7 +2402,8 @@
                   <lb/>home. Just wait until they see him.
                </p>
                <p>
-                  <lb/>This evening we had a reshow of <title level="m" ref="#Blondie">Blondie</title> which made
+                  <lb/>This evening we had a reshow of <title level="m" ref="#Blondie">Blondie</title><ptr type="noteAnchor" target="notemovies4"/>
+                  <note resp="ed" xml:id="B">A 1938 comedy starring Penny Singleton as Blondie Bumstead. This was the first of 28 movies about Blondie and her husband Dagwood.<bibl><ref target="#IMBdB">"Blondie"</ref></bibl></note> which made
                   <lb/>us laugh as much as if it were only the first time we had
                   <lb/>seen it.
                </p>
