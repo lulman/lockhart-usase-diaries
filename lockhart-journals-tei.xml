@@ -2235,7 +2235,8 @@
                   <lb/>whole <unclear cert="high">tone</unclear> of the book and a just reward for <persName type="fictional">Scarlett</persName>. As I
                   <lb/>read the book and thought about the movie that has been made
                   <lb/>from it <persName>Clark Gable</persName> certainly is the man to play <persName type="fictional">Rhett Butler</persName>
-                  <lb/>I am not so sure about <persName>Vivien Leigh</persName> as <persName type="fictional">Scarlett</persName>!
+                    <lb/>I am not so sure about <persName>Vivien Leigh</persName> as <persName type="fictional">Scarlett</persName><ptr type="noteAnchor" target="notemovies3"/>
+                    <note resp="ed" xml:id="GwtW">The film "Gone with the Wind" was released in 1939. Over 1,400 actresses auditioned for the part of Scarlett O'Hara before Vivian Leigh was chosen.<bibl><ref target="#IMBdGwtW">"Gone with the Wind"</ref></bibl></note>!
                   </p>
                   <p>
                   <lb/>We had a mail bag today from <placeName>Kansas City</placeName> but <unclear cert="high">the</unclear> re-
