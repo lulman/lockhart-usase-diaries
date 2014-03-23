@@ -1123,6 +1123,9 @@
             formatting (e.g., titles). -->
                
                <head>Works Cited</head>
+               <bibl xml:id="koulouris" n="koulouris">Koulouris, Paul. "Lockhart Info.doc." Message to the editors. 10 March 2013. E-mail attachment. Earl Lockhart's nephews,
+                  Paul Koulouris and George Lockhart, as well as George Lockhart's mother, Mary Guernsey Lockhart, provided the editors with biographical details about
+                  the Lockhart family.</bibl>
                <bibl xml:id="WikiGWTW" n="Gone With the Wind"><title level="a">Gone With the Wind</title><title level="s">Wikipedia, the free encylopedia</title>
                   http://en.wikipedia.org/wiki/Gone_with_the_Wind 18 Mar 2014. Web. 18 Mar 2014.</bibl>
                <bibl xml:id="GMTAntarctica" n="AntarcticaStandardTime"><title level="a">Antarctica</title><title level="s">Greenwich Mean Time</title>
