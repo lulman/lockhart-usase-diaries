@@ -1712,7 +1712,7 @@
                      <lb/>At this time&#x2014;about 2 AM&#x2014;I don't feel particularly
                      <lb/>tired so am staying up<unclear>.</unclear> I ha<subst instant="true"><del type="overwritten">d</del><add place="inline">ve</add></subst>d been reading <title level="m">Death
                         <lb/>Sails with Magellan</title> <ptr type="noteAnchor" target="#NoteMagellan"/><note resp="ed" xml:id="NoteMagellan">A novel set during Magellan's voyage from the point of view of his crewmen, ending in his death, written in 1937 <bibl><ref target="#Magellan">Death Sails With Magellan</ref></bibl> </note> but stopped to help <persName>Count</persName> release
-                     <lb/>one of his <choice><sic>raysende</sic><corr>radiosonde</corr></choice> <choice><sic>ballons</sic><corr>balloons</corr></choice>. It got caught in one of
+                     <lb/>one of his <choice><sic>raysende</sic><corr>radiosonde</corr></choice> <choice><sic>ballons</sic><corr>balloons</corr></choice><ptr type="noteanchor" target="noteradiosondeballoons1"/><note>Radiosonde balloons were used to fly into the air and measure atmospheric parameters. The measurements were then sent back to a fixed reciever in the balloon house.</note>. It got caught in one of
                      <lb/><persName>Railey's</persName> antennas but I was able to climb the pole
                      <lb/>and free it. While helping him I noticed a bunch
                      <lb/>of skua gulls on a refuse pile and decided to try my
