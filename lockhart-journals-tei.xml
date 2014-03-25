@@ -323,7 +323,7 @@
                   <occupation when="1940">dog driver</occupation>
                   <note type="biographical">A dog driver who had worked with Byrd on previous expeditions. Published two books about his expeditions, Antarctic Night and 
                      St. Lunaire, Antarctic Lead Dog.During this expedition he made one of the longest dog trips ever recorded, and one of the Hal Flood mountains became named "Mt. Bursey" after him.
-                     Was from Grand Rapids, Michigan, and would have been survived by his wife Ada Bursey</note>
+                     Was from Grand Rapids, Michigan, and would have been survived by his wife Ada Bursey<bibl><ref target="#WikiBursey">"Jack Bursey"</ref></bibl></note>
                </person>
                <person xml:id="Shirley" source="#personnel">
                   <persName>Shirley, Charles S.</persName>
@@ -334,7 +334,7 @@
                   <persName>Richardson H. H. <addName type="nickname">Jack</addName></persName>
                   <occupation>dog driver</occupation>
                   <note type="biographical">A dog driver on the expedition who features in both Lockhart and Passel's accounts. Also took video footage of some of the expedition. Was from Franklin, New Hampshire 
-                     and would have been survived by his brother Harold C. RichardsonGoes primarily by the nickname "Jack</note>
+                     and would have been survived by his brother Harold C. Richardson. Goes primarily by the nickname "Jack"</note>
                    </person>
                <person xml:id="Sherman" source="#ANB">
                   <persName>Sherman, General William Tecumseh</persName>
@@ -349,7 +349,7 @@
                      reactions to Gone With the Wind</note>
                </person>
                <person xml:id="Warner" source="#personnel #Passel">
-                  <persName>Warner, Lawrence A. <addName type="nickname"></addName>Larry</persName>
+                  <persName>Warner, Lawrence A. <addName type="nickname">Larry</addName></persName>
                   <occupation>geologist</occupation>
                   <note type="biographical">A geologist on the expedition. Was from Monroe, Ohio and would have been 
                      survived by his parents Mr. and Mrs. C.F. Warner </note>
@@ -360,7 +360,7 @@
                   <residence when="-1952">Wellesely, Massachusetts</residence>
                   <note type="biographical">Lockhart exchanges radiograms with a George Guernsey of Wellesley Massachusetts, 
                      about Christmas and his potential trips to Panama and Seattle. There's a Guernsey by that name living there according 
-                     to a family genealogy, barring another man with the same name it's presumably the same man</note>
+                     to a family genealogy, barring another man with the same name it's presumably the same man.<bibl><ref target="#Card">"Garnsey-Guernsey Genealogy"</ref></bibl></note>
                </person>
                <person xml:id="JackMahan">
                   <persName>Mahan, Jack</persName>
