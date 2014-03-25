@@ -359,6 +359,7 @@
    </xsl:template>
    
    <xsl:template match="tei:note[@xml:id]"/>
+     
 
    <!-- MSS ITEMS: These rules process various tags particularly relevant to 
       transcriptions of primary handwritten materials. -->

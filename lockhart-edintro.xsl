@@ -291,6 +291,10 @@
       </xsl:for-each>
    </xsl:template>
    
+   <xsl:template match="tei:note/tei:bibl">
+      (<xsl:apply-templates/>)
+   </xsl:template>
+   
    <xsl:template match="tei:listPerson[@type='mentioned']">
       <h3 id="peopleMentioned">List of People Mentioned in Ernest Lockhart's Journal</h3>
       <xsl:for-each select="tei:person">
@@ -300,8 +304,8 @@
             </xsl:element><strong><xsl:apply-templates select="tei:persName"/></strong>
          <xsl:if test="tei:birth">
             <xsl:text> (b. </xsl:text><xsl:value-of
-            select="tei:birth/@when"/><xsl:if test="tei:death"> - d. <xsl:value-of
-               select="tei:death/@when"></xsl:value-of></xsl:if>)</xsl:if>.
+               select="tei:birth/@when | tei:birth/@when-custom"/><xsl:if test="tei:death"> - d. <xsl:value-of
+               select="tei:death/@when | tei:death/@when-custom"></xsl:value-of></xsl:if>)</xsl:if>.
             <xsl:apply-templates select="tei:note[@type='biographical']"/> <button onclick="goBack()">Go Back</button>
          </p>
       </xsl:for-each>
