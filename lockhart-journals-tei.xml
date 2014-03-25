@@ -907,11 +907,14 @@
                   journals when he talks about the Tractor Party"s route returning to base. </desc>
                </place>
                
-               <place type="city" xml:id="helsinki" source="#eel-19401231e #TGN">
+               <place type="city" xml:id="helsinki" source="#eel-19401231e #TGN #koulouris">
                   <placeName>Helsinki</placeName>
                   <country>Finland</country>
-                  <desc>Located on peninsula in Gulf of Finland. In a radiogram to Lockhart, his mother writes of having 'snaps' 
-                     he had taken in "helsiki" enlarged; presumably "helsiki" refers to the Finnish city, Helsinki.</desc>
+                  <desc>Located on peninsula in Gulf of Finland. In a radiogram to Dr. Lockhart, his mother writes of having 'snaps' 
+                     he had taken in "helsiki" enlarged; presumably "helsiki" refers to the Finnish city, Helsinki. According to Paul Koulouris,
+                     Dr. Lockhart worked in Sweden from September 1938 to July 1939, and took time off to travel in the summer of 1939; it is likely 
+                     that during this time Dr. Lockhart went to Finland, and that the enlargements thus mentioned by Dr. Lockhart's mother were of photos 
+                     taken during this trip. Koulouris mentions that Lockhart had a good camera; in one letter Dr. Lockhart mentions taking over 500 photos.</desc>
                   <location><geo>60.1333 25.0000</geo></location>
                </place>
                
