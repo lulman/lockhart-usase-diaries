@@ -1094,7 +1094,7 @@
                      radiogram, Leckie asked for Lockhart's opinion of Harris Food Mixture, a form of nourishment
                      that was presumably easily transported and was therefore used in Antarctic expeditions.</desc>
                </org>
-               <org xml:id="ThePolarTimes">
+               <org xml:id="ThePolarTimes" source="#PolarTimes">
                   <orgName>The Polar Times</orgName>
                   <state type="company"></state>
                   <desc>The Polar Times was produced as an inhouse magazine during discovery expedition to Antarctica.
@@ -1263,6 +1263,8 @@
                   the West Base of the United States Antarctic Service Epedition 1939-1941.</title> 
                   <title level="j">Proceedings of the American Philosophical Society</title> 89. 1 (1945): 272-273. 
                   Print. <title level="j">JSOTR.</title> Web. 18 Mar. 2014.</bibl>
+               <bibl xml:id="PolarTimes" n="PolarTimes"><title level="a">Understanding the Past and the Present</title><title level="m">Discovering Antartica</title>N.p., n.d. Web. 25 March 2014.
+                  http://www.discoveringantarctica.org.uk/multimedia/flash/13/meltdown/13_understanding_meltdown.html</bibl>
             </listBibl>
             
          </sourceDesc>
