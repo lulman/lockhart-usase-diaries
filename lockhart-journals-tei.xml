@@ -334,7 +334,7 @@
                   <persName>Richardson H. H. <addName type="nickname">Jack</addName></persName>
                   <occupation>dog driver</occupation>
                   <note type="biographical">A dog driver on the expedition who features in both Lockhart and Passel's accounts. Also took video footage of some of the expedition. Was from Franklin, New Hampshire 
-                     and would have been survived by his brother Harold C. Richardson. Goes primarily by the nickname "Jack"</note>
+                     and would have been survived by his brother Harold C. Richardson. Goes primarily by the nickname "Jack"<bibl><ref target="#personnel">"Personnel 1939-1940"</ref></bibl><bibl><ref target="#Passel">"Ice"</ref></bibl></note>
                    </person>
                <person xml:id="Sherman" source="#ANB">
                   <persName>Sherman, General William Tecumseh</persName>
@@ -346,13 +346,13 @@
                      <placeName>New York City, New York</placeName>
                   </death>
                   <note type="biographical">Lockhart mentions Sherman's burning of Atlanta while recording his 
-                     reactions to Gone With the Wind</note>
+                     reactions to Gone With the Wind<bibl><ref target="#ANB">"William Tecumseh Sherman"</ref></bibl></note>
                </person>
                <person xml:id="Warner" source="#personnel #Passel">
                   <persName>Warner, Lawrence A. <addName type="nickname">Larry</addName></persName>
                   <occupation>geologist</occupation>
                   <note type="biographical">A geologist on the expedition. Was from Monroe, Ohio and would have been 
-                     survived by his parents Mr. and Mrs. C.F. Warner </note>
+                     survived by his parents Mr. and Mrs. C.F. Warner <bibl><ref target="#personnel">"Personnel 1939-1940"</ref></bibl> </note>
                </person>
                <person xml:id="Guernsey" source="#Card">
                   <persName>Guernsey, George Rockwell</persName>
