@@ -1131,7 +1131,8 @@
                   http://babel.hathitrust.org/cgi/pt?id=mdp.39015059400450;view=1up;seq=8 Web. 18 Mar 2014.</bibl>
                <bibl xml:id="WikiBursey" n="JackBursey"><title level="a">Jack Bursey</title><title level="s">Wikipedia, the free encylopedia</title> 
                   http://en.wikipedia.org/wiki/Jack_Bursey 19 Nov 2012 Web. 27 Feb 2014.</bibl>
-               
+               <bibl xml:id="Allen" n="Allen">Allen, Glover M.<title level="m">Extinct And Vanishing Mammals of the Western Hemisphere</title>
+               Pennsylvania: The Intelligence Printing Company, 1942. Print.</bibl>
                <bibl xml:id="Ronne" n="Ronne">Ronne, Finn. <title level="m">Antarctica My Destiny</title>. New
                   York: Hastings House, 1979. Print.
                </bibl>
@@ -1658,7 +1659,7 @@
                   <lb/>the lack of any follow up exercise today. 
                </p>
                <p>
-                  <lb/>All of the radiograms that had come in during my absence 
+                  <lb/>All of the radiograms<ptr type="noteAnchor" target="radiogram"/> that had come in during my absence 
                   <lb/>were given to me. One of them had not been read over the air
                   <lb/>It was from <persName ref="#Beatie">Beatie</persName> and wished me a merry christmas. <seg ana="aetiologia">The main
                   <lb/>item of the message, however, lead me to believe that some of my 
@@ -1687,7 +1688,9 @@
                <p>  
                   <lb/>I slept very well in my old cloth bag. I am lost now
                   <lb/>that I don't have a watch and consequently with the present
-                  <lb/>schedule<ptr type="noteAnchor" target="schedule"/> I didn't know whether I should get up or try to go
+                  <lb/>schedule<ptr type="noteAnchor" target="schedule"/><note resp="ed" xml:id="radiogram"> These radiograms were messages sent via vocal radio 
+                       contact between the Expedition and the people back home. They served as the main form of contact throughout the Expedition <bibl><ref target="#QST">"U.S. Antarctic Service Expresses Appreciation"</ref></bibl></note>
+                       I didn't know whether I should get up or try to go
                   <lb/>back to sleep. The predicament was relieved by <persName ref="#Arnold">Arnold</persName> who
                   <lb/>happened to pass by. I got up when he said it was 11 30
                   <lb/>The whole biological party was in the galley preparing breakfast
@@ -2646,7 +2649,10 @@
                   <lb/>expendeture of time.
                </p>
                <p>
-                  <lb/><persName ref="#Perk">Perk</persName> has two valuable finds both Ross seals a
+                  <lb/><persName ref="#Perk">Perk</persName> has two valuable finds both Ross seals<ptr type="noteAnchor" target="ross"/>
+                  <note resp="ed" xml:id="ross"> The Ross Seals are the most rare typle of seal found in the Antarctic. Some explorations cite only observing
+                  a few Ross seals during their entire time in the Antarctic, making any sighting worth noting.<bibl><ref target="#Allen">"Extinction and Vanishing Mammals"</ref>
+                  </bibl></note>a
                   <lb/>male and female. These seals are very brave and have 
                   <lb/>not been reported for many years.
                </p>
@@ -3104,7 +3110,7 @@
                  </opener>
                  <!-- Is any of the information in the opener a "byline"? -->
                  <p>best wishes for a happy christmas. at least you can have
-                    <lb/>real snow balls on your tree. little <persName>peter</persName> now weighs 31 lbs and stands
+                    <lb/>real snow balls on your tree. little <persName ref="#Peter">peter</persName> now weighs 31 lbs and stands
                     <lb/>20 inches. with this i am sending bad news . <rs>jack mahans father</rs> died
                     <lb/>on wednesday spent evening with them . he was <choice><sic>burried</sic><corr>buried</corr></choice> today be seeing
                     <lb/>you soon . love from all friend and family . thanks giving picture
