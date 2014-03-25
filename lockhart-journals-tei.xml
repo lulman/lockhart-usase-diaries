@@ -516,7 +516,7 @@
                      extreme cold for long periods of time affects the human body. The Antarctic peak Mount 
                      Frazier was named after him in 1947 <bibl><ref target="#MFrazier"><title level="a">Mount Frazier</title></ref></bibl>.</note>
                </person>
-               <person xml:id="mamma" source="KoulorisCorrespondence">
+               <person xml:id="mamma" source="#koulouris">
                   <persName>Westhaver, Celeste Althea <addName type="formal">Mrs. Clinton Daniel Lockhart</addName></persName>
                   <birth when="1880-10-23"></birth>
                   <death when="1957-10"></death>
@@ -527,7 +527,7 @@
                      knew each other beforehand is unclear. While her son, Ernest Lockhart, was in 
                      Antarctica, Celeste Althea often corresponded with him via radiogram.</note>
                </person>
-               <person xml:id="Beatie" source="KoulourisCorrespondence">
+               <person xml:id="Beatie" source="#koulouris">
                   <persName>Lockhart, Beatrice R. <addName type="nickname">Beatie</addName></persName>
                   <birth when="1905-05"></birth>
                   <death when="1990-07"></death>
@@ -907,7 +907,7 @@
                   journals when he talks about the Tractor Party"s route returning to base. </desc>
                </place>
                
-               <place type="city" xml:id="helsinki" source="#eel-19401231e #TGN #koulouris">
+               <place type="city" xml:id="helsinki" source="#eel-19401231e #TGN">
                   <placeName>Helsinki</placeName>
                   <country>Finland</country>
                   <desc>Located on peninsula in Gulf of Finland. In a radiogram to Dr. Lockhart, his mother writes of having 'snaps' 
@@ -1118,8 +1118,7 @@
             formatting (e.g., titles). -->
                
                <head>Works Cited</head>
-               
-                <bibl xml:id="koulouris" n="koulouris">Koulouris, Paul. "Lockhart Info.doc." Message to the editors. 10 March 2013. E-mail attachment. Earl Lockhart's nephews,
+               <bibl xml:id="koulouris" n="koulouris">Koulouris, Paul. "Lockhart Info.doc." Message to the editors. 10 March 2013. E-mail attachment. Earl Lockhart's nephews,
                   Paul Koulouris and George Lockhart, as well as George Lockhart's mother, Mary Guernsey Lockhart, provided the editors with biographical details about
                   the Lockhart family.</bibl>
                <bibl xml:id="LyonDarwin" n="Homo vs. Darwin">Lyon, William Penman <title level="a">Homo versus Darwin : a judicial examination of statements recently published by Mr. Darwin regarding "The descent of man."</title> <title level="s">Archive.org</title> 
@@ -1260,8 +1259,10 @@
                   http://www.uscg.mil/history/webcutters/North_Star_1941.pdf</bibl>
                <bibl xml:id="Shipscribe" n="Shipscribe"><title level="a">North Star (IX-148) Photographs.</title><title level="m">Shipscribe.com</title>, n.p., n.d. Web. 25 February 2014.
                   http://www.shipscribe.com/usnaux/IX3/IX148-p.html</bibl>
-               <bibl xml:id="NatGeo" n="NatGeo"><title level="a">Arctic Skua</title><title level="m">National Geographic</title>, National Geogrpahic, n.d. Web. 20 March 2014.
-                  http://animals.nationalgeographic.com/animals/birds/arctic-skua/.</bibl>
+               <bibl xml:id="PerkBiology" n="Perkins">Perkins, Jack E. <title level="a">Biology at Little America III, 
+                  the West Base of the United States Antarctic Service Epedition 1939-1941.</title> 
+                  <title level="j">Proceedings of the American Philosophical Society</title> 89. 1 (1945): 272-273. 
+                  Print. <title level="j">JSOTR.</title> Web. 18 Mar. 2014.</bibl>
             </listBibl>
             
          </sourceDesc>
@@ -1922,11 +1923,20 @@
                  <lb/>finished up just in time for me to take the noon observation
                  <lb/>and change the sheets. In the afternoon I began jumping
                  <lb/>the gas analysis apparatus and after finishing that <seg ana="metaphor">made an
-                 <lb/>end of</seg> <title type="m">Death Sails with Magellan</title> <ptr type="noteAnchor" target=" #NoteMagellan3"/> <note xml:id="NoteMagellan3" type="annotation">See note on page 11</note>. No gun practice today
+                 <lb/>end of</seg> <title type="m">Death Sails with Magellan</title> <note target="#NoteMagellan" type="annotation">See note on page 11</note>. No gun practice today
                  <lb/>After dinner got ready for the urine analysis and completed
                  <lb/>my sock washing. Then came the seal chopping chore. The dogs
                  <lb/>sure make a fuss over the seal meat probably because they
-                 <lb/>are getting plenty of it. <persName><unclear cert="medium">Sut</unclear></persName> brought in the first Adelie
+                 <lb/>are getting plenty of it. <persName><unclear cert="medium">Sut</unclear></persName> brought in the first Adelie<ptr type="noteAnchor" target="AdPen"/>
+                 <note resp="ed" xml:id="AdPen">Adelie penguins (Pygoscelis adeliae) were one of the many types 
+                    of animals studied by the scientists on this expedition. Similar to Lewis and Clark and their
+                    cataloging of the plants and animals they found during their exploration of the Louisiana 
+                    Territory in the early 1800s, <persName ref="#Perk">Jack Perkins</persName> spent much of his 
+                    time researching Antarctic animals. For knowledge’s sake, he caught them, skinned some of 
+                    them for their pelts, drew their blood, and even tried to take some of the animals back to
+                    the United States for further study. Attempts to transport these creatures, however, were 
+                    unsuccessful <bibl><ref target="#PerkBiology">"Biology at Little America III, the West Base
+                    of the United States Antarctic Service Expedition 1939-1941"</ref></bibl>.</note>
                  <lb/>penguin and <persName ref="#Perk">Perk</persName> has been spending most of the evening
                  <lb/>drawing blood and skinning it. There should be more of them
                  <lb/>in one the ice within the next few days. <persName ref="#Asman">Asman</persName> and <persName ref="#Pete">Pete</persName> took
@@ -2068,7 +2078,7 @@
                   <lb/><persName ref="#Perk">Jack Perkins</persName> has just completed some beautiful jobs on the
             <pb facs="journal-2-21" n="/6/62075637-9661-48cc-b73d-16b55c7b6a3c"/>
             <fw type="pageNum" place="top">17</fw>
-                  <lb/>Adelie an Emperor and a snowy petrel. The skins have
+                  <lb/>Adelie<ptr type="noteAnchor" target="AdPen"/> an Emperor and a snowy petrel. The skins have
                   <lb/>turned out beautifully.
                </p>
                <p>
@@ -2076,7 +2086,7 @@
                   <lb/>and in <persName ref="#mamma">mamma's</persName> she said that she was expecting a penguin
                   <lb/>skin and since there seem to be plenty of Emperors around
                   <lb/>perhaps I should get busy and skin one myself. I
-                  <lb/>hope to get an Adelie at least later on. They are small
+                  <lb/>hope to get an Adelie<ptr type="noteAnchor" target="AdPen"/> at least later on. They are small
                   <lb/>enough <del rend="strikethrough">to</del> not to be <choice><sic>to</sic><corr>too</corr></choice> bothersome and would make
                   <lb/>something really unique for a den. I hope also to get
                   <lb/>a skua gull and a snowy petrel but the chances are
