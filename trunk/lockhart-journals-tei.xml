@@ -992,9 +992,8 @@
                <place type="unknown" xml:id="FortWiener" source="#eel-19401225a">
                   <placeName>Fort Wiener</placeName>
                   <country>Antartica</country>
-                  <desc>More than likely the Barracks or tent of Murray Wiener</desc>
+                  <desc>More than likely the Barracks or tent of Murray Wiener. There is not mention of an actual Fort Wiener beyond this journal that can be found, therefore leading to the belief that this location is actually a nickname for the barracks or a tent of Murry Wiener.</desc>
                   <location cert="unknown"></location>
-                  <note>There is not mention of an actual Fort Wiener beyond this journal that can be found, therefore leading to the belief that this location is actually a nickname for the barracks or a tent of Murry Wiener.</note>
                </place>
                <place type="city" xml:id="HydePark" source="#eel-journal2-radiograms #eel-19401226b">
                   <placeName>Hyde Park</placeName>
