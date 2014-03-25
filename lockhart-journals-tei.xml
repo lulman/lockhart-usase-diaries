@@ -1118,9 +1118,12 @@
             formatting (e.g., titles). -->
                
                <head>Works Cited</head>
-               <bibl xml:id="koulouris" n="koulouris">Koulouris, Paul. "Lockhart Info.doc." Message to the editors. 10 March 2013. E-mail attachment. Earl Lockhart's nephews,
+               
+                <bibl xml:id="koulouris" n="koulouris">Koulouris, Paul. "Lockhart Info.doc." Message to the editors. 10 March 2013. E-mail attachment. Earl Lockhart's nephews,
                   Paul Koulouris and George Lockhart, as well as George Lockhart's mother, Mary Guernsey Lockhart, provided the editors with biographical details about
                   the Lockhart family.</bibl>
+               <bibl xml:id="LyonDarwin" n="Homo vs. Darwin">Lyon, William Penman <title level="a">Homo versus Darwin : a judicial examination of statements recently published by Mr. Darwin regarding "The descent of man."</title> <title level="s">Archive.org</title> 
+                  Philadelphia: Claxton, Remsen and Haffelfinger, 1872. Web. 24 March 2014.  https://archive.org/details/homoversusdarwin00lyonrich</bibl>
                <bibl xml:id="WikiGWTW" n="Gone With the Wind"><title level="a">Gone With the Wind</title><title level="s">Wikipedia, the free encylopedia</title>
                   http://en.wikipedia.org/wiki/Gone_with_the_Wind 18 Mar 2014. Web. 18 Mar 2014.</bibl>
                <bibl xml:id="GMTAntarctica" n="AntarcticaStandardTime"><title level="a">Antarctica</title><title level="s">Greenwich Mean Time</title>
@@ -1718,7 +1721,7 @@
                   <p>
                      <lb/>At this time&#x2014;about 2 AM&#x2014;I don't feel particularly
                      <lb/>tired so am staying up<unclear>.</unclear> I ha<subst instant="true"><del type="overwritten">d</del><add place="inline">ve</add></subst>d been reading <title level="m">Death
-                        <lb/>Sails with Magellan</title> <ptr type="noteAnchor" target="#NoteMagellan"/><note resp="ed" xml:id="NoteMagellan">A novel set during Magellan's voyage from the point of view of his crewmen, ending in his death, written in 1937 <bibl><ref target="#Magellan">Death Sails With Magellan</ref></bibl> </note> but stopped to help <persName>Count</persName> release
+                        <lb/>Sails with Magellan</title> <ptr type="noteAnchor" target="#NoteMagellan"/><note resp="ed" xml:id="NoteMagellan">A novel set during Magellan's voyage from the point of view of his crewmen, ending in his death, written in 1937 <bibl><ref target="#Magellan">"Death Sails With Magellan"</ref></bibl> </note> but stopped to help <persName>Count</persName> release
                      <lb/>one of his <choice><sic>raysende</sic><corr>radiosonde</corr></choice> <choice><sic>ballons</sic><corr>balloons</corr></choice><ptr type="noteanchor" target="noteradiosondeballoons1"/><note>Radiosonde balloons were used to fly into the air and measure atmospheric parameters. The measurements were then sent back to a fixed reciever in the balloon house.</note>. It got caught in one of
                      <lb/><persName>Railey's</persName> antennas but I was able to climb the pole
                      <lb/>and free it. While helping him I noticed a bunch
@@ -1919,7 +1922,7 @@
                  <lb/>finished up just in time for me to take the noon observation
                  <lb/>and change the sheets. In the afternoon I began jumping
                  <lb/>the gas analysis apparatus and after finishing that <seg ana="metaphor">made an
-                 <lb/>end of</seg> <title type="m">Death Sails with Magellan</title> <note target="#NoteMagellan" type="annotation">See note on page 11</note>. No gun practice today
+                 <lb/>end of</seg> <title type="m">Death Sails with Magellan</title> <ptr type="noteAnchor" target=" #NoteMagellan3"/> <note xml:id="NoteMagellan3" type="annotation">See note on page 11</note>. No gun practice today
                  <lb/>After dinner got ready for the urine analysis and completed
                  <lb/>my sock washing. Then came the seal chopping chore. The dogs
                  <lb/>sure make a fuss over the seal meat probably because they
@@ -1947,7 +1950,7 @@
                <lb/>little --- but not much.
             </p>
             <p>
-               <lb/>I began reading <title>Gone with the Wind</title><ptr type="noteAnchor" target="#NoteGTW"/><note resp="ed" xml:id="NoteGTW">The 1936 novel by Margaret Mitchell about the fate of plantation heiress Scarlett O'Hara, infamous for its almost nostalgic portrayal of slavery and plantation life, but also extremely popular internationally to this day. Famously adapted into the 1939 film starring Vivien Leigh and Clark Gable, which Lockhart also discusses<bibl><ref target="#WikiGWTW"></ref></bibl></note> and hope it won't
+               <lb/>I began reading <title>Gone with the Wind</title><ptr type="noteAnchor" target="#NoteGTW"/><note resp="ed" xml:id="NoteGTW">The 1936 novel by Margaret Mitchell about the fate of plantation heiress Scarlett O'Hara, infamous for its almost nostalgic portrayal of slavery and plantation life, but also extremely popular internationally to this day. Famously adapted into the 1939 film starring Vivien Leigh and Clark Gable, which Lockhart also discusses<bibl><ref target="#WikiGWTW">"Gone with the Wind. Wikipedia."</ref></bibl></note> and hope it won't
                <lb/>take too much of my time.
             </p>
             <p>
@@ -1980,7 +1983,7 @@
             <p>
                <lb/>Yesterday which normally would have been written up early
                <lb/>this morning <seg ana="metaphor">slipped by</seg> with no entry entirely because I had
-               <lb/>gotten so far into <title>Gone with the Wind</title> that wartime was a thing
+               <lb/>gotten so far into <title>Gone with the Wind</title> <ptr type="noteAnchor" target="#NoteGTW2"/><note xml:id="NoteGTW2" type="annotation" resp="ed">See note on page 17</note>that wartime was a thing
                <lb/>of minor importance.  I read that amazing <subst><del rend="strikethrough">epis</del><add place="above">narrative</add></subst> of life
                <lb/>among the Southerners during the <name>Civil War</name> days until almost
                <lb/>AM.  I wasn't reading all of the time but enough of the time 
@@ -2235,7 +2238,7 @@
                     <lb/>when the <name type="aircraft" ref="#Condor">Condor</name> was 500 miles from the base. </p>
                  <p>
                  <lb/>My reading has tended to be southern in nature<unclear>.</unclear>
-                 <lb/>After finishing <title>Gone with the Wind</title><!-- might be a slightly larger space than usual after Wind --> I started in on <title>South
+                 <lb/>After finishing <title>Gone with the Wind</title><ptr type="noteAnchor" target="#NoteGTW3"/> <note resp="ed" xml:id="NoteGTW3" type="annotation">See note on page 17</note><!-- might be a slightly larger space than usual after Wind --> I started in on <title>South
                  <lb/>Moon Under</title><!-- might be another slightly space after Under --> and found it to be concerned with poor
             
                     <pb facs="journal 2-26" n= "/6/619ac374-eef5-49d7-8b1c-12661079e5ed"/>
@@ -2244,7 +2247,7 @@
                   <lb/>whites in <placeName>Florida</placeName>. I have spoken to <persName ref="#Shirley">Shirley</persName> about it and 
                   <lb/>hope he <unclear cert="high">reads</unclear> it. I should like to know if it at all <unclear cert="unknown">aw</unclear>
                   <lb/>accurate picture of the State where he lived much of his boyhood.
-                  <lb/><title level="m">Gone with the Wind</title> tapered off slightly in <unclear cert="high">interest</unclear> and left me
+                  <lb/><title level="m">Gone with the Wind</title><ptr type="noteAnchor" target="NoteGTW4"/><note resp="ed" xml:id="NoteGTW4" type="annotation">See note on page 17</note> tapered off slightly in <unclear cert="high">interest</unclear> and left me
                   <lb/>hanging in the air. I am not certain whether <persName type="fictional">Rhett Butler</persName>
                   <lb/>and <persName type="fictional">Scarlett</persName> should have found happiness or whether the ending 
                   <lb/>as <persName>Margaret Mitchell</persName> made it was more in keeping with the
@@ -2339,7 +2342,7 @@
                  <lb/>I then fed the dogs and left them tired but contented
                  <lb/>Before going to bed I did an air sample and read a
                  <lb/>little. After I was in bed I also read. My bedtime reading 
-               <lb/>consists of <title type="no-fictionalbook">Homo versus Mr <persName>Darwin</persName></title> a discussion of <persName>Darwin</persName>
+               <lb/>consists of <title type="no-fictionalbook">Homo versus Mr <persName>Darwin</persName></title><ptr type="noteAnchor" target="NoteLyon"/> <note resp="ed" xml:id="NoteLyon">Much like Lockhart describes, a book that examines statements Darwin made before or around 1872 on his then recently published The Descent of Man, that takes a mostly negative stance on his work. <bibl><ref target="#LyonDarwin">"Homo vs. Darwin"</ref></bibl></note>a discussion of <persName>Darwin</persName>
                  <lb/>then most recent book <title type="non-fictionalbook">The Descent of Man</title>. I bought the former
                  <lb/>in <placeName ref="#NewZealand">New Zealand</placeName> to accompany the latter which I have at home
             </p>
@@ -2362,7 +2365,7 @@
                </p>
                <p>
                   <lb/>After doing an air sample I read most of the afternoon
-                  <lb/>I am learning a great deal from <title level="m" ref="Stefansson">Hunters of the Great North</title>
+                  <lb/>I am learning a great deal from <title level="m" ref="Stefansson">Hunters of the Great North</title><ptr target="NoteStefansson" type="noteAnchor"/><note xml:id="NoteStefansson" resp="ed">An account of Vilhjalmur Stefansson's Alaskan expedition in 1906-1907 <bibl><ref target="#Stefansson">"Hunters of the Great North"</ref></bibl> </note>
                   <lb/>and was especially please to come <del rend="strikethrough">a pa</del> across a passage
                   <lb/>on dog driving which was my theory of dog driving in black
                   <lb/>and white; it goes as follows. page 118. <quote>"The Eskimo idea
