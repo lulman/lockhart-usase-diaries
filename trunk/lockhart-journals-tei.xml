@@ -747,8 +747,13 @@
                   <residence>East Orange, N.J.</residence>
                   <note type="biographical">Malcolm was a sled dog driver on the Expedition who at one point
                   expressed his mood by stating that he may just walk off the base, suggesting suicidal
-                  thoughts.</note>
-               </person>
+                  thoughts.</note></person>
+                  <person xml:id="MargaretMann" source="eel-19410116"> <persName>Mann, Margaret</persName>
+               <birth>unknown</birth> <death>unknown</death> <note type="biographical">Sent radiograms to Lockhart. No other information is known about this person.</note></person>
+               <person xml:id="Daumcarden" source="#eel-19410116"> <persName>Daumcarden</persName>
+               <birth>unknown</birth>
+               <death>unknown</death>
+               <note type="biographical">Mentioned in radiogram sent to Lockhart by Margaret Mann. No other information has been found about this person.</note></person>
             </listPerson>
             
             <listPerson type="editors">
@@ -3039,12 +3044,12 @@
                   </opener>
                  <lb/><p>4x14 X SORRY DIDNT GET LETTER OFF ON <name>NORTH STAR</name> X
                  <lb/>WILL WRITE MAIL CARE CONSUL AT <placeName>VALPO</placeName> AS SUPPOSE YOU WILL PICK
-                 <lb/>UP MAIL THERE X <persName>DAUMCARDEN</persName> NOT ABLE TO CONTACT YOU X EAGERLY 
+                 <lb/>UP MAIL THERE X <persName ref="#Daumcarden">DAUMCARDEN</persName> NOT ABLE TO CONTACT YOU X EAGERLY 
                  <lb/>AWAITING YOUR VISIT X HOPE TO GET LETTER FROM THERE
                  </p>
                  <lb/><closer>LOVE BON VOYAGE</closer>
                  <lb/> 
-                  <lb/><signed><persName>MARGARET MANN</persName></signed>
+                  <lb/><signed><persName ref="#MargaretMann">MARGARET MANN</persName></signed>
                <lb/><!-- FL is written to the far left of the telegram -->
                </div>
                
