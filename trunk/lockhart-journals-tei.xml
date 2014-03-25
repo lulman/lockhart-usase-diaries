@@ -1658,7 +1658,9 @@
                   <lb/>the lack of any follow up exercise today. 
                </p>
                <p>
-                  <lb/>All of the radiograms<ptr type="noteAnchor" target="radiogram"/> that had come in during my absence 
+                  <lb/>All of the radiograms<ptr type="noteAnchor" target="radiogram"/><note resp="ed" xml:id="radiogram"> These radiograms were messages sent via vocal radio 
+                     contact between the Expedition and the people back home. They served as the main form of contact throughout the Expedition <bibl><ref target="#QST">"U.S. Antarctic Service Expresses Appreciation"</ref></bibl></note>
+                     that had come in during my absence 
                   <lb/>were given to me. One of them had not been read over the air
                   <lb/>It was from <persName ref="#Beatie">Beatie</persName> and wished me a merry christmas. <seg ana="aetiologia">The main
                   <lb/>item of the message, however, lead me to believe that some of my 
@@ -1687,8 +1689,7 @@
                <p>  
                   <lb/>I slept very well in my old cloth bag. I am lost now
                   <lb/>that I don't have a watch and consequently with the present
-                  <lb/>schedule<ptr type="noteAnchor" target="schedule"/><note resp="ed" xml:id="radiogram"> These radiograms were messages sent via vocal radio 
-                       contact between the Expedition and the people back home. They served as the main form of contact throughout the Expedition <bibl><ref target="#QST">"U.S. Antarctic Service Expresses Appreciation"</ref></bibl></note>
+                  <lb/>schedule<ptr type="noteAnchor" target="schedule"/>
                        I didn't know whether I should get up or try to go
                   <lb/>back to sleep. The predicament was relieved by <persName ref="#Arnold">Arnold</persName> who
                   <lb/>happened to pass by. I got up when he said it was 11 30
