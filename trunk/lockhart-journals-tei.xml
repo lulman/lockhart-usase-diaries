@@ -666,7 +666,7 @@
                   <birth when="1891-08-20"><placeName>Bradley Beach, NJ</placeName></birth>
                   <death when="1984"><placeName>Bradley Beach, NJ</placeName></death>
                   <occupation> American Polar Explorer, submariner and aviation pioneer and Navigator.</occupation>
-                  <note>Ike Schlossbach is referenced as "Schlossback" within the Journals written by Lockhart.</note>
+                  <note type="biographical">Ike Schlossbach is referenced as "Schlossback" within the Journals written by Lockhart.</note>
                </person>
                   <person xml:id="Wiener" source="#personnel">
                      <persName>Wiener,Murray</persName>
