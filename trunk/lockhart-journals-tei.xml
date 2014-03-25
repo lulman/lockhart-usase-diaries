@@ -546,7 +546,7 @@
                   Hawthorne was in league with Byrd in exaggerating the dangers of their expedition for publicity purposes.</note>
                </person>
                <person xml:id="Tony" source="#Passel #personnel #MColombo">
-                  <persName>Louis P. Colombo <addName type="nickname">Tony</addName></persName>
+                  <persName>Colombo, Louis P.<addName type="nickname">Tony</addName></persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
                   <occupation when="1940">Supply Man, Asisstant Mechanic</occupation>
@@ -555,7 +555,7 @@
                      well as the asisstant mechanic in varying sources. Mount Colombo, a mountain in the Ford Ranges, was later named for him.</note>
                </person>
                <person xml:id="Asman" source="#Passel #personnel #AsmanR #White">
-                  <persName>Adam Asman <addName type="nickname">Sgt., Nib, Nibble</addName></persName>
+                  <persName>Asman, Adam<addName type="nickname">Sgt., Nib, Nibble</addName></persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
                   <occupation when="1940">Tank Driver</occupation>
@@ -592,7 +592,7 @@
                   <note type="biographical">Lockhart received pictures of Peter while on the Expedition.</note>
                </person>
                <person xml:id="CharlesFord" source="#eel-19401228a">
-                  <persName>Charles Ford</persName>
+                  <persName>Ford, Charles</persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
                   <occupation when="1940">It is unknown whether, at this time, he had any other occupation beyond being an author.</occupation>
@@ -606,7 +606,7 @@
                   <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
                <person xml:id="BuckBoyd" source="#Passel #personnel #BoydG">
-                  <persName>Vernon D. Boyd <addName type="nickname">Buck</addName></persName>
+                  <persName>Boyd, Vernon D.<addName type="nickname">Buck</addName></persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
                   <occupation when="1940">Master Mechanic</occupation>
@@ -622,7 +622,7 @@
                   <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
                <person xml:id="BillLeckie" source="#eel-19410427">
-                  <persName>William Leckie <addName type="nickname">Bill</addName></persName>
+                  <persName>Leckie, William<addName type="nickname">Bill</addName></persName>
                   <birth when-custom="uknown"></birth>
                   <death when-custom="unknown"></death>
                   <occupation when="1941">Unknown</occupation>
@@ -638,7 +638,7 @@
                   <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
                <person xml:id="Klondicke" source="#Passel #personnel #MBerlin">
-                  <persName>Leonard M. Berlin<addName type="nickname">Klondicke, Len</addName></persName>
+                  <persName>Berlin, Leonard M.<addName type="nickname">Klondicke, Len</addName></persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
                   <occupation when="1940">Cadastral Engineer</occupation>
@@ -1522,7 +1522,7 @@
                   <lb/>could just see the base and the airplane looming on the
                   <lb/>horizon. <persName ref="#Tony">Tony</persName> had been seeing things for several hours
                   <lb/>but always he had to say <said aloud= "true" direct= "true">I guess I was wrong</said>
-                  <lb/>when a large <ref type="trailflag">trail flag</ref> <del rend= "strikethrough"><unclear cert="high">br</unclear></del> <ptr type="noteAnchor" target="#NoteTrail"/><note resp="ed" xml:id="NoteTrail">Dr. Lockhart makes several mentions to "the trail" and "trail flags/markers" throughout the journal; 
+                  <lb/>when a large <ref type="trailflag">trail flag</ref> <del rend= "strikethrough"><unclear cert="high">br</unclear></del> <ptr type="noteAnchor" target="NoteTrail"/><note resp="ed" xml:id="NoteTrail">Dr. Lockhart makes several mentions to "the trail" and "trail flags/markers" throughout the journal; 
                      he is likely referring to the trails created between the West Base and supply depots and/or science stations, for groups traveling to and from these locations. Lockhart was a member of one the trail parties, the Ford Ranges Biological Party, which was tasked with gathering biological information, 
                      and when possible, geological/glaciation data.<bibl><ref target="#Bertrand">"Americans in Antarctica"</ref></bibl></note> came into view. All sorts
                   <lb/>of thoughts began clicking through our minds as the <rs>base</rs>
@@ -1737,7 +1737,7 @@
                      <lb/>one of his <choice><sic>raysende</sic><corr>radiosonde</corr></choice> <choice><sic>ballons</sic><corr>balloons</corr></choice><ptr type="noteAnchor" target="noteradiosondeballoons1"/><note>Radiosonde balloons were used to fly into the air and measure atmospheric parameters. The measurements were then sent back to a fixed reciever in the balloon house.</note>. It got caught in one of
                      <lb/><persName>Railey's</persName> antennas but I was able to climb the pole
                      <lb/>and free it. While helping him I noticed a bunch
-                     <lb/>of skua gulls <ptr type="noteAnchor" target="#NoteSkua"/><note resp="ed" xml:id="NoteSkua">Arctic skuas, also known as "parasictic jaegers," are a type of seabird that primarily feed by stealing food from other birds, although they are known to hunt as well. These birds largely live at seas, except to come ashore in order to breed during the summer. Study of these birds was part of the 
+                     <lb/>of skua gulls <ptr type="noteAnchor" target="NoteSkua"/><note resp="ed" xml:id="NoteSkua">Arctic skuas, also known as "parasictic jaegers," are a type of seabird that primarily feed by stealing food from other birds, although they are known to hunt as well. These birds largely live at seas, except to come ashore in order to breed during the summer. Study of these birds was part of the 
                           mission to gather biological information on plants and animals native to the Arctic.<bibl><ref target="#NatGeo #Bertrand">"Arctic Skua"</ref></bibl></note>
                           on a refuse pile and decided to try my
                      <lb/>skill again. I walked carefully toward them with
