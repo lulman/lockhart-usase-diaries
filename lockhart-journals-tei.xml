@@ -1612,7 +1612,13 @@
                     <lb/>christmas I have ever experienced. 
                  </p>
                   <p>
-                     <lb/>The base has been operating on a very peculiar schedule 
+                     <lb/>The base has been operating on a very peculiar schedule<ptr type="noteAnchor" target="schedule"/>
+                     <note resp="ed" xml:id="schedule">The schedule that Lockhart frequently mentions refers to the daily
+                        schedule on which the camp operated. Members of the expedition kept schedules that corresponded 
+                        with their duties (cooking dinner, taking pictures, operating the radio, or taking air samples, 
+                        for example). The schedules were complicated by the odd hours of daylight during the Antarctic 
+                        summer; perhaps while out on the trail, the schedule was more strict than it was at the base because
+                        traveling by dogsled during daylight hours was easier and safer.</note>
                      <lb/>since the trail parties went out. <persName ref="#Gutenko">Gutenko</persName> gets up about 1-2
                      <lb/>PM and works preparing the only meal of the day a dinner
                      <lb/>The rest of the men get up anytime between 2 and 6 and then 
@@ -1627,7 +1633,7 @@
                      <lb/>nice bunch. <persName ref="#PappyGray">Pappy Gray</persName> has those which he harnesses to
                      <lb/>the airplane sled and drives around. In general the men
                      <lb/>here haven't much to do and take their time doing it.
-                     <lb/>The men who have regular schedules to meet such as the
+                     <lb/>The men who have regular schedules<ptr type="noteAnchor" target="schedule"/> to meet such as the
                      <lb/>radio men and the weather man appear at their regular 
                      <lb/>intervals but otherwise any semblance of regularity has
                      <lb/>disappeared. I was puzzled to see such a system of what
@@ -1642,7 +1648,7 @@
                   <lb/>the weather this new arrangement of sleeping days and 
                   <lb/>staying up nights became the vogue. We of the biological 
                   <lb/>party are finding it difficult to change from the rigorous
-                  <lb/>schedule we have been observing to this not so rigorous
+                  <lb/>schedule<ptr type="noteAnchor" target="schedule"/> we have been observing to this not so rigorous
                   <lb/>one of the base.
                </p>
                <p>
@@ -1681,7 +1687,7 @@
                <p>  
                   <lb/>I slept very well in my old cloth bag. I am lost now
                   <lb/>that I don't have a watch and consequently with the present
-                  <lb/>schedule I didn't know whether I should get up or try to go
+                  <lb/>schedule<ptr type="noteAnchor" target="schedule"/> I didn't know whether I should get up or try to go
                   <lb/>back to sleep. The predicament was relieved by <persName ref="#Arnold">Arnold</persName> who
                   <lb/>happened to pass by. I got up when he said it was 11 30
                   <lb/>The whole biological party was in the galley preparing breakfast
@@ -1821,7 +1827,7 @@
               <p>
                  <lb/>I had asked both <persName><unclear cert="medium">Peuk</unclear></persName> and <persName ref="#Tony">Tony</persName> to awaken me if either
                  <lb/>of them got up before 10 AM. I did this because already
-                 <lb/>I am begninng to tire of the present all-night schedule, and want
+                 <lb/>I am begninng to tire of the present all-night schedule<ptr type="noteAnchor" target="schedule"/>, and want
                  <lb/>to do my work in the day time. However neither of them were
                  <lb/>up when <persName>Pappy Reece</persName> called <persName>Bailey</persName> at 11 AM consequently
                  <lb/>it was that time when I got up. I had offered to take
@@ -1982,12 +1988,12 @@
             <lb/>At last the new year has
                <date when="1941-12-31"></date>Tuesday December 31 1941 <corr evidence="internal">1940</corr></dateline>
             <p>
-               <lb/>We have been operating such an erratic schedule and
+               <lb/>We have been operating such an erratic schedule<ptr type="noteAnchor" target="schedule"/> and
                <lb/>also have to deal with <term>Greenwich Mean Time</term><ptr type="noteAnchor" target="#GMT"/><note resp="ed" xml:id="GMT">Because the expedition is at one of the poles, they technically are in all time zones at once but experience it as a single day. They appear to have chosen GMT as their offical time to go by, which Lockhart has here temporarily lost track of.<bibl><ref target="#GMTAntarctica">"Antarctica"</ref></bibl></note> that
                <lb/>I have been confused concerning the day and date for
                <lb/>several days. Yesterday I thought today was to be New Year
                <lb/>and now that we are actually in the New Year by camp
-               <lb/>schedule I am still during today.  Now, however, I think 
+               <lb/>schedule<ptr type="noteAnchor" target="schedule"/> I am still during today.  Now, however, I think 
                <lb/>I am fairly well straightened out.
             </p>
             <p>
