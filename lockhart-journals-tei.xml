@@ -676,7 +676,7 @@
                   <note type="biographical">American Polar Explorer, submariner and aviation pioneer and Navigator.Ike Schlossbach is referenced as "Schlossback" within the Journals written by Lockhart.</note>
                </person>
                   <person xml:id="Wiener" source="#personnel">
-                     <persName>Wiener,Murray</persName>
+                     <persName>Wiener, Murray</persName>
                   <birth when="1909" precision="low"></birth>
                   <death when-custom="unknown"></death>
                   <occupation when="1940">Physicist and Dog Doctor</occupation>
@@ -999,21 +999,21 @@
                <place type="unknown" xml:id="FortWiener" source="#eel-19401225a">
                   <placeName>Fort Wiener</placeName>
                   <country>Antartica</country>
-                  <desc>More than likely the Barracks or tent of Murray Wiener. There is not mention of an actual Fort Wiener beyond this journal that can be found, therefore leading to the belief that this location is actually a nickname for the barracks or a tent of Murry Wiener.</desc>
+                  <desc>More than likely the barracks or tent of Murray Wiener. There is not mention of an actual Fort Wiener beyond this journal that can be found, therefore leading to the belief that this location is actually a nickname for the barracks or a tent of Murry Wiener.</desc>
                   <location cert="unknown"></location>
                </place>
                <place type="city" xml:id="HydePark" source="#eel-journal2-radiograms #eel-19401226b">
                   <placeName>Hyde Park</placeName>
                   <region type="state">Massachusetts</region>
                   <country>United States</country>
-                  <desc>Home of the Mahan family that Lockhart was close to. They lived more specficall on Arlington Street.</desc>
+                  <desc>Home of the Mahan family that Lockhart was close to. They lived on Arlington Street.</desc>
                   <location><geo>42.2556° N, 71.1244° W</geo></location>
                </place>
                <place type="city" xml:id="Wilmington" source="#eel-19401231">
                   <placeName>Wilmington, Delaware</placeName>
                   <region type="state">Delaware</region>
                   <country>United States</country>
-                  <desc>Wilmington is the home of Mary and Carl that Lockhart recieves radiograms from.</desc>
+                  <desc>Wilmington is the home of Mary and Carl, his brother and sister-in-law, that Lockhart recieves radiograms from.</desc>
                   <location><geo>39.7458° N, 75.5467° W</geo></location>
                </place>
                <place type="geography" xml:id="Equator" source="#eel-19410113a">
