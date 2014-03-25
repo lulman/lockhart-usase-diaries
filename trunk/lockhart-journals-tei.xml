@@ -238,7 +238,7 @@
                   Lockhart; Bertrand mentions a fire. After this engine failure or fire, the Condor was subsequently abandoned.</desc>
                </item>
                <item xml:id="Bear">
-                  <name type="ship">U.S.S. Bear, Bear of Oakland</name>
+                  <name type="ship" source="#Bertrand">U.S.S. Bear, Bear of Oakland</name>
                   <desc>One of two ships used on the 1939-41 expedition led by Admiral Byrd. Originally named the "Bear of Oakland," it was 
                      used during Admiral Byrd's second expedition (1933-35) as an ice ship, then later  reconditoned and comissioned by the 
                      U.S. navy as the "U.S.S. Bear" before being assigned to the 1939-41 expedition.</desc>
@@ -1254,6 +1254,8 @@
                   http://www.uscg.mil/history/webcutters/North_Star_1941.pdf</bibl>
                <bibl xml:id="Shipscribe" n="Shipscribe"><title level="a">North Star (IX-148) Photographs.</title><title level="m">Shipscribe.com</title>, n.p., n.d. Web. 25 February 2014.
                   http://www.shipscribe.com/usnaux/IX3/IX148-p.html</bibl>
+               <bibl xml:id="NatGeo" n="NatGeo"><title level="a">Arctic Skua</title><title level="m">National Geographic</title>, National Geogrpahic, n.d. Web. 20 March 2014.
+                  http://animals.nationalgeographic.com/animals/birds/arctic-skua/.</bibl>
             </listBibl>
             
          </sourceDesc>
@@ -1511,7 +1513,9 @@
                   <lb/>could just see the base and the airplane looming on the
                   <lb/>horizon. <persName ref="#Tony">Tony</persName> had been seeing things for several hours
                   <lb/>but always he had to say <said aloud= "true" direct= "true">I guess I was wrong</said>
-                  <lb/>when a large <ref type="trailflag">trail flag</ref> <del rend= "strikethrough"><unclear cert="high">br</unclear></del> came into view. All sorts
+                  <lb/>when a large <ref type="trailflag">trail flag</ref> <del rend= "strikethrough"><unclear cert="high">br</unclear></del> <ptr type="noteAnchor" target="#NoteTrail"/><note resp="ed" xml:id="NoteTrail">Dr. Lockhart makes several mentions to "the trail" and "trail flags/markers" throughout the journal; 
+                     he is likely referring to the trails created between the West Base and supply depots and/or science stations, for groups traveling to and from these locations. Lockhart was a member of one the trail parties, the Ford Ranges Biological Party, which was tasked with gathering biological information, 
+                     and when possible, geological/glaciation data.<bibl><ref target="#Bertrand">"Americans in Antarctica"</ref></bibl></note> came into view. All sorts
                   <lb/>of thoughts began clicking through our minds as the <rs>base</rs>
                
                <pb facs= "journal-2-06.jpg"/>
@@ -1715,7 +1719,9 @@
                      <lb/>one of his <choice><sic>raysende</sic><corr>radiosonde</corr></choice> <choice><sic>ballons</sic><corr>balloons</corr></choice><ptr type="noteanchor" target="noteradiosondeballoons1"/><note>Radiosonde balloons were used to fly into the air and measure atmospheric parameters. The measurements were then sent back to a fixed reciever in the balloon house.</note>. It got caught in one of
                      <lb/><persName>Railey's</persName> antennas but I was able to climb the pole
                      <lb/>and free it. While helping him I noticed a bunch
-                     <lb/>of skua gulls on a refuse pile and decided to try my
+                     <lb/>of skua gulls <ptr type="noteAnchor" target="#NoteSkua"/><note resp="ed" xml:id="NoteSkua">Arctic skuas, also known as "parasictic jaegers," are a type of seabird that primarily feed by stealing food from other birds, although they are known to hunt as well. These birds largely live at seas, except to come ashore in order to breed during the summer. Study of these birds was part of the 
+                          mission to gather biological information on plants and animals native to the Arctic.<bibl><ref target="#NatGeo #Bertrand">"Arctic Skua"</ref></bibl></note>
+                          on a refuse pile and decided to try my
                      <lb/>skill again. I walked carefully toward them with
                      <lb/>the revol<subst><del><gap reason="overwritten"/></del><add place="inline">ver</add></subst> ready but two of the pups came up
                      <lb/>passed me and scared them <damage agent="water" extent="0" unit="word"/>away. <!-- Not sure if this is a spelling error, passed for past 'came up past me and ..' or if it's a list lacking commas 'came up, passed me and ..'. Lockhart doesn't use commas consistently in lists, so it could be either --> Next time I
