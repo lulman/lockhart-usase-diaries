@@ -1996,8 +1996,8 @@
          <fw type="pageNum" place="top">14</fw>
          <div xml:id="eel-19411231" type="entry">
             <lb/><dateline><del rend="strikethrough">Wednesday January 1 1941</del>
-            <lb/>At last the new year has
-               <date when="1941-12-31"></date>Tuesday December 31 1941 <corr evidence="internal">1940</corr></dateline>
+               <lb/><del rend="strikethrough">At last the new year has</del>
+              <lb/><date when="1941-12-31"></date>Tuesday December 31 1941 <corr evidence="internal">1940</corr></dateline>
             <p>
                <lb/>We have been operating such an erratic schedule and
                <lb/>also have to deal with <term>Greenwich Mean Time</term><ptr type="noteAnchor" target="#GMT"/><note resp="ed" xml:id="GMT">Because the expedition is at one of the poles, they technically are in all time zones at once but experience it as a single day. They appear to have chosen GMT as their offical time to go by, which Lockhart has here temporarily lost track of.<bibl><ref target="#GMTAntarctica">"Antarctica"</ref></bibl></note> that
