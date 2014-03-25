@@ -364,21 +364,28 @@
                </person>
                <person xml:id="JackMahan">
                   <persName>Mahan, Jack</persName>
+                  <birth when-custom="unknown"></birth>
+                  <death when-custom="unknown"></death>
                   <note type="biographical">A friend of Lockhart's whose father passed away during Christmas of 1940.</note>
                </person>
                <person xml:id="MrsMahan">
                   <persName>Mrs. Mahan</persName>
+                  <birth when-custom="unknown"></birth>
+                  <death when-custom="unknown"></death>
                   <note type="biographical">The wife of Mr. Mahan and mother to Jack and Margaret Mahan. Lockhart sends her a radiogram
                   to extend his condolences regarding the death of her husband.</note>
                </person>
                <person xml:id="MrMahan">
                   <persName>Mr. Mahan</persName>
+                  <birth when-custom="unknown"></birth>
                   <death when="1940"></death>
                   <note type="biographical">The father of Lockhart's friend Jack. Mr. Mahan passed away during Lockhart's trip. He had suffered from heart trouble.
                      Lockhart is saddened by his death and reminisces about their relationship, remarking that Mr. Mahan would've liked to hear about Antarctica.</note>
                </person>
                <person xml:id="Gutenko" source="#personnel #MGutenko">
                   <persName>Gutenko, Sigmund</persName>
+                  <birth when-custom="unknown"></birth>
+                  <death when-custom="unknown"></death>
                   <occupation when="1940">Cook</occupation>
                   <residence when="1940">Baltimore, Maryland</residence>
                   <note type="biographical">Gutenko was the cook and steward for the West Base. He was from Baltimore, Maryland. The Gutenko Mountains
@@ -1245,10 +1252,10 @@
                <bibl xml:id="JamesCharles" n="JamesCharles"><title level="a">James Charles McCoy</title><title level="m">Ancestry.Com</title>N.p., n.d. Web. 27 February 2014.
                   http://records.ancestry.com/James_Charles_McCoy_records.ashx?pid=80142976</bibl>
             
-               <bibl xml:id="IMBdRB" n="IMBdRB"><title level="a">Risky Business</title><title level="m">IMDb</title>IMDb, n.d. Web.</bibl> 
-               <bibl xml:id="IMBdJF" n="IMBdJF"><title level="a">Jones Family in Hollywood</title><title level="m">IMDb</title>IMDb, n.d. Web.</bibl>
-               <bibl xml:id="IMBdGwtW" n="IMBdGwtW"><title level="a">Gone with the Wind</title><title level="m">IMDb</title>IMDb, n.d. Web.</bibl>
-               <bibl xml:id="IMBdB" n="IMBdB"><title level="a">Blondie</title><title level="m">IMDb</title>IMDb, n.d. Web.</bibl>
+               <bibl xml:id="IMBdRB" n="IMBdRB"><title level="a">Risky Business</title><title level="m">IMDb</title> IMDb, n.d. Web.</bibl> 
+               <bibl xml:id="IMBdJF" n="IMBdJF"><title level="a">Jones Family in Hollywood</title><title level="m"> IMDb</title>IMDb, n.d. Web.</bibl>
+               <bibl xml:id="IMBdGwtW" n="IMBdGwtW"><title level="a">Gone with the Wind</title><title level="m"> IMDb</title>IMDb, n.d. Web.</bibl>
+               <bibl xml:id="IMBdB" n="IMBdB"><title level="a">Blondie</title><title level="m">IMDb</title> IMDb, n.d. Web.</bibl>
                <bibl xml:id="ExploratoryFlights" n="ExploratoryFlights">Hawthorne, Roger. <title level="a">Exploratory Flights of Admiral Byrd (1940).
                </title><title level="j">Proceedings of the American Philosophical Society</title> 89.1 (30 April 1945): 398a-398e. Print. </bibl>
                <bibl xml:id="DailySentinel" n="DailySentinel">Butterfield, C.E. <title level="a">Radio Day by Day.</title><title level="j">Daily
@@ -1598,10 +1605,10 @@
                   
                      <lb/>christmas spirit and strawberry pie to top things off then
                      <lb/>more lulling until <seg ana="metaphor">show time</seg>. We saw the <title level="m" ref="#jfih">Jones family in
-                     <lb/>Hollywood</title><ptr type="noteAnchor" target="notemovies1"/><note resp="ed" xml:id="jfih">A 1939 comedy starring Jed Prouty and Spring Byington.
+                     <lb/>Hollywood</title><ptr type="noteAnchor" target="notemovies1"/><note resp="ed" xml:id="notemovies1">A 1939 comedy starring Jed Prouty and Spring Byington.
                          <bibl><ref target="#IMBdJF">"Jones Family in Hollywood"</ref></bibl></note>
                   and <title level="m" ref="#rb">Risky Business</title> <ptr type="noteAnchor" target="notemovies2"/>
-                  <note resp="ed" xml:id="rb">A 1939 crime drama starring George Murphy and Dorothea Kent. There is no relation to the 1983 movie of the same name starring Tom Cruise.
+                  <note resp="ed" xml:id="notemovies2">A 1939 crime drama starring George Murphy and Dorothea Kent. There is no relation to the 1983 movie of the same name starring Tom Cruise.
                      <bibl><ref target="#IMBdRB">"Risky Business</ref></bibl></note>. I enjoyed both of them.
                   </p>
                   <p>
@@ -1699,10 +1706,10 @@
                   <lb/>delicious <add place="above" rend="^">were</add> the oatmeal and cocoa of the trail. Although I
                   <lb/>meant to get going on my cleaning up for metabolism tests
                   <lb/>but I started writing reading and talking so very little was 
-                  <lb/>done. <persName ref="#BuckBoyd">Buck Boyd</persName> and I went skiing down to the <geogName ref="#BarrierEdge">barrier edge</geogName><ptr type="noteAnchor" target="barrieredge"/><note resp="ed" xml:id="Barrieredge">
-                     Lockhart is likely referring to the edge of the Ross Ice Shelf<bibl><ref target="#CharliePassel">"Map"</ref></bibl></note>
+                  <lb/>done. <persName ref="#BuckBoyd">Buck Boyd</persName> and I went skiing down to the <geogName ref="#BarrierEdge">barrier edge</geogName><ptr type="noteAnchor" target="barrieredge"/><note resp="ed" xml:id="barrieredge">
+                     Lockhart is likely referring to the edge of the Ross Ice Shelf<bibl><ref target="#Passel">"Map"</ref></bibl></note>
                   <lb/>to see if the blizzard had carried out any of the <geogName>bay</geogName><ptr type="noteAnchor" target="bay"/><note resp="ed" xml:id="bay">
-                    The Bay of Whales<bibl><ref target="#CharliePassel">"Map"</ref></bibl></note> ice.
+                    The Bay of Whales<bibl><ref target="#Passel">"Map"</ref></bibl></note> ice.
                   <lb/>We found that the whole <geogName>bay</geogName> was still iced over and unless
                   <lb/>something drastic happens within the next two weeks we certainly
                   <lb/>are going to have a very difficult time getting out of this place.
@@ -2275,7 +2282,7 @@
                   <lb/>read the book and thought about the movie that has been made
                   <lb/>from it <persName>Clark Gable</persName> certainly is the man to play <persName type="fictional">Rhett Butler</persName>
                     <lb/>I am not so sure about <persName>Vivien Leigh</persName> as <persName type="fictional">Scarlett</persName><ptr type="noteAnchor" target="notemovies3"/>
-                    <note resp="ed" xml:id="GwtW">The film "Gone with the Wind" was released in 1939 to rave reviews. Over 1,400 actresses auditioned for the part of Scarlett O'Hara before Vivian Leigh was chosen.<bibl><ref target="#IMBdGwtW">"Gone with the Wind"</ref></bibl></note>!
+                    <note resp="ed" xml:id="notemovies3">The film "Gone with the Wind" was released in 1939 to rave reviews. Over 1,400 actresses auditioned for the part of Scarlett O'Hara before Vivian Leigh was chosen.<bibl><ref target="#IMBdGwtW">"Gone with the Wind"</ref></bibl></note>!
                   </p>
                   <p>
                   <lb/>We had a mail bag today from <placeName>Kansas City</placeName> but <unclear cert="high">the</unclear> re-
@@ -2442,7 +2449,7 @@
                </p>
                <p>
                   <lb/>This evening we had a reshow of <title level="m" ref="#Blondie">Blondie</title><ptr type="noteAnchor" target="notemovies4"/>
-                  <note resp="ed" xml:id="B">A 1938 comedy starring Penny Singleton as Blondie Bumstead. This was the first of 28 movies about Blondie and her husband Dagwood.<bibl><ref target="#IMBdB">"Blondie"</ref></bibl></note> which made
+                  <note resp="ed" xml:id="notemovies4">A 1938 comedy starring Penny Singleton as Blondie Bumstead. This was the first of 28 movies about Blondie and her husband Dagwood.<bibl><ref target="#IMBdB">"Blondie"</ref></bibl></note> which made
                   <lb/>us laugh as much as if it were only the first time we had
                   <lb/>seen it.
                </p>
