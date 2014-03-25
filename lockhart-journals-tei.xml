@@ -328,7 +328,7 @@
                <person xml:id="Shirley" source="#personnel">
                   <persName>Shirley, Charles S.</persName>
                   <occupation when="1940">photographer</occupation>
-                  <note type="biographical">A photographer on the expedition. Was from San Diego California, worked both bases, and would have been survived by his wife Anna.</note>
+                  <note type="biographical">A photographer on the expedition. Was from San Diego California, worked both bases, and would have been survived by his wife Anna.<bibl><ref target="#personnel">"Personnel 1939-1940"</ref></bibl></note>
                </person>
                <person xml:id="Richardson" source="#Passel #personnel">
                   <persName>Richardson H. H. <addName type="nickname">Jack</addName></persName>
