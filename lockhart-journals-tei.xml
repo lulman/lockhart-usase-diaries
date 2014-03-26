@@ -1276,7 +1276,7 @@
                <bibl xml:id="PerkBiology" n="Perkins">Perkins, Jack E. <title level="a">Biology at Little America III, 
                   the West Base of the United States Antarctic Service Epedition 1939-1941.</title> 
                   <title level="j">Proceedings of the American Philosophical Society</title> 89. 1 (1945): 272-273. 
-                  Print. <title level="j">JSOTR.</title> Web. 18 Mar. 2014.</bibl>
+                  Print. <title level="j">JSTOR.</title> Web. 18 Mar. 2014.</bibl>
                <bibl xml:id="PolarTimes" n="PolarTimes"><title level="a">Understanding the Past and the Present</title><title level="m">Discovering Antartica</title> N.p., n.d. Web. 25 March 2014.
                   http://www.discoveringantarctica.org.uk/multimedia/flash/13/meltdown/13_understanding_meltdown.html</bibl>
             </listBibl>
@@ -1632,9 +1632,14 @@
                      <note resp="ed" xml:id="schedule">The schedule that Lockhart frequently mentions refers to the daily
                         schedule on which the camp operated. Members of the expedition kept schedules that corresponded 
                         with their duties (cooking dinner, taking pictures, operating the radio, or taking air samples, 
-                        for example). The schedules were complicated by the odd hours of daylight during the Antarctic 
-                        summer; perhaps while out on the trail, the schedule was more strict than it was at the base because
-                        traveling by dogsled during daylight hours was easier and safer.</note>
+                        for example). The schedules were complicated by the odd hours of daylight in Antarctica: during the
+                        height (December/January) of summer, there was continuous light. In his diary, Charlie Passel notes
+                        that periods of darkness gradually increased beginning in March, and by late April, winter had set 
+                        in, and it was continuously dark. The sun returned, faintly at first, near the end of August. 
+                        Lockhart mentions the schedule around camp being quite lax, and Passel's diary confirms this. 
+                        Passel cites the cook's accidental but frequent sleeping in as the source of the problem. Presumably, 
+                        while on on the trail, the schedule was more closely followed becasue there were less people to account
+                        for.<bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref></bibl></note>
                      <lb/>since the trail parties went out. <persName ref="#Gutenko">Gutenko</persName> gets up about 1-2
                      <lb/>PM and works preparing the only meal of the day a dinner
                      <lb/>The rest of the men get up anytime between 2 and 6 and then 
