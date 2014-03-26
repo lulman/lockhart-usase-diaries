@@ -69,7 +69,7 @@
         text-align: left;
         }
         #display2, #display3, #display4, #display5 {
-        margin-left: 50px;
+        margin-left: 115px;
         display: inline;
         float: left;
         margin-bottom: 0;
