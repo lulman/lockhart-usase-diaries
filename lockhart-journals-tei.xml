@@ -1661,7 +1661,10 @@
                   <lb/>the flying day when everyone was waiting for breaks in
                   <lb/>the weather this new arrangement of sleeping days and 
                   <lb/>staying up nights became the vogue. We of the biological 
-                  <lb/>party are finding it difficult to change from the rigorous
+                  <lb/>party <ptr type="noteAnchor" target="biological"/><note resp="ed" xml:id="biological">Lockhart was a member of the Biological Party which was a sledging party, and he acted as physiologist and radio operator for the party. The party was led by biologist Perkins and included a dog driver, Colombo, with 2 dog teams
+                     each pulling 2 sleds in tandem, Richardson, who served as meteorological observer and transferred to their party at 105-mile depot, and Fitzsimmons, physicist for the seismic station who left the Biological Party at 105-mile depot. The party's destination was the western mountains of Ford Ranges, and they 
+                     were tasked with gathering biological information as well as studying geology and glaciation. The party departed on October 15, 1940 and returned to camp on Dec 25, 1940 having traveled 725 miles in 72 days. On November 25, 1940 the biological party raised the US flag at slope at the southwest corner of peak No 167, west side of Mt Iphigene. 76 degrees 31’S 145 degrees 45’W.They
+                     succesfully brought back biological specimens and geological data as well as a daily meterological record, journal, and photos.<bibl><ref target="#Bertrand">"Americans in Antarctica"</ref></bibl></note> are finding it difficult to change from the rigorous
                   <lb/>schedule we have been observing to this not so rigorous
                   <lb/>one of the base.
                </p>
@@ -1721,7 +1724,7 @@
                   <lb/>Well we shan't worry about that for a while. 
                </p>
                <p>
-                  <lb/>I forgot to mention in yesterday's account that the tractor <ptr type="noteAnchor" target="#tractor"/><note resp="ed" xml:id="tractor">West Base had a T-20 International crawler style of tractor. It was used for transport and to stash supplies by pulling trains of sleds to lie food and fuel in caches and depots for the dog sled parties. The tractor went ahead of the sledding parties and established trails.<bibl><ref target="#Bertrand">"Americans in Antarctica"</ref></bibl></note>
+                  <lb/>I forgot to mention in yesterday's account that the tractor <ptr type="noteAnchor" target="#tractor"/><note resp="ed" xml:id="tractor">West Base had a T-20 International crawler style of tractor. It was used for transport, unloading supplies from the ships, and to stash supplies by pulling trains of sleds to lie food and fuel in caches and depots for the sledging parties. The tractor parties went ahead of the sledging parties and established trails.<bibl><ref target="#Bertrand">"Americans in Antarctica"</ref></bibl></note>
                   <lb/>had gone into a crevase about 10 miles from <placeName ref="#depot105">105</placeName> and the 
                   <lb/>situation looked impossible. Since the storm was raging out
                   <lb/>there <seg ana="adynaton">nothing could be done at the moment.</seg> Today at <del rend="strikethrough">the</del>
