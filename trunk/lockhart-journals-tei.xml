@@ -1627,7 +1627,7 @@
                          <bibl><ref target="#IMBdJF">"Jones Family in Hollywood"</ref></bibl></note>
                   and <title level="m" ref="#rb">Risky Business</title> <ptr type="noteAnchor" target="notemovies2"/>
                   <note resp="ed" xml:id="notemovies2">A 1939 crime drama starring George Murphy and Dorothea Kent. There is no relation to the 1983 movie of the same name starring Tom Cruise.
-                     <bibl><ref target="#IMBdRB">"Risky Business</ref></bibl></note>. I enjoyed both of them.
+                     <bibl><ref target="#IMBdRB">"Risky Business"</ref></bibl></note>. I enjoyed both of them.
                   </p>
                   <p>
                      <lb/>It had been blowing about 35-40 miles an hour all day
@@ -1734,9 +1734,9 @@
                   <lb/>meant to get going on my cleaning up for metabolism tests <ptr type="noteAnchor" target="metabolism"/><note resp="ed" xml:id="metabolism">Dr. Lockhart ran metabolism tests on volunteers to test the physiological effects of the cold. The volunteers were tested before and after a 3-month period on the trails and ate a specific diet. The results of the tests showed slightly lowered basal metabolism, increase in blood sugar levels, and changes in respiration and body temperature. For more information about their diets, see Lockhart's article.<bibl><ref target="#Bertrand">"Americans in Antarctica"</ref></bibl></note>
                   <lb/>but I started writing reading and talking so very little was 
                   <lb/>done. <persName ref="#BuckBoyd">Buck Boyd</persName> and I went skiing down to the <geogName ref="#BarrierEdge">barrier edge</geogName><ptr type="noteAnchor" target="barrieredge"/><note resp="ed" xml:id="barrieredge">
-                     Lockhart is likely referring to the edge of the Ross Ice Shelf <bibl><ref target="#Passel">"Ice: The Antarctic Diary of Charles F. Passel"</ref></bibl></note>
+                     Lockhart is likely referring to the edge of the Ross Ice Shelf <bibl><ref target="#Passel"><title type="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref></bibl></note>
                   <lb/>to see if the blizzard had carried out any of the <geogName>bay</geogName><ptr type="noteAnchor" target="bay"/><note resp="ed" xml:id="bay">
-                     The Bay of Whales <bibl><ref target="#Passel">"Ice: The Antarctic Diary of Charles F. Passel"</ref></bibl></note> ice.
+                     The Bay of Whales <bibl><ref target="#Passel"><title type="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref></bibl></note> ice.
                   <lb/>We found that the whole <geogName>bay</geogName> was still iced over and unless
                   <lb/>something drastic happens within the next two weeks we certainly
                   <lb/>are going to have a very difficult time getting out of this place.
@@ -2309,7 +2309,7 @@
                   <lb/>read the book and thought about the movie that has been made
                   <lb/>from it <persName>Clark Gable</persName> certainly is the man to play <persName type="fictional">Rhett Butler</persName>
                     <lb/>I am not so sure about <persName>Vivien Leigh</persName> as <persName type="fictional">Scarlett</persName><ptr type="noteAnchor" target="notemovies3"/>
-                    <note resp="ed" xml:id="notemovies3">The film "Gone with the Wind" was released in 1939 to rave reviews. Over 1,400 actresses auditioned for the part of Scarlett O'Hara before Vivian Leigh was chosen.<bibl><ref target="#IMBdGwtW">"Gone with the Wind"</ref></bibl></note>!
+                    <note resp="ed" xml:id="notemovies3">The film <title type="a">Gone with the Wind</title> was released in 1939 to rave reviews. Like Lockhart, the producers found Scarlett O'Hara difficult to cast; over 1,400 actresses auditioned for the part before Vivian Leigh was chosen. <bibl><ref target="#IMBdGwtW">"Gone with the Wind"</ref></bibl></note>!
                   </p>
                   <p>
                   <lb/>We had a mail bag today from <placeName>Kansas City</placeName> but <unclear cert="high">the</unclear> re-
