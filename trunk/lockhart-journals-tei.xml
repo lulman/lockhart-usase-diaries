@@ -1721,7 +1721,7 @@
                   <lb/>Well we shan't worry about that for a while. 
                </p>
                <p>
-                  <lb/>I forgot to mention in yesterday's account that the tractor
+                  <lb/>I forgot to mention in yesterday's account that the tractor <ptr type="noteAnchor" target="#tractor"/><note resp="ed" xml:id="tractor">West Base had a T-20 International crawler style of tractor. It was used for transport and to stash supplies by pulling trains of sleds to lie food and fuel in caches and depots for the dog sled parties. The tractor went ahead of the sledding parties and established trails.<bibl><ref target="#Bertrand">"Americans in Antarctica"</ref></bibl></note>
                   <lb/>had gone into a crevase about 10 miles from <placeName ref="#depot105">105</placeName> and the 
                   <lb/>situation looked impossible. Since the storm was raging out
                   <lb/>there <seg ana="adynaton">nothing could be done at the moment.</seg> Today at <del rend="strikethrough">the</del>
@@ -2642,7 +2642,9 @@
                <lb/><del rend="strikethrough"><unclear cert="unknown"></unclear></del>irritation everyone else cause greatly little work has
                <lb/>been done. Movies have been shown to the sailors every 
                <lb/>night and after the shows <persName ref="#BuckBoyd">Buck</persName> takes them down to 
-               <lb/>the <unclear cert="low">barrier</unclear> on the <placeName ref="#WestBase">West Base</placeName> <unclear cert="low">limited</unclear> - the tractor with
+               <lb/>the <unclear cert="low">barrier</unclear> on the <placeName ref="#WestBase">West Base</placeName> <unclear cert="low">limited</unclear> - the 
+                
+                 with
                <lb/>the dog sled hitched on behind. I have given several
                <lb/>dog sled rides.
              </p>
