@@ -788,7 +788,13 @@
                      projects. He is delighted to be working at a time when manuscript, print, and
                      digital media can be studied in relationship to one another, allowing him and
                      his students to learn more about all three media than they could by studying
-                     any one in isolation.</note>
+                     any one in isolation.</note>                
+               </person>
+               <person>
+                  <persName>Layfield, Rachel</persName>
+                  <note type="biographical">Rachel Layfield is a third-year English major who is 
+                     minoring in both Professional Writing and French. Post-graduation, she plans to 
+                     earn her MLS and become a librarian.</note>
                </person>
             </listPerson>
             
@@ -930,13 +936,13 @@
                   <location><geo>60.1333 25.0000</geo></location>
                </place>
                
-               <place type="city" xml:id="Mattapan" source="#personnel #eel-19401226 #eel-19410104a">
+               <place type="city" xml:id="Mattapan" source="#personnel #eel-19401226 #eel-19410104a #koulouris">
                  	<placeName>Mattapan</placeName>
                   <country>United States</country>
                   <region type="county">Suffolk</region>
                   <region type="state">Massachusetts</region>
                   <desc>A suburb of Boston, MA where Mamma and Beatie lived. Dr. Lockhart is also listed as living here, 
-                     so this is presumably the Lockhart family's hometown.</desc>
+                     and this is where the three Lockhart children grew up.</desc>
                   <location><geo>42.27715 -71.091539</geo></location>
                </place>
                
@@ -2120,13 +2126,13 @@
                   <lb/>skin and since there seem to be plenty of Emperors around
                   <lb/>perhaps I should get busy and skin one myself. I
                   <lb/>hope to get an Adelie at least later on. They are small
-                  <lb/>enough <del rend="strikethrough">to</del> not to be <choice><sic>to</sic><corr>too</corr></choice> bothersome and would make
+                  <lb/>enough <del rend="strikethrough">to</del> not to be <choice> <sic>to</sic> <corr>too</corr></choice> bothersome and would make
                   <lb/>something really unique for a den. I hope also to get
                   <lb/>a skua gull and a snowy petrel but the chances are
                   <lb/>I shan't be able to.
                </p>
                <p>
-                  <lb/>I had a message from the <persName ref="#Guernsey"><choice><sic>Guernsey's</sic><corr>Guernseys</corr></choice></persName> today <del rend="strikethrough">wh</del>
+                  <lb/>I had a message from the <persName ref="#Guernsey"><choice> <sic>Guernsey's</sic> <corr>Guernseys</corr></choice></persName> today <del rend="strikethrough">wh</del>
                   <lb/>wishing me a happy new year and a safe return. I
                   <lb/>have also had a message from <persName ref="#Mary">Mary</persName> and <persName ref="#Carl">Carl</persName> but at the
                   <lb/>moment I can't remember what day it came in. I
