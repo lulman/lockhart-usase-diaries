@@ -464,7 +464,7 @@
                   <occupation when="1940">Physicist</occupation>
                   <residence when="1940">Newark, New Jersey</residence>
                   <note type="biographical">Roy Fitzsimmons was a physicist from Newark, New Jersey. He ran the Rockefeller Mountains seismic station during the expedition. Lockhart talks about running metabolism tests on him and them
-                     going out on excursions together. Mount Fitzsimmons in Anarctica is named after him.<bibl><ref target="#personnel">"Personnel, 1939-1940"</ref>: <ref target="#WikiFitz">"Roy Fitzsimmons"</ref></bibl></note>
+                     going out on excursions together. Mount Fitzsimmons in Anarctica is named after him.<bibl><ref target="#personnel">"Personnel, 1939-1940"</ref>; <ref target="#WikiFitz">"Roy Fitzsimmons"</ref></bibl></note>
                </person>
                <person xml:id="Pete" source="#Bertrand #personnel #Passel #Petras #eel-19410103"><persName>Petras, Theodore A. <addName type="nickname">Pete</addName>
                </persName>
@@ -1253,7 +1253,7 @@
                <bibl xml:id="MGutenko" n="Mount"><title level="a">Gutenko Mountains.</title> <title level="m">Geographic Names Information System (GNIS).</title> United States 
                   Geological Survey, n.d. Web. 3 Mar. 2014.</bibl>
                
-               <bibl xml:id="WikiFitz" n="RoyFitzsimmons"><title level="a">Roy Fitzsimmons</title><title level="s"> Wikipedia, the free encylopedia</title> 
+               <bibl xml:id="WikiFitz" n="Roy"><title level="a">Roy Fitzsimmons</title><title level="s"> Wikipedia, the free encylopedia</title> 
                  10 May 2013. Web. 3 March 2014.</bibl>
                
                <bibl xml:id="Bertrand" n="Bertrand"><title level="m">Americans in Antarctica.</title>New York: American Geographical Society, 1971. Print.</bibl>
@@ -1266,10 +1266,10 @@
                <bibl xml:id="JamesCharles" n="JamesCharles"><title level="a">James Charles McCoy</title><title level="m">Ancestry.Com</title>N.p., n.d. Web. 27 February 2014.
                   http://records.ancestry.com/James_Charles_McCoy_records.ashx?pid=80142976</bibl>
             
-               <bibl xml:id="IMBdRB" n="IMBdRB"><title level="a">Risky Business</title><title level="m"> IMDb.</title> IMDb, n.d. Web.</bibl> 
-               <bibl xml:id="IMBdJF" n="IMBdJF"><title level="a">Jones Family in Hollywood</title><title level="m"> IMDb.</title> IMDb, n.d. Web.</bibl>
-               <bibl xml:id="IMBdGwtW" n="IMBdGwtW"><title level="a">Gone with the Wind</title><title level="m"> IMDb.</title> IMDb, n.d. Web.</bibl>
-               <bibl xml:id="IMBdB" n="IMBdB"><title level="a">Blondie</title><title level="m">I MDb.</title> IMDb, n.d. Web.</bibl>
+               <bibl xml:id="IMBdRB" n="Risky"><title level="a">Risky Business</title><title level="m"> IMDb.</title> IMDb, n.d. Web.</bibl> 
+               <bibl xml:id="IMBdJF" n="Jones"><title level="a">Jones Family in Hollywood</title><title level="m"> IMDb.</title> IMDb, n.d. Web.</bibl>
+               <bibl xml:id="IMBdGwtW" n="Gone"><title level="a">Gone with the Wind</title><title level="m"> IMDb.</title> IMDb, n.d. Web.</bibl>
+               <bibl xml:id="IMBdB" n="Blondie"><title level="a">Blondie</title><title level="m">I MDb.</title> IMDb, n.d. Web.</bibl>
                <bibl xml:id="ExploratoryFlights" n="ExploratoryFlights">Hawthorne, Roger. <title level="a">Exploratory Flights of Admiral Byrd (1940).
                </title><title level="j">Proceedings of the American Philosophical Society</title> 89.1 (30 April 1945): 398a-398e. Print. </bibl>
                <bibl xml:id="DailySentinel" n="DailySentinel">Butterfield, C.E. <title level="a">Radio Day by Day.</title><title level="j">Daily
