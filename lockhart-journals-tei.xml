@@ -797,6 +797,10 @@
                      minoring in both Professional Writing and French. Post-graduation, she plans to 
                      earn her MLS and become a librarian.</note>
                </person>
+               <person>
+                  <persName>Edison, Meg</persName>
+                  <note type="biographical">Meg Edison is a second-year English and History major.</note>
+               </person>
             </listPerson>
             
             <listPlace>
@@ -1227,7 +1231,7 @@
                <bibl xml:id="Malone" n="Malone">Malone, Thomas F., ed. <title level="j">Compendium of Meteorology.</title> 
                   Baltimore: Waverly Press, Inc., 1951. <title level="m">Internet Archive.</title> Web. 26 Feb. 2014.</bibl>
                
-               <bibl xml:id="LibUTexas" n="lib.utexas.edu"><title level="a">A Guide to the Charles F. Passel Antartic Exploration Collection, 1911-2001</title> <title>University of Texas Library</title> 
+               <bibl xml:id="LibUTexas" n="Guide"><title level="a">A Guide to the Charles F. Passel Antartic Exploration Collection, 1911-2001</title> <title>University of Texas Library</title> 
                   n.d. Web. 25 Feb. 2015</bibl>
                
                <bibl xml:id="FindAGrave" n="FindAGrave"><title level="a">Felix Louis Ferranto.</title> <title type="m">FindAGrave.com.</title> N.p., n.d. Web. 26 Feb. 2014. &lt;http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=72466677&gt;.</bibl>
