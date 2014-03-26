@@ -93,7 +93,7 @@
                   select="//TEI/teiHeader/fileDesc/titleStmt/title"/></span></p>
                <p align="center"><cite><strong>This edition is currently in progress. Please do
                   not cite this preview until this notice is removed.</strong></cite><br/><br/>
-                     <button>Click to toggle between Smith's spelling and standardized spelling.</button></p>
+                     <!--<button>Click to toggle between Smith's spelling and standardized spelling.</button>--></p>
                <hr/>
             </div>
             
