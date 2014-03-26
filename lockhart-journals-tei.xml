@@ -399,7 +399,7 @@
                   <occupation when="1940">Geologist</occupation>
                   <residence when="1940">Indianapolis, Indiana</residence>
                   <note type="biographical">Passel was a geologist from Indianapolis, Indiana. Lockhart ran metabolism tests on him. In 1995, his Antarctic diaries detailing the expedition, 
-                     called <title level="m">Ice</title>, were published.<bibl><ref target="#personnel">"Personnel, 1939-1940"</ref>; <ref target="#Passel">"Ice"</ref></bibl></note>
+                     called <title level="m">Ice</title>, were published.<bibl><ref target="#personnel">"Personnel, 1939-1940"</ref>; <ref target="#Passel"><title type="m">Ice</title></ref></bibl></note>
                </person>
                <person xml:id="PappyGray" source="#personnel #Gray #Pappy #Pappy Gray">
                  <persName>Gray, Orville <addName type="nickname">Pappy</addName></persName> 
@@ -799,7 +799,7 @@
                </person>
                <person>
                   <persName>Edison, Meg</persName>
-                  <note type="biographical">Meg Edison is a second-year English and History major.</note>
+                  <note type="biographical">Meg Edison is a second-year English and History major at The Ohio State University.</note>
                </person>
             </listPerson>
             
