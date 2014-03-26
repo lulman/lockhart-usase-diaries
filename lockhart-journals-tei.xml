@@ -1165,6 +1165,8 @@
                
                <bibl xml:id="QST" n="QST"><title level="a">U.S. Anttarctic Service Expresses Appreciation</title>
                <title level="j"> QST</title> November 1941. Print.</bibl>
+               <bibl xml:id="Lockhart1942" n="Lockhart1942"><title level="a">Oxygen Defiency in Antarctic Air</title><title level="j">Monthly Weather Review</title>
+               May 1942. Print.</bibl>
                
                <bibl xml:id="personnel" n="personnel"><title level="u">Personnel, 1939-1940</title>. 1939-40. TS. Papers
                of Admiral Richard E. Byrd. Series II: Expeditionary Records. Sub-Series 6: United States Antarctic Services. 
@@ -1676,7 +1678,8 @@
                </p>
                <p>
                   <lb/>All of the radiograms<ptr type="noteAnchor" target="radiogram"/><note resp="ed" xml:id="radiogram"> These radiograms were messages sent via vocal radio 
-                     contact between the Expedition and the people back home. They served as the main form of contact throughout the Expedition <bibl><ref target="#QST">"U.S. Antarctic Service Expresses Appreciation"</ref></bibl></note>
+                     contact between the Expedition and the people back home. They were made possible by members of the Army Amature Radio System relaying the messages stateside 
+                     to and from the families. This served as the main form of contact home throughout the Expedition <bibl><ref target="#QST">"U.S. Antarctic Service Expresses Appreciation"</ref></bibl></note>
                      that had come in during my absence 
                   <lb/>were given to me. One of them had not been read over the air
                   <lb/>It was from <persName ref="#Beatie">Beatie</persName> and wished me a merry christmas. <seg ana="aetiologia">The main
@@ -2657,7 +2660,11 @@
             <fw type="pageNum" place="top">32</fw>
                   <lb/>metabolism test on <persName ref="#CharliePassel">Charlie Passel</persName> and am continuing
                   <lb/>my air analysis. <persName ref="#Arnold">Arnold</persName> made a very valuable suggestion
-                  <lb/>and I shall follow it. I shall take air samples on the
+                  <lb/>and I shall follow it. I shall take air samples<ptr type="noteAnchor" target="airsamples"/><note resp="ed" xml:id="airsamples">Dr. Lockhart collectet air samples
+                       throughout the Expedition for research on oxygen levels in the atmosphere. His work was published in 1942 where he provided a summery of his findings. Dr. Lockhart
+                       wrote "Analysis of the lower atmosphere of the Antarctic were made using the Haldane portable apparatus. A veriable deficiency in the oxygen content of the air, too 
+                       great to be attributable to insturment error, was found. The value for oxygen range from 20.76 to 20.48 volume percent. Since all possible sources of error were eliminated,
+                       the deficiency in considered to be real."<bibl><ref target="#Lockhart1942">"Oxygen Defiency in Antarctic Air"</ref></bibl></note> on the
                   <lb/>way back and check the idea that the oxygen content
                   <lb/>of the atmosphere varies with the latitude If this works out
                   <lb/>I should have a curve showing on increase to <placeName ref="#EastBase">East Base</placeName>
