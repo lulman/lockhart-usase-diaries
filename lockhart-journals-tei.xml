@@ -599,7 +599,8 @@
                   <occupation when="1940">Supply Man, Asisstant Mechanic</occupation>
                   <residence when="1940">Astoria, New York</residence>
                   <note type="biographical">Louis "Tony" Colombo, a member of the biological party of the West Base, is listed as being the "supply man" as 
-                     well as the asisstant mechanic in varying sources. Mount Colombo, a mountain in the Ford Ranges, was later named for him.</note>
+                     well as the asisstant mechanic in varying sources <bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref>;<ref target="#personnel"><title level="u">"Personnel, 1939-1940"</title></ref></bibl>. 
+                     Mount Colombo, a mountain in the Ford Ranges, was later named for him <bibl><ref target="#MColombo"><title level="a">Mount Colombo</title></ref></bibl>.</note>
                </person>
                <person xml:id="Asman" source="#Passel #personnel #AsmanR #White">
                   <persName>Asman, Adam<addName type="nickname">Sgt., Nib, Nibble</addName></persName>
@@ -608,9 +609,9 @@
                   <occupation when="1940">Tank Driver</occupation>
                   <residence>Westerfield, Massachusetts</residence>
                   <note type="biographical">In Charles Passel's personal account of his experiences during the 1939-41 expedition, he refers to Asman as "Sgt."; 
-                     presumably Asman was a member of the US army. As a member of the U.S. Antarctic Service (USAS) West Base party, during the expedition he served 
-                     as the army tank driver. He mentioned in a newspaper article written in 1944, as having special assignment in the Arctic with Byrd testing army 
-                     tanks under extreme conditions. Later Asman Ridge, a ridge on the south side of Arthur glacier, was named for Asman.</note>
+                     presumably Asman was a member of the US army <bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref></bibl>. As a member of the U.S. Antarctic Service (USAS) West Base party, during the expedition he served 
+                     as the army tank driver <bibl><ref target="#personnel"><title level="u">"Personnel, 1939-1940"</title></ref></bibl>. He mentioned in a newspaper article written in 1944, as having special assignment in the Arctic with Byrd testing army 
+                     tanks under extreme conditions <bibl><ref target="#White"><title level="j">"Byrd Expeditions Paying Off Today On Our Frozen Fronts"</title></ref></bibl>. Later Asman Ridge, a ridge on the south side of Arthur glacier, was named for Asman <bibl><ref target="#AsmanR"><title level="a">Asman Ridge</title></ref></bibl>.</note>
                </person>
                <person xml:id="Mary" source="#eel-19410110">
                      <persName>Mary</persName>
@@ -658,9 +659,9 @@
                   <death when-custom="unknown"></death>
                   <occupation when="1940">Master Mechanic</occupation>
                   <residence>Uniontown, Pennsylvania</residence>
-                  <note type="biographical">Vernon "Buck" Boyd, a member of the 1939-41 U.S. Antarctic Service (USAS) West Base. According to Charles Passel's 
-                     personel account of the expedition, Boyd is isted as the "master mechanic." A glacier flowing between Bailey Ridge and Mount Douglass in 
-                     the Ford Ranges was later named Boyd Glacier for him.</note>
+                  <note type="biographical">Vernon "Buck" Boyd, a member of the 1939-41 U.S. Antarctic Service (USAS) West Base <bibl><ref target="#personnel"><title level="u">"Personnel, 1939-1940"</title></ref></bibl>. According to Charles Passel's 
+                     personel account of the expedition, Boyd is isted as the "master mechanic" <bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref></bibl>. A glacier flowing between Bailey Ridge and Mount Douglass in 
+                     the Ford Ranges was later named Boyd Glacier for him <bibl><ref target="#BoydG"><title level="a">"Boyd Glacier</title></ref></bibl>.</note>
                </person>
                <person xml:id="Vivian" source="#eel-19410110" >
                   <persName>Vivian</persName>
@@ -691,8 +692,9 @@
                   <occupation when="1940">Cadastral Engineer</occupation>
                   <residence when="1940">Juneau, Alaska</residence>
                   <note type="biographical"> Leonard "Klondicke" Berlin, a member of the 1939-41 U.S. Antarctic Service (USAS) West Base, 
-                     was a cadastral engineer on the expedition according to Charles Passel's personal account. Mount Berlin, formerly Mount Hal Flood, 
-                     was named for Berlin.</note>
+                     was a cadastral engineer on the expedition according to Charles Passel's personal account 
+                     <bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref>;<ref target="#personnel"><title level="u">"Personnel, 1939-1940"</title></ref></bibl>. Mount Berlin, formerly Mount Hal Flood, 
+                     was named for Berlin <bibl><ref target="#MBerlin"><title level="a">"Mount Berlin"</title></ref></bibl>.</note>
                </person>
                <person xml:id="Henry" source="#eel-19410110">
                   <persName>Henry</persName>
