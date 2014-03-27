@@ -232,22 +232,22 @@
                         during his stay in Antarctica and his future prospects: he writes, <q>Home
                         again! What visions in the future that small phrase conjures up!</q>
                      </p>
-                     <p rend="h3">Scientific Work of the USASE</p>
+                     <p rend="h3" xml:id="science">Scientific Work of the USASE</p>
                      <p>First paragraph of this section.</p>
                      <p><hi rend="bold">Sub-head</hi>. Second paragraph of this section.</p>
-                     <p rend="h3">Dog Teams</p>
+                     <p rend="h3" xml:id="dogs">Dog Teams</p>
                      <p>First paragraph of this section.</p>
                      <p>Second paragraph of this section.</p>
-                     <p rend="h3">Other Nations' Activities in Antarctica ca. 1939-1941</p>
+                     <p rend="h3" xml:id="geopolitics">Other Nations' Activities in Antarctica ca. 1939-1941</p>
                      <p>First paragraph of this section.</p>
                      <p>Second paragraph of this section.</p>
-                     <p rend="h3">Reading and Recreation</p>
+                     <p rend="h3" xml:id="entertainment">Reading and Recreation</p>
                      <p>First paragraph of this section.</p>
                      <p>Second paragraph of this section.</p>
-                     <p rend="h3">Testing Equipment in Severe Cold</p>
+                     <p rend="h3" xml:id="equipment">Testing Equipment in Severe Cold</p>
                      <p>First paragraph of this section.</p>
                      <p>Second paragraph of this section.</p>
-                     <p rend="h3">Communications</p>
+                     <p rend="h3" xml:id="communications">Communications</p>
                      <p>First paragraph of this section.</p>
                      <p>Second paragraph of this section.</p>
                    </note>

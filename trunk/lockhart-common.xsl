@@ -103,11 +103,12 @@
                      <ul>
                         <li><a href="./lockhart-edintro.html#introduction">Introduction</a>
                            <ul>
-                              <li><a href="./lockhart-edintro.html#family">Family Dynamics</a></li>
-                              <li><a href="./lockhart-edintro.html#milling">Mill Operations</a></li>
-                              <li><a href="./lockhart-edintro.html#sorghum">Sorghum Farming</a></li>
-                              <li><a href="./lockhart-edintro.html#civilWar">Civil War and Civic Life</a></li>
-                              <li><a href="./lockhart-edintro.html#borders">Borderlands/Hinterlands</a></li>
+                              <li><a href="./lockhart-edintro.html#science">Scientific Work of the USASE</a></li>
+                              <li><a href="./lockhart-edintro.html#dogs">Dog Teams</a></li>
+                              <li><a href="./lockhart-edintro.html#geopolitics">Other Nations' Activities in Antarctica ca. 1939-1941</a></li>
+                              <li><a href="./lockhart-edintro.html#entertainment">Reading and Recreation</a></li>
+                              <li><a href="./lockhart-edintro.html#equipment">Testing Equipment in Severe Cold</a></li>
+                              <li><a href="./lockhart-edintro.html#communications">Communications</a></li>
                            </ul>
                         </li>
                         <li><a href="./lockhart-edintro.html#source">The Source Document</a></li>
@@ -131,7 +132,7 @@
                   <li><a href="default.cfm">About the Edition</a><ul>
                      <li><a href="./default.cfm">About the Edition</a></li>
                      <li><a href="./lockhart-markup.cfm">Markup Guidelines</a></li>
-                     <li><a href="./lockhart-hands.cfm">Guide to Smith's Hand</a></li>
+                     <li><a href="./lockhart-hands.cfm">Guide to Lockhart's Hand</a></li>
                      <li><a href="./lockhart-acknowledgements.cfm">Acknowledgements</a></li>
                      <li><a href="./lockhart-about-editors.cfm">About the Editors</a></li>
                      <li><a href="./lockhart-odd-rnc-xml-xsl.zip">Download Source Files</a></li>
