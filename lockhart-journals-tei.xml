@@ -733,7 +733,7 @@
                   <death when-custom="unknown"></death>
                   <occupation when="1940">Physicist and Dog Doctor</occupation>
                   <residence>130 Main St  Bradley Beach, NJ</residence>
-                  <note type="biographical">Wiener was a member of the west base along side Lockhart. In his lifetime he made three trips to the Antarctic. He is often mentioned in the journal.</note>
+                  <note type="biographical">Wiener was a member of the west base along side Lockhart. He is often mentioned in the journal, and is believe to be the person behind the influence of the nickname Fort Wiener in the journal.</note>
                </person>
                <person xml:id="Dot" source="#eel-19410110">
                   <persName>Dot</persName>
@@ -1621,7 +1621,7 @@
                   <lb/>combining new teams and he was driving them. <name type="dog">Dinch</name> and
                   <lb/><name type="dog">Pearl</name> were pinched up in the loads. I am quite certain
                   <lb/>that we should never have made the base when we did
-                  <lb/>if we hadn't combinded our teams. At one o'clock we
+                  <lb/>if we hadn't combined our teams. At one o'clock we
                   <lb/>could just see the base and the airplane looming on the
                   <lb/>horizon. <persName ref="#Tony">Tony</persName> had been seeing things for several hours
                   <lb/>but always he had to say <said aloud= "true" direct= "true">I guess I was wrong</said>
