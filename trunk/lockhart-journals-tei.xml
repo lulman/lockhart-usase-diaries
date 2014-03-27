@@ -1334,6 +1334,8 @@
                
                <bibl xml:id="Bertrand" n="Bertrand"><title level="m">Americans in Antarctica.</title>New York: American Geographical Society, 1971. Print.</bibl>
                
+               <bibl xml:id="Wings1980"><title level="m">The Eagle and the Turtle</title> Mal Holcomb. "The Eagle and teh Turtle." Wings Magazine February 1980: 1. Web.</bibl>
+               
                <bibl xml:id="White" n="White"> White, James A. <title level="a">Byrd Expeditions Paying Off Today On Our Frozen Fronts.</title> <title level="j">The Palm Beach Post</title>
                 Google news, n.d. Web. 4 March 2014.</bibl>
                <bibl xml:id="Petras" n="Petras"><title level="a">Theodore A. Petras</title><title level="m">Enlisted Naval Aviation Pilots</title>Turner Publishing Company, 2002.</bibl>
@@ -2911,7 +2913,7 @@
             </p>
             <p>
                <lb/><persName>Pete</persName> and <persName>Wiener</persName> made their hop this afternoon. <persName>Pete</persName>
-               <lb/>wants to crack this altitude record he set up last fall. <persName>Murry</persName>
+               <lb/>wants to crack this altitude record <ptr type="noteAnchor" target="noteAltituderecords"/><note resp="ed" xml:id="altitiderecords">Thomas Petras, also knows as Peter, was a pilot on the expedition. On March 9th 1940, Peter broke the record at that time for highest airplane flight over Antarctica by flying 21,050 feet up in the beechcraft on a cosmic ray research flight. Lockhart presumably calls this 'last fall' because seasons are reversed in Antarctica. <bibl><ref target="#Wings1980"></ref><ref target="#Bertrand"></ref></bibl></note>he set up last fall. <persName>Murry</persName>
                <lb/>is cosmic ray observer and also will take charge of the bottles
                <lb/>I sent up for air samples. When they came down I got
                <lb/>some pictures of the landing. <persName>Wiener</persName> had carried out my
