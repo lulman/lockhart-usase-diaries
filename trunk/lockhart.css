@@ -78,6 +78,11 @@ a.annotation {
 	text-decoration: none;
 }
 
+.epigraph {
+    margin-left:70px;
+    margin-right:70px;
+}
+
 h1 {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 1.25em;
