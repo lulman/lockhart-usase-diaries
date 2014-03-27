@@ -302,7 +302,7 @@
                   <name type="ship" source="#Bertrand">U.S.S. Bear, Bear of Oakland</name>
                   <desc>One of two ships used on the 1939-41 expedition led by Admiral Byrd. Originally named the "Bear of Oakland," it was 
                      used during Admiral Byrd's second expedition (1933-35) as an ice ship, then later  reconditioned and commissioned by the 
-                     U.S. navy as the "U.S.S. Bear" before being assigned to the 1939-41 expedition.</desc>
+                     U.S. navy as the "U.S.S. Bear" before being assigned to the 1939-41 expedition <bibl><ref target="#Bertrand"><title level="m">Americans in Antarctica</title></ref></bibl>.</desc>
                </item>
                <item xml:id="Beechcraft">
                   <name type="aircraft" source="#Bertrand #eel-19410303">Beechcraft</name>
@@ -853,7 +853,7 @@
                   <note type="biogrbaaphical">Meg Edison is a second-year English and History major at 
                      The Ohio State University.</note>
                </person>
-               <person>
+               <person xml:id="CH">
                   <persName>Pellicciaro, Francis</persName>
                   <note type="biographical">Francis Pellicciaro is a sophomore at The Ohio State University,
                      majoring in English and journalism. He is a native of Seaford, New York. Following Graduation, 
@@ -1188,11 +1188,11 @@
                      trusts, etc. Lockhart would have been interviewed about his experiences with Harris Food Mixture, but it seems that no such article ended up printed.
                   </desc>
                   </org>
-               <org xml:id="BostonTraveler" source="#LOC">
+               <org xml:id="BostonTraveler" source="#Traveler">
                   <orgName>Boston Traveler</orgName>
                   <state type="company"></state>
-                     <desc>A daily newspaper based in Boston, Massachusetts, published by Boston Herald, Inc. It ran from 1914-1967. 
-                        In his journal, Lockhart mentions that the newspaper is sponsoring a mail bag to be delivered to the base camps.</desc>
+                     <desc>A daily newspaper based in Boston, Massachusetts, it ran from 1914-1967, and was published by Boston Herald, Inc 
+                        <bibl><ref target="#Traveler"><title level="a">"About the Boston traveler"</title></ref></bibl>. In his journal, Lockhart mentions that the newspaper is sponsoring a mail bag to be delivered to the base camps.</desc>
                </org>
                <org xml:id="USDptoftheInt" source="#eel-19410427 #Richard">
                   <orgName>US Department of the Interior</orgName>
@@ -1293,6 +1293,9 @@
                <bibl xml:id="LOC" n="Library">The Library of Congress. <title level="m">Library of Congress Authorities</title>. 
                   6 Jan. 2012. Web. 12 Feb. 2014.</bibl>
                
+               <bibl xml:id="Traveler" n="LOC"> The Library of Congress. <title level="a">About the Boston traveler.</title> <title level="m">Chronicling America.</title> 
+                  n.d. Web. 26 Feb. 2014. &lt;http://chroniclingamerica.loc.gov/lccn/sn91057123/&gt;.</bibl>
+               
                <bibl xml:id="MPerkins" n="Mount"><title level="a">Mount Perkins.</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
                   Geological Survey. N. d. Web. 12 Feb. 2014. &lt;http://geonames.usgs.gov/pls/gnispublic/f?p=gnispq:5:::NO::P5_ANTAR_ID:11624&gt;.</bibl> 
                
@@ -1302,20 +1305,20 @@
                <bibl xml:id="MFrazier" n="Mount"><title level="a">Mount Frazier.</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States 
                   Geological Survey, n.d. Web. 26 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:5262,Mount%20Frazier&gt;.</bibl>
                
-               <bibl xml:id="NatGeo" n="Skua"><title level="a">Arctic Skua.</title> <title level="m">National Geographic.</title> National Geographic, n.d. Web.
+               <bibl xml:id="NatGeo" n="Skua"><title level="a">Arctic Skua.</title> <title level="m">National Geographic.</title> National Geographic. n.d. Web.
                   23 March 2014. &lt;http://animals.nationalgeographic.com/animals/birds/arctic-skua/&gt;.</bibl>
                
                <bibl xml:id="MColombo" n="Mount"><title level="a">Mount Colombo.</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
-                  Geological Survey, n.d. Web. 28 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:2978,Mount%20Colombo&gt;.</bibl>
+                  Geological Survey. n.d. Web. 28 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:2978,Mount%20Colombo&gt;.</bibl>
                
                <bibl xml:id="AsmanR" n="Ridge"><title level="a">Asman Ridge.</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
-                  Geological Survey, n.d. Web. 28 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:653,Asman%20Ridge&gt;.</bibl>
+                  Geological Survey. n.d. Web. 28 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:653,Asman%20Ridge&gt;.</bibl>
                
                <bibl xml:id="BoydG" n="Glacier"><title level="a">Boyd Glacier.</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
                   Geological Survey. n.d. Web. 28 Feb. 2014 &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:1786,Boyd%20Glacier&gt;.</bibl>
                
                <bibl xml:id="MBerlin" n="Mount"><title level="a">Mount Berlin.</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
-                  Geological Survey, n.d. Web. 28 Feb. 2014 &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:1274,Mount%20Berlin&gt;.</bibl>
+                  Geological Survey. n.d. Web. 28 Feb. 2014 &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:1274,Mount%20Berlin&gt;.</bibl>
                
                <bibl xml:id="Arnold" n="Arnold"><title level="a">Arnold Court.</title> <title level="m">Marquis Biographies Online.</title> Marquis Who's Who LLC., n.d. Web. 22 Feb. 2014. &lt;http://search.marquiswhoswho.com.proxy.lib.ohio-state.edu/profile/100002028842&gt;.</bibl>
                
@@ -1644,7 +1647,7 @@
                   <lb/>but always he had to say <said aloud= "true" direct= "true">I guess I was wrong</said>
                   <lb/>when a large <ref type="trailflag">trail flag</ref> <del rend= "strikethrough"><unclear cert="high">br</unclear></del> <ptr type="noteAnchor" target="NoteTrail"/><note resp="ed" xml:id="NoteTrail">Dr. Lockhart makes several mentions to "the trail" and "trail flags/markers" throughout the journal; 
                      he is likely referring to the trails created between the West Base and supply depots and/or science stations, for groups traveling to and from these locations. Lockhart was a member of one the trail parties, the Ford Ranges Biological Party, which was tasked with gathering biological information, 
-                     and when possible, geological/glaciation data. <bibl><ref target="#Bertrand"><title level="m">Americans in Antarctica</title></ref></bibl></note> came into view. All sorts
+                     and when possible, geological/glaciation data <bibl><ref target="#Bertrand"><title level="m">Americans in Antarctica.</title></ref></bibl></note> came into view. All sorts
                   <lb/>of thoughts began clicking through our minds as the <rs>base</rs>
                
                   <pb facs= "journal-2-06.jpg" n="/d/d30a3d29-fe7e-4bf6-a941-541638ebc568"/>
@@ -1868,8 +1871,8 @@
                      <lb/>one of his <choice><sic>raysende</sic><corr>radiosonde</corr></choice> <choice><sic>ballons</sic><corr>balloons</corr></choice><ptr type="noteAnchor" target="noteradiosondeballoons1"/><note xml:id="noteradiosondeballoons1">Radiosonde balloons were used to fly into the air and measure atmospheric parameters. The measurements were then sent back to a fixed reciever in the balloon house.</note>. It got caught in one of
                      <lb/><persName>Railey's</persName> antennas but I was able to climb the pole
                      <lb/>and free it. While helping him I noticed a bunch
-                     <lb/>of skua gulls <ptr type="noteAnchor" target="NoteSkua"/><note resp="ed" xml:id="NoteSkua">Arctic skuas, also known as "parasictic jaegers," are a type of seabird that primarily feed by stealing food from other birds, although they are known to hunt as well. These birds largely live at seas, except to come ashore in order to breed during the summer. Study of these birds was part of the 
-                          mission to gather biological information on plants and animals native to the Arctic.<bibl><ref target="#NatGeo">"Arctic Skua"</ref>;<ref target="#Bertrand"><title level="m">Americans in Antarctica</title></ref></bibl></note>
+                     <lb/>of skua gulls <ptr type="noteAnchor" target="NoteSkua"/><note resp="ed" xml:id="NoteSkua">Arctic skuas, also known as "parasitic jaegers," are a type of seabird that primarily feed by stealing food from other birds, although they are known to hunt as well <bibl><ref target="#NatGeo"><title level="a">Arctic Skua</title></ref></bibl>. These birds largely live at seas, except to come ashore in order to breed during the Arctic summer <bibl><ref target="#NatGeo"><title level="a">Arctic Skua</title></ref></bibl>. Study of these birds was part of the 
+                          mission to gather biological information on plants and animals native to the Arctic.<bibl><ref target="#Bertrand"><title level="m">Americans in Antarctica</title></ref></bibl></note>
                           on a refuse pile and decided to try my
                      <lb/>skill again. I walked carefully toward them with
                      <lb/>the revol<subst><del><gap reason="overwritten"/></del><add place="inline">ver</add></subst> ready but two of the pups came up
@@ -1991,7 +1994,7 @@
                   <lb/>I shall have to get it for my own library when I get home.
                   <lb/>Just as <persName ref="#BuckBoyd">Buck</persName> and I were going out skua gull hunting
                   <lb/><persName ref="#Siple">Paul</persName> stopped me to show some of the airplane pictures.
-                  <lb/><geogName type="mountain" ref="#HalFlood">Hal Flood</geogName> is certaintly a large and beautiful mountain
+                  <lb/><geogName type="mountain" ref="#HalFlood">Hal Flood</geogName> is certainly a large and beautiful mountain
                   <lb/>He also said that he was going to see if it wouldn't 
                   <lb/>be possible to name <del rend="strikethrough">one of the</del><add place="above">a</add> mountain in the region
                   <lb/>beyond <geogName type="mountain" ref="#HalFlood">Hal Flood</geogName> after each one of the members of the
