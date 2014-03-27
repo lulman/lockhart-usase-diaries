@@ -274,6 +274,18 @@
                      Lockhart notes that he hopes to take Spot, his "lead dog," home with him.
                   </desc>
                </item>
+               <item xml:id="Peterdog">
+                  <name source="#koulouris">Peter</name>
+                  <trait type="sex"><desc>Male</desc></trait>
+                  <desc>Peter is one of two dogs that lived at his parents' house in Mattapan during the Expedidtion. Both dogs are mentioned
+                  several times as they were being bulked up in preperation to be able to play with the sled dog Spot.</desc>
+               </item>
+               <item xml:id="Petedog">
+                  <name source="#koulouris">Pete</name>
+                  <trait type="sex"><desc>Male</desc></trait>
+                  <desc>Pete is one of two dogs that lived at his parents' house in Mattapan during the Expedition. Both dogs are mentioned
+                  several times as they were being bulked up in preperation to be able to play with the sled dog Spot.</desc>
+               </item>
             </list>
 
 
@@ -636,18 +648,7 @@
                    <note type="biographical">Sent correspondence to Lockhart through both mail and radiograms
                    with his wife Mary.</note>
                </person>
-               <person xml:id="Papa" source="#eel-19410110">
-                  <persName>Papa</persName>
-                  <birth>unknown</birth>
-                  <death>unknown</death>
-                  <note type="biographical">Lockhart received pictures of Papa while on the Expedition</note>
-               </person>
-               <person xml:id="Peter" source="#eel-19410110">
-                  <persName>Peter</persName>
-                  <birth>unknown</birth>
-                  <death>unknown</death>
-                  <note type="biographical">Lockhart received pictures of Peter while on the Expedition.</note>
-               </person>
+               
                <person xml:id="CharlesFord" source="#eel-19401228a">
                   <persName>Ford, Charles</persName>
                   <birth when-custom="unknown"></birth>
@@ -857,6 +858,13 @@
                   <note type="biographical">Caitlin Hurdley is a senior English major, minoring in 
                   Cultural Anthropology at The Ohio State University. Following graduation, her goal is
                   to see the world as an English as a Second Language teacher.</note>
+               </person>
+               <person>
+                  <persName>Waisanen, Adam J.</persName>
+                  <note type="biographical">Adam Waisanen is a thrid-year History major at The Ohio State
+                  University. He has currently served in the U.S. Military for over eleven years. After 
+                  graduation he plans earn a Masters in Library Science to become either an archavist or
+                  a librarian.</note>
                </person>
             </listPerson>
             
@@ -2531,7 +2539,7 @@
                   <lb/>I tell him to. He does very well and lets me take meat
                   <lb/>away from him after he has started to eat. He is really
                   <lb/>a good dog. I sent a message to <persName ref="#Beatie">Beatie</persName> telling her
-                  <lb/>to feed <persName>Pete</persName> well because I was bringing a 90 lb dog
+                  <lb/>to feed <persName ref="#Petedog">Pete</persName> well because I was bringing a 90 lb dog
                   <lb/>home. Just wait until they see him.
                </p>
                <p>
@@ -2699,7 +2707,7 @@
                <lb/>I read them all all over again. I had one from <persName ref="#Mary">Mary</persName>
                <lb/>which had in it some pictures of <persName ref="#Carl">Carl</persName> and her and
                <lb/>one of one of her sisters. I enjoyed also the pictures
-               <lb/><persName ref="#Beatie">Beatie</persName> sent of <persName ref="#Pete">Pete</persName>, <persName ref="#Peter">Peter</persName>, <persName ref="#Papa">Papa</persName>, and the house. Both
+               <lb/><persName ref="#Beatie">Beatie</persName> sent of <persName ref="#Petedog">Pete</persName>, <persName ref="#Peterdog">Peter</persName>, <persName ref="#Papa">Papa</persName>, and the house. Both
                <lb/><persName ref="#Van">Van</persName> <del rend="strikethrough">I</del> and <persName ref="#Vivian">Vivian</persName> sent letters with pictures in them of the
                <lb/>new baby. <persName ref="#George">George</persName> also sent pictures in his letter. Other
                <lb/>letters came from <persName ref="#Dave">Dave</persName> and <persName ref="#Mary">Mary</persName>, <persName ref="#Henry">Henery</persName>, <persName ref="#Dot">Dot</persName>, <persName ref="#Elenore">Elenore</persName>
@@ -3113,7 +3121,7 @@
                  <p>
                     <lb/>just discovered that you can receive messages on this trip you are
                     <lb/><choice><sic>talking</sic><corr>taking</corr></choice> x sorry not to have <gap reason="overwritten with x's" unit="chars" extent="2"/>nt anything for before x hope you are well
-                    <lb/>x little <persName ref="#Peter">peter</persName> now weighs 26 pounds x bring on your husky x everyone look<seg type="softhyphen">
+                    <lb/>x little <persName ref="#Peterdog">peter</persName> now weighs 26 pounds x bring on your husky x everyone look<seg type="softhyphen">
                     <lb/></seg>ing forward anxiously to your2return we <gap reason="overwritten with x's" unit="chars" extent="4"/> all well and happy x eight
                     <lb/>inches o<gap reason="overwritten"/>f snow for thanksgiving all well
                  </p>
@@ -3211,7 +3219,7 @@
                  </opener>
                  <!-- Is any of the information in the opener a "byline"? -->
                  <p>best wishes for a happy christmas. at least you can have
-                    <lb/>real snow balls on your tree. little <persName ref="#Peter">peter</persName> now weighs 31 lbs and stands
+                    <lb/>real snow balls on your tree. little <persName ref="#Peterdog">peter</persName> now weighs 31 lbs and stands
                     <lb/>20 inches. with this i am sending bad news . <rs>jack mahans father</rs> died
                     <lb/>on wednesday spent evening with them . he was <choice><sic>burried</sic><corr>buried</corr></choice> today be seeing
                     <lb/>you soon . love from all friend and family . thanks giving picture
@@ -3292,7 +3300,7 @@
                   <p>
                      <lb/>dear <persName ref="#EEL">earl</persName> x we are anxiously watching the papers for news of the arrival
                      <lb/>of the <name type="ship" ref="#Bear">bear</name> x what rejoicing there will be in your neck of the woods
-                     <lb/>x weather has turned cold here x feels like your summer x little <persName ref="#Peter">petere</persName>
+                     <lb/>x weather has turned cold here x feels like your summer x little <persName ref="#Peterdog">petere</persName>
                      <lb/>now <num>thirty five</num> pounds x love
                   </p>
                   <lb/><signed><persName ref="#Beatie">beatie</persName></signed>
@@ -3324,7 +3332,7 @@
                   </opener>
                  <p>
                     <lb/>DEAR EARL X YOUR LETTER AND PICTURES RECEIVED MONDAY X IT WAS GOOD TO ACTUALLY
-                    <lb/>HAAR FROM YOU X THANK GOODNESS YOUR DOG IS LOSING WEIGHT X PETER IS NOW
+                    <lb/>HAAR FROM YOU X THANK GOODNESS YOUR DOG IS LOSING WEIGHT X <persName ref="#Petedog">PETER</persName> IS NOW
                     <lb/><measure><num>58</num>LBS</measure> X LETTERS WAITING A VALPO AND BALBOA X WE ARE ALL WELL AND
                     <lb/>LOOKING FARWARD TO <date>JUNE FIRST</date>X ONE MORE LETTER GOES TO BALBOA TODAY X LOVE
                  </p>
