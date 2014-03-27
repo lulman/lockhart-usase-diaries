@@ -111,7 +111,7 @@
                <extent>118 pp.</extent>
 
                <publicationStmt>
-                  <p>Pulbication statement from the library.</p>
+                  <p>Publication statement from the library.</p>
                </publicationStmt>
 
                <!-- 
@@ -277,14 +277,14 @@
                <item xml:id="Peterdog">
                   <name source="#koulouris">Peter</name>
                   <trait type="sex"><desc>Male</desc></trait>
-                  <desc>Peter is one of two dogs that lived at his parents' house in Mattapan during the Expedidtion. Both dogs are mentioned
-                  several times as they were being bulked up in preperation to be able to play with the sled dog Spot.</desc>
+                  <desc>Peter is one of two dogs that lived at his parents' house in Mattapan during the Expedition. Both dogs are mentioned
+                  several times as they were being bulked up in preparation to be able to play with the sled dog Spot.</desc>
                </item>
                <item xml:id="Petedog">
                   <name source="#koulouris">Pete</name>
                   <trait type="sex"><desc>Male</desc></trait>
                   <desc>Pete is one of two dogs that lived at his parents' house in Mattapan during the Expedition. Both dogs are mentioned
-                  several times as they were being bulked up in preperation to be able to play with the sled dog Spot.</desc>
+                  several times as they were being bulked up in preparation to be able to play with the sled dog Spot.</desc>
                </item>
             </list>
 
@@ -301,7 +301,7 @@
                <item xml:id="Bear">
                   <name type="ship" source="#Bertrand">U.S.S. Bear, Bear of Oakland</name>
                   <desc>One of two ships used on the 1939-41 expedition led by Admiral Byrd. Originally named the "Bear of Oakland," it was 
-                     used during Admiral Byrd's second expedition (1933-35) as an ice ship, then later  reconditoned and comissioned by the 
+                     used during Admiral Byrd's second expedition (1933-35) as an ice ship, then later  reconditioned and commissioned by the 
                      U.S. navy as the "U.S.S. Bear" before being assigned to the 1939-41 expedition.</desc>
                </item>
                <item xml:id="Beechcraft">
@@ -323,7 +323,7 @@
                   <name type="tank">tank</name>
                   <desc>The tank appears to be a Marmon-Herrington CTLS that was used during the Expedition.
                   It was not equipped with any weapon systems, instead having an open cockpit design. It was 
-                  mostly used for moving personel and equipment and also served as a test of the tank in extreme
+                  mostly used for moving personnel and equipment and also served as a test of the tank in extreme
                   cold weather.</desc>
                </item>
                <item xml:id="Star">
@@ -383,7 +383,7 @@
                   <death when="1980-03-01">Montague, Michigan</death>
                   <occupation when="1940">dog driver</occupation>
                   <note type="biographical">A dog driver who had worked with Byrd on previous expeditions. Published two books about his expeditions, Antarctic Night and 
-                     St. Lunaire, Antarctic Lead Dog.During this expedition he made one of the longest dog trips ever recorded, and one of the Hal Flood mountains became named "Mt. Bursey" after him.
+                     St. Lunaire, Antarctic Lead Dog. During this expedition he made one of the longest dog trips ever recorded, and one of the Hal Flood mountains became named "Mt. Bursey" after him.
                      Was from Grand Rapids, Michigan, and would have been survived by his wife Ada Bursey<bibl><ref target="#WikiBursey">"Jack Bursey"</ref></bibl></note>
                </person>
                <person xml:id="Shirley" source="#personnel">
@@ -418,7 +418,7 @@
                <person xml:id="Guernsey" source="#Card">
                   <persName>Guernsey, George Rockwell</persName>
                   <birth when="1884-02-15">Canton, Bradford Co., Pennsylvania</birth>
-                  <residence when="-1952">Wellesely, Massachusetts</residence>
+                  <residence when="-1952">Wellesley, Massachusetts</residence>
                   <note type="biographical">Lockhart exchanges radiograms with a George Guernsey of Wellesley Massachusetts, 
                      about Christmas and his potential trips to Panama and Seattle. There's a Guernsey by that name living there according 
                      to a family genealogy, barring another man with the same name it's presumably the same man.<bibl><ref target="#Card">"Garnsey-Guernsey Genealogy"</ref></bibl></note>
@@ -450,7 +450,7 @@
                   <occupation when="1940">Cook</occupation>
                   <residence when="1940">Baltimore, Maryland</residence>
                   <note type="biographical">Gutenko was the cook and steward for the West Base. He was from Baltimore, Maryland. The Gutenko Mountains
-                     in Anarctica are named after him.<bibl><ref target="#personnel">"Personnel, 1939-1940"</ref>; <ref target="#MGutenko">"Mount Gutenko"</ref></bibl></note>
+                     in Antarctica are named after him.<bibl><ref target="#personnel">"Personnel, 1939-1940"</ref>; <ref target="#MGutenko">"Mount Gutenko"</ref></bibl></note>
                </person>
                <person xml:id="CharliePassel" source="#personnel #Passel">
                   <persName>Passel, Charles F.</persName>
@@ -466,15 +466,15 @@
                  <occupation when="1940">aviation mechanic and captain</occupation> 
                  <residence when="1940">Folmouth, Virginia</residence> 
                  <note>Orville "Pappy" Gray was an airplane mechanic from West Base.
-                       Not to be confused with J.A. "Pappy" Reece, a radio operator. Where "Pappy" is mentioned and specified as neither, as in journals 2-24 and 2-25, the person is question is dealing with eingine trouble on the Condor and is thus presumably Gray. 
-                       Lockhart mentions him harnessing pupies to the airplane sled and driving them around.
+                       Not to be confused with J.A. "Pappy" Reece, a radio operator. Where "Pappy" is mentioned and specified as neither, as in journals 2-24 and 2-25, the person is question is dealing with engine trouble on the Condor and is thus presumably Gray. 
+                       Lockhart mentions him harnessing puppies to the airplane sled and driving them around.
                        Gray was the one who flew the Beechcraft back to get engine parts for the Condor when the Condor's engine broke down.
                        Gray is mentioned being spotted by coincidence and then joined when Lockhart, Tony, and Court were out going toward the Barrier Cache</note> 
                </person>
                <person xml:id="ClarkGable">
                 <persName>Gable, Wiliam Clark</persName>
                 <birth when="1901-02-01">Cadiz, Ohio</birth>
-                <death when="1960-11-16">West Holywood, California</death>
+                <death when="1960-11-16">West Hollywood, California</death>
                 <occupation when="1940">Actor</occupation>
                 <residence when="1940">Encio, California</residence>
                 <note type="biographical">Gable appeared in 97 films from 1924 to 1961, his last film being released after his death.
@@ -489,9 +489,9 @@
                 <occupation when="1940">Actress</occupation>
                 <residence when="1940">England</residence>
                 <note type="biographical">Leigh appeared in 37 plays and 20 films from 1935 to 1966.
-                 Leigh won the best actress academy award in 1939 and 1951 for her roles in Gone with the Wind and A Streetcare Named Desire, respectively.
-                 Leigh is best known for the aforementioned roles and was married to Brirish actor Laurence Olivier from 1940 to 1960.</note>
-                <note>Lockhart mentions Leigh when comparing the film adaptation of Gone with the Wind to the novel. Lockhart expresses doubt that Leigh was the right acress to play Scarlett</note>  
+                 Leigh won the best actress academy award in 1939 and 1951 for her roles in Gone with the Wind and A Streetcar Named Desire, respectively.
+                 Leigh is best known for the aforementioned roles and was married to British actor Laurence Olivier from 1940 to 1960.</note>
+                <note>Lockhart mentions Leigh when comparing the film adaptation of Gone with the Wind to the novel. Lockhart expresses doubt that Leigh was the right actress to play Scarlett</note>  
                </person>
                <person xml:id="MargaretMitchell">
                  <persName>Mitchell, Margaret</persName>
@@ -510,11 +510,11 @@
                 <birth when="1809-02-12">Shropshire, United Kingdom</birth>
                 <death when="1882-04-19">Downe, United Kingdom</death>
                 <occupation>Geologist and Naturalist</occupation> 
-                <note type="biographical">Charles Darwin is one of the most influential scientists th world has known. His theory of natural selection 
+                <note type="biographical">Charles Darwin is one of the most influential scientists the world has known. His theory of natural selection 
                     forms the basis of modern views on the diversity of life and how different forms of life come about.</note>
                   <note>Lockhart mentions Darwin when he says that he is 
                         reading "Homo versus Darwin a judicial examination of statements recently published by Mr. Darwin regarding 'The Descent of Man'"
-                        itself a commentaty on Daron's book "The Descent of Man, and Selection in Relation to Sex." 
+                        itself a commentary on Daron's book "The Descent of Man, and Selection in Relation to Sex." 
                         Lockhart said that he bought the commentary to accompany the book itself, which he had at home.</note>  
                </person>
                <person xml:id="Fitz" source="#personnel #WikiFitz">
@@ -524,7 +524,7 @@
                   <occupation when="1940">Physicist</occupation>
                   <residence when="1940">Newark, New Jersey</residence>
                   <note type="biographical">Roy Fitzsimmons was a physicist from Newark, New Jersey. He ran the Rockefeller Mountains seismic station during the expedition. Lockhart talks about running metabolism tests on him and them
-                     going out on excursions together. Mount Fitzsimmons in Anarctica is named after him.<bibl><ref target="#personnel">"Personnel, 1939-1940"</ref>; <ref target="#WikiFitz">"Roy Fitzsimmons"</ref></bibl></note>
+                     going out on excursions together. Mount Fitzsimmons in Antarctica is named after him.<bibl><ref target="#personnel">"Personnel, 1939-1940"</ref>; <ref target="#WikiFitz">"Roy Fitzsimmons"</ref></bibl></note>
                </person>
                <person xml:id="Pete" source="#Bertrand #personnel #Passel #Petras #eel-19410103"><persName>Petras, Theodore A. <addName type="nickname">Pete</addName>
                </persName>
@@ -552,7 +552,7 @@
                   <birth when="1912-01-03"><placeName>Newtown County, GA</placeName></birth>
                   <death when="1996-04-11"><placeName>Rockdale, GA</placeName> </death>
                   <occupation>Assistant Pilot and Radio Operator</occupation>
-                  <note type="biographical">Giles, whose name is often listed as W.R. Giles, was an assistant pilot and raio operator for West Base. 
+                  <note type="biographical">Giles, whose name is often listed as W.R. Giles, was an assistant pilot and radio operator for West Base. 
                      He was part of the dog team that was transported back to West Base by Pete the day of the Condor incident on January 3, 1941.  At the time of the expedition, he 
                   was a Staff Sergeant (NAP) in the USMC. He achieved the rank of Colonel in the USMC.</note></person>
                <person xml:id="Ferranto" source="#FindAGrave #personnel">
@@ -560,7 +560,7 @@
                   <birth when="1911-12-05"></birth>
                   <death when="2002-10-20"></death>
                   <occupation>USMC Radio Officer</occupation>
-                  <state type="rank"><desc>Seargeant, USMC</desc></state>
+                  <state type="rank"><desc>Sergeant, USMC</desc></state>
                   <note type="biographical">Felix Ferranto was the radio operator for the Snow Cruiser. He achieved the 
                      rank of Lieutenant Colonel in the USMC. The Antarctic summit Mount Ferranto was named after him in
                      1947 <bibl><ref target="#MFerranto"><title level="a">Mount Ferranto</title></ref></bibl>.</note>
@@ -617,10 +617,10 @@
                   <persName>Colombo, Louis P.<addName type="nickname">Tony</addName></persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
-                  <occupation when="1940">Supply Man, Asisstant Mechanic</occupation>
+                  <occupation when="1940">Supply Man, Assistant Mechanic</occupation>
                   <residence when="1940">Astoria, New York</residence>
                   <note type="biographical">Louis "Tony" Colombo, a member of the biological party of the West Base, is listed as being the "supply man" as 
-                     well as the asisstant mechanic in varying sources <bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref>;<ref target="#personnel"><title level="u">"Personnel, 1939-1940"</title></ref></bibl>. 
+                     well as the assistant mechanic in varying sources <bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref>;<ref target="#personnel"><title level="u">"Personnel, 1939-1940"</title></ref></bibl>. 
                      Mount Colombo, a mountain in the Ford Ranges, was later named for him <bibl><ref target="#MColombo"><title level="a">Mount Colombo</title></ref></bibl>.</note>
                </person>
                <person xml:id="Asman" source="#Passel #personnel #AsmanR #White">
@@ -670,7 +670,7 @@
                   <occupation when="1940">Master Mechanic</occupation>
                   <residence>Uniontown, Pennsylvania</residence>
                   <note type="biographical">Vernon "Buck" Boyd, a member of the 1939-41 U.S. Antarctic Service (USAS) West Base <bibl><ref target="#personnel"><title level="u">"Personnel, 1939-1940"</title></ref></bibl>. According to Charles Passel's 
-                     personel account of the expedition, Boyd is isted as the "master mechanic" <bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref></bibl>. A glacier flowing between Bailey Ridge and Mount Douglass in 
+                     personnel account of the expedition, Boyd is listed as the "master mechanic" <bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref></bibl>. A glacier flowing between Bailey Ridge and Mount Douglass in 
                      the Ford Ranges was later named Boyd Glacier for him <bibl><ref target="#BoydG"><title level="a">"Boyd Glacier</title></ref></bibl>.</note>
                </person>
                <person xml:id="Vivian" source="#eel-19410110" >
@@ -725,7 +725,7 @@
                   <birth when="1891-08-20"><placeName>Bradley Beach, NJ</placeName></birth>
                   <death when="1984"><placeName>Bradley Beach, NJ</placeName></death>
                   <occupation> American Polar Explorer, submariner and aviation pioneer and Navigator.</occupation>
-                  <note type="biographical">American Polar Explorer, submariner and aviation pioneer and Navigator.Ike Schlossbach is referenced as "Schlossback" within the Journals written by Lockhart.</note>
+                  <note type="biographical">American Polar Explorer, submariner and aviation pioneer and Navigator. Ike Schlossbach is referenced as "Schlossback" within the Journals written by Lockhart.</note>
                </person>
                   <person xml:id="Wiener" source="#personnel">
                      <persName>Wiener, Murray</persName>
@@ -747,14 +747,14 @@
                   <death when-custom="unknown"></death>
                   <occupation when="1939">Radio Chief</occupation>
                   <residence>Belmont, Mass</residence>
-                  <note type="biographical">Clay Bailey was a commander in the United States Navy and member of the Byrd Antartic
+                  <note type="biographical">Clay Bailey was a commander in the United States Navy and member of the Byrd Antarctic
                   Expedition. In 1939 until 1941, Bailey served as a radio chief for Rare Radio for the West Base Party of the 
                   United States Antarctic Service.</note>
                </person>
                <person xml:id="Siple" source="#personnel">
                   <persName>Siple, Dr. Paul A</persName>
                   <birth when="1908">December 18, 1908</birth>
-                  <death when="1968">Novemeber 25, 1968 </death>
+                  <death when="1968">November 25, 1968 </death>
                   <occupation when="1940">Base Leader</occupation>
                   <residence>1158 W. 5th Street Erie, PA</residence>
                   <note type="biographical">Dr. Siple was base leader at the west base. He is often referred to as Siple, but is also called Paul in the Lockhart journal.</note>
@@ -863,7 +863,7 @@
                   <persName>Waisanen, Adam J.</persName>
                   <note type="biographical">Adam Waisanen is a thrid-year History major at The Ohio State
                   University. He has currently served in the U.S. Military for over eleven years. After 
-                  graduation he plans earn a Masters in Library Science to become either an archavist or
+                  graduation he plans earn a Masters in Library Science to become either an archivist or
                   a librarian.</note>
                </person>
                <person>
@@ -878,7 +878,7 @@
                   <placeName>Boston</placeName>
                   <country>United States</country>
                   <region type="state">Massachusetts</region>
-                  <desc>Lockhart's bithplace.</desc>
+                  <desc>Lockhart's birthplace.</desc>
                   <location><geo>40.0667 -82.8000</geo></location>
                </place>
                
@@ -893,8 +893,8 @@
                
                <place type="range" xml:id="HalFlood" source="#FloodRange">
                   <placeName>Hal Flood</placeName>
-                  <country>Antartic</country>
-                  <desc>Range of snow covered mountains. Reconnaissance flights by the United Antartic Service (1939-41), 
+                  <country>Antarctic</country>
+                  <desc>Range of snow covered mountains. Reconnaissance flights by the United Antarctic Service (1939-41), 
                      of which Lockhart was a member, explored the range. The principle mountain was named "Mount Hal Flood" 
                      (later changed to Mount Berlin) by Admiral Byrd for his uncle, the Hon. Henry D. Flood, U.S. Senator 
                      from Virginia. The name was later applied to the entire range.</desc>
@@ -950,7 +950,7 @@
                   <desc>Cache and depot established 105 miles east of West Base and 10 miles south
                      of Breckenridge Peak Rockefeller Mountains. It was named because of its distance from West Base.
                      The depot was established prior to the sledge journeys so the parties could restock supplies and dog food.
-                     Other caches of dog food were also estblished between West Base and Depot 105.
+                     Other caches of dog food were also established between West Base and Depot 105.
                      Lockhart refers to it as 105; Passel calls it 105 Mile Cache, and Bertrand refers to it as 105-Mile Depot.</desc>
                <location><geo>-78.279767 -155.535556</geo></location>
                </place>
@@ -978,7 +978,7 @@
                
                <place type="geography" xml:id="BarrierEdge" source="#TGN">
                   <placeName>Barrier Edge</placeName>
-                  <country>Anarctica</country>
+                  <country>Antarctica</country>
                   <desc>Lockhart is most likely referring to the edge of the Ross Ice Shelf. He describes two members of the expedition
                   skiing down to the barrier edge to look at the bay.</desc>
                   <location><geo>-81.5000 -175.0000</geo></location>
@@ -1028,8 +1028,8 @@
                   <location><geo>41.482222, -81.669722</geo></location>
                   <desc>There are four radiograms here involving Cleveland; one that Lockhart sent and three that he received.
                        These radiograms are all between Lockhart and Margaret Mann/Mrs. W.H. Mann. These two are likely the same person. Weather or not this was thrut, the woman lived in Cleveland. 
-                       Note that the radiogram sent by Lockhart was to Mrs. W.H. but the ones recieved were from Margaret. Also note that the four radiograms are not necessarily on any order.
-                       In these radigrams, she and Lockhart mostly talk about holiday wishes and when his coming return.</desc>
+                       Note that the radiogram sent by Lockhart was to Mrs. W.H. but the ones received were from Margaret. Also note that the four radiograms are not necessarily on any order.
+                       In these radiograms, she and Lockhart mostly talk about holiday wishes and when his coming return.</desc>
               </place>
                
                <place type="city" xml:id="richmond">
@@ -1043,7 +1043,7 @@
                  <country>United States</country>
                  <location><geo>28.1000, -81.6000</geo></location>
                  <desc>Lockhart mentions Florida in talking about the books he has been reading, which have taken place in the south.
-                 He mentions South Moon Under whic takes place in Florida.</desc> 
+                 He mentions South Moon Under which takes place in Florida.</desc> 
                </place>
                
                <place type="city" xml:id="Balboa" source="#TGN">
@@ -1051,7 +1051,7 @@
                  <country>Roublic of Panama</country>
                  <region type="geographic">Central America</region>
                   <location><geo>8.9500 -79.5667</geo></location>
-                  <desc>Balboa is mentioned along with Valparaiso as a stopover city for mail going to the Anartic 
+                  <desc>Balboa is mentioned along with Valparaiso as a stopover city for mail going to the Antarctic 
                   expedition, as well as the place where journalists wanted to interview Lockhart</desc>
                </place>
                
@@ -1083,7 +1083,7 @@
                </place>
                <place type="unknown" xml:id="FortWiener" source="#eel-19401225a">
                   <placeName>Fort Wiener</placeName>
-                  <country>Antartica</country>
+                  <country>Antarctica</country>
                   <desc>More than likely the barracks or tent of Murray Wiener. There is not mention of an actual Fort Wiener beyond this journal that can be found, therefore leading to the belief that this location is actually a nickname for the barracks or a tent of Murry Wiener.</desc>
                   <location cert="unknown"></location>
                </place>
@@ -1098,7 +1098,7 @@
                   <placeName>Wilmington, Delaware</placeName>
                   <region type="state">Delaware</region>
                   <country>United States</country>
-                  <desc>Wilmington is the home of Mary and Carl, his brother and sister-in-law, that Lockhart recieves radiograms from.</desc>
+                  <desc>Wilmington is the home of Mary and Carl, his brother and sister-in-law, that Lockhart receives radiograms from.</desc>
                   <location><geo>39.7458° N, 75.5467° W</geo></location>
                </place>
                <place type="geography" xml:id="Equator" source="#eel-19410113a">
@@ -1153,7 +1153,7 @@
                      </desc>
                   </state>
                   <desc>
-                     WLMC appears to be the only opperator in the United States who received and transcribed radiograms for the Expedition.
+                     WLMC appears to be the only operator in the United States who received and transcribed radiograms for the Expedition.
                      Between November 25 1939 to May 4 1941, this station processed around 15,000 messages to and from the Expedition.
                   </desc>
                </org>
@@ -1190,7 +1190,7 @@
                   <orgName>The Polar Times</orgName>
                   <state type="company"></state>
                   <desc>The Polar Times was produced as an inhouse magazine during discovery expedition to Antarctica.
-                     The original purpose is to maintain morale and document the lives and work of the people on the expidition.</desc>
+                     The original purpose is to maintain morale and document the lives and work of the people on the expedition.</desc>
                </org>
             </listOrg>
             
@@ -1214,13 +1214,13 @@
                   the Lockhart family.</bibl>
                <bibl xml:id="LyonDarwin" n="Homo vs. Darwin">Lyon, William Penman <title level="a">Homo versus Darwin : a judicial examination of statements recently published by Mr. Darwin regarding "The descent of man."</title> <title level="s">Archive.org</title> 
                   Philadelphia: Claxton, Remsen and Haffelfinger, 1872. Web. 24 March 2014.  https://archive.org/details/homoversusdarwin00lyonrich</bibl>
-               <bibl xml:id="WikiGWTW" n="Gone With the Wind"><title level="a">Gone With the Wind</title><title level="s">Wikipedia, the free encylopedia</title>
+               <bibl xml:id="WikiGWTW" n="Gone With the Wind"><title level="a">Gone With the Wind</title><title level="s">Wikipedia, the free encyclopedia</title>
                   http://en.wikipedia.org/wiki/Gone_with_the_Wind 18 Mar 2014. Web. 18 Mar 2014.</bibl>
                <bibl xml:id="GMTAntarctica" n="AntarcticaStandardTime"><title level="a">Antarctica</title><title level="s">Greenwich Mean Time</title>
                   http://wwp.greenwichmeantime.com/time-zone/antarctica/ Web. 18 Mar 2014.</bibl>
                <bibl xml:id="Magellan" n="FordMagellan">Ford, Charles.<title level="a">Death Sails with Magellan</title><title level="s">Hathi Trust</title>
                   http://babel.hathitrust.org/cgi/pt?id=mdp.39015059400450;view=1up;seq=8 Web. 18 Mar 2014.</bibl>
-               <bibl xml:id="WikiBursey" n="JackBursey"><title level="a">Jack Bursey</title><title level="s">Wikipedia, the free encylopedia</title> 
+               <bibl xml:id="WikiBursey" n="JackBursey"><title level="a">Jack Bursey</title><title level="s">Wikipedia, the free encyclopedia</title> 
                   http://en.wikipedia.org/wiki/Jack_Bursey 19 Nov 2012 Web. 27 Feb 2014.</bibl>
                <bibl xml:id="Allen" n="Allen">Allen, Glover M.<title level="m">Extinct And Vanishing Mammals of the Western Hemisphere</title>
                Pennsylvania: The Intelligence Printing Company, 1942. Print.</bibl>
@@ -1243,9 +1243,9 @@
                   Available through the <title level="m">Biodiversity Heritage Library</title>
                   at http://www.biodiversitylibrary.org/item/25715#page/16/mode/1up.</bibl>
                
-               <bibl xml:id="QST" n="QST"><title level="a">U.S. Anttarctic Service Expresses Appreciation</title>
+               <bibl xml:id="QST" n="QST"><title level="a">U.S. Antarctic Service Expresses Appreciation</title>
                <title level="j"> QST</title> November 1941. Print.</bibl>
-               <bibl xml:id="Lockhart1942" n="Lockhart1942"><title level="a">Oxygen Defiency in Antarctic Air</title><title level="j">Monthly Weather Review</title>
+               <bibl xml:id="Lockhart1942" n="Lockhart1942"><title level="a">Oxygen Deficiency in Antarctic Air</title><title level="j">Monthly Weather Review</title>
                May 1942. Print.</bibl>
                
                <bibl xml:id="personnel" n="personnel"><title level="u">Personnel, 1939-1940</title>. 1939-40. TS. Papers
@@ -1303,7 +1303,7 @@
                <bibl xml:id="Malone" n="Malone">Malone, Thomas F., ed. <title level="j">Compendium of Meteorology.</title> 
                   Baltimore: Waverly Press, Inc., 1951. <title level="m">Internet Archive.</title> Web. 26 Feb. 2014.</bibl>
                
-               <bibl xml:id="LibUTexas" n="Guide"><title level="a">A Guide to the Charles F. Passel Antartic Exploration Collection, 1911-2001</title> <title>University of Texas Library</title> 
+               <bibl xml:id="LibUTexas" n="Guide"><title level="a">A Guide to the Charles F. Passel Antarctic Exploration Collection, 1911-2001</title> <title>University of Texas Library</title> 
                   n.d. Web. 25 Feb. 2015</bibl>
                
                <bibl xml:id="FindAGrave" n="FindAGrave"><title level="a">Felix Louis Ferranto.</title> <title type="m">FindAGrave.com.</title> N.p., n.d. Web. 26 Feb. 2014. &lt;http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&amp;GRid=72466677&gt;.</bibl>
@@ -1329,7 +1329,7 @@
                <bibl xml:id="MGutenko" n="Mount"><title level="a">Gutenko Mountains.</title> <title level="m">Geographic Names Information System (GNIS).</title> United States 
                   Geological Survey, n.d. Web. 3 Mar. 2014.</bibl>
                
-               <bibl xml:id="WikiFitz" n="Roy"><title level="a">Roy Fitzsimmons</title><title level="s"> Wikipedia, the free encylopedia</title> 
+               <bibl xml:id="WikiFitz" n="Roy"><title level="a">Roy Fitzsimmons</title><title level="s"> Wikipedia, the free encyclopedia</title> 
                  10 May 2013. Web. 3 March 2014.</bibl>
                
                <bibl xml:id="Bertrand" n="Bertrand"><title level="m">Americans in Antarctica.</title>New York: American Geographical Society, 1971. Print.</bibl>
@@ -1357,10 +1357,10 @@
                <bibl xml:id="Shipscribe" n="Shipscribe"><title level="a">North Star (IX-148) Photographs.</title><title level="m">Shipscribe.com</title>, n.p., n.d. Web. 25 February 2014.
                   http://www.shipscribe.com/usnaux/IX3/IX148-p.html</bibl>
                <bibl xml:id="PerkBiology" n="Perkins">Perkins, Jack E. <title level="a">Biology at Little America III, 
-                  the West Base of the United States Antarctic Service Epedition 1939-1941.</title> 
+                  the West Base of the United States Antarctic Service Expedition 1939-1941.</title> 
                   <title level="j">Proceedings of the American Philosophical Society</title> 89. 1 (1945): 272-273. 
                   Print. <title level="j">JSTOR.</title> Web. 18 Mar. 2014.</bibl>
-               <bibl xml:id="PolarTimes" n="PolarTimes"><title level="a">Understanding the Past and the Present</title><title level="m">Discovering Antartica</title> N.p., n.d. Web. 25 March 2014.
+               <bibl xml:id="PolarTimes" n="PolarTimes"><title level="a">Understanding the Past and the Present</title><title level="m">Discovering Antarctica</title> N.p., n.d. Web. 25 March 2014.
                   http://www.discoveringantarctica.org.uk/multimedia/flash/13/meltdown/13_understanding_meltdown.html</bibl>
             </listBibl>
             
@@ -1431,7 +1431,7 @@
 
             <p>
                <emph rend="bold">Scanning</emph>. The manuscript pages were scanned as 24-bit TIFF
-               images at 400 dots per inch (dpi), then coverted to 8-bit JPEG images at 400 dpi and
+               images at 400 dots per inch (dpi), then converted to 8-bit JPEG images at 400 dpi and
                full quality before being loaded into the Media Manager application. All edges were
                overscanned by at least 1/4 inch. No color correction was used at any stage of image
                preparation, but a scan of a photographer's 18% grey card on the same scanner
@@ -1628,7 +1628,7 @@
                   <fw type="pageNum" place="top">2</fw>
            
               <lb/>became larger and larger. <persName ref="#Tony">Tony</persName><del rend= "strikethrough"><unclear cert="high">br</unclear></del>, I know, was especially
-                  <lb/>anxious to get into the barracks <ptr type="noteAnchor" target="notebarracks1"/><note resp="ed" xml:id="barracks">The barracks that are written about are presumably living quarters, where the men on the expidition slept and spent any down time.</note> to tell his stories. The
+                  <lb/>anxious to get into the barracks <ptr type="noteAnchor" target="notebarracks1"/><note resp="ed" xml:id="barracks">The barracks that are written about are presumably living quarters, where the men on the expedition slept and spent any down time.</note> to tell his stories. The
               <lb/>rest of us were wondering what the present set up was like-
               <lb/>we had heard so many reports while we were out on the trail
               <lb/>that we had no idea what we were walking into. I
@@ -1648,7 +1648,7 @@
                  <lb/>ahead of old <name type="dog" ref="#Spot">Spot</name>. <persName ref="#Siple">Paul</persName> came out to meet us and gave
                  <lb/>us a good hand clapp as we came up to him. There was
                  <lb/>preliminary gossip as we endrived in. We parked in
-                 <lb/>front of the balloon house <ptr type="noteAnchor" target="noteballoonhouse1"/><note resp="ed" xml:id="balloonhouse">The balloon house that is written about is a place where radar information and radiosonde ballons were kept. Radar tracking and work with the climate was also done here. </note> where we were met by almost the
+                 <lb/>front of the balloon house <ptr type="noteAnchor" target="noteballoonhouse1"/><note resp="ed" xml:id="balloonhouse">The balloon house that is written about is a place where radar information and radiosonde balloons were kept. Radar tracking and work with the climate was also done here. </note> where we were met by almost the
                  <lb/>whole camp personnel. We had been wondering whether any
                  <lb/>but a dozen few would be waiting up for us and now were
                  <lb/>surprised to see everyone. While we were answering various
