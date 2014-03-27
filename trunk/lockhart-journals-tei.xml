@@ -563,7 +563,7 @@
                   <state type="rank"><desc>Sergeant, USMC</desc></state>
                   <note type="biographical">Felix Ferranto was the radio operator for the Snow Cruiser. He achieved the 
                      rank of Lieutenant Colonel in the USMC. The Antarctic summit Mount Ferranto was named after him in
-                     1947 <bibl><ref target="#MFerranto"><title level="a">Mount Ferranto</title></ref></bibl>.</note>
+                     1947 <bibl><ref target="#MFerranto"><title level="a">Mount Ferranto,</title></ref> <ref target="#FindAGrave"><title level="a">Felix Louis Ferranto</title></ref></bibl>.</note>
                </person> 
                <person xml:id="Court" source="#Arnold #Malone">
                   <persName>Court, Arnold</persName>
@@ -572,7 +572,7 @@
                   <occupation>Climatologist/Meteorologist</occupation>
                   <note type="biographical">Court was the Chief Meteorologist for the 1939-1941 expedition. 
                      Court and Lockhart took samples of the air and worked together to determine whether 
-                     the air in Antarctica is oxygen deficient.</note>
+                     the air in Antarctica is oxygen deficient <bibl><ref target="#Arnold"><title level="a">Arnold Court,</title></ref> <ref target="#Malone">Malone, Thomas F., ed.></ref></bibl>.</note>
                </person>
                <person xml:id="DocFrazier" source="#Russell">
                   <persName>Frazier, Dr. Russell G.</persName>
@@ -582,7 +582,7 @@
                   <note type="biographical">Doc Frazier served as the physician for the 1939-1941 expedition. 
                      In addition to caring for those at West Base, he conducted research on how exposure to 
                      extreme cold for long periods of time affects the human body. The Antarctic peak Mount 
-                     Frazier was named after him in 1947 <bibl><ref target="#MFrazier"><title level="a">Mount Frazier</title></ref></bibl>.</note>
+                     Frazier was named after him in 1947 <bibl><ref target="#MFrazier"><title level="a">Mount Frazier,</title></ref> <ref target="#Russell"><title level="a">Russell G. Frazier</title></ref></bibl>.</note>
                </person>
                <person xml:id="mamma" source="#koulouris">
                   <persName>Westhaver, Celeste Althea <addName type="formal">Mrs. Clinton Daniel Lockhart</addName></persName>
@@ -842,7 +842,7 @@
                      his students to learn more about all three media than they could by studying
                      any one in isolation.</note>                
                </person>
-               <person>
+               <person xml:id="RSL">
                   <persName>Layfield, Rachel</persName>
                   <note type="biographical">Rachel Layfield is a third-year English major who is 
                      minoring in both Professional Writing and French. Post-graduation, she plans to 
