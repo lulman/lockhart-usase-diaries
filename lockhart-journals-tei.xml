@@ -200,9 +200,26 @@
                      We will use this note to contain an historical/critical introduction to the
                      text of the Smith diary.
                      -->
-                     <p>text.</p>
-                     <p>text.</p>
-                  </note>
+                     <p>Introductory paragraph</p>
+                     <p rend="h3">Scientific Work of the USASE</p>
+                     <p>First paragraph of this section.</p>
+                     <p><hi rend="bold">Sub-head</hi>. Second paragraph of this section.</p>
+                     <p rend="h3">Dog Teams</p>
+                     <p>First paragraph of this section.</p>
+                     <p>Second paragraph of this section.</p>
+                     <p rend="h3">Other Nations' Activities in Antarctica ca. 1939-1941</p>
+                     <p>First paragraph of this section.</p>
+                     <p>Second paragraph of this section.</p>
+                     <p rend="h3">Reading and Recreation</p>
+                     <p>First paragraph of this section.</p>
+                     <p>Second paragraph of this section.</p>
+                     <p rend="h3">Testing Equipment in Severe Cold</p>
+                     <p>First paragraph of this section.</p>
+                     <p>Second paragraph of this section.</p>
+                     <p rend="h3">Communications</p>
+                     <p>First paragraph of this section.</p>
+                     <p>Second paragraph of this section.</p>
+                   </note>
 
                </notesStmt>
 
@@ -799,7 +816,8 @@
                </person>
                <person>
                   <persName>Edison, Meg</persName>
-                  <note type="biographical">Meg Edison is a second-year English and History major at The Ohio State University.</note>
+                  <note type="biographical">Meg Edison is a second-year English and History major at 
+                     The Ohio State University.</note>
                </person>
             </listPerson>
             
