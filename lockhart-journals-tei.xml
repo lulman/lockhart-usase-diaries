@@ -848,9 +848,9 @@
                      minoring in both Professional Writing and French. Post-graduation, she plans to 
                      earn her MLS and become a librarian.</note>
                </person>
-               <person>
+               <person xml:id="ME">
                   <persName>Edison, Meg</persName>
-                  <note type="biographical">Meg Edison is a second-year English and History major at 
+                  <note type="biogrbaaphical">Meg Edison is a second-year English and History major at 
                      The Ohio State University.</note>
                </person>
                <person>
@@ -1831,9 +1831,9 @@
                      increase in blood sugar levels, and changes in respiration and body temperature. For more information about their diets, see Lockhart's article.<bibl><ref target="#Bertrand">Bertrand 429</ref></bibl></note>
                   <lb/>but I started writing reading and talking so very little was 
                   <lb/>done. <persName ref="#BuckBoyd">Buck Boyd</persName> and I went skiing down to the <geogName ref="#BarrierEdge">barrier edge</geogName><ptr type="noteAnchor" target="barrieredge"/><note resp="ed" xml:id="barrieredge">
-                     Lockhart is likely referring to the edge of the Ross Ice Shelf <bibl><ref target="#Passel"><title type="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref></bibl></note>
+                     Lockhart is likely referring to the edge of the Ross Ice Shelf <bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref></bibl></note>
                   <lb/>to see if the blizzard had carried out any of the <geogName>bay</geogName><ptr type="noteAnchor" target="bay"/><note resp="ed" xml:id="bay">
-                     The Bay of Whales <bibl><ref target="#Passel"><title type="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref></bibl></note> ice.
+                     The Bay of Whales <bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref></bibl></note> ice.
                   <lb/>We found that the whole <geogName>bay</geogName> was still iced over and unless
                   <lb/>something drastic happens within the next two weeks we certainly
                   <lb/>are going to have a very difficult time getting out of this place.
@@ -2407,7 +2407,7 @@
                   <lb/>read the book and thought about the movie that has been made
                   <lb/>from it <persName>Clark Gable</persName> certainly is the man to play <persName type="fictional">Rhett Butler</persName>
                     <lb/>I am not so sure about <persName>Vivien Leigh</persName> as <persName type="fictional">Scarlett</persName><ptr type="noteAnchor" target="notemovies3"/>
-                    <note resp="ed" xml:id="notemovies3">The film <title type="a">Gone with the Wind</title> was released in 1939 to rave reviews. Like Lockhart, the producers found Scarlett O'Hara difficult to cast; over 1,400 actresses auditioned for the part before Vivian Leigh was chosen. <bibl><ref target="#IMBdGwtW">"Gone with the Wind"</ref></bibl></note>!
+                    <note resp="ed" xml:id="notemovies3">The film <title level="a">Gone with the Wind</title> was released in 1939 to rave reviews. Like Lockhart, the producers found Scarlett O'Hara difficult to cast; over 1,400 actresses auditioned for the part before Vivian Leigh was chosen. <bibl><ref target="#IMBdGwtW">"Gone with the Wind"</ref></bibl></note>!
                   </p>
                   <p>
                   <lb/>We had a mail bag today from <placeName>Kansas City</placeName> but <unclear cert="high">the</unclear> re-
