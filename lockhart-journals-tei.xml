@@ -1715,10 +1715,10 @@
                      <lb/>christmas spirit and strawberry pie to top things off then
                      <lb/>more lulling until <seg ana="metaphor">show time</seg>. We saw the <title level="m" ref="#jfih">Jones family in
                      <lb/>Hollywood</title><ptr type="noteAnchor" target="notemovies1"/><note resp="ed" xml:id="notemovies1">A 1939 comedy starring Jed Prouty and Spring Byington.
-                         <bibl><ref target="#IMBdJF">"Jones Family in Hollywood"</ref></bibl></note>
+                        <bibl><ref target="#IMBdJF"><title level="a">Jones Family in Hollywood</title></ref></bibl></note>
                   and <title level="m" ref="#rb">Risky Business</title> <ptr type="noteAnchor" target="notemovies2"/>
                   <note resp="ed" xml:id="notemovies2">A 1939 crime drama starring George Murphy and Dorothea Kent. There is no relation to the 1983 movie of the same name starring Tom Cruise.
-                     <bibl><ref target="#IMBdRB">"Risky Business"</ref></bibl></note>. I enjoyed both of them.
+                     <bibl><ref target="#IMBdRB"><title level="a">Risky Business</title></ref></bibl></note>. I enjoyed both of them.
                   </p>
                   <p>
                      <lb/>It had been blowing about 35-40 miles an hour all day
@@ -1829,7 +1829,7 @@
                   <lb/>done. <persName ref="#BuckBoyd">Buck Boyd</persName> and I went skiing down to the <geogName>barrier edge</geogName><ptr type="noteAnchor" target="barrieredge"/><note resp="ed" xml:id="barrieredge">
                      Lockhart is likely referring to the edge of the Ross Ice Shelf <bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref></bibl></note>
                   <lb/>to see if the blizzard had carried out any of the <geogName>bay</geogName><ptr type="noteAnchor" target="bay"/><note resp="ed" xml:id="bay">
-                     The Bay of Whales <bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref></bibl></note> ice.
+                     When referring to "the bay," Lockhart is always referring to the Bay of Whales <bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref></bibl></note> ice.
                   <lb/>We found that the whole <geogName>bay</geogName> was still iced over and unless
                   <lb/>something drastic happens within the next two weeks we certainly
                   <lb/>are going to have a very difficult time getting out of this place.
@@ -2403,7 +2403,7 @@
                   <lb/>read the book and thought about the movie that has been made
                   <lb/>from it <persName>Clark Gable</persName> certainly is the man to play <persName type="fictional">Rhett Butler</persName>
                     <lb/>I am not so sure about <persName>Vivien Leigh</persName> as <persName type="fictional">Scarlett</persName><ptr type="noteAnchor" target="notemovies3"/>
-                    <note resp="ed" xml:id="notemovies3">The film <title level="a">Gone with the Wind</title> was released in 1939 to rave reviews. Like Lockhart, the producers found Scarlett O'Hara difficult to cast; over 1,400 actresses auditioned for the part before Vivian Leigh was chosen. <bibl><ref target="#IMBdGwtW">"Gone with the Wind"</ref></bibl></note>!
+                    <note resp="ed" xml:id="notemovies3">The film <title level="a">Gone with the Wind</title> was released in 1939 to rave reviews. Like Lockhart, the producers found Scarlett O'Hara difficult to cast; over 1,400 actresses auditioned for the part before Vivian Leigh was chosen. <bibl><ref target="#IMBdGwtW"><title level="a">Gone with the Wind</title></ref></bibl></note>!
                   </p>
                   <p>
                   <lb/>We had a mail bag today from <placeName>Kansas City</placeName> but <unclear cert="high">the</unclear> re-
@@ -2570,7 +2570,7 @@
                </p>
                <p>
                   <lb/>This evening we had a reshow of <title level="m" ref="#Blondie">Blondie</title><ptr type="noteAnchor" target="notemovies4"/>
-                  <note resp="ed" xml:id="notemovies4">A 1938 comedy starring Penny Singleton as Blondie Bumstead. This was the first of 28 movies about Blondie and her husband Dagwood.<bibl><ref target="#IMBdB">"Blondie"</ref></bibl></note> which made
+                  <note resp="ed" xml:id="notemovies4">A 1938 comedy starring Penny Singleton as Blondie Bumstead. This was the first of 28 movies about Blondie and her husband Dagwood.<bibl><ref target="#IMBdB"><title level="a">Blondie</title></ref></bibl></note> which made
                   <lb/>us laugh as much as if it were only the first time we had
                   <lb/>seen it.
                </p>
