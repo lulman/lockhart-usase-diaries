@@ -1833,7 +1833,7 @@
                      to test the physiological effects of the cold. The volunteers were tested before and after a 3-month period on the trails and ate a specific diet. The results of the tests showed slightly lowered basal metabolism, 
                      increase in blood sugar levels, and changes in respiration and body temperature. For more information about their diets, see Lockhart's article.<bibl><ref target="#Bertrand">Bertrand 429</ref></bibl></note>
                   <lb/>but I started writing reading and talking so very little was 
-                  <lb/>done. <persName ref="#BuckBoyd">Buck Boyd</persName> and I went skiing down to the <geogName ref="#BarrierEdge">barrier edge</geogName><ptr type="noteAnchor" target="barrieredge"/><note resp="ed" xml:id="barrieredge">
+                  <lb/>done. <persName ref="#BuckBoyd">Buck Boyd</persName> and I went skiing down to the <geogName>barrier edge</geogName><ptr type="noteAnchor" target="barrieredge"/><note resp="ed" xml:id="barrieredge">
                      Lockhart is likely referring to the edge of the Ross Ice Shelf <bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref></bibl></note>
                   <lb/>to see if the blizzard had carried out any of the <geogName>bay</geogName><ptr type="noteAnchor" target="bay"/><note resp="ed" xml:id="bay">
                      The Bay of Whales <bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref></bibl></note> ice.
@@ -2838,13 +2838,13 @@
                </p>
                <p>
                   <lb/>The wind had come up during the night and
-                  <lb/>about <time>ten</time> this morning the ice in the <geogFeat ref="#BayofWhales">Bay</geogFeat> began
+                  <lb/>about <time>ten</time> this morning the ice in the <geogFeat>Bay</geogFeat> began
                   <lb/>breaking up and the <name type="ship" ref="#Bear">Bear</name> <emph style="underline">had</emph> to move out. <unclear>If</unclear> in
                   <lb/>having to stay out all day. The ice which had expanded
                   <lb/>from <num>1.5</num> to <num>2</num> miles past the new <unclear>laviner</unclear> cache all cracked
                   <lb/>up and was being taken out by the SSE wind. It looks 
                   <lb/>as though it will crack out as far back as the cache,
-                  <lb/>which means a lot of <geogFeat ref="#BayofWhales">Bay</geogFeat> ice has to move out. It
+                  <lb/>which means a lot of <geogFeat>Bay</geogFeat> ice has to move out. It
                   <lb/>also means that we may have an easier time loading
                   <lb/>than was expected.
                </p>
@@ -2919,7 +2919,7 @@
                <p>
                   <lb/>All of the <!-- Spelling? -->food<!-- snip --> going back much of the radio gear
                   <lb/><!-- Spelling? -->meterological<!-- snip --> equipment and aviation gear has already
-                  <lb/>been taken down to the <geogName ref="#BarrierEdge">barrier edge</geogName>. It looks as though
+                  <lb/>been taken down to the <geogName>barrier edge</geogName>. It looks as though
                   <lb/>it won't be difficult to get <!-- underline -->all<!-- snip --> of the stuff going back
                   <lb/>down to the cache. Once down there it won't take long to
                   <lb/>load the stuff on the ships. The <name type="ship">Star</name>, by the way,
