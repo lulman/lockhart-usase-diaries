@@ -2082,7 +2082,7 @@
                  <lb/>penguin and <persName ref="#Perk">Perk</persName> has been spending most of the evening
                  <lb/>drawing blood and skinning it. There should be more of them
                  <lb/>in one the ice within the next few days. <persName ref="#Asman">Asman</persName> and <persName ref="#Pete">Pete</persName> took
-                 <lb/>the tank out for <seg ana="metaphor">a spin</seg> and were not able to get it up out of
+                 <lb/>the <name ref="#tank">tank</name> out for <seg ana="metaphor">a spin</seg> and were not able to get it up out of
                  <lb/>the <geogFeat>bight</geogFeat> so they left it there. They gave it another try tonight
                  <lb/>but it was <seg ana="metaphor">no soap</seg>. They will have to wait a while longer until
                  <lb/>the surface gets a little harder. <del rend="strikethrough">They</del> The boys don't do much
@@ -2569,7 +2569,7 @@
                   <lb/>I tell him to. He does very well and lets me take meat
                   <lb/>away from him after he has started to eat. He is really
                   <lb/>a good dog. I sent a message to <persName ref="#Beatie">Beatie</persName> telling her
-                  <lb/>to feed <persName ref="#Petedog">Pete</persName> well because I was bringing a 90 lb dog
+                  <lb/>to feed <name type="dog" ref="#Petedog">Pete</name> well because I was bringing a 90 lb dog
                   <lb/>home. Just wait until they see him.
                </p>
                <p>
@@ -2744,7 +2744,7 @@
                <lb/>I read them all all over again. I had one from <persName ref="#Mary">Mary</persName>
                <lb/>which had in it some pictures of <persName ref="#Carl">Carl</persName> and her and
                <lb/>one of one of her sisters. I enjoyed also the pictures
-               <lb/><persName ref="#Beatie">Beatie</persName> sent of <persName ref="#Petedog">Pete</persName>, <persName ref="#Peterdog">Peter</persName>, <persName ref="#Papa">Papa</persName>, and the house. Both
+               <lb/><persName ref="#Beatie">Beatie</persName> sent of <name type="dog" ref="#Petedog">Pete</name>, <name type="dog" ref="#Peterdog">Peter</name>, <persName ref="#Papa">Papa</persName>, and the house. Both
                <lb/><persName ref="#Van">Van</persName> <del rend="strikethrough">I</del> and <persName ref="#Vivian">Vivian</persName> sent letters with pictures in them of the
                <lb/>new baby. <persName ref="#George">George</persName> also sent pictures in his letter. Other
                <lb/>letters came from <persName ref="#Dave">Dave</persName> and <persName ref="#Mary">Mary</persName>, <persName ref="#Henry">Henery</persName>, <persName ref="#Dot">Dot</persName>, <persName ref="#Elenore">Elenore</persName>
@@ -3158,7 +3158,7 @@
                  <p>
                     <lb/>just discovered that you can receive messages on this trip you are
                     <lb/><choice><sic>talking</sic><corr>taking</corr></choice> x sorry not to have <gap reason="overwritten with x's" unit="chars" extent="2"/>nt anything for before x hope you are well
-                    <lb/>x little <persName ref="#Peterdog">peter</persName> now weighs 26 pounds x bring on your husky x everyone look<seg type="softhyphen">
+                    <lb/>x little <name type="dog" ref="#Peterdog">peter</name> now weighs 26 pounds x bring on your husky x everyone look<seg type="softhyphen">
                     <lb/></seg>ing forward anxiously to your2return we <gap reason="overwritten with x's" unit="chars" extent="4"/> all well and happy x eight
                     <lb/>inches o<gap reason="overwritten"/>f snow for thanksgiving all well
                  </p>
@@ -3256,7 +3256,7 @@
                  </opener>
                  <!-- Is any of the information in the opener a "byline"? -->
                  <p>best wishes for a happy christmas. at least you can have
-                    <lb/>real snow balls on your tree. little <persName ref="#Peterdog">peter</persName> now weighs 31 lbs and stands
+                    <lb/>real snow balls on your tree. little <name type="dog" ref="#Peterdog">peter</name> now weighs 31 lbs and stands
                     <lb/>20 inches. with this i am sending bad news . <rs>jack mahans father</rs> died
                     <lb/>on wednesday spent evening with them . he was <choice><sic>burried</sic><corr>buried</corr></choice> today be seeing
                     <lb/>you soon . love from all friend and family . thanks giving picture
@@ -3337,7 +3337,7 @@
                   <p>
                      <lb/>dear <persName ref="#EEL">earl</persName> x we are anxiously watching the papers for news of the arrival
                      <lb/>of the <name type="ship" ref="#Bear">bear</name> x what rejoicing there will be in your neck of the woods
-                     <lb/>x weather has turned cold here x feels like your summer x little <persName ref="#Peterdog">petere</persName>
+                     <lb/>x weather has turned cold here x feels like your summer x little <name type="dog" ref="#Peterdog">petere</name>
                      <lb/>now <num>thirty five</num> pounds x love
                   </p>
                   <lb/><signed><persName ref="#Beatie">beatie</persName></signed>
@@ -3369,7 +3369,7 @@
                   </opener>
                  <p>
                     <lb/>DEAR EARL X YOUR LETTER AND PICTURES RECEIVED MONDAY X IT WAS GOOD TO ACTUALLY
-                    <lb/>HAAR FROM YOU X THANK GOODNESS YOUR DOG IS LOSING WEIGHT X <persName ref="#Petedog">PETER</persName> IS NOW
+                    <lb/>HAAR FROM YOU X THANK GOODNESS YOUR DOG IS LOSING WEIGHT X <name type="dog" ref="#Petedog">PETER</name> IS NOW
                     <lb/><measure><num>58</num>LBS</measure> X LETTERS WAITING A VALPO AND BALBOA X WE ARE ALL WELL AND
                     <lb/>LOOKING FARWARD TO <date>JUNE FIRST</date>X ONE MORE LETTER GOES TO BALBOA TODAY X LOVE
                  </p>
