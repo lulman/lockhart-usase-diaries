@@ -995,13 +995,6 @@
                   <location><geo>8.537981 -80.782127</geo></location>
                </place>
                
-               <place type="geography" xml:id="BarrierEdge" source="#TGN">
-                  <placeName>Barrier Edge</placeName>
-                  <country>Antarctica</country>
-                  <desc>Lockhart is most likely referring to the edge of the Ross Ice Shelf. He describes two members of the expedition
-                  skiing down to the barrier edge to look at the bay.</desc>
-                  <location><geo>-81.5000 -175.0000</geo></location>
-               </place>
                
                <place type="geography" xml:id="LittleAmerica">
                  <placeName>Little America</placeName>
