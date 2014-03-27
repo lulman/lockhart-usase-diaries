@@ -103,11 +103,11 @@
                      <ul>
                         <li><a href="./lockhart-edintro.html#introduction">Introduction</a>
                            <ul>
-                              <li><a href="./lockhart-edintro.html#science">Scientific Work of the USASE</a></li>
+                              <li><a href="./lockhart-edintro.html#science">Scientific Research</a></li>
                               <li><a href="./lockhart-edintro.html#dogs">Dog Teams</a></li>
-                              <li><a href="./lockhart-edintro.html#geopolitics">Other Nations' Activities in Antarctica ca. 1939-1941</a></li>
-                              <li><a href="./lockhart-edintro.html#entertainment">Reading and Recreation</a></li>
-                              <li><a href="./lockhart-edintro.html#equipment">Testing Equipment in Severe Cold</a></li>
+                              <li><a href="./lockhart-edintro.html#geopolitics">Geopolitics</a></li>
+                              <li><a href="./lockhart-edintro.html#entertainment">Recreation</a></li>
+                              <li><a href="./lockhart-edintro.html#equipment">Testing Equipment</a></li>
                               <li><a href="./lockhart-edintro.html#communications">Communications</a></li>
                            </ul>
                         </li>
