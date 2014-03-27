@@ -751,7 +751,7 @@
                   Expedition. In 1939 until 1941, Bailey served as a radio chief for Rare Radio for the West Base Party of the 
                   United States Antarctic Service.</note>
                </person>
-               <person xml:id="Siple" source="#personnel">
+               <person xml:id="Siple" source="#personnel #WikiSiple">
                   <persName>Siple, Dr. Paul A</persName>
                   <birth when="1908">December 18, 1908</birth>
                   <death when="1968">November 25, 1968 </death>
@@ -1368,6 +1368,9 @@
                   Print. <title level="j">JSTOR.</title> Web. 18 Mar. 2014.</bibl>
                <bibl xml:id="PolarTimes" n="PolarTimes"><title level="a">Understanding the Past and the Present</title><title level="m">Discovering Antarctica</title> N.p., n.d. Web. 25 March 2014.
                   http://www.discoveringantarctica.org.uk/multimedia/flash/13/meltdown/13_understanding_meltdown.html</bibl>
+               <bibl xml:id="WikiSiple" n="Siple"><title level="a">Paul Siple</title><title level="s"> Wikipedia, the free encyclopedia</title> 
+                  28 Jan 2014. Web. 20 March 2014.</bibl>
+               
             </listBibl>
             
          </sourceDesc>
