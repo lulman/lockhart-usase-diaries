@@ -417,10 +417,10 @@
    </xsl:template>
 
    <!-- Format miscellaneous elements -->
-   <xsl:template match="tei:lb"><br/></xsl:template>
    <xsl:template match="tei:fileDesc/tei:titleStmt/tei:title/tei:lb">
       <br/><xsl:apply-templates/>
    </xsl:template>   
+   <xsl:template match="tei:lb"><br/></xsl:template>
    <xsl:template match="tei:p[@rend='h3']">
       <xsl:element name="h3">
          <xsl:attribute name="id"><xsl:value-of select="@xml:id"/></xsl:attribute>
@@ -537,7 +537,7 @@
             <xsl:attribute name="width">150</xsl:attribute>
          </img>
          <br/>
-         <xsl:value-of select="tei:head"/>
+         <xsl:apply-templates select="tei:head"/>
          <xsl:if test="tei:media">
             <xsl:element name="a"><xsl:attribute name="href"><xsl:value-of select="tei:media/@url" /></xsl:attribute>
                <xsl:attribute name="target">_blank</xsl:attribute>

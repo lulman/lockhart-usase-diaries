@@ -200,7 +200,29 @@
                      We will use this note to contain an historical/critical introduction to the
                      text of the Smith diary.
                      -->
-                     <p>Introductory paragraph</p>
+                     <quote rend="epigraph">I am now a firm believer that one trained so completely in 
+                        theoretical matters as I have been in the past should go away on an expedition 
+                        for a year or two.<lb/>
+                     -- Earl Lockhart, 1 January 1941</quote>
+                     <p>
+                        <figure rend="embed">
+                           <head>Earnest Earl Lockhart<lb/>ca. 1939-1941</head>
+                           <graphic url="usase-lockhart-watermarked.png"/>
+                           <figDesc> Earnest Earl Lockhart, ca. 1939-1941 </figDesc>
+                        </figure> Introductory paragraph. Introductory paragraph. Introductory
+                        paragraph. Introductory paragraph. Introductory paragraph. Introductory
+                        paragraph. Introductory paragraph. Introductory paragraph. Introductory
+                        paragraph. <title level="m">A Title of a Book or Movie</title>. Introductory
+                        paragraph. Introductory paragraph. Introductory paragraph. Introductory
+                        paragraph. Introductory paragraph. Introductory paragraph. Introductory
+                        paragraph. Lockhart writes, <q>A quotation from the text</q> (1 Jan. 1941).
+                        Introductory paragraph. Introductory paragraph. Introductory paragraph.
+                        Introductory paragraph. Introductory paragraph. Introductory paragraph.
+                        Introductory paragraph. Introductory paragraph. Introductory paragraph.
+                        Introductory paragraph. Introductory paragraph. Introductory paragraph.
+                        Introductory paragraph. Introductory paragraph. Introductory paragraph.
+                        Introductory paragraph <bibl><ref target="#CharliePassel">in-text citation,
+                              60</ref></bibl>. </p>
                      <p rend="h3">Scientific Work of the USASE</p>
                      <p>First paragraph of this section.</p>
                      <p><hi rend="bold">Sub-head</hi>. Second paragraph of this section.</p>
