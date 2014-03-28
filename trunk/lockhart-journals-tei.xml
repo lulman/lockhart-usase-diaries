@@ -596,6 +596,17 @@
                      knew each other beforehand is unclear. While her son, Ernest Lockhart, was in 
                      Antarctica, Celeste Althea often corresponded with him via radiogram.</note>
                </person>
+               <person xml:id="clinton" source="#koulouris">
+                  <persName>Lockhart, Clinton Daniel</persName>
+                  <birth when="1880-12-23"></birth>
+                  <death when="1964-05"></death>
+                  <event type="marriage" when="1904-09-21"><desc>Clinton Daniel Lockhart married Celest Althea Westhaver in Boston, Suffold, MA, USA.</desc></event>
+                  <note type="biographical">Clinton Daniel Lockhart was Lockhart's father. He and his wife
+                  were both born and raised in Nova Scotia, on opposite sides of the Bay of Fundy. In their 20s, 
+                  both Clinton and Delest immigrated to Boston, USA. Whether they knew each other before is unclear.
+                  While his son, Ernest Lockhart, was in Antarctica, his wife often corresponded with him
+                  via radiogram.</note>
+               </person>
                <person xml:id="Beatie" source="#koulouris">
                   <persName>Lockhart, Beatrice R. <addName type="nickname">Beatie</addName></persName>
                   <birth when="1905-05"></birth>
@@ -2748,7 +2759,7 @@
                <lb/>I read them all all over again. I had one from <persName ref="#Mary">Mary</persName>
                <lb/>which had in it some pictures of <persName ref="#Carl">Carl</persName> and her and
                <lb/>one of one of her sisters. I enjoyed also the pictures
-               <lb/><persName ref="#Beatie">Beatie</persName> sent of <name type="dog" ref="#Petedog">Pete</name>, <name type="dog" ref="#Peterdog">Peter</name>, <persName ref="#Papa">Papa</persName>, and the house. Both
+               <lb/><persName ref="#Beatie">Beatie</persName> sent of <name type="dog" ref="#Petedog">Pete</name>, <name type="dog" ref="#Peterdog">Peter</name>, <persName ref="#clinton">Papa</persName>, and the house. Both
                <lb/><persName ref="#Van">Van</persName> <del rend="strikethrough">I</del> and <persName ref="#Vivian">Vivian</persName> sent letters with pictures in them of the
                <lb/>new baby. <persName ref="#George">George</persName> also sent pictures in his letter. Other
                <lb/>letters came from <persName ref="#Dave">Dave</persName> and <persName ref="#Mary">Mary</persName>, <persName ref="#Henry">Henery</persName>, <persName ref="#Dot">Dot</persName>, <persName ref="#Elenore">Elenore</persName>
