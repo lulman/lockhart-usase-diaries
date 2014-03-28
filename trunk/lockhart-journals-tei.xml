@@ -284,7 +284,8 @@
                   <name source="#koulouris">Pete</name>
                   <trait type="sex"><desc>Male</desc></trait>
                   <desc>Pete is one of two dogs that lived at his parents' house in Mattapan during the Expedition. Both dogs are mentioned
-                  several times as they were being bulked up in preparation to be able to play with the sled dog Spot.</desc>
+                  several times as they were being bulked up in preparation to be able to play with the sled dog Spot. Pete was later donated to
+                  the military to assist with the war effort.</desc>
                </item>
             </list>
 
@@ -320,7 +321,7 @@
                </desc>
                </item>
                <item xml:id="tank">
-                  <name type="tank">tank</name>
+                  <name type="tank" source="#Bertrand">Tank</name>
                   <desc>The tank appears to be a Marmon-Herrington CTLS that was used during the Expedition.
                   It was not equipped with any weapon systems, instead having an open cockpit design. It was 
                   mostly used for moving personnel and equipment and also served as a test of the tank in extreme
@@ -634,18 +635,20 @@
                      as the army tank driver <bibl><ref target="#personnel"><title level="u">"Personnel, 1939-1940"</title></ref></bibl>. He mentioned in a newspaper article written in 1944, as having special assignment in the Arctic with Byrd testing army 
                      tanks under extreme conditions <bibl><ref target="#White"><title level="a">Byrd Expeditions Paying Off Today On Our Frozen Fronts</title></ref></bibl>. Later Asman Ridge, a ridge on the south side of Arthur glacier, was named for Asman <bibl><ref target="#AsmanR"><title level="a">Asman Ridge</title></ref></bibl>.</note>
                </person>
-               <person xml:id="Mary" source="#eel-19410110">
-                     <persName>Mary</persName>
-                     <birth>unknown</birth>
-                     <death>unknown</death>
-                     <note type="biographical">Sent correspondence to Lockhart through both mail and radiograms 
+               <person xml:id="Mary" source="#eel-19410110 #koulouris">
+                     <persName>Guernsey, Mary</persName>
+                     <birth when-custom="unknown"></birth>
+                     <death when-custom="unknown"></death>
+                     <event type="marriage" when="1940-10-25"><desc>Mary Guernsey married Clinton Carl Lockhart</desc></event>
+                     <note type="biographical">Mary was Dr. Lockhart's sister in law. She also sent correspondence to Lockhart through both mail and radiograms 
                      with her husband Carl.</note>
                </person>
-               <person xml:id="Carl" source="#eel-19410110">
-                   <persName>Carl</persName>
-                   <birth>unknown</birth>
-                   <death>unknown</death>
-                   <note type="biographical">Sent correspondence to Lockhart through both mail and radiograms
+               <person xml:id="Carl" source="#eel-19410110 #koulouris">
+                   <persName>Lockhart, Clinton Carl</persName>
+                   <birth when="1907-01-25"></birth>
+                   <death when="2000-12-07"></death>
+                   <event type="marriage" when="1940-10-25"><desc>Clinton Carl Lockhart married Mary Guersey</desc></event>
+                   <note type="biographical">Carl was Dr. Lockhart's brother. He also sent correspondence to Lockhart through both mail and radiograms
                    with his wife Mary.</note>
                </person>
                
@@ -659,8 +662,8 @@
                </person>
                <person xml:id="Van" source="#eel-19410110" >
                   <persName>Van</persName>
-                  <birth>unknown</birth>
-                  <death>unknown</death>
+                  <birth when-custom="unknown"></birth>
+                  <death when-custom="unknown"></death>
                   <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
                <person xml:id="BuckBoyd" source="#Passel #personnel #BoydG">
@@ -675,8 +678,8 @@
                </person>
                <person xml:id="Vivian" source="#eel-19410110" >
                   <persName>Vivian</persName>
-                  <birth>unknown</birth>
-                  <death>unknown</death>
+                  <birth when-custom="unknown"></birth>
+                  <death when-custom="unknown"></death>
                   <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
                <person xml:id="BillLeckie" source="#eel-19410427">
@@ -691,8 +694,8 @@
                </person>
                <person xml:id="Dave" source="#eel-19410110">
                   <persName>Dave</persName>
-                  <birth>unknown</birth>
-                  <death>unknown</death>
+                  <birth when-custom="unknown"></birth>
+                  <death when-custom="unknown"></death>
                   <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
                <person xml:id="Klondicke" source="#Passel #personnel #MBerlin">
@@ -708,8 +711,8 @@
                </person>
                <person xml:id="Henry" source="#eel-19410110">
                   <persName>Henry</persName>
-                  <birth>unknown</birth>
-                  <death>unknown</death>
+                  <birth when-custom="unknown"></birth>
+                  <death when-custom="unknown"></death>
                   <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
                
@@ -737,8 +740,8 @@
                </person>
                <person xml:id="Dot" source="#eel-19410110">
                   <persName>Dot</persName>
-                  <birth>unknown</birth>
-                  <death>unknown</death>
+                  <birth when-custom="unknown"></birth>
+                  <death when-custom="unknown"></death>
                   <note>Sent correspondence to Lockhart</note>
                </person>
                <person xml:id="Bailey">
@@ -761,8 +764,8 @@
                </person>
                <person xml:id="Elenore" source="#eel-19410110">
                   <persName>Elenore</persName>
-                  <birth>unknown</birth>
-                  <death>unknown</death>
+                  <birth when-custom="unknown"></birth>
+                  <death when-custom="unknown"></death>
                   <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
                <person xml:id= "Douglas">
@@ -784,17 +787,17 @@
                   <residence>Oxford, Oh</residence>
                   <note type="biographical">Doctor Wade was the Senior Scientist and a member of the Snow Cruiser Unit.</note>
                </person>
-               <person xml:id="Jenene" source="#eel-19410110">
-                  <persName>Jenene</persName>
-                  <birth>unknown</birth>
-                  <death>unknown</death>
-                  <note type="biographical">Sent correspondence to Lockhart.</note>
+               <person xml:id="Jenene" source="#eel-19410110 #koulouris">
+                  <persName>Lockhart, Jenene</persName>
+                  <birth when-custom="unknown"></birth>
+                  <death when-custom="unknown"></death>
+                  <note type="biographical">She was Dr. Lockhart's first cousin and also sent correspondence to Lockhart.</note>
                </person>
                
                <person xml:id="Malcolm" source="#personnel">
                   <persName>Douglass, Malcolm C.</persName>
-                  <birth>unknown</birth>
-                  <death>unknown</death>
+                  <birth when-custom="unknown"></birth>
+                  <death when-custom="unknown"></death>
                   <occupation when="1940">Sled Dog Driver</occupation>
                   <residence>East Orange, N.J.</residence>
                   <note type="biographical">Malcolm was a sled dog driver on the Expedition who at one point
@@ -870,7 +873,7 @@
                   Cultural Anthropology at The Ohio State University. Following graduation, her goal is
                   to see the world as an English as a Second Language teacher.</note>
                </person>
-               <person>
+               <person xml:id="AJW">
                   <persName>Waisanen, Adam J.</persName>
                   <note type="biographical">Adam Waisanen is a thrid-year History major at The Ohio State
                   University. He has currently served in the U.S. Military for over eleven years. After 
@@ -1260,9 +1263,9 @@
                   Available through the <title level="m">Biodiversity Heritage Library</title>
                   at http://www.biodiversitylibrary.org/item/25715#page/16/mode/1up.</bibl>
                
-               <bibl xml:id="QST" n="QST"><title level="a">U.S. Antarctic Service Expresses Appreciation</title>
+               <bibl xml:id="QST" n="Bailey">Bailey, Clay W.<title level="a">U.S. Antarctic Service Expresses Appreciation</title>
                <title level="j"> QST</title> November 1941. Print.</bibl>
-               <bibl xml:id="Lockhart1942" n="Lockhart1942"><title level="a">Oxygen Deficiency in Antarctic Air</title><title level="j">Monthly Weather Review</title>
+               <bibl xml:id="Lockhart1942" n="Lockhart">Lockhart, Ernest E.<title level="a">Oxygen Deficiency in Antarctic Air</title><title level="j">Monthly Weather Review</title>
                May 1942. Print.</bibl>
                
                <bibl xml:id="personnel" n="personnel"><title level="u">Personnel, 1939-1940</title>. 1939-40. TS. Papers
@@ -1790,7 +1793,7 @@
                </p>
                <p>
                   <lb/>All of the radiograms<ptr type="noteAnchor" target="radiogram"/><note resp="ed" xml:id="radiogram"> These radiograms were messages sent via vocal radio 
-                     contact between the Expedition and the people back home. They were made possible by members of the Army Amature Radio System relaying the messages stateside 
+                     contact between the Expedition and the people back home. They were made possible by members of the Army Amateur Radio System relaying the messages stateside 
                      to and from the families. This served as the main form of contact home throughout the Expedition <bibl><ref target="#QST">"U.S. Antarctic Service Expresses Appreciation"</ref></bibl></note>
                      that had come in during my absence 
                   <lb/>were given to me. One of them had not been read over the air
@@ -2849,7 +2852,7 @@
                <p>
                   <lb/>I read the reports of the expedition that have been
                   <lb/>published in various newspapers and reprinted in the <date>March</date>
-                  <lb/>issue of the <title ref="#ThePolarTimes">Polar Times</title>. I have never seen such a 
+                  <lb/>issue of the <title level="j" ref="#ThePolarTimes">Polar Times</title>. I have never seen such a 
                   <lb/>mess of rubbish collected together in one small volume in
                   <lb/>my life. It was all "the Admiral this" and "<persName ref="#Richard">Byrd</persName> that"
                   <lb/>No matter where the airplanes flew the mountains they saw
