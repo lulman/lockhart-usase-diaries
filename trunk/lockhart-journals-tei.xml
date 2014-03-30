@@ -940,8 +940,8 @@
                   to see the world as an English as a Second Language teacher.</note>
                </person>
                <person xml:id="AJW">
-                  <persName>Waisanen, Adam J.</persName>
-                  <note type="biographical">Adam Waisanen is a thrid-year History major at The Ohio State
+                  <persName>Waisanen, Adam J</persName>
+                  <note type="biographical">Adam Waisanen is a third-year History major at The Ohio State
                   University. He has currently served in the U.S. Military for over eleven years. After 
                   graduation he plans earn a Masters in Library Science to become either an archivist or
                   a librarian.</note>
@@ -955,8 +955,13 @@
                   <note type="biographical">Tamika Smith is a third-year English major, minoring in Political
                   Science at The Ohio State University. Following her undergraduate graduation, she plans on 
                   attending graduate school and eventually persuing a career in Print and Magazine editing.</note>
+               </person>
+               <person xml:id="moriah">
                   <persName>Cheatham, Moriah</persName>
-                  <note type="biographical">Moriah is a junior English major, minoring in Youth Development at The Ohio State University. After obtaining her degree, Moriah plans on pursuing law school in the hopes of working at juvenile court.</note>
+                  <note type="biographical">Moriah is a junior English major, minoring in Youth
+                     Development at The Ohio State University. After obtaining her degree, Moriah
+                     plans on pursuing law school in the hopes of working at juvenile
+                     court.</note>
                </person>
                <person>
                   <persName>Cahill, Erin Kathleen</persName>

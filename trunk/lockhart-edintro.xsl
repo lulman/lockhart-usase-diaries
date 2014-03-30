@@ -151,7 +151,7 @@
                      <li><a href="./lockhart-markup.cfm">Markup Guidelines</a></li>
                      <li><a href="./lockhart-hands.cfm">Guide to Lockhart's Hand</a></li>
                      <li><a href="./lockhart-acknowledgements.cfm">Acknowledgements</a></li>
-                     <li><a href="./lockhart-about-editors.cfm">About the Editors</a></li>
+                     <li><a href="./lockhart-edintro.html#editors">About the Editors</a></li>
                      <li><a href="./lockhart-odd-rnc-xml-xsl.zip">Download Source Files</a></li>
                      <li><a href="./lockhart-zoomindex.cfm">Images of the MS Pages</a></li>
                      <li><a href="./lockhart-maps.html">Map</a></li>
@@ -181,13 +181,14 @@
             <hr/>
             <h2>Appendices</h2>            
             <xsl:apply-templates
-               select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listPerson"/>
+               select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listPerson[@type='mentioned']"/>
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:list[@type='dogs']"/>
             <xsl:apply-templates
                select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listPlace"/>
       <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:list[@type='vehicles']"/>
       <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listOrg"></xsl:apply-templates>
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listEvent"></xsl:apply-templates>
+      <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listPerson[@type='editors']"></xsl:apply-templates>
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:revisionDesc"/>
             <hr/>
             <h2>About this Editorial Introduction</h2>
@@ -312,6 +313,22 @@
       </xsl:for-each>
    </xsl:template>
    
+   <xsl:template match="tei:listPerson[@type='editors']">
+      <h3 id="editors">About the Editors</h3>
+      <xsl:for-each select="tei:person">
+         <xsl:sort select="tei:persName[1]"/>
+         <p>
+            <xsl:element name="a"><xsl:attribute name="class">nameListing</xsl:attribute><xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute>
+            </xsl:element><strong><xsl:apply-templates select="tei:persName"/></strong>
+            <xsl:if test="tei:birth">
+               <xsl:text> (b. </xsl:text><xsl:value-of
+                  select="tei:birth/@when | tei:birth/@when-custom"/><xsl:if test="tei:death"> - d. <xsl:value-of
+                     select="tei:death/@when | tei:death/@when-custom"></xsl:value-of></xsl:if>)</xsl:if>.
+            <xsl:apply-templates select="tei:note[@type='biographical']"/>
+         </p>
+      </xsl:for-each>
+   </xsl:template>
+   
    <xsl:template match="tei:addName[@type='nickname']">
       ("<xsl:apply-templates/>")
    </xsl:template>
@@ -326,9 +343,7 @@
          </p>
       </xsl:for-each>
    </xsl:template>
-   
-   <xsl:template match="tei:listPerson[@type='editors']"/>
-   
+      
    <xsl:template match="tei:listPlace">
       <h3 id="placesMentioned">List of Places Mentioned in Ernest Lockhart's Journal</h3>
       <xsl:for-each select="tei:place">
