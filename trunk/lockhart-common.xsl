@@ -137,7 +137,7 @@
                      <li><a href="./lockhart-about-editors.cfm">About the Editors</a></li>
                      <li><a href="./lockhart-odd-rnc-xml-xsl.zip">Download Source Files</a></li>
                      <li><a href="./lockhart-zoomindex.cfm">Images of the MS Pages</a></li>
-                     <li><a href="./lockhart-maps.cfm">Map</a></li>
+                     <li><a href="./lockhart-maps.html">Map</a></li>
                   </ul>
                   </li>
                </ul>
