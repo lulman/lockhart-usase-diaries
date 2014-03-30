@@ -26,9 +26,16 @@
             Here we list the editors of the edition, using the form of your name
             that you use for professional publications.
              -->
-            <editor>Brutus Buckeye</editor>
+            <editor><persName ref="#EKC">Erin Kathleen Cathill</persName></editor>
+            <editor><persName ref="#ME">Meg Edison</persName></editor>
+            <editor><persName ref="#AK">Alan Keep</persName></editor>
+            <editor><persName ref="#CH">Caitlin Hurdley</persName></editor>
+            <editor><persName ref="#RSL">Rachel Layfield</persName></editor>
+            <editor><persName ref="#Kathy">Kathy Mielecki</persName></editor>
+            <editor><persName ref="#FP">Francis Pellicciaro</persName></editor>
+            <editor><persName ref="#tamika">Tamika Smith</persName></editor>
             <editor role="principal-editor"><persName ref="#HLU">H. Lewis Ulman</persName></editor>
-            <editor>Rachel Layfield</editor>
+            <editor><persName ref="#AJW">Adam J. Waisanen</persName></editor>
             
             <!-- 
             Statement of Responsibility supplies a statement of responsibility for the 
@@ -42,18 +49,34 @@
             </respStmt>
             <respStmt>
                <resp>Creation of initial machine-readable transcript: </resp>
-               <persName>BRUTUS BUCKEYE</persName>
+               <persName ref="#EKC">Erin Kathleen Cathill</persName>
+               <persName ref="#ME">Meg Edison</persName>
+               <persName ref="#AK">Alan Keep</persName>
+               <persName ref="#CH">Caitlin Hurdley</persName>
+               <persName ref="#RSL">Rachel Layfield</persName>
+               <persName ref="#Kathy">Kathy Mielecki</persName>
+               <persName ref="#FP">Francis Pellicciaro</persName>
+               <persName ref="#tamika">Tamika Smith</persName>
                <persName ref="#HLU">H. Lewis Ulman</persName>
+               <persName ref="#AJW">Adam J. Waisanen</persName>
             </respStmt>
             <respStmt>
                <resp>Conversion to TEI.2-conformant markup: </resp>
-               <persName>BRUTUS BUCKEYE</persName>
+               <persName ref="#EKC">Erin Kathleen Cathill</persName>
+               <persName ref="#ME">Meg Edison</persName>
+               <persName ref="#AK">Alan Keep</persName>
+               <persName ref="#CH">Caitlin Hurdley</persName>
+               <persName ref="#RSL">Rachel Layfield</persName>
+               <persName ref="#Kathy">Kathy Mielecki</persName>
+               <persName ref="#FP">Francis Pellicciaro</persName>
+               <persName ref="#tamika">Tamika Smith</persName>
                <persName ref="#HLU">H. Lewis Ulman</persName>
+               <persName ref="#AJW">Adam J. Waisanen</persName>
             </respStmt>
 
          </titleStmt>
          
-         <extent>approx. 000 kilobytes</extent>
+         <extent>approx. 275 kilobytes</extent>
 
          <publicationStmt>
 
@@ -872,13 +895,13 @@
                   <note type="biographical">Meg Edison is a second-year English and History major at 
                      The Ohio State University.</note>
                </person>
-               <person xml:id="CH">
+               <person xml:id="FP">
                   <persName>Pellicciaro, Francis</persName>
                   <note type="biographical">Francis Pellicciaro is a sophomore at The Ohio State University,
                      majoring in English and journalism. He is a native of Seaford, New York. Following Graduation, 
                      he hopes to make a living writing.</note>
                </person>
-               <person>
+               <person xml:id="CH">
                   <persName>Hurdley, Caitlin</persName>
                   <note type="biographical">Caitlin Hurdley is a senior English major, minoring in 
                   Cultural Anthropology at The Ohio State University. Following graduation, her goal is
@@ -895,7 +918,7 @@
                   <persName>Mielecki, Kathy</persName>
                   <note type="biographical">Kathy is a librarian from Chicago (MLS, Dominican University) who is taking courses as a non-degree student in digital media and literacy.</note>
                </person>
-               <person>
+               <person xml:id="tamika">
                   <persName>Smith, Tamika</persName>
                   <note type="biographical">Tamika Smith is a third-year English major, minoring in Political
                   Science at The Ohio State University. Following her undergraduate graduation, she plans on 
