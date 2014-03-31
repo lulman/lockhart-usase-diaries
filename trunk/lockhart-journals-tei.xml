@@ -1525,7 +1525,37 @@
                inextricably woven into our work: the lives and historical milieu evoked by the
                texts, the history of the physical journal, the
                editorial process that gave rise to this particular interpretation of the text, and
-               the mediation of our electronic delivery system. </p>
+               the mediation of our electronic delivery system.</p>
+            <p rend="h3" xml:id="ack">Acknowledgments</p>
+            <p>The editors would like to thank The Ohio State University Libraries for permission to
+               publish this edition of Earl Lockhart's Antarctic journal and to incorporate images
+               of the manuscript held in the Byrd Polar Research Center Archival Program. Laura
+               Kissel, Polar Curator, introduced the principal editor to the Lockhart journal and
+               suggested that he and his students edit the volume..
+            </p>
+            <p> The Ernest Earl Lockhart Papers were donated to the Byrd Polar Research Center
+               Archival Program by Paul Koulouris, nephew and executor of the Helen S. Lockhart
+               Estate (Helen was Earl Lockhart's wife). Earl Lockhart's nephews Paul Koulouris and
+               George Lockhart, and George's mother Mary Guernsey Lockhart, provided the editors
+               with information about Earl Lockhart's family and early life. </p>
+            <p>
+               This edition also depends on technical support from a number of organizations and
+               individuals at The Ohio State University. The College of Arts and Sciences hosts this
+               Web site. High-resolution images of the manuscipt pages are housed on the Colleges of
+               the Arts and Sciences Media Manager application, which allows the edition to provide
+               users with zoomable views and numerous detail views of the manuscript pages on the
+               fly, all from archived master images. George Abraham, Web Applications Developer, and
+               Allen Coleman, Digital Library Developer, offered frequent advice and encouragement
+               for our custom applications of the Media Manager image server.
+            </p>
+            <p>
+               Finally, we would like to thank the Digital Media Project (DMP) in the Department of English at The Ohio
+               State University, which provided classroom support for the editorial team. The former
+               director of the DMP, Professor Scott Lloyd Dewitt, generously allocated funds from
+               the DMP to purchase a classroom license for the specialized XML-editing software used
+               by the editorial team, and DMP Manager Amy Spears has provided invaluable support.
+            </p>
+            
          </projectDesc>
 
          <!--
@@ -1538,10 +1568,10 @@
             <!-- 
                TAKE NOTE: Explain your editorial method:
                
-               â€¢	If you employ image files, describe how they were produced and note where they are stored.
-               â€¢	Describe any editorial guidelines you followed (e.g., how you treated hyphenation, whether 
+                  If you employ image files, describe how they were produced and note where they are stored.
+                  Describe any editorial guidelines you followed (e.g., how you treated hyphenation, whether 
                   you corrected apparent errors, and any other decisions about how to treat recurrent features).
-               â€¢	Describe any special symbols that you use in your text to indicate additions, corrections, 
+                  Describe any special symbols that you use in your text to indicate additions, corrections, 
                   cancellations, and so on. This important explanation provides a reader's guide to the text.
                
                   You can use more than one paragraph (tagged <p> </p>).
