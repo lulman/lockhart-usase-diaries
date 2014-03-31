@@ -291,7 +291,30 @@
                      <p>First paragraph of this section.</p>
                      <p><hi rend="bold">Sub-head</hi>. Second paragraph of this section.</p>
                      <p rend="h3" xml:id="dogs">Dog Teams</p>
-                     <p>First paragraph of this section.</p>
+                     <p>
+                           Sled dog teams, whose roots lie far beyond their late 19th-century popularization, 
+                        share a relationship with their masters marked not only by deep affection but 
+                        also a certain measure of calculated cruelty.Indigenous peoples of Arctic North 
+                        America, Siberia and Greenland used sled dogs widely, and it <ref target=" #Florio">"was in Siberia  
+                        that dog-driving was first adapted to geographic exploration."</ref> This use spread to  
+                        the rest of Russia by the 17th-18th centuries, the cartographical records left from 
+                        Russian explorers inspiring the 1890s development of planned sled team use by Norwegian and American 
+                        explorers. Fridhtjof Nansen's Arctic expedition although failures, revealed that through <ref target="#Florio">"the use 
+                        of dogs and sleds [could bring] him closer to [the Arctic] than any previous explorer."</ref>
+                        The next and one of the most famous uses of sled dogs was the American explorer Peary, who succeeded 
+                        in reaching the North Pole through his creation of a system in which he would butcher certain of 
+                        his dogs to feed the others at various points along their route. This was not unknown on the Nansen 
+                        expedition which suffered from food shortages and starvation and of which there were only two dog survivors, 
+                        but the creation of a systematic reduction of dogs through cannibalism was Peary's innovation. This system, 
+                        used later by Amundsen is described as being as fast a Mercedes, but the <ref target="#Florio">"critical difference 
+                        between the two was that an E-class carburetor could not be eaten, but a dog could."</ref> The strange mixture of 
+                        love and cruelty is one that seems to be present in all polar expeditons, with Amundsen overseeing at different 
+                        points in his work both the organizing of dog teams so that dogs believed to know one another could work together, 
+                        as well as carefully planning which dogs would be butchered for the others to eat on the toughest portions of the journey. 
+                        Lockhart's deep admiration and love of the dogs on his own expedition may or may not have been tempered 
+                        with the knowledge that so many of their fellow animals were butchered by men who loved them as much as he 
+                        did.
+                     </p>
                      <p>Second paragraph of this section.</p>
                      <p rend="h3" xml:id="geopolitics">Other Nations' Activities in Antarctica ca. 1939-1941</p>
                      <p>First paragraph of this section.</p>
@@ -919,7 +942,7 @@
                </person>
                <person xml:id="AK">
                   <persName>Keep, Alan</persName>
-                  <note type="biographical">Alen Keep is a senior English major with a minor in Sexuality Studies. 
+                  <note type="biographical">Alan Keep is a senior English major with a minor in Sexuality Studies. 
                      After graduation he plans to enroll in Kent State's MLS program and become a librarian. </note>
                </person>
                <person xml:id="ME">
@@ -1305,6 +1328,8 @@
                   the Lockhart family.</bibl>
                <bibl xml:id="LyonDarwin" n="Homo vs. Darwin">Lyon, William Penman <title level="a">Homo versus Darwin : a judicial examination of statements recently published by Mr. Darwin regarding "The descent of man."</title> <title level="s">Archive.org</title> 
                   Philadelphia: Claxton, Remsen and Haffelfinger, 1872. Web. 24 March 2014.  https://archive.org/details/homoversusdarwin00lyonrich</bibl>
+              <bibl xml:id="Florio" n="RunUntilDead">Florio, Marget <title level="a">Run... Until... Dead...: A Brief History of the Polar Expedition Dog</title>
+                 Mercersburg, Pennsylvania: The Polar Press, 2010. Print.</bibl>
                <bibl xml:id="WikiGWTW" n="Gone With the Wind"><title level="a">Gone With the Wind</title><title level="s">Wikipedia, the free encyclopedia</title>
                   http://en.wikipedia.org/wiki/Gone_with_the_Wind 18 Mar 2014. Web. 18 Mar 2014.</bibl>
                <bibl xml:id="GMTAntarctica" n="AntarcticaStandardTime"><title level="a">Antarctica</title><title level="s">Greenwich Mean Time</title>
