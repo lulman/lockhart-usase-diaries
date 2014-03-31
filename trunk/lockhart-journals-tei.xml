@@ -65,6 +65,7 @@
             <respStmt>
                <resp>Conversion to TEI.2-conformant markup: </resp>
                <persName ref="#EKC">Erin Kathleen Cahill</persName>
+               <persName ref="#moriah">Moriah Cheatham</persName>
                <persName ref="#ME">Meg Edison</persName>
                <persName ref="#AK">Alan Keep</persName>
                <persName ref="#CH">Caitlin Hurdley</persName>
