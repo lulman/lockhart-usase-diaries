@@ -264,7 +264,7 @@
       <xsl:for-each select="tei:respStmt">
          <p>
       <strong><xsl:value-of select="tei:resp"/></strong>
-      <xsl:for-each select="tei:persName">
+      <xsl:for-each select="tei:persName | tei:orgName">
             <xsl:choose>
                <xsl:when test="current()=//tei:respStmt/tei:persName[1]">
                   <xsl:apply-templates/>
