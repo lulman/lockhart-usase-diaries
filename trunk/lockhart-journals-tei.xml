@@ -27,6 +27,7 @@
             that you use for professional publications.
              -->
             <editor><persName ref="#EKC">Erin Kathleen Cahill</persName></editor>
+            <editor><persName ref="#moriah">Moriah Cheatham</persName></editor>
             <editor><persName ref="#ME">Meg Edison</persName></editor>
             <editor><persName ref="#AK">Alan Keep</persName></editor>
             <editor><persName ref="#CH">Caitlin Hurdley</persName></editor>
@@ -50,6 +51,7 @@
             <respStmt>
                <resp>Creation of initial machine-readable transcript: </resp>
                <persName ref="#EKC">Erin Kathleen Cahill</persName>
+               <persName ref="#moriah">Moriah Cheatham</persName>
                <persName ref="#ME">Meg Edison</persName>
                <persName ref="#AK">Alan Keep</persName>
                <persName ref="#CH">Caitlin Hurdley</persName>
