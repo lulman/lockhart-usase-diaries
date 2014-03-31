@@ -130,10 +130,10 @@
                   </li>
                   
                   <li><a href="default.cfm">About the Edition</a><ul>
-                     <li><a href="./default.cfm">About the Edition</a></li>
+                     <li><a href="./lockhart-edintro.html#project-description">About the Edition</a></li>
                      <li><a href="./lockhart-markup.cfm">Markup Guidelines</a></li>
                      <li><a href="./lockhart-hands.cfm">Guide to Lockhart's Hand</a></li>
-                     <li><a href="./lockhart-acknowledgements.cfm">Acknowledgements</a></li>
+                     <li><a href="./lockhart-edintro.html#ack">Acknowledgements</a></li>
                      <li><a href="./lockhart-edintro.html#editors">About the Editors</a></li>
                      <li><a href="./lockhart-odd-rnc-xml-xsl.zip">Download Source Files</a></li>
                      <li><a href="./lockhart-zoomindex.cfm">Images of the MS Pages</a></li>
