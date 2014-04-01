@@ -213,8 +213,11 @@
       match="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:notesStmt/tei:note[@type='descriptive']">
       <hr/>
       <h2 id="source">About the Source Documents</h2>
-      <p><strong>Title</strong>: "<xsl:value-of select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:titleStmt/tei:title"/>" 
+      <p><strong>Author</strong>: <xsl:value-of select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:titleStmt/tei:author"/>
+         <br/><strong>Title</strong>: "<xsl:value-of select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:titleStmt/tei:title"/>" 
          <br/><strong>Extent</strong>: <xsl:value-of select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:extent"/>
+         <br/><strong>Collection</strong>: <xsl:value-of select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:biblFull/tei:publicationStmt/tei:authority"/>
+         <br/><strong>ID and Location</strong>: <xsl:value-of select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:idno"/>
       </p>
          <xsl:apply-templates/>
    </xsl:template>
@@ -230,11 +233,7 @@
    </xsl:template>
    
    <xsl:template match="tei:TEI/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:availability">
-      <p>
-         <em>
-            <xsl:apply-templates/>
-         </em>
-      </p>
+      <xsl:apply-templates/>
       <p>
          <em>
             <xsl:value-of select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:pubPlace"/>, <xsl:value-of
@@ -267,6 +266,9 @@
       <xsl:for-each select="tei:persName | tei:orgName">
             <xsl:choose>
                <xsl:when test="current()=//tei:respStmt/tei:persName[1]">
+                  <xsl:apply-templates/>
+               </xsl:when>
+               <xsl:when test="current()=//tei:respStmt/tei:orgName[1]">
                   <xsl:apply-templates/>
                </xsl:when>
                <xsl:otherwise>, <xsl:apply-templates/></xsl:otherwise>
@@ -539,7 +541,9 @@
          </xsl:attribute>
          <xsl:attribute name="target">blank</xsl:attribute>
          <xsl:value-of select="tei:head"/>
-      </a></xsl:template>
+      </a>
+   </xsl:template>
+   
    <xsl:template match="tei:figure[@rend='embed']">
       <div class="fl_img_right">
          <img>
@@ -552,14 +556,20 @@
             <xsl:attribute name="width">150</xsl:attribute>
          </img>
          <br/>
-         <xsl:apply-templates select="tei:head"/>
+         <xsl:value-of select="tei:head"/>
          <xsl:if test="tei:media">
-            <xsl:element name="a"><xsl:attribute name="href"><xsl:value-of select="tei:media/@url" /></xsl:attribute>
-               <xsl:attribute name="target">_blank</xsl:attribute>
-               <br/>Click to Enlarge</xsl:element>
+            <xsl:element name="a"><xsl:attribute name="href"><xsl:value-of select="tei:media/@url"/></xsl:attribute>
+               <xsl:attribute name="target">_blank</xsl:attribute><xsl:element name="br"/>
+               <xsl:value-of select="tei:media/tei:desc"/></xsl:element>
          </xsl:if>
       </div>
    </xsl:template> 
+   
+   <xsl:template match="//tei:media">
+      <xsl:element name="a"><xsl:attribute name="href"><xsl:value-of select="@url" /></xsl:attribute>
+         <xsl:attribute name="target">_blank</xsl:attribute>
+         <xsl:value-of select="tei:desc"/></xsl:element>
+   </xsl:template>
   
    <!-- Suppress some unused elements in the XML file. -->
    <xsl:template match="tei:text"/>
