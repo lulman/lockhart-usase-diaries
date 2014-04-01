@@ -822,6 +822,7 @@
                   <birth when="1919"></birth>
                   <death when="1994"></death>
                   <occupation when="1940">military personnel</occupation>
+                  <note type="biographical">Trefts was a military personnel assigned to the West Base.</note>
                </person>
                
                <person xml:id="Schlossbach">
@@ -873,11 +874,13 @@
                   <persName>Douglas, Doug</persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
+                  <note type="biographical">Douglas was a personnel on the Lockhart expedition.</note>
                </person>
                <person xml:id="Joe">
                   <persName>Wells, Joe</persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
+                  <note type="biographical">Joe Wells was a personnel on the West Base.</note>
                </person>
                
                <person xml:id="Wade" source="#Passel">
