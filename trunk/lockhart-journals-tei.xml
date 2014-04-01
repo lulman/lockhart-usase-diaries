@@ -553,10 +553,10 @@
                      called <title level="m">Ice</title>, were published.<bibl><ref target="#personnel">"Personnel, 1939-1940"</ref>; <ref target="#Passel"><title type="m">Ice</title></ref></bibl></note>
                </person>
                <person xml:id="PappyGray" source="#personnel #Gray #Pappy #Pappy Gray">
-                 <persName>Gray, Orville <addName type="nickname">Pappy</addName></persName> 
+                 <persName>Gray, Orville<addName type="nickname">Pappy</addName></persName> 
                  <occupation when="1940">aviation mechanic and captain</occupation> 
                  <residence when="1940">Folmouth, Virginia</residence> 
-                 <note>Orville "Pappy" Gray was an airplane mechanic from West Base.
+                 <note type="biographical">Orville "Pappy" Gray was an airplane mechanic from West Base.
                        Not to be confused with J.A. "Pappy" Reece, a radio operator. Where "Pappy" is mentioned and specified as neither, as in journals 2-24 and 2-25, the person is question is dealing with engine trouble on the Condor and is thus presumably Gray. 
                        Lockhart mentions him harnessing puppies to the airplane sled and driving them around.
                        Gray was the one who flew the Beechcraft back to get engine parts for the Condor when the Condor's engine broke down.
