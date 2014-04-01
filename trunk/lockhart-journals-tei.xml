@@ -111,8 +111,8 @@
                   Commons license (see below). Any use of the edition should acknowledge the BPRCAP
                   and the editors of the journal. </p>
                <p xml:id="CreativeCommons">
-                  <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://creativecommons.org/images/public/somerights20.png"/></a><br/>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0  License</a>.<br/>
-                  This license does not transfer any rights regarding material used in the edition by permission of a third party.]]>
+                  <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://creativecommons.org/images/public/somerights20.png"/></a><br/>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0  License</a>.
+                  The license does not transfer any rights regarding material used in the edition by permission of a third party.]]>
                </p>
             </availability>
 
@@ -177,7 +177,7 @@
                            <figDesc>
                               Front Cover
                            </figDesc>
-                        </figure>
+                         </figure>
                         <figure rend="embed">
                            <head>Page Edges</head>
                            <graphic url="lockhart-journal-page-edges.jpg"/>
@@ -1605,27 +1605,24 @@
             -->
 
             <p>
-               <emph rend="bold">Scanning</emph>. The manuscript pages were scanned as 24-bit TIFF
-               images at 400 dots per inch (dpi), then converted to 8-bit JPEG images at 400 dpi and
-               full quality before being loaded into the Media Manager application. All edges were
-               overscanned by at least 1/4 inch. No color correction was used at any stage of image
-               preparation, but a scan of a photographer's 18% grey card on the same scanner
-               produced RGB values at the center of 91/95/107 after applying a 150% Gaussian Blur in
-               Adobe Photoshop to average color values. Thus, a properly configured monitor should
-               provide a reasonable approximation of colors on the manuscript pages.
+               <emph rend="bold">Scanning</emph>. The manuscript pages were scanned at
+               300 dots per inch (dpi) in an RGB color space by the vendor, ArcaSearch, and saved in three file
+               formats: PDF, JPEG, and JPEG2000.
             </p>
             <p>
                <emph rend="bold">Production Location of Digital Assets</emph>. The TEI P5-encoded
-               transcription of the Smith journal, along with XSL style sheets used to provide
+               transcription of the Lockhart journal, along with XSL style sheets used to provide
                variant "views" of the edition, TEI ODD documents used to produce custom schemas
                based on the TEI markup language, and the resulting schemas are stored on a server
                hosted by College of Arts and Sciences at The Ohio State University and on a Google
-               SVN repository. Readers may download copies of those source files via a link at the
-               top of this page. High resolution scans of the manuscript pages, scans of plates from
-               contemporary sources, and photographs of the journal are stored in the Media Manager
-               application hosted by the College of Arts and Science at The Ohio State University.
-               The files constituting the project's Web site are stored on a Web server hosted by
-               the College (http://people.cohums.ohio-state.edu/ulman1/LCSmithDiaries/).</p>
+               SVN repository. Readers may download copies of those source files via a link in the
+               drop-down navigation menu. Digital scans of the manuscript pages, scans of
+               plates from contemporary sources, and photographs of the journal are stored in the
+               Media Manager application hosted by the College of Arts and Science at The Ohio State
+               University. The files constituting the project's Web site are stored on a Web server
+               hosted by the College
+               (http://people.cohums.ohio-state.edu/ulman1/lockhart-journals/lockhart-edintro.html#introduction).
+            </p>
             <p>
                <emph rend="bold">Archiving of Digital Assets</emph>. Once the edition is complete,
                its digital assets will be archived in The Ohio State University
