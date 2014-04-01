@@ -1405,7 +1405,7 @@
                <bibl xml:id="LOC" n="Library">The Library of Congress. <title level="m">Library of Congress Authorities</title>. 
                   6 Jan. 2012. Web. 12 Feb. 2014.</bibl>
                
-               <bibl xml:id="Traveler" n="LOC"> The Library of Congress. <title level="a">About the Boston traveler.</title> <title level="m">Chronicling America.</title> 
+               <bibl xml:id="Traveler" n="Library"> The Library of Congress. <title level="a">About the Boston traveler.</title> <title level="m">Chronicling America.</title> 
                   n.d. Web. 26 Feb. 2014. &lt;http://chroniclingamerica.loc.gov/lccn/sn91057123/&gt;.</bibl>
                
                <bibl xml:id="MPerkins" n="Mount"><title level="a">Mount Perkins.</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
@@ -1417,16 +1417,16 @@
                <bibl xml:id="MFrazier" n="Mount"><title level="a">Mount Frazier.</title> <title level="m">Geographic Names Information System (GNIS)</title>. United States 
                   Geological Survey, n.d. Web. 26 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:5262,Mount%20Frazier&gt;.</bibl>
                
-               <bibl xml:id="NatGeo" n="Skua"><title level="a">Arctic Skua.</title> <title level="m">National Geographic.</title> National Geographic. n.d. Web.
+               <bibl xml:id="NatGeo" n="Arctic"><title level="a">Arctic Skua.</title> <title level="m">National Geographic.</title> National Geographic. n.d. Web.
                   23 March 2014. &lt;http://animals.nationalgeographic.com/animals/birds/arctic-skua/&gt;.</bibl>
                
                <bibl xml:id="MColombo" n="Mount"><title level="a">Mount Colombo.</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
                   Geological Survey. n.d. Web. 28 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:2978,Mount%20Colombo&gt;.</bibl>
                
-               <bibl xml:id="AsmanR" n="Ridge"><title level="a">Asman Ridge.</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
+               <bibl xml:id="AsmanR" n="Asman"><title level="a">Asman Ridge.</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
                   Geological Survey. n.d. Web. 28 Feb. 2014. &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:653,Asman%20Ridge&gt;.</bibl>
                
-               <bibl xml:id="BoydG" n="Glacier"><title level="a">Boyd Glacier.</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
+               <bibl xml:id="BoydG" n="Boyd"><title level="a">Boyd Glacier.</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
                   Geological Survey. n.d. Web. 28 Feb. 2014 &lt;http://geonames.usgs.gov/apex/f?p=136:3:0::NO::P3_ANTAR_ID,P3_TITLE:1786,Boyd%20Glacier&gt;.</bibl>
                
                <bibl xml:id="MBerlin" n="Mount"><title level="a">Mount Berlin.</title> <title level="m">Geographical Names Information System (GNIS)</title>. United States
