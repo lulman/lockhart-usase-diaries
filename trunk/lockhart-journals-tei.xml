@@ -46,7 +46,7 @@
              -->
             <respStmt>
                <resp>Creation of digital scans of manuscript pages: </resp>
-               <orgName>ArchaSearch</orgName>
+               <orgName>ArcaSearch</orgName>
             </respStmt>
             <respStmt>
                <resp>Creation of initial machine-readable transcript: </resp>
@@ -133,7 +133,7 @@
                      about May 1<hi rend="superscript underlined">st</hi> 1941
                   </title>
 
-                  <author>Earnest Earl Lockhart (1912-2006)</author>
+                  <author>Ernest Earl Lockhart (1912-2006)</author>
 
 
                </titleStmt>               
@@ -239,9 +239,9 @@
                         -- Earl Lockhart, 1 January 1941</quote>
                      <p>
                         <figure rend="embed">
-                           <head>Earnest Earl Lockhart<lb/>ca. 1939-1941</head>
+                           <head>Ernest Earl Lockhart<lb/>ca. 1939-1941</head>
                            <graphic url="usase-lockhart-watermarked.png"/>
-                           <figDesc> Earnest Earl Lockhart, ca. 1939-1941 </figDesc>
+                           <figDesc> Ernest Earl Lockhart, ca. 1939-1941 </figDesc>
                         </figure> Ernest Earl Lockhart (1912-2006) earned a PhD in biochemistry from
                         the Massachusetts Institute of Technology in 1938 and joined the 1939-1941
                         United States Antarctic Service Expedition (USASE) the following year, serving as a
@@ -1257,7 +1257,7 @@
             
             
             <listOrg>
-               <head>List of Organizations Mentioned in Earnest E. Lockhart's Journal</head>
+               <head>List of Organizations Mentioned in Ernest E. Lockhart's Journal</head>
               <org xml:id="AARS" source="#QST">
                  <orgName>Army Amateur Radio System</orgName>
                  <state type="company">
@@ -1522,7 +1522,7 @@
          <projectDesc>
             <p>This edition is the latest in a series of collaboratively produced electronic
                editions of previously unpublished nineteenth-century American manuscripts held in
-               the Rare Books and Manuscripts Library at The Ohio State University. Previous
+               the Special Collections of The Ohio State University Libraries. Previous
                editions include "My Dear Elizabeth," five letters written by Sophia Peabody
                Hawthorne to her sister Elizabeth Palmer Peabody between ca. 1837 and 1868 (currently
                being revised); "Dear Wife," twenty-one letters written by riverboat captain William

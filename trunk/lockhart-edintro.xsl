@@ -102,7 +102,7 @@
             <div class="masthead">
                <div id="display1">
                   <img src="usase-lockhart-watermarked.png" height="120"
-                     title="Ernest Earl Lockhart, ca. 1939-41. Credit: Earnest Earl Lockhart Collection, Byrd Polar Research Center Archival Program, 
+                     title="Ernest Earl Lockhart, ca. 1939-41. Credit: Ernest Earl Lockhart Collection, Byrd Polar Research Center Archival Program, 
                      The Ohio State University, image #https://byrdpolarmedia.osu.edu/CFrx3P9NJ. Location: BPRCAP.2012.14; Box 1 folder 66"/>
                </div>
                <div id="display2"> <img src="usase-ice-shelf1.jpg" height="120" title="Antarctic Ice Shelf"/> </div>
