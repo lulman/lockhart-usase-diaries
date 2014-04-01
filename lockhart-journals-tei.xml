@@ -100,16 +100,17 @@
             <idno type="Location">RG 56.206 — Box 1 / Folder 11 / Location 054-846-7</idno>
 
             <availability>
-               <p><emph rend="bold">Availability</emph>: The Ernest E. Lockhart journal represented in this edition is the property of the
-                  Byrd Polar Research Center Archival Program (BPRCAP) of The Ohio State University.
-                  The original journal is held in Box 1, Folder 11 of the Ernest Earl Lockhart
-                  Collection, BPRCAP. For a complete inventory to the Lockhart Collection, please
-                  see <media mimeType="text/html"
+               <p><emph rend="bold">Availability</emph>: The Ernest E. Lockhart journal represented
+                  in this edition is the property of the Byrd Polar Research Center Archival Program
+                  (BPRCAP) of The Ohio State University, which has grant the editors permission to
+                  publish this edition of the manuscripts. The original journal is held in Box 1,
+                  Folder 11 of the Ernest Earl Lockhart Collection, BPRCAP. For a complete inventory
+                  to the Lockhart Collection, please see <media mimeType="text/html"
                      url="http://rave.ohiolink.edu/archives/ead/OhCoUBP0006">
                      <desc>http://rave.ohiolink.edu/archives/ead/OhCoUBP0006</desc>
-                  </media>.This edition of the journal is published by permission, under a Creative
-                  Commons license (see below). Any use of the edition should acknowledge the BPRCAP
-                  and the editors of the journal. </p>
+                  </media>.This edition is published under a Creative Commons license (see below).
+                  Any use of the edition should acknowledge the BPRCAP and the editors of the
+                  journal. </p>
                <p xml:id="CreativeCommons">
                   <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://creativecommons.org/images/public/somerights20.png"/></a><br/>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0  License</a>.
                   The license does not transfer any rights regarding material used in the edition by permission of a third party.]]>
@@ -1553,7 +1554,7 @@
                publish this edition of Earl Lockhart's Antarctic journal and to incorporate images
                of the manuscript held in the Byrd Polar Research Center Archival Program. Laura
                Kissel, Polar Curator, introduced the principal editor to the Lockhart journal and
-               suggested that he and his students edit the volume..
+               suggested that he and his students edit the volume.
             </p>
             <p> The Ernest Earl Lockhart Papers were donated to the Byrd Polar Research Center
                Archival Program by Paul Koulouris, nephew and executor of the Helen S. Lockhart
