@@ -142,7 +142,7 @@
                      </ul>
                   </li>
                   
-                  <li><a>Views of the Diary</a>
+                  <li><a>Views of the Journal</a>
                      <ul>
                         <li><a href="./lockhart-entries.html">By Journal Entry</a></li>
                         <li><a href="./lockhart-mspages.html">By MS Page</a></li>
