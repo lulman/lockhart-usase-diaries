@@ -83,7 +83,7 @@
 
          <publicationStmt>
 
-            <publisher>The Ohio State University Libraries mine
+            <publisher>The Ohio State University Libraries
                <address>
                   <addrLine n="2">327 Main Library</addrLine>
                   <addrLine n="3">1858 Neil Avenue Mall</addrLine>
@@ -97,18 +97,26 @@
             The <idno> element is only required for documents with a standard id number
             such as a library call number.. 
             -->
-            <idno type="CallNumber">SPEC.RARE.MS.AMER.69  v.2</idno>
+            <idno type="Location">RG 56.206 — Box 1 / Folder 11 / Location 054-846-7</idno>
 
             <availability>
-               <p>The Ernest E. Lockhart journal is the property of the Byrd Polar Research Center Archival Program of The Ohio State University. Any use of the material should
-                  acknowledge such ownership. This edition of the journal is published under a Creative Commons license.</p>
+               <p><emph rend="bold">Availability</emph>: The Ernest E. Lockhart journal represented in this edition is the property of the
+                  Byrd Polar Research Center Archival Program (BPRCAP) of The Ohio State University.
+                  The original journal is held in Box 1, Folder 11 of the Ernest Earl Lockhart
+                  Collection, BPRCAP. For a complete inventory to the Lockhart Collection, please
+                  see <media mimeType="text/html"
+                     url="http://rave.ohiolink.edu/archives/ead/OhCoUBP0006">
+                     <desc>http://rave.ohiolink.edu/archives/ead/OhCoUBP0006</desc>
+                  </media>.This edition of the journal is published by permission, under a Creative
+                  Commons license (see below). Any use of the edition should acknowledge the BPRCAP
+                  and the editors of the journal. </p>
                <p xml:id="CreativeCommons">
                   <![CDATA[<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://creativecommons.org/images/public/somerights20.png"/></a><br/>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0  License</a>.<br/>
                   This license does not transfer any rights regarding material used in the edition by permission of a third party.]]>
                </p>
             </availability>
 
-            <date>2014-04-17</date>
+            <date>2014-04-23</date>
 
          </publicationStmt>
 
@@ -127,7 +135,8 @@
 
                   <author>Earnest Earl Lockhart (1912-2006)</author>
 
-               </titleStmt>
+
+               </titleStmt>               
 
                <!-- 
                     The <extent> element indicates the size of your source document, in whatever 
@@ -136,7 +145,7 @@
                <extent>118 pp.</extent>
 
                <publicationStmt>
-                  <p>Publication statement from the library.</p>
+                  <authority>Ernest Earl Lockhart Collection, Byrd Polar Research Center Archival Program, The Ohio State University</authority>
                </publicationStmt>
 
                <!-- 
@@ -176,7 +185,6 @@
                               Page Edges
                            </figDesc>
                         </figure>
-                        RG 56.206
                        </p>
                      <p>
                         <emph rend="bold">Collation</emph>: The journal contains 118 pages arranged as follows: 1 (blank paste-down endpaper);
@@ -216,7 +224,7 @@
                         measuring 21.6 cm wide by 14 cm tall except for three from April 1941 measuring 21.5 cm wide by 17.6 cm tall.
                      </p>
                      <p>
-                        Unpublished manuscripts.
+                        <emph rend="bold">Publication: </emph>Unpublished manuscripts.
                      </p>
                   </note>
 
