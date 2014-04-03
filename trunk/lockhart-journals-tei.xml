@@ -313,21 +313,18 @@
                         that dog-driving was first adapted to geographic exploration."</ref> This use spread to  
                         the rest of Russia by the 17th-18th centuries, the cartographical records left from 
                         Russian explorers inspiring the 1890s development of planned sled team use by Norwegian and American 
-                        explorers. Fridhtjof Nansen's Arctic expedition although failures, revealed that through <ref target="#Florio">"the use 
+                        explorers. Fridhtjof Nansen's Arctic expedition although a failure, revealed that through <ref target="#Florio">"the use 
                         of dogs and sleds [could bring] him closer to [the Arctic] than any previous explorer."</ref>
                         The next and one of the most famous uses of sled dogs was the American explorer Peary, who succeeded 
-                        in reaching the North Pole through his creation of a system in which he would butcher certain of 
-                        his dogs to feed the others at various points along their route. This was not unknown on the Nansen 
-                        expedition which suffered from food shortages and starvation and of which there were only two dog survivors, 
-                        but the creation of a systematic reduction of dogs through cannibalism was Peary's innovation. This system, 
-                        used later by Amundsen is described as being as fast a Mercedes, but the <ref target="#Florio">"critical difference 
-                        between the two was that an E-class carburetor could not be eaten, but a dog could."</ref> The strange mixture of 
-                        love and cruelty is one that seems to be present in all polar expeditons, with Amundsen overseeing at different 
-                        points in his work both the organizing of dog teams so that dogs believed to know one another could work together, 
-                        as well as carefully planning which dogs would be butchered for the others to eat on the toughest portions of the journey. 
-                        Lockhart's deep admiration and love of the dogs on his own expedition may or may not have been tempered 
-                        with the knowledge that so many of their fellow animals were butchered by men who loved them as much as he 
-                        did.
+                        in reaching the North Pole through his the innovation that when <ref target="#PearyArctic">"dogs gave out, unable to keep pace, 
+                        they were fed to the others."</ref> There had been forced cannibalism among the Nansen expedition's dogs, but that was 
+                        primarily based on starvation and the needs of the surviving dogs and men, not as means of furthering the expeditions goals.
+                        A strange mixture of love and cruel effiency seems to be present in similarly brutal polar expeditons, such as Amundsen 
+                        overseeing on his expedition to the South Pole what he described as when<ref target="#AmundsenArctic">"Twenty-four of our 
+                        faithul comrades had to die. The place where this happened was named the 'Slaughter House'"</ref> The bizarre mixture of deep 
+                        affection and slaughter makes the killing of the dogs seem almost like fratricide. Lockhart's deep admiration 
+                        and love of the dogs on his own expedition may or may not have been tempered with the knowledge that so many of their fellow a
+                        nimals were butchered by men who loved them as much as he did.
                      </p>
                      <p>Second paragraph of this section.</p>
                      <p rend="h3" xml:id="geopolitics">Other Nations' Activities in Antarctica ca. 1939-1941</p>
@@ -1360,7 +1357,10 @@
                <bibl xml:id="Ronne" n="Ronne">Ronne, Finn. <title level="m">Antarctica My Destiny</title>. New
                   York: Hastings House, 1979. Print.
                </bibl>
-               
+               <bibl xml:id="PearyArctic">American Geographical Society <title level="a">Commander Peary's Antarctic Expedition.</title><title level="j">Bulletin
+                  of the American National Geography Society, Vol. 38 No. 11</title>1906. Web.</bibl>
+               <bibl xml:id="AmundsenArctic">Amundsen, Roald <title level="a">Amundsen's Expedition to the South Pole</title><title level="j">Bulletin 
+                  of the American National Geographical Society Vol. 44 No. 11</title> 1912. Web.</bibl>
                <bibl xml:id="Passel" n="Passel">Passel, Charles F. <title level="m">Ice: The Antarctic Diary of Charles F. Passel</title>. Ed.
                   T. H. Baughman. Lubbock, TX: Texas Tech UP, 1995. Print.
                </bibl>
