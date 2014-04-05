@@ -331,7 +331,7 @@
                         the trip from Chinook Kennels, including Alaskan Malamutes, Eskimos, and Siberian Huskies. Additionally, 
                         the Department of the Interior purchased 18 puppies<bibl><ref target="#RecordsDogs"><title level="a">Records Regarding Sled Dogs on USASE 1939-41</title></ref></bibl>. 
                         There were 74 named dogs between the ages of 5 months and 7 years included on the official reports made for the expedition. 
-                        Gaines dog food won the contract to supply feed and the expedition purchased 35 tons of food from them<bibl><ref></ref></bibl>. The food was low in fat, 
+                        Gaines dog food won the contract to supply feed and the expedition purchased 35 tons of food from them<bibl><ref target="#LetterInnes-Taylor">Innes-Taylor</ref></bibl>. The food was low in fat, 
                         meant to be a supplement for seal meat. They also purchased food high in fat as well, just in case there wasn’t enough seal to provide 
                         for all the dogs<bibl><ref target="HollisRichardson">O'Connel</ref></bibl>. Prior to leaving for Antarctica, Hollis Richardson was responsible for making sure the dogs were trained properly and 
                         were ready for the expedition. Richardson, who would be in charge of the dogs on the <name type="ship">Bear</name> and one of the head dog drivers during 
@@ -344,8 +344,8 @@
                         food for both the human and canine members of Lockhart’s trail party, eliminating the need to kill the dogs for feed. Additionally, Lockhart 
                         mentions how one dog was injured and rode in the sled for a day to recover<bibl><ref target="#LockhartTrailJournal">Lockhart</ref></bibl>. This indicates that the attitude the USASE 1940-1941 had for the dogs 
                         was a more lenient and, to modern readers, humane treatment. After the expedition, a number of the men took their dogs home with them. Special care 
-                        was taken to place the remaining ones in appropriate homes and farms<bibl><ref></ref></bibl>. Lockhart’s relationship with the dogs during his time in the Antarctic 
-                        reflects both their importance to the Antarctic lifestyle and a changing attitude towards the necessity of killing dogs as technology advanced.  
+                        was taken to place the remaining ones in appropriate homes and farms<bibl><ref target="#LetterSeeley">Seeley</ref></bibl>. Lockhart’s relationship with the dogs during his time in the Antarctic 
+                        reflects both their importance to the Antarctic lifestyle and a changing attitude towards the dogs as technology advanced.  
                      </p>
                      <p rend="h3" xml:id="geopolitics">Other Nations' Activities in Antarctica ca. 1939-1941</p>
                      <p>First paragraph of this section.</p>
@@ -1534,16 +1534,22 @@
                   Web. 25 February 2014.
                </bibl>
                
-               <bibl xml:id="RecordsDogs" n="RecordsRegarding"><title level="a">Records Regarding Sled Dogs on USASE 1939-41</title><title>Ernest Earl Lockhart Collection, Byrd Polar
-                  Research Center Archival Program, The Ohio State University</title><title>054-774-.20-3 7187</title></bibl>
-               <bibl xml:id="HollisRichardson" n="Oconnel"> O'Connel, Joseph A.<title level="a">Keep 'Em Outside</title><title>The Dog World</title><title>Hollis Richardson Collection, Byrd Polar
-                  Research Center Archival Program, The Ohio State University</title><title>RG 56.81 Acc. #20011
+               <bibl xml:id="RecordsDogs" n="RecordsRegarding"><title level="a">Records Regarding Sled Dogs on USASE 1939-41</title> <title>TS. Papers of Admiral Richard E. 
+                  Byrd. Series II: Expeditionary Records. Sub-Series 6: United States Antarctic Services. Box 203, Folder 7234, Location: 054-774-.20-3 7187</title></bibl>
+               <bibl xml:id="HollisRichardson" n="Oconnel"> O'Connel, Joseph A.<title level="a">Keep 'Em Outside</title> <title>The Dog World,</title> <title>Hollis Richardson Collection, Byrd Polar
+                  Research Center Archival Program, The Ohio State University</title> <title>Location: RG 56.81 Acc. #20011
                      054-360-4c 2011/2</title></bibl>
-               <bibl xml:id="HollisRichardson2" n="Richardson"><title level="a">Hollis Richardson</title><title>Hollis Richardson Collection, Byrd Polar
-                  Research Center Archival Program, The Ohio State University</title><title>RG 56.81 Acc. #20011
+               <bibl xml:id="HollisRichardson2" n="Richardson"><title level="a">Hollis Richardson</title> <title>Hollis Richardson Collection, Byrd Polar
+                  Research Center Archival Program, The Ohio State University</title> <title>Location: RG 56.81 Acc. #20011
                      054-360-4c 2011/1</title></bibl>
-               <bibl xml:id="LockhartTrailJournal" n="Lockhart"><title level="a">The Official Journal of the Biological Party 1940 Trail Season Oct 15- Dec 25</title><title>Ernest Earl Lockhart Collection, Byrd Polar
-                  Research Center Archival Program, The Ohio State University</title><title>1542</title></bibl>
+               <bibl xml:id="LockhartTrailJournal" n="Lockhart">Lockhart, Ernest E. <title level="a">The Official Journal of the Biological Party 1940 Trail Season Oct 15- Dec 25</title> <title>Ernest Earl Lockhart Collection, Byrd Polar
+                  Research Center Archival Program, The Ohio State University</title><title>Location: 1542</title></bibl>
+               <bibl xml:id="LetterInnes-Taylor" n="Taylor">Innes-Taylor, Alan<title level="a">Letter to Adimiral Richard E. Byrd</title> <title>TS. Papers of Admiral Richard E. 
+                  Byrd. Series II: Expeditionary Records. Location: 054-774-.20-3 7188</title></bibl>
+               <bibl xml:id="LetterMcDonald" n="Letter"><title level="a">Letter to Mr. J. E. McDonald</title> <title>TS. Papers of Admiral Richard E. 
+                  Byrd. Series II: Expeditionary Records. Location: 054-774-.20-3 7188</title></bibl>
+               <bibl xml:id="LetterSeeley" n="Seeley">Seeley, Milton J.<title level="a">Letter to Adimiral Richard E. Byrd</title> <title>TS. Papers of Admiral Richard E. 
+                  Byrd. Series II: Expeditionary Records. Location: 054-774-.20-3 7188</title></bibl>
             </listBibl>
             
          </sourceDesc>
