@@ -345,14 +345,18 @@
                         mentions how one dog was injured and rode in the sled for a day to recover<bibl><ref target="#LockhartTrailJournal">Lockhart</ref></bibl>. This indicates that the attitude the USASE 1940-1941 had for the dogs 
                         was a more lenient and, to modern readers, humane treatment. After the expedition, a number of the men took their dogs home with them. Special care 
                         was taken to place the remaining ones in appropriate homes and farms<bibl><ref target="#LetterSeeley">Seeley</ref></bibl>. Lockhart’s relationship with the dogs during his time in the Antarctic 
-                        reflects both their importance to the Antarctic lifestyle and a changing attitude towards the dogs as technology advanced.  
+                        reflects both their importance to the Antarctic lifestyle and attitude towards the dogs as technology advanced.  
                      </p>
                      <p rend="h3" xml:id="geopolitics">Other Nations' Activities in Antarctica ca. 1939-1941</p>
                      <p>First paragraph of this section.</p>
                      <p>Second paragraph of this section.</p>
                      <p rend="h3" xml:id="entertainment">Reading and Recreation</p>
-                     <p>Testing my connection. Movies, books, games. Families donated materials; Lockhart. </p>
-                     <p>Second paragraph of this section.</p>
+                     <p>Notes will become essay! There are several newspaper ads for Camel cigarettes claiming that they
+                        were the brand of choice smoked by the Antarctic explorers. According to an article in the November 22, 1939, the men had "more than 100
+                        games, including two billiard tables, softballs, cards, darts, checkers, chess and 
+                        backgammon. There also are portable radios and phonographs" (9 ref will be added). Families donated materials; Lockhart. </p>
+                     <p>Lockhart's reading materials included...Some were brought from home or purchased en route, and other copies did not belong to Lockhart. 
+                        Mix of contemporary fiction and nonfiction. Movies. Taking planes out for "hops" and taking walks with dogs. Talking. At least one musical instrument (ukelele)</p>
                      <p rend="h3" xml:id="equipment">Testing Equipment in Severe Cold</p>
                      <p>First paragraph of this section.</p>
                      <p>Second paragraph of this section.</p>
@@ -443,6 +447,12 @@
                      Alaska.  After two Antarctic voyages, including Lockhart's (1939-41), she was commissioned for the
                      U.S. Coast Guard on 15 May 1941 and joined the Northeast Greenland Patrol on 1 July 1941, 
                      (along with the other ship from the 1939-41 Antarctic expedition, U.S.S. Bear). </desc>
+               </item>
+               <item xml:id="tractor">
+                  <name type="tractor" source="#Bertrand">tractor</name>
+                  <desc>West Base had a T-20 International crawler style of tractor. It was used for transport, unloading supplies from the ships, and to stash supplies by pulling trains of sleds to lie food and fuel in caches and depots for the sledging parties. 
+                     The tractor parties went ahead of the sledging parties and established trails.
+                  </desc>
                </item>
                </list>
 
@@ -2032,9 +2042,8 @@
                   <lb/>Well we shan't worry about that for a while. 
                </p>
                <p>
-                  <lb/>I forgot to mention in yesterday's account that the tractor<ptr type="noteAnchor" target="#tractor"/><note resp="ed" xml:id="tractor">West Base had a T-20 International crawler style of tractor. It was used for transport, unloading supplies from the ships, and to stash supplies by pulling trains of sleds to lie food and fuel in caches and depots for the sledging parties. 
-                     The tractor parties went ahead of the sledging parties and established trails.<bibl><ref target="#Bertrand">Bertrand 414; 422</ref></bibl></note>
-                  <lb/>had gone into a crevase about 10 miles from <placeName ref="#depot105">105</placeName> and the 
+                  <lb/>I forgot to mention in yesterday's account that the tractor
+                  <lb/>had gone into a crevase about 10 miles from <placeName ref="#depot105">105</placeName> and the
                   <lb/>situation looked impossible. Since the storm was raging out
                   <lb/>there <seg ana="adynaton">nothing could be done at the moment.</seg> Today at <del rend="strikethrough">the</del>
                   <lb/>the radio schedule time we were happy to learn that the
