@@ -56,7 +56,7 @@
                <persName ref="#AK">Alan Keep</persName>
                <persName ref="#CH">Caitlin Hurdley</persName>
                <persName ref="#RSL">Rachel Layfield</persName>
-               <persName ref="#Kathy">Kathy Mielecki</persName>
+               <persName ref="#Kathy">Kathy Ann Mielecki</persName>
                <persName ref="#FP">Francis Pellicciaro</persName>
                <persName ref="#tamika">Tamika Smith</persName>
                <persName ref="#HLU">H. Lewis Ulman</persName>
@@ -351,11 +351,12 @@
                      <p>First paragraph of this section.</p>
                      <p>Second paragraph of this section.</p>
                      <p rend="h3" xml:id="entertainment">Reading and Recreation</p>
-                     <p>Notes will become essay! There are several newspaper ads for Camel cigarettes claiming that they
+                     <p><!-- These random notes will be properly formatted :) --> There are several newspaper ads for Camel cigarettes claiming that they
                         were the brand of choice smoked by the Antarctic explorers. According to an article in the November 22, 1939, the men had "more than 100
                         games, including two billiard tables, softballs, cards, darts, checkers, chess and 
-                        backgammon. There also are portable radios and phonographs" (9 ref will be added). Families donated materials; Lockhart. </p>
-                     <p>Lockhart's reading materials included...Some were brought from home or purchased en route, and other copies did not belong to Lockhart. 
+                        backgammon. There also are portable radios and phonographs" (9 ref will be added). Private firms and families 
+                        contributed items such as books, instruments, and tobacco (http://www.south-pole.com/p0000109.htm) </p>
+                     <p>Lockhart's reading materials included...Some were brought from home or purchased en route, and Lockhart reads some of the books from the ship.  
                         Mix of contemporary fiction and nonfiction. Movies. Taking planes out for "hops" and taking walks with dogs. Talking. At least one musical instrument (ukelele)</p>
                      <p rend="h3" xml:id="equipment">Testing Equipment in Severe Cold</p>
                      <p>First paragraph of this section.</p>
