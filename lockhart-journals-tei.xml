@@ -1516,7 +1516,7 @@
                <bibl xml:id="IMBdRB" n="Risky"><title level="a">Risky Business</title><title level="m"> IMDb.</title> IMDb, n.d. Web.</bibl> 
                <bibl xml:id="IMBdJF" n="Jones"><title level="a">Jones Family in Hollywood</title><title level="m"> IMDb.</title> IMDb, n.d. Web.</bibl>
                <bibl xml:id="IMBdGwtW" n="Gone"><title level="a">Gone with the Wind</title><title level="m"> IMDb.</title> IMDb, n.d. Web.</bibl>
-               <bibl xml:id="IMBdB" n="Blondie"><title level="a">Blondie</title><title level="m">I MDb.</title> IMDb, n.d. Web.</bibl>
+               <bibl xml:id="IMBdB" n="Blondie"><title level="a">Blondie</title> <title level="m">IMDb.</title> IMDb, n.d. Web.</bibl>
                <bibl xml:id="ExploratoryFlights" n="Hawthorne">Hawthorne, Roger. <title level="a">Exploratory Flights of Admiral Byrd (1940).
                </title><title level="j">Proceedings of the American Philosophical Society</title> 89.1 (30 April 1945): 398a-398e. Print. </bibl>
                <bibl xml:id="DailySentinel" n="Butterfield">Butterfield, C.E. <title level="a">Radio Day by Day.</title><title level="j">Daily
