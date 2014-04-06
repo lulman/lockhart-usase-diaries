@@ -95,8 +95,8 @@
     </xsl:template>    
     
     
-    <xsl:template match="tei:lb"><br/><a><xsl:attribute name="name"><xsl:number count="tei:lb" format="0001" level="any" from="tei:div[@type='letter']"/></xsl:attribute>
-        </a><xsl:number count="tei:lb" format="0001" level="any" from="tei:div[@type='letter']"/>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
+    <xsl:template match="tei:lb"><br/><a><xsl:attribute name="name"><xsl:number count="tei:lb" format="0001" level="any" from="//tei:group"/></xsl:attribute>
+    </a><xsl:number count="tei:lb" format="0001" level="any" from="//tei:group"/>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
     </xsl:template>
     
     <xsl:template match="tei:fileDesc/tei:titleStmt/tei:title/tei:lb">
