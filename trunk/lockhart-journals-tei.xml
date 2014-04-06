@@ -1132,7 +1132,9 @@
                <place type="city" xml:id="Dunedin" source="#Bertrand #TGN #eel-19410115a #eel-19410116a"><placeName>Dunedin</placeName>
                   <country>New Zealand</country>
                   <desc>The Star spent several days in Dunedin on its way to West Base to pick up the crew. 
-                  According to Lockhart it took about 10 days to travel from Dunedin to West Base.</desc>
+                  According to Lockhart it took about 10 days to travel from Dunedin to West Base. An article in the December 29, 1940 New York
+                  Times describes "an immediate sailing from Dunedin" and states that "The ship's schedule allows her
+                  twelve days to reach Little America" (17).</desc>
                   <location><geo>-45.8667 170.5000</geo></location>
                   </place>
                
