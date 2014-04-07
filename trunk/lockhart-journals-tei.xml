@@ -1889,7 +1889,7 @@
                  <pb facs="journal-2-07.jpg" n="/b/b057d443-5967-4034-98aa-63d5da97307b"/>
                <fw type="pageNum" place="top">3</fw>
                
-                  <lb/>the barracks<ptr type="noteAnchor" target="notebarracks1"/>. We took our clothes off and weighed in.
+                  <lb/>the barracks. We took our clothes off and weighed in.
                   <lb/><persName ref="#Perk">Perk</persName> weighed 193 before and 173 after (in same clothes) <persName ref="#Richardson">Jack</persName>
                   <lb/>weighed 159 before and about 158 after. <persName ref="#Tony">Tony</persName> weighed 189
                   <lb/>before and 163 after I weighed 162 before and 150 after.
@@ -2069,8 +2069,8 @@
                   <p>
                      <lb/>At this time&#x2014;about 2 AM&#x2014;I don't feel particularly
                      <lb/>tired so am staying up<unclear>.</unclear> I ha<subst instant="true"><del type="overwritten">d</del><add place="inline">ve</add></subst>d been reading <title level="m">Death
-                        <lb/>Sails with Magellan</title> <ptr type="noteAnchor" target="#NoteMagellan"/><note resp="ed" xml:id="NoteMagellan">A novel set during Magellan's voyage from the point of view of his crewmen, ending in his death, written in 1937 <bibl><ref target="#Magellan">"Death Sails With Magellan"</ref></bibl> </note> but stopped to help <persName ref="#Court">Court</persName> release
-                     <lb/>one of his <choice><sic>raysende</sic><corr>radiosonde</corr></choice> <choice><sic>ballons</sic><corr>balloons</corr></choice><ptr type="noteAnchor" target="noteradiosondeballoons1"/><note xml:id="noteradiosondeballoons1">Radiosonde balloons were used to fly into the air and measure atmospheric parameters. The measurements were then sent back to a fixed reciever in the balloon house.</note>. It got caught in one of
+                        <lb/>Sails with Magellan</title> <ptr type="noteAnchor" target="NoteMagellan"/><note resp="ed" xml:id="NoteMagellan">A novel set during Magellan's voyage from the point of view of his crewmen, ending in his death, written in 1937 <bibl><ref target="#Magellan">"Death Sails With Magellan"</ref></bibl> </note> but stopped to help <persName ref="#Court">Court</persName> release
+                     <lb/>one of his <choice><sic>raysende</sic><corr>radiosonde</corr></choice> <choice><sic>ballons</sic><corr>balloons</corr></choice><ptr type="noteAnchor" target="noteradiosondeballoons1"/><note resp="ed" xml:id="noteradiosondeballoons1">Radiosonde balloons were used to fly into the air and measure atmospheric parameters. The measurements were then sent back to a fixed reciever in the balloon house.</note>. It got caught in one of
                      <lb/><persName>Railey's</persName> antennas but I was able to climb the pole
                      <lb/>and free it. While helping him I noticed a bunch
                      <lb/>of skua gulls <ptr type="noteAnchor" target="NoteSkua"/><note resp="ed" xml:id="NoteSkua">Arctic skuas, also known as "parasitic jaegers," are a type of seabird that primarily feed by stealing food from other birds, although they are known to hunt as well <bibl><ref target="#NatGeo"><title level="a">Arctic Skua</title></ref></bibl>. These birds largely live at seas, except to come ashore in order to breed during the Arctic summer <bibl><ref target="#NatGeo"><title level="a">Arctic Skua</title></ref></bibl>. Study of these birds was part of the 
@@ -2191,7 +2191,7 @@
                   <lb/>ready to begin metabolism tests in the morning. <persName ref="#Tony">Tony</persName> will
                   <lb/> be the first victim. I also changed water on the socks I
                   <lb/>had been soaking overnight and then sat down to read a bit
-                  <lb/>more in <title type="m">Death Sails with Magellan</title><ptr type="noteAnchor" target="#NoteMagellan2"/><note resp="ed" xml:id="NoteMagellan2">See note on page 11</note>. <persName ref="#CharlesFord">Charles Ford</persName> the
+                  <lb/>more in <title type="m">Death Sails with Magellan</title>. <persName ref="#CharlesFord">Charles Ford</persName> the
                   <lb/>author certainly had done a marvellous job in this book
                   <lb/>I shall have to get it for my own library when I get home.
                   <lb/>Just as <persName ref="#BuckBoyd">Buck</persName> and I were going out skua gull hunting
@@ -2270,7 +2270,7 @@
                  <lb/>finished up just in time for me to take the noon observation
                  <lb/>and change the sheets. In the afternoon I began jumping
                  <lb/>the gas analysis apparatus and after finishing that <seg ana="metaphor">made an
-                 <lb/>end of</seg> <title type="m">Death Sails with Magellan</title> <note target="#NoteMagellan" type="annotation">See note on page 11</note>. No gun practice today
+                 <lb/>end of</seg> <title type="m">Death Sails with Magellan</title>. No gun practice today
                  <lb/>After dinner got ready for the urine analysis and completed
                  <lb/>my sock washing. Then came the seal chopping chore. The dogs
                  <lb/>sure make a fuss over the seal meat probably because they
@@ -2307,7 +2307,7 @@
                <lb/>little --- but not much.
             </p>
             <p>
-               <lb/>I began reading <title>Gone with the Wind</title><ptr type="noteAnchor" target="#NoteGTW"/><note resp="ed" xml:id="NoteGTW">The 1936 novel by Margaret Mitchell about the fate of plantation heiress Scarlett O'Hara, infamous for its almost nostalgic portrayal of slavery and plantation life, but also extremely popular internationally to this day. Famously adapted into the 1939 film starring Vivien Leigh and Clark Gable, which Lockhart also discusses<bibl><ref target="#WikiGWTW">"Gone with the Wind. Wikipedia."</ref></bibl></note> and hope it won't
+               <lb/>I began reading <title>Gone with the Wind</title><ptr type="noteAnchor" target="NoteGTW"/><note resp="ed" xml:id="NoteGTW">The 1936 novel by Margaret Mitchell about the fate of plantation heiress Scarlett O'Hara, infamous for its almost nostalgic portrayal of slavery and plantation life, but also extremely popular internationally to this day. Famously adapted into the 1939 film starring Vivien Leigh and Clark Gable, which Lockhart also discusses<bibl><ref target="#WikiGWTW">"Gone with the Wind. Wikipedia."</ref></bibl></note> and hope it won't
                <lb/>take too much of my time.
             </p>
             <p>
@@ -2330,7 +2330,7 @@
               <lb/><date when="1941-12-31"></date>Tuesday December 31 1941 <corr evidence="internal">(1940)</corr></dateline>
             <p>
                <lb/>We have been operating such an erratic schedule and
-               <lb/>also have to deal with <term>Greenwich Mean Time</term><ptr type="noteAnchor" target="#GMT"/><note resp="ed" xml:id="GMT">Because the expedition is at one of the poles, they technically are in all time zones at once but experience it as a single day. They appear to have chosen GMT as their offical time to go by, which Lockhart has here temporarily lost track of.<bibl><ref target="#GMTAntarctica">"Antarctica"</ref></bibl></note> that
+               <lb/>also have to deal with <term>Greenwich Mean Time</term><ptr type="noteAnchor" target="GMT"/><note resp="ed" xml:id="GMT">Because the expedition is at one of the poles, they technically are in all time zones at once but experience it as a single day. They appear to have chosen GMT as their offical time to go by, which Lockhart has here temporarily lost track of.<bibl><ref target="#GMTAntarctica">"Antarctica"</ref></bibl></note> that
                <lb/>I have been confused concerning the day and date for
                <lb/>several days. Yesterday I thought today was to be New Year
                <lb/>and now that we are actually in the New Year by camp
@@ -2340,7 +2340,7 @@
             <p>
                <lb/>Yesterday which normally would have been written up early
                <lb/>this morning <seg ana="metaphor">slipped by</seg> with no entry entirely because I had
-               <lb/>gotten so far into <title>Gone with the Wind</title> <ptr type="noteAnchor" target="#NoteGTW2"/><note xml:id="NoteGTW2" type="annotation" resp="ed">See note on page 17</note>that wartime was a thing
+               <lb/>gotten so far into <title>Gone with the Wind</title> that wartime was a thing
                <lb/>of minor importance.  I read that amazing <subst><del rend="strikethrough">epis</del><add place="above">narrative</add></subst> of life
                <lb/>among the Southerners during the <name>Civil War</name> days until almost
                <lb/>AM.  I wasn't reading all of the time but enough of the time 
@@ -2595,7 +2595,7 @@
                     <lb/>when the <name type="aircraft" ref="#Condor">Condor</name> was 500 miles from the base. </p>
                  <p>
                  <lb/>My reading has tended to be southern in nature<unclear>.</unclear>
-                 <lb/>After finishing <title>Gone with the Wind</title><ptr type="noteAnchor" target="#NoteGTW3"/> <note resp="ed" xml:id="NoteGTW3" type="annotation">See note on page 17</note><!-- might be a slightly larger space than usual after Wind --> I started in on <title>South
+                 <lb/>After finishing <title>Gone with the Wind</title><!-- might be a slightly larger space than usual after Wind --> I started in on <title>South
                  <lb/>Moon Under</title><!-- might be another slightly space after Under --> and found it to be concerned with poor
             
                     <pb facs="journal 2-26" n= "/6/619ac374-eef5-49d7-8b1c-12661079e5ed"/>
@@ -2604,7 +2604,7 @@
                   <lb/>whites in <placeName>Florida</placeName>. I have spoken to <persName ref="#Shirley">Shirley</persName> about it and 
                   <lb/>hope he <unclear cert="high">reads</unclear> it. I should like to know if it at all <unclear cert="unknown">aw</unclear>
                   <lb/>accurate picture of the State where he lived much of his boyhood.
-                  <lb/><title level="m">Gone with the Wind</title><ptr type="noteAnchor" target="NoteGTW4"/><note resp="ed" xml:id="NoteGTW4" type="annotation">See note on page 17</note> tapered off slightly in <unclear cert="high">interest</unclear> and left me
+                  <lb/><title level="m">Gone with the Wind</title> tapered off slightly in <unclear cert="high">interest</unclear> and left me
                   <lb/>hanging in the air. I am not certain whether <persName type="fictional">Rhett Butler</persName>
                   <lb/>and <persName type="fictional">Scarlett</persName> should have found happiness or whether the ending 
                   <lb/>as <persName>Margaret Mitchell</persName> made it was more in keeping with the
@@ -3142,7 +3142,7 @@
             </p>
             <p>
                <lb/><persName>Pete</persName> and <persName>Wiener</persName> made their hop this afternoon. <persName>Pete</persName>
-               <lb/>wants to crack this altitude record <ptr type="noteAnchor" target="noteAltituderecords"/><note resp="ed" xml:id="altitiderecords">Thomas Petras, also knows as Peter, was a pilot on the expedition. On March 9th 1940, Peter broke the record at that time for highest airplane flight over Antarctica by flying 21,050 feet up in the beechcraft on a cosmic ray research flight. Lockhart presumably calls this 'last fall' because seasons are reversed in Antarctica. <bibl><ref target="#Wings1980"></ref><ref target="#Bertrand"></ref></bibl></note>he set up last fall. <persName>Murry</persName>
+               <lb/>wants to crack this altitude record <ptr type="noteAnchor" target="altituderecords"/><note resp="ed" xml:id="altitiderecords">Thomas Petras, also knows as Peter, was a pilot on the expedition. On March 9th 1940, Peter broke the record at that time for highest airplane flight over Antarctica by flying 21,050 feet up in the beechcraft on a cosmic ray research flight. Lockhart presumably calls this 'last fall' because seasons are reversed in Antarctica. <bibl><ref target="#Wings1980"></ref><ref target="#Bertrand"></ref></bibl></note>he set up last fall. <persName>Murry</persName>
                <lb/>is cosmic ray observer and also will take charge of the bottles
                <lb/>I sent up for air samples. When they came down I got
                <lb/>some pictures of the landing. <persName>Wiener</persName> had carried out my
