@@ -123,6 +123,14 @@ height: 360px;
 visibility: hidden;	
 }
 
+p.hang25 a:before {
+display: inline-block;
+content: " ";
+margin-top: -360px;
+height: 360px;
+visibility: hidden;	
+}
+
 a.nameListing:before {
 display: inline-block;
 content: " ";
