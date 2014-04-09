@@ -1586,6 +1586,11 @@
                   Byrd. Series II: Expeditionary Records. Location: 054-774-.20-3 7188</title></bibl>
                <bibl xml:id="LetterSeeley" n="Seeley">Seeley, Milton J.<title level="a">Letter to Adimiral Richard E. Byrd</title> <title>TS. Papers of Admiral Richard E. 
                   Byrd. Series II: Expeditionary Records. Location: 054-774-.20-3 7188</title></bibl>
+               <bibl xml:id="WeatherObservations" n="Weather">Court, Arnold <title level="a">Weather Observations during 1940-1941 at Little America III, Antarctica</title>
+                  <title> Proceedings of the American Philosophical Society, Vol. 89, No. 1, Reports on Scientific Results of the United States Antarctic Service Expedition, 1939-1941 (Apr. 30, 1945), pp. 324-343</title></bibl>
+               <bibl xml:id="SymposiumOnScientificResults" n="ScientificResults">Wade, Alton<title level="a">An Introduction to the Symposium on Scientific Results of the United States Antarctic Service Expedition, 1939-1941</title> 
+                  <title>Proceedings of the American Philosophical Society, Vol. 89, No. 1, Reports on Scientific Results of the United States Antarctic Service Expedition, 1939-1941 (Apr. 30, 1945), pp. 1-3</title></bibl>
+               <bibl xml:id="WindChill" n="WindChill">Gerew, Gary<title level="a">How was Wind Chill Discovered?</title> <title>The Syracuse Newspapers</title></bibl>
             </listBibl>
             
          </sourceDesc>
