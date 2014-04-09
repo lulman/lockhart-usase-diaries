@@ -31,7 +31,7 @@
             <editor><persName ref="#ME">Meg Edison</persName></editor>
             <editor><persName ref="#AK">Alan Keep</persName></editor>
             <editor><persName ref="#CH">Caitlin Hurdley</persName></editor>
-            <editor><persName ref="#RSL">Rachel Layfield</persName></editor>
+            <editor><persName ref="#RSL">Rachel S. Layfield</persName></editor>
             <editor><persName ref="#Kathy">Kathy Mielecki</persName></editor>
             <editor><persName ref="#FP">Francis Pellicciaro</persName></editor>
             <editor><persName ref="#tamika">Tamika Smith</persName></editor>
@@ -55,7 +55,7 @@
                <persName ref="#ME">Meg Edison</persName>
                <persName ref="#AK">Alan Keep</persName>
                <persName ref="#CH">Caitlin Hurdley</persName>
-               <persName ref="#RSL">Rachel Layfield</persName>
+               <persName ref="#RSL">Rachel S. Layfield</persName>
                <persName ref="#Kathy">Kathy Ann Mielecki</persName>
                <persName ref="#FP">Francis Pellicciaro</persName>
                <persName ref="#tamika">Tamika Smith</persName>
@@ -69,7 +69,7 @@
                <persName ref="#ME">Meg Edison</persName>
                <persName ref="#AK">Alan Keep</persName>
                <persName ref="#CH">Caitlin Hurdley</persName>
-               <persName ref="#RSL">Rachel Layfield</persName>
+               <persName ref="#RSL">Rachel S. Layfield</persName>
                <persName ref="#Kathy">Kathy Mielecki</persName>
                <persName ref="#FP">Francis Pellicciaro</persName>
                <persName ref="#tamika">Tamika Smith</persName>
@@ -1003,8 +1003,8 @@
                      any one in isolation.</note>                
                </person>
                <person xml:id="RSL">
-                  <persName>Layfield, Rachel</persName>
-                  <note type="biographical">Rachel Layfield is a third-year English major who is 
+                  <persName>Layfield, Rachel S.</persName>
+                  <note type="biographical">Rachel S. Layfield is a third-year English major who is 
                      minoring in both Professional Writing and French. Post-graduation, she plans to 
                      earn her MLS and become a librarian.</note>
                </person>
@@ -1031,7 +1031,7 @@
                   to see the world as an English as a Second Language teacher.</note>
                </person>
                <person xml:id="AJW">
-                  <persName>Waisanen, Adam J</persName>
+                  <persName>Waisanen, Adam J.</persName>
                   <note type="biographical">Adam Waisanen is a third-year History major at The Ohio State
                   University. He has currently served in the U.S. Military for over eleven years. After 
                   graduation he plans earn a Masters in Library Science to become either an archivist or
