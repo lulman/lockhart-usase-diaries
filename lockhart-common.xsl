@@ -82,7 +82,7 @@
          <body>
             <!-- Build the masthead and navigation links at the top of the page -->
             <div class="masthead">
-               <div id="display1"> <img src="usase-lockhart-watermarked.png" height="120" title="Ernest Earl Lockhart"/> </div>
+               <div id="display1"> <img src="lockhart-usase.jpg" height="120" title="Ernest Earl Lockhart"/> </div>
                <div id="display2"> <img src="usase-ice-shelf1.jpg" height="120" title="Antarctic Ice Shelf"/> </div>
                <div id="display3"> <img src="usase-bear-of-oakland-steam.jpg" height="120" title="U.S.S. Bear of Oakland"/> </div>
                <div id="display4"> <img src="usase-dogs2.jpg" height="120" title="USASE Dog Team"/> </div>
@@ -136,7 +136,7 @@
                      <li><a href="./lockhart-edintro.html#ack">Acknowledgements</a></li>
                      <li><a href="./lockhart-edintro.html#editors">About the Editors</a></li>
                      <li><a href="./lockhart-odd-rnc-xml-xsl.zip">Download Source Files</a></li>
-                     <li><a href="./lockhart-zoomindex.cfm">Images of the MS Pages</a></li>
+                     <li><a href="./lockhart-zoomindex.html">Images of the MS Pages</a></li>
                      <li><a href="./lockhart-maps.html">Map</a></li>
                   </ul>
                   </li>
