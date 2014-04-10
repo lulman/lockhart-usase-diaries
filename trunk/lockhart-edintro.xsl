@@ -101,7 +101,7 @@
          <body>
             <div class="masthead">
                <div id="display1">
-                  <img src="usase-lockhart-watermarked.png" height="120"
+                  <img src="lockhart-usase.jpg" height="120"
                      title="Ernest Earl Lockhart, ca. 1939-41. Credit: Ernest Earl Lockhart Collection, Byrd Polar Research Center Archival Program, 
                      The Ohio State University, image #https://byrdpolarmedia.osu.edu/CFrx3P9NJ. Location: BPRCAP.2012.14; Box 1 folder 66"/>
                </div>
@@ -157,7 +157,7 @@
                      <li><a href="./lockhart-edintro.html#ack">Acknowledgements</a></li>
                      <li><a href="./lockhart-edintro.html#editors">About the Editors</a></li>
                      <li><a href="./lockhart-odd-rnc-xml-xsl.zip">Download Source Files</a></li>
-                     <li><a href="./lockhart-zoomindex.cfm">Images of the MS Pages</a></li>
+                     <li><a href="./lockhart-zoomindex.html">Images of the MS Pages</a></li>
                      <li><a href="./lockhart-maps.html">Map</a></li>
                   </ul>
                   </li>
