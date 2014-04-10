@@ -82,17 +82,17 @@
          <body>
             <!-- Build the masthead and navigation links at the top of the page -->
             <div class="masthead">
-               <div id="display1"> <img src="lockhart-usase.jpg" height="120" title="Ernest Earl Lockhart"/> </div>
-               <div id="display2"> <img src="usase-ice-shelf1.jpg" height="120" title="Antarctic Ice Shelf"/> </div>
-               <div id="display3"> <img src="usase-bear-of-oakland-steam.jpg" height="120" title="U.S.S. Bear of Oakland"/> </div>
-               <div id="display4"> <img src="usase-dogs2.jpg" height="120" title="USASE Dog Team"/> </div>
-               <div id="display5"><img src="usase-ski-plane1.jpg" height="120" title="USASE Ski Plane"/> </div>
+               <div id="display1"> <img src="lockhart-usase.jpg" height="60" title="Ernest Earl Lockhart"/> </div>
+               <div id="display2"> <img src="usase-ice-shelf1.jpg" height="60" title="Antarctic Ice Shelf"/> </div>
+               <div id="display3"> <img src="usase-bear-of-oakland-steam.jpg" height="60" title="U.S.S. Bear of Oakland"/> </div>
+               <div id="display4"> <img src="usase-dogs2.jpg" height="60" title="USASE Dog Team"/> </div>
+               <div id="display5"><img src="usase-ski-plane1.jpg" height="60" title="USASE Ski Plane"/> </div>
             </div>
             <div id="titleBar">
                <p align="center"><span class="projectTitle"><xsl:value-of
                   select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/></span></p>
                <p align="center"><cite><strong>This edition is currently in progress. Please do
-                  not cite this preview until this notice is removed.</strong></cite><br/><br/>
+                  not cite this preview until this notice is removed.</strong></cite><br/>
                      <!--<button>Click to toggle between Smith's spelling and standardized spelling.</button>--></p>
                <hr/>
             </div>
