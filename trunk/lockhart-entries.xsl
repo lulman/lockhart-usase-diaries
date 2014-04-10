@@ -39,7 +39,7 @@
     <xsl:variable name="navBarRule">
         #navBar {
         position:fixed;
-        top:340px;
+        top:200px;
         float : left;
         width : 280px;
         text-align : left;
@@ -53,7 +53,7 @@
     <xsl:variable name="maintextRule">
         #maintext {
         position:relative;
-        top:320px;
+        top:180px;
         width:610px;
         margin-left:350px;
         padding:5px;

@@ -53,7 +53,7 @@
         text-align:center;
         width:1200px;
         top:0;
-        padding-top:15px;
+        padding-top:0px;
         position: fixed;
         background-color: rgba(255, 255, 255, 1);
         color: rgba(1, 1, 1, 0.8);
@@ -65,7 +65,7 @@
         margin-bottom: 0;
         background-color: #fff;
         padding-top: 0px;
-        height: 150px;
+        height: 75px;
         text-align: left;
         }
         #display2, #display3, #display4, #display5 {
@@ -75,13 +75,13 @@
         margin-bottom: 0;
         background-color: #fff;
         padding-top: 0px;
-        height: 150px;
+        height: 75px;
         text-align: center;
         }
         #titleBar {
         vertical-align: top;
         width:1200px;
-        top:150px;
+        top:75px;
         position: fixed;
         background-color: rgba(255, 255, 255, 1);
         color: rgba(1, 1, 1, 0.8);
@@ -91,7 +91,7 @@
     <xsl:variable name="maintextRule">
         #maintext {
         position:relative;
-        top:320px;
+        top:180px;
         width:860px;
         margin-left:300px;
         padding:5px;
@@ -104,7 +104,7 @@
     <xsl:variable name="navBarRule">
         #navBar {
         position:fixed;
-        top:360px;
+        top:200px;
         float : left;
         width : 280px;
         text-align : left;

@@ -4,7 +4,7 @@
 	   text-align:center;
 	   width:1005px;
 	   top:0;
-	   padding-top:15px;
+	   padding-top:0px;
 	   position: fixed;
 	   background-color: rgba(255, 255, 255, 1);
 	   color: rgba(1, 1, 1, 0.8);
@@ -20,7 +20,7 @@
 	margin-bottom: 0;
 	background-color: #fff;
 	padding-top: 0px;
-	height: 150px;
+	height: 75px;
 	text-align: left;
 }
 #display2, #display3, #display4, #display5 {
@@ -30,7 +30,7 @@
 	margin-bottom: 0;
 	background-color: #fff;
 	padding-top: 0px;
-	height: 150px;
+	height: 75px;
 	text-align: center;
 }
 .masthead img {
@@ -41,7 +41,7 @@
 #titleBar {
    vertical-align: top;
    width:1005px;
-   top:150px;
+   top:75px;
    position: fixed;
    background-color: rgba(255, 255, 255, 1);
    color: rgba(1, 1, 1, 0.8);
@@ -56,10 +56,10 @@ li {
 }
 .projectTitle {
    font-family : Verdana, Arial, Helvetica, sans-serif;
-   font-size : 16pt;
+   font-size : 12pt;
    font-style : normal;
    font-weight : bold;
-   line-height : 18pt;
+   line-height : 16pt;
 }
 a:link {
 	text-decoration: none;
@@ -98,8 +98,8 @@ h2 {
 h2:before {
 display: block;
 content: " ";
-margin-top: -300px;
-height: 300px;
+margin-top: -140px;
+height: 140px;
 visibility: hidden;
 }
 h3 {
@@ -110,40 +110,40 @@ h3 {
 h3:before {
 display: block;
 content: " ";
-margin-top: -300px;
-height: 300px;
+margin-top: -140px;
+height: 140px;
 visibility: hidden;
 }
 
 p.hang15 a:before {
 display: inline-block;
 content: " ";
-margin-top: -360px;
-height: 360px;
+margin-top: -200px;
+height: 200px;
 visibility: hidden;	
 }
 
 p.hang25 a:before {
 display: inline-block;
 content: " ";
-margin-top: -360px;
-height: 360px;
+margin-top: -200px;
+height: 200px;
 visibility: hidden;	
 }
 
 a.nameListing:before {
 display: inline-block;
 content: " ";
-margin-top: -360px;
-height: 360px;
+margin-top: -200px;
+height: 200px;
 visibility: hidden;	
 }
 
 a.notePointer:before {
 display: inline-block;
 content: " ";
-margin-top: -360px;
-height: 360px;
+margin-top: -200px;
+height: 200px;
 visibility: hidden;	
 }
 sup.noteAnchor {
@@ -232,8 +232,8 @@ p.listing { margin-top: 10px;  }
 p.listing a:before {
 	display: inline-block;
     content: " ";
-    margin-top: -300px;
-    height: 300px;
+    margin-top: -140px;
+    height: 140px;
     visibility: hidden;
 }
 hr { color: #888833; 

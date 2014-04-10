@@ -20,7 +20,7 @@
    <xsl:variable name="navBarRule">
       #navBar {
       position:fixed;
-      top:300px;
+      top:200px;
       float : left;
       width : 280px;
       text-align : left;
@@ -34,7 +34,7 @@
    <xsl:variable name="maintextRule">
       #maintext {
       position:relative;
-      top:280px;
+      top:180px;
       width:610px;
       margin-left:350px;
       padding:5px;
@@ -101,14 +101,14 @@
          <body>
             <div class="masthead">
                <div id="display1">
-                  <img src="lockhart-usase.jpg" height="120"
+                  <img src="lockhart-usase.jpg" height="60"
                      title="Ernest Earl Lockhart, ca. 1939-41. Credit: Ernest Earl Lockhart Collection, Byrd Polar Research Center Archival Program, 
                      The Ohio State University, image #https://byrdpolarmedia.osu.edu/CFrx3P9NJ. Location: BPRCAP.2012.14; Box 1 folder 66"/>
                </div>
-               <div id="display2"> <img src="usase-ice-shelf1.jpg" height="120" title="Antarctic Ice Shelf"/> </div>
-               <div id="display3"> <img src="usase-bear-of-oakland-steam.jpg" height="120" title="U.S.S. Bear of Oakland"/> </div>
-               <div id="display4"> <img src="usase-dogs2.jpg" height="120" title="USASE Dog Team"/> </div>
-               <div id="display5"><img src="usase-ski-plane1.jpg" height="120" title="USASE Ski Plane"/> </div>
+               <div id="display2"> <img src="usase-ice-shelf1.jpg" height="60" title="Antarctic Ice Shelf"/> </div>
+               <div id="display3"> <img src="usase-bear-of-oakland-steam.jpg" height="60" title="U.S.S. Bear of Oakland"/> </div>
+               <div id="display4"> <img src="usase-dogs2.jpg" height="60" title="USASE Dog Team"/> </div>
+               <div id="display5"><img src="usase-ski-plane1.jpg" height="60" title="USASE Ski Plane"/> </div>
             </div>
             <div id="titleBar">
                <p align="center"><span class="projectTitle"><xsl:value-of
