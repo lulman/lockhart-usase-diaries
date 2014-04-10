@@ -83,7 +83,7 @@
         <br/><xsl:apply-templates/>
     </xsl:template> 
     
-    <xsl:template match="fw"/>
+    <xsl:template match="tei:fw"/>
     
     <xsl:template match="tei:div[@type='Entry']/tei:head/tei:lb">
         <br/><xsl:apply-templates/>
