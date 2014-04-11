@@ -98,8 +98,8 @@ h2 {
 h2:before {
 display: block;
 content: " ";
-margin-top: -140px;
-height: 140px;
+margin-top: -180px;
+height: 180px;
 visibility: hidden;
 }
 h3 {
@@ -110,8 +110,8 @@ h3 {
 h3:before {
 display: block;
 content: " ";
-margin-top: -140px;
-height: 140px;
+margin-top: -180px;
+height: 180px;
 visibility: hidden;
 }
 
