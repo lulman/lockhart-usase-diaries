@@ -59,7 +59,7 @@
         color: rgba(1, 1, 1, 0.8);
         z-index:1;
         }
-        #display1 {
+        .display_left {
         display: inline;
         float: left;
         margin-bottom: 0;
@@ -68,8 +68,8 @@
         height: 75px;
         text-align: left;
         }
-        #display2, #display3, #display4, #display5 {
-        margin-left: 115px;
+        .display_addl {
+        margin-left: 200px;
         display: inline;
         float: left;
         margin-bottom: 0;
