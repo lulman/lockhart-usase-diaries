@@ -137,7 +137,7 @@
                 <img class="pageview">
                     <xsl:attribute name="src">https://images.asc.ohio-state.edu/is/image/englishdocs<xsl:value-of
                             select="@n"/>.jpg?scale=0.3&amp;fmt=png</xsl:attribute>
-                    <xsl:attribute name="width">350</xsl:attribute>
+                    <xsl:attribute name="width">325</xsl:attribute>
                 </img>
             </a>
         </div>
@@ -156,12 +156,15 @@
                 <img class="pageview">
                     <xsl:attribute name="src">https://images.asc.ohio-state.edu/is/image/englishdocs<xsl:value-of
                         select="@n"/>.jpg?scale=0.3&amp;fmt=png</xsl:attribute>
-                    <xsl:attribute name="width">350</xsl:attribute>
+                    <xsl:attribute name="width">325</xsl:attribute>
                 </img>
             </a>
         </div>
+        <xsl:element name="div">
+            <xsl:if test="@rend"><xsl:attribute name="class"><xsl:value-of select="@rend"></xsl:value-of></xsl:attribute></xsl:if>
         <xsl:apply-templates/>
         <br/>
+        </xsl:element>
         <hr/>
     </xsl:template>    
     

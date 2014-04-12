@@ -3479,7 +3479,7 @@
                   </p>
                   <lb/><signed><persName ref="#mamma">mother</persName></signed>
                </div>
-               <div xml:id="eel-19410101" type="radiogram" subtype="received" facs="journal-2-54" n="/c/cdaed0da-eaf8-4e74-accc-daa62ff14cb3">
+               <div rend="smalltext" xml:id="eel-19410101" type="radiogram" subtype="received" facs="journal-2-54" n="/c/cdaed0da-eaf8-4e74-accc-daa62ff14cb3">
                   <opener>
                      <lb/><dateline><date when="1941-01-01" type="received">JAN 1 1941</date></dateline>
                      <lb/>NR 12 <name ref="#WLMC">WLMC</name> <placeName ref="#Wellesley">WELLESLEY MASS</placeName> <date when="1940-12-29" type="sent">DEC 29</date>
@@ -3530,7 +3530,7 @@
                     <lb/><closer><persName ref="#Beatie">beatie</persName></closer>
                     <!-- There are some handwritten letters in pencil on the bottom of this radiogram. Possibly used to send it? -->
                 </div>
-               <div xml:id="eel-19410116" type="radiogram" subtype="received" facs="journal-2-59" n="/4/4741f814-0c98-42d0-89e7-013bfe2836fa">
+               <div rend="smalltext" xml:id="eel-19410116" type="radiogram" subtype="received" facs="journal-2-59" n="/4/4741f814-0c98-42d0-89e7-013bfe2836fa">
                   <opener> 
                   <lb/><dateline><date when="1941-01-16" type="received">JAN 16/41</date></dateline>
                      <lb/>
@@ -3726,7 +3726,7 @@
                   <lb/><signed><persName ref="#EEL">Earl</persName></signed>
                </div>
                
-               <div xml:id="eel-19410416" type="radiogram" subtype="received" facs="journal-2-69" n="/3/3a1cb2ab-66fc-495d-974f-54174222c435" >
+               <div rend="smalltext" xml:id="eel-19410416" type="radiogram" subtype="received" facs="journal-2-69" n="/3/3a1cb2ab-66fc-495d-974f-54174222c435" >
                   <opener>
                      <lb/><dateline><date when="1941-04-16" type="received" >16 APR 1941</date></dateline>
                      <lb/>5<name type="call-sign" ref="#WLMC">WLMC</name> <placeName>BOSTON MASS</placeName>
@@ -3741,7 +3741,7 @@
                    
                   <closer>BY <persName ref="#Beatie">BEATIE</persName></closer>
                 </div>   
-               <div xml:id="eel-19400419" type="radiogram" subtype="received" facs="journal-2-70" n="/2/2a6d7bed-4810-48f4-9f2a-75d31b7d506d">
+               <div rend="smalltext" xml:id="eel-19400419" type="radiogram" subtype="received" facs="journal-2-70" n="/2/2a6d7bed-4810-48f4-9f2a-75d31b7d506d">
                  <opener>
                     <lb/>7 NIJS FB Z NIJS 182030 WTDU GR 37
                     <lb/>
@@ -3757,7 +3757,7 @@
                     <dateline><date when="1940-04-19" type="received">0040/19 APR</date></dateline>
                  </closer>
                </div>
-               <div xml:id="eel-19410427" type="radiogram" subtype="received" facs="journal-2-71" n="/6/6ba69e71-75d0-4690-a21d-b8648a4159e4">
+               <div rend="smalltext" xml:id="eel-19410427" type="radiogram" subtype="received" facs="journal-2-71" n="/6/6ba69e71-75d0-4690-a21d-b8648a4159e4">
                   <opener>
                      <lb/><dateline><date when="1941-04-27" type="received" >27 r 1941</date></dateline>
                      <lb/>2<name type="call-sign" ref="#WLMC">WLMC</name> <placeName>NEW YORK NY</placeName> <date>APR 23</date>
