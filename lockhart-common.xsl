@@ -129,7 +129,7 @@
                      </ul>
                   </li>
                   
-                  <li><a href="default.cfm">About the Edition</a><ul>
+                  <li><a href="./lockhart-edintro.html#project-description">About the Edition</a><ul>
                      <li><a href="./lockhart-edintro.html#project-description">About the Edition</a></li>
                      <li><a href="./lockhart-markup.html">Markup Guidelines</a></li>
                      <li><a href="./lockhart-hands.html">Guide to Lockhart's Hand</a></li>
