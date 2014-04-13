@@ -2386,7 +2386,7 @@
             </p>
          </div>
          <div xml:id="eel-19401229a" type="entry">
-            <lb/><dateline><date when="19401229">12/29/40</date> <time>1:30am</time></dateline>
+            <lb/><dateline><date when="1940-12-29">12/29/40</date> <time>1:30am</time></dateline>
             <p>
                <lb/>Not long after <persName ref="#Pete">Pete</persName> brought his skua gull in <persName ref="#Wiener">Wiener</persName> went out
                <lb/>with his 22 rifle and brought back two more which <persName ref="#Pete">Pete</persName>
@@ -2416,7 +2416,7 @@
               </p>
            </div>
            <div xml:id="eel-19401229b" type="entry">
-              <lb/><dateline><date when="19401229">Sunday Dec <del rend="strikethrough">30</del><add place="above">29</add> 1940</date></dateline>
+              <lb/><dateline><date when="1940-12-29">Sunday Dec <del rend="strikethrough">30</del><add place="above">29</add> 1940</date></dateline>
               <p>
                  <lb/>I had a very difficult time getting up this morning. Although
                  <lb/>I wanted to get up at <time>10</time> it was close to <time>11</time> before I descended
@@ -2796,7 +2796,7 @@
                <div xml:id="eel-19410104" type="entry">    
                 <pb facs="journal 2-27" n="/f/f41e9278-255c-4170-950b-f3f63d03fe4f"/>
                <fw type="pagenumber" place="topright">23</fw>
-               <lb/><dateline><date>Saturday January 4th 1941</date></dateline>       
+               <lb/><dateline><date when="1941-01-04">Saturday January 4th 1941</date></dateline>       
            <p> 
                 <lb/>Until the ships arrive, the days will be quite the same
                 <lb/>only occasional variation will relieve the monotony which is 
@@ -3374,6 +3374,7 @@
             <pb facs="journal-2-44.jpg" n="/7/7f363505-4a1f-4261-8438-98b840c4f9bb"/>
             <pb facs="journal-2-45.jpg" n="/d/d0f7a89a-bed8-48ff-b739-9a12056532e1"/>
            <div xml:id="eel-undated-1" type="entry">
+              <dateline><date when-custom="unknown"></date></dateline>
               <p>
                  <lb/><hi rend="underlined">Outgoing mail.</hi>
                  <lb/><rs>Folks</rs><gap reason="deletion" unit="chars" extent="1"></gap> <persName ref="#Beatie">Beatie</persName>, <persName>Carl</persName>, 
@@ -3413,7 +3414,7 @@
                <div xml:id="eel-19401231" type="radiogram" subtype="recieved" facs="journal-2-48">
                   <opener>
                      <lb/><dateline><date when="1940-12-28" type="recieved">8 dec 1940</date></dateline>
-                     <lb/>wlcm <ref type="Wilmington">wilmington</ref> del not date
+                     <lb/>wlcm <ref type="Wilmington">wilmington</ref> del not <date type="sent" when-custom="unknown">date</date>
                      <lb/><persName>LOCKHARD</persName>
                   </opener>
                   <p>
@@ -3491,7 +3492,7 @@
                </div>
                <div xml:id="eel-19400102a" type="radiogram" facs="journal-2-55" n="/D/d008d323-2484-4321-bf8a-a17ef90e075a">
                   <opener>
-                     <lb/>3 <name type="call-sign" ref="#WLMC">wlmc</name> <placeName ref="#Wellesley">wellesley mass</placeName> <date when="1941-12-28" type="received">dec 28</date><dateline><date when="1941-01-02" type="transmitted">Jan 2 1941</date></dateline>
+                     <lb/>3 <name type="call-sign" ref="#WLMC">wlmc</name> <placeName ref="#Wellesley">wellesley mass</placeName> <date when="1941-12-28" type="received">dec 28</date><dateline><date when="1941-01-02" type="sent">Jan 2 1941</date></dateline>
                      <lb/><salute><persName>LOCKHART</persName></salute>
                   </opener>
                   <p>
@@ -3502,7 +3503,7 @@
                </div>
                <div xml:id="eel-19410103a" type="radiogram" facs="journal-2-56" n="/C/cb5e3b56-14a4-46e0-9f63-dbecb3c47d5e">
                   <opener>
-                    <lb/><date when="1941-01-03" type="received">Jan 3 1940</date>
+                    <lb/><date when="1941-01-03" type="sent">Jan 3 1940</date>
                     <lb/><persName ref="#Guernsey">Mr Guernsey and Family</persName>
                      <lb/><placeName ref="#UplandRoad">7 Upland Rd
                      <lb/>Wellsley Mass</placeName>
@@ -3517,7 +3518,7 @@
                </div>
                 <div xml:id="eel-19401210a" type="radiogram" subtype="received" facs="journal-2-58" n="/c/c54c11a9-659f-4566-b4f8-b81635104f9f">
                  <opener>
-                    <lb/>2 <name type="call-sign" ref="#WLMC">wlmc</name> <placeName ref="#Boston">boston mass</placeName> <date when="1940-12-05" type="received">dec 5</date> <dateline><date when="1940-12-10" type="transmitted">10 dec 1940</date></dateline>
+                    <lb/>2 <name type="call-sign" ref="#WLMC">wlmc</name> <placeName ref="#Boston">boston mass</placeName> <date when="1940-12-05" type="received">dec 5</date> <dateline><date when="1940-12-10" type="sent">10 dec 1940</date></dateline>
                     <lb/><salute><persName ref="#EEL">earl <choice><sic>lockhard</sic><corr>lockhart</corr></choice></persName></salute>
                  </opener>
                  <p>
@@ -3532,7 +3533,7 @@
                 </div>
                <div rend="smalltext" xml:id="eel-19410116" type="radiogram" subtype="received" facs="journal-2-59" n="/4/4741f814-0c98-42d0-89e7-013bfe2836fa">
                   <opener> 
-                  <lb/><dateline><date when="1941-01-16" type="received">JAN 16/41</date></dateline>
+                  <lb/><dateline><date when="1941-01-16" type="sent">JAN 16/41</date></dateline>
                      <lb/>
                      <lb/>
                   <lb/><placeName>CLEVELAND OHIO</placeName> <name type="call-sign" ref="#WLMC">WLMC 1139</name>
@@ -3570,8 +3571,8 @@
                
                <div xml:id="eel-19401128" type="radiogram" subtype="received" facs="journal-2-61" n="/3/32bdfaa4-9bad-41c9-9066-c3a102046801">
                  <opener>
-                  <lb/><name type="call-sign" ref="#WLMC">2 WLMC</name> <date>28 nov 1940</date>
-                  <lb/>FROM <placeName type="city">CLEVELAND</placeName> 0 <abbr>NOV</abbr> NO DATE 
+                  <lb/><name type="call-sign" ref="#WLMC">2 WLMC</name> <date when="1940-11-28">28 nov 1940</date>
+                  <lb/>FROM <placeName type="city">CLEVELAND</placeName> 0 <abbr>NOV</abbr> <date when-custom="unknown" type="sent">NO DATE</date> 
                   <lb/><persName type="misspelling">LOCKHARD</persName> <!--This is probably a typo but lets not rule out that lockhard could be a nickname-->
                   </opener> 
                   <p>
@@ -3592,7 +3593,7 @@
                  
                <div xml:id="eel-19401222a" type="radiogram" subtype="received" facs="journal-2-62" n="/4/4c005625-1a86-48c5-904b-89cd52cea965">
                 <opener>
-                   <lb/><name type="call-sign" ref="#WLMC">25 wlmc</name> <placeName type="city">cleveland</placeName> <date type="sent">dec 19</date> <date type="received">22 Dec 1940</date>
+                   <lb/><name type="call-sign" ref="#WLMC">25 wlmc</name> <placeName type="city">cleveland</placeName> <date type="sent" when="1940-12-19">dec 19</date> <date type="received">22 Dec 1940</date>
                   <lb/><persName>LOCKHART</persName>
                 </opener> 
                   <p><lb/>
@@ -3664,11 +3665,11 @@
                
                <div xml:id="eel-19401219" type="radiogram" subtype="received" facs="journal-2-66" n="/0/087da746-b373-4b8a-8f14-80ba6177e366">
                   <opener>
-                     <lb/><dateline><date when="1940-12-19" type="received">19-DEC-1940</date></dateline>
+                     <lb/><dateline><date when="1940-12-19" type="sent">19-DEC-1940</date></dateline>
                      <lb/><persName>LOCKHART</persName>
                   </opener>
                   <p>
-                     <lb/><persName>George W. Trefts</persName> will speak to you over WGEO next Friday 2oth.</p>
+                     <lb/><persName>George W. Trefts</persName> will speak to you over WGEO next Friday 20th.</p>
                   <closer>
                      <lb/><persName>BY</persName>
                   </closer>
@@ -3696,7 +3697,7 @@
                <div xml:id="eel-19410109" type="radiogram" subtype="recived" facs="journal-2-67" n="/3/3718a2d2-860d-48f8-a7ab-5ed54a1437bc">
                   <opener>
                      <lb/><dateline><date when="1940-01-09" type="recived">9 jan 1941</date></dateline>
-                     <lb/>7 <name type="call-sign" ref="#WLMC">wlmc</name> <placeName ref="#Boston">boston mass</placeName> <date when="1941-01-06">jan 6</date>
+                     <lb/>7 <name type="call-sign" ref="#WLMC">wlmc</name> <placeName ref="#Boston">boston mass</placeName> <date type="sent" when="1941-01-06">jan 6</date>
                      <lb/><salute><persName ref="#EEL">EARL LOCKHART</persName></salute>
                   </opener>
                   <p>
@@ -3728,7 +3729,7 @@
                
                <div rend="smalltext" xml:id="eel-19410416" type="radiogram" subtype="received" facs="journal-2-69" n="/3/3a1cb2ab-66fc-495d-974f-54174222c435" >
                   <opener>
-                     <lb/><dateline><date when="1941-04-16" type="received" >16 APR 1941</date></dateline>
+                     <lb/><dateline><date when="1941-04-16" type="sent" >16 APR 1941</date></dateline>
                      <lb/>5<name type="call-sign" ref="#WLMC">WLMC</name> <placeName>BOSTON MASS</placeName>
                      <lb/><salute><persName><sic>LOCKHARD</sic></persName></salute> 
                   </opener>
@@ -3743,7 +3744,7 @@
                 </div>   
                <div rend="smalltext" xml:id="eel-19400419" type="radiogram" subtype="received" facs="journal-2-70" n="/2/2a6d7bed-4810-48f4-9f2a-75d31b7d506d">
                  <opener>
-                    <lb/>7 NIJS FB Z NIJS 182030 WTDU GR 37
+                    <lb/>7 NIJS FB Z NIJS <date type="sent" when="1940-04-18">182030</date> WTDU GR 37
                     <lb/>
                  </opener> 
                  <p>
@@ -3760,7 +3761,7 @@
                <div rend="smalltext" xml:id="eel-19410427" type="radiogram" subtype="received" facs="journal-2-71" n="/6/6ba69e71-75d0-4690-a21d-b8648a4159e4">
                   <opener>
                      <lb/><dateline><date when="1941-04-27" type="received" >27 r 1941</date></dateline>
-                     <lb/>2<name type="call-sign" ref="#WLMC">WLMC</name> <placeName>NEW YORK NY</placeName> <date>APR 23</date>
+                     <lb/>2<name type="call-sign" ref="#WLMC">WLMC</name> <placeName>NEW YORK NY</placeName> <date when="1941-04-23" type="sent">APR 23</date>
                   </opener>
                   <p>
                      <lb/><persName>DR ERNEST LOCKHART</persName>

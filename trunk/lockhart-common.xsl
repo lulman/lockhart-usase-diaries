@@ -98,6 +98,30 @@
             </div>
             
             <div id="navBar">
+               <form name="selectPage">
+               <select name="jumpPages" OnChange="location.href=selectPage.jumpPages.options[selectedIndex].value">
+                  <xsl:element name="option"><xsl:attribute name="selected"></xsl:attribute>Jump to a specific journal entry</xsl:element>
+                  <xsl:for-each select="//tei:div[@type='entry']">
+                     <xsl:sort select="descendant::tei:date/@when | descendant::tei:date/@when-custom"/>
+                     <xsl:element name="option">
+                        <xsl:attribute name="value">#<xsl:value-of select="@xml:id"/></xsl:attribute>
+                        <xsl:value-of select="descendant::tei:date/@when | descendant::tei:date/@when-custom"/> - <xsl:value-of select="@type"/>
+                     </xsl:element>
+                  </xsl:for-each>
+               </select>
+               </form>
+               <form name="selectRadiogram">
+                  <select name="jumpRadiogram" OnChange="location.href=selectRadiogram.jumpRadiogram.options[selectedIndex].value">
+                     <xsl:element name="option"><xsl:attribute name="selected"/><xsl:attribute name="value"></xsl:attribute>Jump to a specific radiogram</xsl:element>
+                     <xsl:for-each select="//tei:div[@type='radiogram']">
+                        <xsl:sort select="descendant::tei:date[@type='sent']/@when | descendant::tei:date[@type='sent']/@when-custom"/>
+                        <xsl:element name="option">
+                           <xsl:attribute name="value">#<xsl:value-of select="@xml:id"/></xsl:attribute>
+                           <xsl:value-of select="descendant::tei:date[@type='sent']/@when | descendant::tei:date[@type='sent']/@when-custom"/> - <xsl:value-of select="@type"/>
+                        </xsl:element>
+                     </xsl:for-each>
+                  </select>
+               </form>
                <ul id="menu">
                   <li><a href="./lockhart-edintro.html#introduction">Editorial Introduction</a>
                      <ul>
@@ -235,14 +259,29 @@
    <!-- MAJOR DOCUMENT STRUCTURES: These elements include the front, body, and back
       elements of you XML documents in the result tree of your output.-->
 
-   <xsl:template match="tei:div[@type='Entry']">
-         <div class="Entry">
-            <xsl:element name="a"><xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute></xsl:element>
+   <xsl:template match="tei:div[@type='entry']">
+         <hr/>
+         <div class="entry">
+            <xsl:element name="a">
+               <xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute>
+               <xsl:attribute name="class">jump_link</xsl:attribute>
+            </xsl:element>
             <xsl:apply-templates/>
          </div>
    </xsl:template>
    
-   <xsl:template match="tei:div[@type='Entry']/tei:dateline">
+   <xsl:template match="tei:div[@type='radiogram']">
+      <hr/>
+      <div class="radiogram">
+         <xsl:element name="a">
+            <xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute>
+            <xsl:attribute name="class">jump_link</xsl:attribute>
+         </xsl:element>
+         <xsl:apply-templates/>
+      </div>
+   </xsl:template>
+   
+   <xsl:template match="tei:div[@type='entry']/tei:dateline">
       <strong>
          <xsl:apply-templates/>
       </strong>
