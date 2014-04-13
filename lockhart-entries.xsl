@@ -73,11 +73,11 @@
     <xsl:template match="tei:pb"/>
     <xsl:template match="tei:lb"/>
     
-    <xsl:template match="tei:div[@type='radiogram' or 'entry']">
+   <!-- <xsl:template match="tei:div[@type='radiogram' or 'entry']">
         <xsl:apply-templates/>
         <br/> 
         <hr/>
-    </xsl:template>
+    </xsl:template>-->
     
     <xsl:template match="tei:fileDesc/tei:titleStmt/tei:title/tei:lb">
         <br/><xsl:apply-templates/>
@@ -85,7 +85,7 @@
     
     <xsl:template match="tei:fw"/>
     
-    <xsl:template match="tei:div[@type='Entry']/tei:head/tei:lb">
+    <xsl:template match="tei:div[@type='entry']/tei:head/tei:lb">
         <br/><xsl:apply-templates/>
     </xsl:template>
     
