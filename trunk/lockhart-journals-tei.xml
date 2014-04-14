@@ -2483,7 +2483,10 @@
                <lb/>taking.
             </p>
             <p>
-               <lb/>There is going to be a mail bag sponsored by the <name ref="#BostonTraveler">Boston
+               <lb/>There is going to be a mail bag<ptr type="noteAnchor" target="mailbag"/><note resp="ed" xml:id="mailbag">Radio Mail bags
+               were radio messages sent out everyother Friday between the U.S. and the Expedition. They were arranged by the Department of the Interior
+               to be sent back and forth using the General Electric Company in Schenectady, NY. The messages were sent at a frequency of 9,530 kilocycles
+               with the power level of 100 kilowatts.<bibl><ref target="#Wagner">U.S.Antarctic Expedition Mail Bag</ref></bibl></note> sponsored by the <name ref="#BostonTraveler">Boston
                <lb/>Traveler</name> in <date>Jan 31</date>. We may not be able to get it
                <lb/>here because the ships will be on their way or almost
                <lb/>ready to go. It won't be <choice><sic>worth while</sic><corr>worthwhile</corr></choice> to tell the folks
