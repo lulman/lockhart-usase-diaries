@@ -69,6 +69,27 @@
     <xsl:include href="lockhart-Common.xsl"/>
     
     <!-- Define additional templates required for the reading view. -->
+    <xsl:template match="tei:div[@type='entry']">
+        <hr/>
+        <div class="entry">
+            <xsl:element name="a">
+                <xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute>
+                <xsl:attribute name="class">jump_link</xsl:attribute>
+            </xsl:element>
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
+    
+    <xsl:template match="tei:div[@type='radiogram']">
+        <hr/>
+        <div class="radiogram">
+            <xsl:element name="a">
+                <xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute>
+                <xsl:attribute name="class">jump_link</xsl:attribute>
+            </xsl:element>
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
     
     <xsl:template match="tei:pb"/>
     <xsl:template match="tei:lb"/>

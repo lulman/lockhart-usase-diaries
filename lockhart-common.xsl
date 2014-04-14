@@ -100,7 +100,7 @@
             <div id="navBar">
                <form name="selectPage">
                   <select name="jumpPages" OnChange="location.href=selectPage.jumpPages.options[selectedIndex].value">
-                     <xsl:element name="option"><xsl:attribute name="selected"></xsl:attribute>Jump to a specific journal entry</xsl:element>
+                     <xsl:element name="option"><xsl:attribute name="selected"></xsl:attribute>Jump to a specific journal entry or radiogram</xsl:element>
                      <xsl:for-each select="//group/descendant::tei:div">
                         <xsl:sort select="@type"/>
                         <xsl:sort select="descendant::tei:date[@type='sent']/@when"></xsl:sort>
@@ -114,7 +114,7 @@
                      </xsl:for-each>
                   </select>
                </form>
-               <!--  
+               <!--  INITIAL ATTEMPTS AND DROP-DOWN NAV TO DATES
                <form name="selectPage">
                <select name="jumpPages" OnChange="location.href=selectPage.jumpPages.options[selectedIndex].value">
                   <xsl:element name="option"><xsl:attribute name="selected"></xsl:attribute>Jump to a specific journal entry</xsl:element>
@@ -126,7 +126,7 @@
                      </xsl:element>
                   </xsl:for-each>
                </select>
-               </form>-->
+               </form>
                <form name="selectRadiogram">
                   <select name="jumpRadiogram" OnChange="location.href=selectRadiogram.jumpRadiogram.options[selectedIndex].value">
                      <xsl:element name="option"><xsl:attribute name="selected"/><xsl:attribute name="value"></xsl:attribute>Jump to a specific radiogram</xsl:element>
@@ -139,6 +139,7 @@
                      </xsl:for-each>
                   </select>
                </form>
+               -->
                <ul id="menu">
                   <li><a href="./lockhart-edintro.html#introduction">Editorial Introduction</a>
                      <ul>
@@ -275,28 +276,9 @@
 
    <!-- MAJOR DOCUMENT STRUCTURES: These elements include the front, body, and back
       elements of you XML documents in the result tree of your output.-->
-
-   <xsl:template match="tei:div[@type='entry']">
-         <hr/>
-         <div class="entry">
-            <xsl:element name="a">
-               <xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute>
-               <xsl:attribute name="class">jump_link</xsl:attribute>
-            </xsl:element>
-            <xsl:apply-templates/>
-         </div>
-   </xsl:template>
    
-   <xsl:template match="tei:div[@type='radiogram']">
-      <hr/>
-      <div class="radiogram">
-         <xsl:element name="a">
-            <xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute>
-            <xsl:attribute name="class">jump_link</xsl:attribute>
-         </xsl:element>
-         <xsl:apply-templates/>
-      </div>
-   </xsl:template>
+   <!-- The template for journal entries and radiograms appears in stylesheets that call this stylesheet. -->   
+
    
    <xsl:template match="tei:div[@type='entry']/tei:dateline">
       <strong>
@@ -304,7 +286,6 @@
       </strong>
    </xsl:template>
    
-   <!-- The template for radiograms appears in stylesheets that call this stylesheet. -->   
 
    <!-- PAGE, COLUMN, AND LINE BREAKS; Page Layout: These template rules determine how page breaks and
       line breaks will be encoded, or whether they will be included, in your Web page. -->

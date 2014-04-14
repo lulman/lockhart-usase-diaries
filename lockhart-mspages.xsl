@@ -72,9 +72,35 @@
     <xsl:include href="lockhart-Common.xsl"/>
     
     <!-- Define templates required for the diplomatic view. -->
+
+    <xsl:template match="tei:div[@type='entry']">
+        <div class="entry">
+            <xsl:element name="a">
+                <xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute>
+                <xsl:attribute name="class">jump_link</xsl:attribute>
+            </xsl:element>
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
     
+    <xsl:template match="tei:div[@type='radiogram']">
+        <hr/>
+        <span class="pagebreak"> [Radiogram&#xA0;-&#xA0;&#xA0; (<a><xsl:attribute
+            name="href">http://people.cohums.ohio-state.edu/ulman1/lockhart-journals/lockhart-zoom.cfm?file=<xsl:value-of
+                select="@n"/>.jpg</xsl:attribute><xsl:attribute name="target">top</xsl:attribute>click to open page image in a new window</a>)]<br/>
+        </span>
+        <div class="radiogram">
+            <xsl:element name="a">
+                <xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute>
+                <xsl:attribute name="class">jump_link</xsl:attribute>
+            </xsl:element>
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
+    
+
     <xsl:template match="tei:pb">
-        <br/><br/><hr/>
+        <br/><hr/>
         <span class="pagebreak">[Page&#xA0;-&#xA0;<xsl:number count="tei:pb" format="1" level="any"/>
             &#xA0;(<a><xsl:attribute
                 name="href">http://people.cohums.ohio-state.edu/ulman1/lockhart-journals/lockhart-zoom.cfm?file=<xsl:value-of
@@ -83,7 +109,7 @@
         <br/>
     </xsl:template> 
     
-    <xsl:template match="tei:div[@type='radiogram']">
+<!--    <xsl:template match="tei:div[@type='radiogram']">
         <br/>
         <span class="pagebreak"> [Radiogram&#xA0;-&#xA0;&#xA0; (<a><xsl:attribute
             name="href">http://people.cohums.ohio-state.edu/ulman1/lockhart-journals/lockhart-zoom.cfm?file=<xsl:value-of
@@ -92,7 +118,7 @@
         <xsl:apply-templates/>
         <br/>
         <hr/>
-    </xsl:template>    
+    </xsl:template>    -->
     
     
     <xsl:template match="tei:lb"><br/><a><xsl:attribute name="name"><xsl:number count="tei:lb" format="0001" level="any" from="//tei:group"/></xsl:attribute>
