@@ -99,6 +99,23 @@
             
             <div id="navBar">
                <form name="selectPage">
+                  <select name="jumpPages" OnChange="location.href=selectPage.jumpPages.options[selectedIndex].value">
+                     <xsl:element name="option"><xsl:attribute name="selected"></xsl:attribute>Jump to a specific journal entry</xsl:element>
+                     <xsl:for-each select="//group/descendant::tei:div">
+                        <xsl:sort select="@type"/>
+                        <xsl:sort select="descendant::tei:date[@type='sent']/@when"></xsl:sort>
+                        <xsl:element name="option">
+                           <xsl:attribute name="value">#<xsl:value-of select="@xml:id"/></xsl:attribute>
+                           <xsl:choose>
+                              <xsl:when test="descendant::tei:date[@type='sent']"><xsl:value-of select="descendant::tei:date[@type='sent']/@when | descendant::tei:date[@type='sent']/@when-custom"/> - <xsl:value-of select="@type"/></xsl:when>
+                              <xsl:otherwise><xsl:value-of select="descendant::tei:date/@when | descendant::tei:date/@when-custom"/> - <xsl:value-of select="@type"/></xsl:otherwise>
+                           </xsl:choose>
+                        </xsl:element>
+                     </xsl:for-each>
+                  </select>
+               </form>
+               <!--  
+               <form name="selectPage">
                <select name="jumpPages" OnChange="location.href=selectPage.jumpPages.options[selectedIndex].value">
                   <xsl:element name="option"><xsl:attribute name="selected"></xsl:attribute>Jump to a specific journal entry</xsl:element>
                   <xsl:for-each select="//tei:div[@type='entry']">
@@ -109,7 +126,7 @@
                      </xsl:element>
                   </xsl:for-each>
                </select>
-               </form>
+               </form>-->
                <form name="selectRadiogram">
                   <select name="jumpRadiogram" OnChange="location.href=selectRadiogram.jumpRadiogram.options[selectedIndex].value">
                      <xsl:element name="option"><xsl:attribute name="selected"/><xsl:attribute name="value"></xsl:attribute>Jump to a specific radiogram</xsl:element>

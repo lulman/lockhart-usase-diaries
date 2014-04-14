@@ -56,7 +56,7 @@
         top:180px;
         width:610px;
         margin-left:350px;
-        padding:5px;
+        padding:15px;
         background-color: rgba(209,209,209, 0.5);
         -webkit-border-radius: 10px;
         -moz-border-radius: 10 px;
