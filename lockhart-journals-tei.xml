@@ -611,10 +611,19 @@
                   carried 2500 gallons of diesel oil which would last 5000 miles as well as 1000 gallons of gas for flying. 
                   Its maximum speed was 30 miles per hour, and it was created to function at very low temperatures
                   and travel in deep, soft snow. It could also be living space for the crew. The Snow Cruiser was a very popular and huge 
-                  deal at the time; several newspaper articles documented its progress across the United States. From the 
-                  beginning of the trip, though, it caused more problems than anything. It crashed when it was first unloaded, and then it 
-                  would not travel very fast or very far because it sank into the snow and traveled backwards. It was ultimately 
-                  considered a failure and abandoned when the crew left Antarctica. 
+                  deal at the time; several newspaper articles documented its progress across the United States; for example, the November 
+                  2, 1939 Cleveland Plain Dealer's front-page article entitled "Snow Cruiser is Like a Fantastic Dream;
+                  No Wonder Animals Run" documents: "That such a Gargantuan vehicle as Admirald Richard E. Byrd's 
+                  snow cruiser could go rolling along the countryside seems impossible. It is so tremendous...And as it 
+                  rolled along the roads of Ohio, tens of thousands of men and women and children stared at it and 
+                  smiled and shouted and shouted and waved their hats...the cruiser...is on its way from Chicago to Boston to join
+                  Admiral Byrd's Antarctic expedition..." (p. 1). Despite its promise, though, the snow cruiser caused problems 
+                  from the moment it was unloaded in Antarctica as documented in the March 13, 1940 issue of the Cleveland Plain Dealer: "The huge
+                  vehicle demolished a ramp and was almost wrecked..." (p. 29). After this unceremonious unloading, "The snow cruiser
+                  in which Admirald Richard E. Byrd hoped to roll across the Antarctic proved to be not so good on 
+                  frigid terrain, Engineer Charles Meyer disclosed today" proclaimed the June 23, 1940 Chicago Daily Tribune (p. 12). The
+                  article continues: "Meyer said the 75,000 pound monster disappointed the explorers. Principal 
+                  trouble, he said, was insufficient power..." The crew abandoned the cruiser when they left Antarctica. 
                </desc>
                </item>
                <item xml:id="tank">
@@ -853,7 +862,7 @@
                   that was transported back to West Base by Pete the day of the Condor incident on January 3, 1941. Mac achieved the rank of Commander. He discovered and named a mountain after his wife, Alma McCoy; 
                   the mountain's name was later changed to Mount McCoy.</note></person>
                <person xml:id="Giles" source="#Bertrand #Passel #personnel eel-19410103"><persName>Giles, Walter R. <addName>Giles, W. R. </addName><addName type="nickname">Giles</addName></persName> 
-                  <birth when="1912-01-03"><placeName>Newtown County, GA</placeName></birth>
+                  <birth when="1912-01-03"><placeName>Newton County, GA</placeName></birth>
                   <death when="1996-04-11"><placeName>Rockdale, GA</placeName> </death>
                   <occupation>Assistant Pilot and Radio Operator</occupation>
                   <note type="biographical">Giles, whose name is often listed as W.R. Giles, was an assistant pilot and radio operator for West Base. 
@@ -1309,7 +1318,10 @@
                   <country>Chile</country>
                   <desc>Supplies, including the Condor plane, were loaded at Valparaiso, and mail was available for the crew from people
                      who had not been able to send mail on the Star before it departed. 
-                     Lockhart's ship passed through Valpo, Panama, and Seattle on his way home.</desc>
+                     Lockhart's ship passed through Valpo, Panama, and Seattle on his way home. An article in 
+                  the March 24, 1940 The Sunday Oregonian chronicles the ships' return from Antarctica as Byrd
+                  traveled back after establishing the bases: "The Bear and North Star are headed for Punta Arenas, Chile.
+                  From there they are scheduled to go to Valparaiso, arriving about April 1.."</desc>
                   <location><geo>-33.0478 -71.6011</geo></location></place>
                
                <place type="city" xml:id="Dunedin" source="#Bertrand #TGN #eel-19410115a #eel-19410116a"><placeName>Dunedin</placeName>
