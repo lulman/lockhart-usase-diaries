@@ -1105,7 +1105,7 @@
                   <persName>Dot</persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
-                  <note>Sent correspondence to Lockhart</note>
+                  <note type="biographical">Sent correspondence to Lockhart</note>
                </person>
                <person xml:id="Bailey">
                   <persName>Bailey, Clay w.</persName>
@@ -1651,6 +1651,10 @@
                <bibl xml:id="personnel" n="personnel"><title level="u">Personnel, 1939-1940</title>. 1939-40. TS. Papers
                of Admiral Richard E. Byrd. Series II: Expeditionary Records. Sub-Series 6: United States Antarctic Services. 
                Box 203, Folder 7234, Location: 054-774.20-4. The Byrd Polar Research Center Archival Program, The Ohio State
+               University Libraries, Columbus, OH.</bibl>
+               
+               <bibl xml:id="Wagner" n="Wagner">Wagner, C.D.<title level="u">U.S. Antarctic Expedition Mail Bag</title> 1939-51. TS. Ernest Earl Lockhart
+               Collection. Box 1, Folder 58, Location: 054-846-7. Byrd Polar Research Center Archive Program, The Ohio State
                University Libraries, Columbus, OH.</bibl>
                
                <bibl xml:id="Blondie" n="Blondie"><title level="m">Blondie</title>. Dir. Frank R. Strayer. Perf.
