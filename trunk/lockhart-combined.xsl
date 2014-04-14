@@ -94,7 +94,7 @@
         top:180px;
         width:860px;
         margin-left:300px;
-        padding:5px;
+        padding:10px;
         background-color: rgba(209,209,209, 0.5);
         -webkit-border-radius: 10px;
         -moz-border-radius: 10 px;
@@ -119,27 +119,17 @@
     <!-- Include common style sheet for Ernest E. Lockhart journal. -->
     
     <xsl:include href="lockhart-Common.xsl"/>
-
     
     <!-- Define templates required for the combined image/text view. -->
     
-    <xsl:template match="tei:pb">
-        <br/>
-        <div class="pagebreak"> [Page&#xA0;-&#xA0;<xsl:number count="tei:pb" format="1"
-            level="any"/>&#xA0; (<a><xsl:attribute
-                name="href">http://people.cohums.ohio-state.edu/ulman1/lockhart-journals/lockhart-zoom.cfm?file=<xsl:value-of
-                    select="@n"/>.jpg</xsl:attribute><xsl:attribute name="target">top</xsl:attribute>click to open page image in a new window</a>)]<br/>
-            <a>
-                <xsl:attribute
-                    name="href">http://people.cohums.ohio-state.edu/ulman1/LCSmithDiaries/LCSmithZoom.cfm?file=<xsl:value-of
-                        select="@facs"/>.jpg</xsl:attribute>
-                <xsl:attribute name="target">top</xsl:attribute>
-                <img class="pageview">
-                    <xsl:attribute name="src">https://images.asc.ohio-state.edu/is/image/englishdocs<xsl:value-of
-                            select="@n"/>.jpg?scale=0.3&amp;fmt=png</xsl:attribute>
-                    <xsl:attribute name="width">325</xsl:attribute>
-                </img>
-            </a>
+    
+    <xsl:template match="tei:div[@type='entry']">
+        <div class="entry">
+            <xsl:element name="a">
+                <xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute>
+                <xsl:attribute name="class">jump_link</xsl:attribute>
+            </xsl:element>
+            <xsl:apply-templates/>
         </div>
     </xsl:template>
     
@@ -162,11 +152,36 @@
         </div>
         <xsl:element name="div">
             <xsl:if test="@rend"><xsl:attribute name="class"><xsl:value-of select="@rend"></xsl:value-of></xsl:attribute></xsl:if>
-        <xsl:apply-templates/>
+            <xsl:element name="a">
+                <xsl:attribute name="name"><xsl:value-of select="@xml:id"/></xsl:attribute>
+                <xsl:attribute name="class">jump_link</xsl:attribute>
+            </xsl:element>
+            <xsl:apply-templates/>
         <br/>
         </xsl:element>
         <hr/>
-    </xsl:template>    
+    </xsl:template>
+
+    <xsl:template match="tei:pb">
+        <br/><hr/>
+        <div class="pagebreak"> [Page&#xA0;-&#xA0;<xsl:number count="tei:pb" format="1"
+            level="any"/>&#xA0; (<a><xsl:attribute
+                name="href">http://people.cohums.ohio-state.edu/ulman1/lockhart-journals/lockhart-zoom.cfm?file=<xsl:value-of
+                    select="@n"/>.jpg</xsl:attribute><xsl:attribute name="target">top</xsl:attribute>click to open page image in a new window</a>)]<br/>
+            <a>
+                <xsl:attribute
+                    name="href">http://people.cohums.ohio-state.edu/ulman1/LCSmithDiaries/LCSmithZoom.cfm?file=<xsl:value-of
+                        select="@facs"/>.jpg</xsl:attribute>
+                <xsl:attribute name="target">top</xsl:attribute>
+                <img class="pageview">
+                    <xsl:attribute name="src">https://images.asc.ohio-state.edu/is/image/englishdocs<xsl:value-of
+                        select="@n"/>.jpg?scale=0.3&amp;fmt=png</xsl:attribute>
+                    <xsl:attribute name="width">325</xsl:attribute>
+                </img>
+            </a>
+        </div>
+    </xsl:template>
+    
     
     <xsl:template match="tei:lb">
         <br/>
