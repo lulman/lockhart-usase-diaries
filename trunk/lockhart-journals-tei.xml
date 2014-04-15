@@ -547,15 +547,12 @@
                      </p>
                      <p>
                         Lockhart also mentions giving <persName ref="#Fitz">Fitz</persName> a metabolism test in his journal dated January 10, 1941. Metabolism tests can be done both indoors and outdoors.
-                        With the extreme cold of the arctic, Lockharts metabolism tests were run indoors. Ususally, metabolism tests consisted much of monitoring heartrate, endurance, how many calories 
-                        one burns while at rest during a set amount of time. The tests usually consist of one first sitting still for a time of ten to fifteen minutes and breathing through a mask which 
+                        With the extreme cold of the arctic, Lockharts metabolism tests were run indoors. Ususally, metabolism tests consisted of obtaining blood samples, monitoring heartrate, endurance, how many calories 
+                        one burns while at rest during a set amount of time. <bibl><ref target="#NewYorkTimes"><title level="a">Comprehensive Metabolic Panel</title></ref></bibl> The tests usually consist of one first sitting still for a time of ten to fifteen minutes and breathing through a mask which 
                         is attached to a metabolic analyzer. The test can then go on to measure heartrate and endurance while one is running in place or on a treadmill or excercise machine of some sort.
-                        During the expedition, much of the testing and exploration was photographed. In such a cold area with mostly scientists and military officials, ther was no official 
-                        photographer for the expedition. Instead, photomapping was used. This scientific ability was origninally pioneered by Richard E. Byrd for an expedition held in the 1930s. 
-                        Photomapping was so successful, it was again used for the Ernest Lockhard expedition. The photomapping did not simply take photographs from an aircraft, but it plotted exact
-                        points and charted positions, taking photographs accordingly. In his journals, Lockhart mentions that the morining was the best time to take photographs. This was 
-                        especially true with respect to the technique of photomapping because pictures with better resolution and gradient were taken in the daylight rather than at night because 
-                        there was no such thing as a flash to add a source of light to the photos. The testing equimpment as well as capturing of moments including testing and finds, were essential to the 
+                        During the expedition, much of the testing and exploration was photographed. During the expedition, photomapping was used. This scientific ability was origninally pioneered by Richard E. Byrd for an expedition held in the 1930s. 
+                        <bibl><ref target="#BritByrd"><title level="a">Richard E. Byrd</title></ref></bibl>Photomapping was so successful, it was again used for the Ernest Lockhard expedition. The photomapping did not simply take photographs from an aircraft, but it plotted exact
+                        points and charted positions, taking photographs accordingly. In his journals, Lockhart mentions that the morining was the best time to take photographs.  The testing equimpment as well as capturing of moments including testing and finds, were essential to the 
                         expedition as a whole. 
                      </p>
                      <p rend="h3" xml:id="communications">Communications</p>
@@ -1616,7 +1613,7 @@
                <bibl xml:id="WikiBursey" n="JackBursey"><title level="a">Jack Bursey</title><title level="s">Wikipedia, the free encyclopedia</title> 
                   http://en.wikipedia.org/wiki/Jack_Bursey 19 Nov 2012 Web. 27 Feb 2014.</bibl>
                <bibl xml:id= "WikiIke" n="IkeSchlossbach"><title level= "a"> Issac Schlossbach</title><title level="s">Wikipedia, the free encyclopedia</title>
-                  http://en.wikipedia.org/wiki/Isaac_Schlossbach 3 Nov 2013 Web. 25 Feb 2014.
+                  N.p. 3 Nov 2013 Web. 25 Feb 2014. http://en.wikipedia.org/wiki/Isaac_Schlossbach
                </bibl>
                
                <bibl xml:id="Allen" n="Allen">Allen, Glover M.<title level="m">Extinct And Vanishing Mammals of the Western Hemisphere</title>
@@ -1630,6 +1627,9 @@
                   of the American National Geographical Society Vol. 44 No. 11</title> 1912. Web.</bibl>
                <bibl xml:id="Passel" n="Passel">Passel, Charles F. <title level="m">Ice: The Antarctic Diary of Charles F. Passel</title>. Ed.
                   T. H. Baughman. Lubbock, TX: Texas Tech UP, 1995. Print.
+               </bibl>
+               <bibl xml:id="BritByrd">Encyclopedia Britanica <title level="a">Richard E. Byrd</title> N.p. 09 January 2014. Web. 01 Apr 2014.
+                  http://www.britannica.com/EBchecked/topic/87026/Richard-E-Byrd/998/Antarctic-expeditions. 
                </bibl>
                
                <bibl xml:id="Stefansson" n="Stefansson">Stefansson, Vilhjalmur. <title level="m">Hunters of the Great North</title>. 
@@ -1774,6 +1774,9 @@
                   Print. <title level="j">JSTOR.</title> Web. 18 Mar. 2014.</bibl>
                <bibl xml:id="PolarTimes" n="PolarTimes"><title level="a">Understanding the Past and the Present</title><title level="m">Discovering Antarctica</title> N.p., n.d. Web. 25 March 2014.
                   http://www.discoveringantarctica.org.uk/multimedia/flash/13/meltdown/13_understanding_meltdown.html</bibl>
+               <bibl xml:id="NewYorkTimes" n="NewYorkTimes"><title level="a">Comprehensive Metabolic Panel</title><title level="m">How the Test is Performed</title> 21 May 2013 Web. 1 April 2014.
+                  http://www.nytimes.com/health/guides/test/chem-20/overview.html
+               </bibl>
                <bibl xml:id="WikiSiple" n="Siple"><title level="a">Paul Siple</title><title level="s"> Wikipedia, the free encyclopedia</title> 
                   28 Jan 2014. Web. 20 March 2014.</bibl>
                <bibl xml:id="Philatelic" n="Bennett">
