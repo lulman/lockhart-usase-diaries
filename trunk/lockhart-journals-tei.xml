@@ -1076,7 +1076,7 @@
                   <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
                
-               <person xml:id="Trefts" source="#personnel">
+               <person xml:id="Trefts">
                   <persName>Trefts, George W.</persName>
                   <birth when="1919"></birth>
                   <death when="1994"></death>
@@ -1103,7 +1103,7 @@
                   <death when-custom="unknown"></death>
                   <note type="biographical">Sent correspondence to Lockhart</note>
                </person>
-               <person xml:id="Bailey" source="personnel">
+               <person xml:id="Bailey" source="WikiIke #personnel">
                   <persName>Bailey, Clay W.</persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
@@ -1129,11 +1129,10 @@
                </person>
                
                <person xml:id="Joe" source= "#personnel #WikiWells">
-                  <persName>Wells, Loran <addName type="nickname">Joe</addName></persName>
+                  <persName>Wells, Loren <addName type="nickname">Joe</addName></persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
-                  <note type="biographical">Joe Wells was a personnel on the West Base. He specialized in photography and 
-                  exploration observation.</note>
+                  <note type="biographical">Joe Wells was a personnel on the West Base. He specialized specifically in tailoring. </note>
                </person>
                
                <person xml:id="Wade" source="#Passel">
