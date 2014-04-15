@@ -1078,13 +1078,13 @@
                   <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
                
-               <person xml:id="Trefts">
+               <person xml:id="Trefts" source="#personnel">
                   <persName>Trefts, George W.</persName>
                   <birth when="1919"></birth>
                   <death when="1994"></death>
                </person>
                
-               <person xml:id="Schlossbach">
+               <person xml:id="Schlossbach" source="WikiIke">
                   <persName>Schlossbach, Isaac <addName type="nickname">Lt., Cmdr., Ike, </addName></persName>
                   <birth when="1891-08-20"><placeName>Bradley Beach, NJ</placeName></birth>
                   <death when="1984"><placeName>Bradley Beach, NJ</placeName></death>
@@ -1105,7 +1105,7 @@
                   <death when-custom="unknown"></death>
                   <note type="biographical">Sent correspondence to Lockhart</note>
                </person>
-               <person xml:id="Bailey">
+               <person xml:id="Bailey" source="personnel">
                   <persName>Bailey, Clay W.</persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
@@ -1615,6 +1615,10 @@
                   http://babel.hathitrust.org/cgi/pt?id=mdp.39015059400450;view=1up;seq=8 Web. 18 Mar 2014.</bibl>
                <bibl xml:id="WikiBursey" n="JackBursey"><title level="a">Jack Bursey</title><title level="s">Wikipedia, the free encyclopedia</title> 
                   http://en.wikipedia.org/wiki/Jack_Bursey 19 Nov 2012 Web. 27 Feb 2014.</bibl>
+               <bibl xml:id= "WikiIke" n="IkeSchlossbach"><title level= "a"> Issac Schlossbach</title><title level="s">Wikipedia, the free encyclopedia</title>
+                  http://en.wikipedia.org/wiki/Isaac_Schlossbach 3 Nov 2013 Web. 25 Feb 2014.
+               </bibl>
+               
                <bibl xml:id="Allen" n="Allen">Allen, Glover M.<title level="m">Extinct And Vanishing Mammals of the Western Hemisphere</title>
                Pennsylvania: The Intelligence Printing Company, 1942. Print.</bibl>
                <bibl xml:id="Ronne" n="Ronne">Ronne, Finn. <title level="m">Antarctica My Destiny</title>. New
