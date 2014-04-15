@@ -1381,7 +1381,7 @@
                
                <place type="geography" xml:id="LittleAmerica">
                  <placeName>Little America</placeName>
-                  <region type="harbor">Bay of Whales</region>
+                  <region type="continent">Antarctica</region>
                   <desc>Little America was used as an Antarctic Exploration Base which Lockhart periodically references
                   within his journals.</desc>
                   <location><geo>-77.0000 -162.0000</geo></location>
@@ -1432,6 +1432,8 @@
                   <country>United States</country>
                   <region type="state">Indiana</region>
                   <location><geo>39.830189, -84.890668</geo></location>
+                  <desc>There is a radiogram involving Richmond, Indiana. Lockhart receives a radiogram from a man named George
+                     on December 18th asking Lockhart to speak with him via Mail Bag on Friday Dec. 20th. The radiogram is sent from Richmond to Little America. </desc>
                </place>
                <place type="state" xml:id="Florida" source="#TGN">
                  <placeName type="state">Florida</placeName>
