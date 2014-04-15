@@ -1082,7 +1082,7 @@
                   <death when="1994"></death>
                </person>
                
-               <person xml:id="Schlossbach" source="WikiIke">
+               <person xml:id="Schlossbach" source="#WikiIke">
                   <persName>Schlossbach, Isaac <addName type="nickname">Lt., Cmdr., Ike, </addName></persName>
                   <birth when="1891-08-20"><placeName>Bradley Beach, NJ</placeName></birth>
                   <death when="1984"><placeName>Bradley Beach, NJ</placeName></death>
@@ -1103,7 +1103,7 @@
                   <death when-custom="unknown"></death>
                   <note type="biographical">Sent correspondence to Lockhart</note>
                </person>
-               <person xml:id="Bailey" source="WikiIke #personnel">
+               <person xml:id="Bailey" source="#personnel">
                   <persName>Bailey, Clay W.</persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
