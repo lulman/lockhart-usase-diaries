@@ -1082,8 +1082,6 @@
                   <persName>Trefts, George W.</persName>
                   <birth when="1919"></birth>
                   <death when="1994"></death>
-                  <occupation when="1940">military personnel</occupation>
-                  <note type="biographical">Trefts was a military personnel assigned to the West Base.</note>
                </person>
                
                <person xml:id="Schlossbach">
@@ -1108,7 +1106,7 @@
                   <note type="biographical">Sent correspondence to Lockhart</note>
                </person>
                <person xml:id="Bailey">
-                  <persName>Bailey, Clay w.</persName>
+                  <persName>Bailey, Clay W.</persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
                   <occupation when="1939">Radio Chief</occupation>
@@ -1131,17 +1129,13 @@
                   <death when-custom="unknown"></death>
                   <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
-               <person xml:id= "Douglas">
-                  <persName>Douglas, Doug</persName>
+               
+               <person xml:id="Joe" source= "#personnel #WikiWells">
+                  <persName>Wells, Loran <addName type="nickname">Joe</addName></persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
-                  <note type="biographical">Douglas was a personnel on the Lockhart expedition.</note>
-               </person>
-               <person xml:id="Joe">
-                  <persName>Wells, Joe</persName>
-                  <birth when-custom="unknown"></birth>
-                  <death when-custom="unknown"></death>
-                  <note type="biographical">Joe Wells was a personnel on the West Base.</note>
+                  <note type="biographical">Joe Wells was a personnel on the West Base. He specialized in photography and 
+                  exploration observation.</note>
                </person>
                
                <person xml:id="Wade" source="#Passel">
@@ -1740,6 +1734,9 @@
                
                <bibl xml:id="WikiFitz" n="Roy"><title level="a">Roy Fitzsimmons</title><title level="s"> Wikipedia, the free encyclopedia</title> 
                  10 May 2013. Web. 3 March 2014.</bibl>
+               
+               <bibl xml:id="WikiWells" n="Joe"><title level="a">Harold P. Gilmore</title><title level="s"> Wikipedia, the free encyclopedia</title>
+                  26 February 2014. Web. 14 April 2014. </bibl>
                
                <bibl xml:id="Bertrand" n="Bertrand">Bertrand, Kenneth J. <title level="m">Americans in Antarctica.</title> New York: American Geographical Society, 1971. Print.</bibl>
                
