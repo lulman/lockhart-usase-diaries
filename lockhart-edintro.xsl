@@ -132,11 +132,11 @@
                               <li><a href="./lockhart-edintro.html#communications">Communications</a></li>
                            </ul>
                         </li>
+                        <li><a href="./lockhart-edintro.html#project-description">About the Edition</a></li>
                         <li><a href="./lockhart-edintro.html#source">The Source Document</a></li>
                         <li><a href="./lockhart-edintro.html#edition">The Electronic Edition</a></li>	
-                        <li><a href="./lockhart-edintro.html#peopleMentioned">People Mentioned</a></li>
-                        <li><a href="./lockhart-edintro.html#placesMentioned">Places Mentioned</a></li>
-                        <li><a href="./lockhart-edintro.html#organizationsMentioned">Organizations Mentioned</a></li>
+                        <li><a href="./lockhart-edintro.html#ack">Acknowledgements</a></li>
+                        <li><a href="./lockhart-edintro.html#editors">About the Editors</a></li>
                         <li><a href="./lockhart-edintro.html#worksCited">Works Cited</a></li>
                         <li><a href="./lockhart-edintro.html#view">About the Introduction</a></li>
                      </ul>
@@ -150,15 +150,15 @@
                      </ul>
                   </li>
                   
-                  <li><a href="./lockhart-edintro.html#project-description">About the Edition</a><ul>
-                     <li><a href="./lockhart-edintro.html#project-description">About the Edition</a></li>
+                  <li><a href="./lockhart-edintro.html#Appendices">Appendices</a><ul>
+                     <li><a href="./lockhart-edintro.html#peopleMentioned">People Mentioned</a></li>
+                     <li><a href="./lockhart-edintro.html#placesMentioned">Places Mentioned</a></li>
+                     <li><a href="./lockhart-edintro.html#organizationsMentioned">Organizations Mentioned</a></li>
                      <li><a href="./lockhart-markup.html">Markup Guidelines</a></li>
                      <li><a href="./lockhart-hands.html">Guide to Lockhart's Hand</a></li>
-                     <li><a href="./lockhart-edintro.html#ack">Acknowledgements</a></li>
-                     <li><a href="./lockhart-edintro.html#editors">About the Editors</a></li>
                      <li><a href="./lockhart-odd-rnc-xml-xsl.zip">Download Source Files</a></li>
                      <li><a href="./lockhart-zoomindex.html">Images of the MS Pages</a></li>
-                     <li><a href="./lockhart-maps.html">Map</a></li>
+                     <li><a href="./lockhart-maps.html">Maps</a></li>
                   </ul>
                   </li>
                </ul>
@@ -183,7 +183,7 @@
             <xsl:apply-templates
                select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listBibl"/>
             <hr/>
-            <h2>Appendices</h2>            
+            <h2 id="Appendices">Appendices</h2>            
             <xsl:apply-templates
                select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:listPerson[@type='mentioned']"/>
             <xsl:apply-templates select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:list[@type='dogs']"/>
