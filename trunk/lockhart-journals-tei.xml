@@ -32,6 +32,7 @@
             <editor><persName ref="#AK">Alan Keep</persName></editor>
             <editor><persName ref="#CH">Caitlin Hurdley</persName></editor>
             <editor><persName ref="#RSL">Rachel S. Layfield</persName></editor>
+            <editor><persName ref="LMM">Louis M. Maraj</persName></editor>
             <editor><persName ref="#Kathy">Kathy Mielecki</persName></editor>
             <editor><persName ref="#FP">Francis Pellicciaro</persName></editor>
             <editor><persName ref="#tamika">Tamika Smith</persName></editor>
@@ -56,6 +57,7 @@
                <persName ref="#AK">Alan Keep</persName>
                <persName ref="#CH">Caitlin Hurdley</persName>
                <persName ref="#RSL">Rachel S. Layfield</persName>
+               <persName ref="LMM">Louis M. Maraj</persName>
                <persName ref="#Kathy">Kathy Ann Mielecki</persName>
                <persName ref="#FP">Francis Pellicciaro</persName>
                <persName ref="#tamika">Tamika Smith</persName>
@@ -70,6 +72,7 @@
                <persName ref="#AK">Alan Keep</persName>
                <persName ref="#CH">Caitlin Hurdley</persName>
                <persName ref="#RSL">Rachel S. Layfield</persName>
+               <persName ref="LMM">Louis M. Maraj</persName>
                <persName ref="#Kathy">Kathy Mielecki</persName>
                <persName ref="#FP">Francis Pellicciaro</persName>
                <persName ref="#tamika">Tamika Smith</persName>
@@ -1258,6 +1261,10 @@
                   <persName>Cahill, Erin Kathleen</persName>
                   <note type="biographical">Erin is an English graduate student at the Ohio State University focusing on composition, digital media, 
                   and folklore.</note>
+               </person>
+               <person>
+                  <persName>Maraj, Louis M.</persName>
+                  <note type="biographical">Louis is a PhD student at The Ohio State University where he studies Renaissance literature, Manuscript Studies, and Scholarly Editing.</note>
                </person>
             </listPerson>
             
