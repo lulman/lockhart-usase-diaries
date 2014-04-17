@@ -1038,9 +1038,8 @@
                   <death when-custom="unknown"></death>
                   <occupation when="1940">Master Mechanic</occupation>
                   <residence>Uniontown, Pennsylvania</residence>
-                  <note type="biographical">Vernon "Buck" Boyd, a member of the 1939-41 U.S. Antarctic Service (USAS) West Base <bibl><ref target="#personnel"><title level="u">"Personnel, 1939-1940"</title></ref></bibl>. According to Charles Passel's 
-                     personnel account of the expedition, Boyd is listed as the "master mechanic" <bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref></bibl>. A glacier flowing between Bailey Ridge and Mount Douglass in 
-                     the Ford Ranges was later named Boyd Glacier for him <bibl><ref target="#BoydG"><title level="a">Boyd Glacier</title></ref></bibl>.</note>
+                  <note type="biographical">Vernon "Buck" Boyd, a member of the 1939-41 U.S. Antarctic Service (USAS) West Base, is listed as being the "master mechanic" of the expedition <bibl><ref target="#Passel">Passel xv</ref>; <ref target="#personnel"><title level="u">"Personnel, 1939-1940"</title></ref></bibl>.
+                     A glacier flowing between Bailey Ridge and Mount Douglass in the Ford Ranges was later named Boyd Glacier for him <bibl><ref target="#BoydG"><title level="a">Boyd Glacier</title></ref></bibl>.</note>
                </person>
                <person xml:id="Vivian" source="#eel-19410110" >
                   <persName>Vivian</persName>
@@ -1072,7 +1071,7 @@
                   <residence when="1940">Juneau, Alaska</residence>
                   <note type="biographical"> Leonard "Klondicke" Berlin, a member of the 1939-41 U.S. Antarctic Service (USAS) West Base, 
                      was a cadastral engineer on the expedition according to Charles Passel's personal account 
-                     <bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref>; <ref target="#personnel"><title level="u">"Personnel, 1939-1940"</title></ref></bibl>. Mount Berlin, formerly Mount Hal Flood, 
+                     <bibl><ref target="#Passel">Passel xv</ref>; <ref target="#personnel"><title level="u">"Personnel, 1939-1940"</title></ref></bibl>. Mount Berlin, formerly Mount Hal Flood, 
                      was named for Berlin <bibl><ref target="#MBerlin"><title level="a">Mount Berlin</title></ref></bibl>.</note>
                </person>
                <person xml:id="Henery" source="#eel-19410110">
