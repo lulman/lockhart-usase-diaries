@@ -546,14 +546,18 @@
                      </p>
                      <p>
                         Lockhart also mentions giving <persName ref="#Fitz">Fitz</persName> a metabolism test in his journal dated January 10, 1941. Metabolism tests can be done both indoors and outdoors.
-                        With the extreme cold of the Arctic, Lockhart's metabolism tests were run indoors. Ususally, metabolism tests consisted of obtaining blood samples, monitoring heartrate and endurance, as well as monitoring how many calories 
-                        one burns while at rest during a set amount of time. <bibl><ref target="#NewYorkTimes"><title level="a">Comprehensive Metabolic Panel</title></ref></bibl> The tests usually consist of one first sitting still for a time of ten to fifteen minutes and breathing through a mask which 
-                        is attached to a metabolic analyzer. The test can then go on to measure heartrate and endurance while one is running in place or on a treadmill or an excercise machine of some sort. During the expedition, much of the testing and exploration was photographed. During the expedition, 
-                        photomapping was used. This scientific ability was origninally pioneered by Richard E. Byrd for an expedition held in the 1930s. <bibl><ref target="#BritByrd"><title level="a">Richard E. Byrd</title></ref></bibl>Photomapping was so successful, it was again used for the Ernest 
-                        Lockhard expedition. The photomapping did not simply take photographs from an aircraft, but it plotted exact points and charted positions, taking photographs accordingly. Photography equiptment was greatly effected by the severe cold of the Arctic. Camera lenses could easily become 
-                        frozen and produce blurred pictures. Traditionally , tripods were used to hold and support cameras, in the Arctic it was hard to mount the tripods due to the ice and snow. Photomapping made photography easier because the stability of the land was not needed to hold the camera. A 2014 Encyclopedia 
-                        Britanaica article stated, "Byrd was one of the world’s foremost aviators and displayed extraordinary gifts in organizing successful expeditions to Antarctica. His major achievement was...camera...and equipment and to carry out systematic reconnaissance and mapping programs using aerial 
-                        photography." It is evident that aerial photography was very important to the expedition as a whole and its innovation prevented the harsh conditions of the Arctic from negatively impacting the ability to take photographs. 
+                        With the extreme cold of the Arctic, Lockhart's metabolism tests were run indoors. Ususally, metabolism tests consisted of obtaining blood samples, monitoring heartrate and endurance, 
+                        as well as monitoring how many calories one burns while at rest during a set amount of time. <bibl><ref target="#NewYorkTimes"><title level="a">"Comprehensive Metabolic Panel"</title></ref></bibl> 
+                        The tests usually consist of one first sitting still for a time of ten to fifteen minutes and breathing through a mask which is attached to a metabolic analyzer. The test can then go on to measure 
+                        heartrate and endurance while one is running in place or on a treadmill or an excercise machine of some sort. During the expedition, much of the testing and exploration was photographed. In order 
+                        to capture photgraphs, photomapping was used. This scientific ability was origninally pioneered by Richard E. Byrd for an expedition held in the 1930s. <bibl><ref target="#BritByrd"><title level="a">"Richard E. Byrd"</title></ref></bibl>
+                        Because Byrd's photomapping technique was so successful, it was again used for the Ernest Lockhard expedition. The technique of photomapping did not simply take photographs from an aircraft, but it plotted exact points and 
+                        charted positions, taking photographs accordingly. Traditional photography equipment was greatly effected by the severe cold of the Arctic. Camera lenses could easily become fogged from condensation 
+                        and even frozen and therefore produce blurred pictures.<bibl><ref target="#Photography"><title level="m">Photography in Extreme Cole</title></ref></bibl> Traditionally , tripods were used to hold and 
+                        support cameras, in the Arctic it was hard to mount the tripods due to the ice and snow. Photomapping made photography easier because the stability of the land was not needed to hold the camera. A 2014 
+                        Encyclopedia Britanaica article stated, "Byrd was one of the world’s foremost aviators and displayed extraordinary gifts in organizing successful expeditions to Antarctica. His major achievement 
+                        was...camera...and equipment and to carry out systematic reconnaissance and mapping programs using aerial photography." It is evident that aerial photography was very important to the expedition as a whole
+                        and its innovation prevented the harsh conditions of the Arctic from negatively impacting the ability to take photographs. 
                      </p>
                      <p rend="h3" xml:id="communications">Communications</p>
                      <p>
@@ -1745,7 +1749,11 @@
                <bibl xml:id="National" n="National"><title level="a">National Science Foundation Office of Polar
                   Programs U.S. Antarctic Program: Your Stay at Amundsen-Scott South Pole Station.</title> 
                   <title level="m">NASA Quest.</title> NASA, n.d. Web. 2 Mar. 2014.</bibl>
-               <bibl xml:id="SPBailey" n="Bailey"><title level="s">The United States Antarctic Service Expedition</title> South-Pole.com, n.d. Web 19 Feb 2014.</bibl>
+               
+               <bibl xml:id="Photography" n="Photography"><title level="a">Digital Photography School</title><title level="m">Photography in Extreme Cold</title>
+                  N.d. Web. 14 April 2014. </bibl>
+               
+                  <bibl xml:id="SPBailey" n="Bailey"><title level="s">The United States Antarctic Service Expedition</title> South-Pole.com, n.d. Web 19 Feb 2014.</bibl>
                
                <bibl xml:id="MGutenko" n="GutenkoMountains"><title level="a">Gutenko Mountains.</title> <title level="m">Geographic Names Information System (GNIS).</title> United States 
                   Geological Survey, n.d. Web. 3 Mar. 2014.</bibl>
