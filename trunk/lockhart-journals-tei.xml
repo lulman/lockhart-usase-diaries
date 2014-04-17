@@ -607,14 +607,16 @@
                   <name source="#koulouris">Peter</name>
                   <trait type="sex"><desc>Male</desc></trait>
                   <desc>Peter is one of two dogs that lived at his parents' house in Mattapan during the Expedition. Both dogs are mentioned
-                  several times as they were being bulked up in preparation to be able to play with the sled dog Spot.</desc>
+                  several times as they were being bulked up in preparation to be able to play with the sled dog Spot. Lockhart states that he
+                  received pictures of the dog in a letter received on January 10th, 1941.</desc>
                </item>
                <item xml:id="Petedog">
                   <name source="#koulouris">Pete</name>
                   <trait type="sex"><desc>Male</desc></trait>
                   <desc>Pete is one of two dogs that lived at his parents' house in Mattapan during the Expedition. Both dogs are mentioned
                   several times as they were being bulked up in preparation to be able to play with the sled dog Spot. Pete was later donated to
-                  the military to assist with the war effort.</desc>
+                  the military to assist with the war effort. Lockhart states that he received pictures of the dog in a letter received on 
+                  January 10th, 1941</desc>
                </item>
             </list>
 
@@ -945,7 +947,7 @@
                      Antarctica, Celeste Althea often corresponded with him via radiogram.</note>
                </person>
                <person xml:id="clinton" source="#koulouris">
-                  <persName>Lockhart, Clinton Daniel</persName>
+                  <persName>Lockhart, Clinton Daniel <addName type="nickname">Papa</addName></persName>
                   <birth when="1880-12-23"></birth>
                   <death when="1964-05"></death>
                   <event type="marriage" when="1904-09-21"><desc>Clinton Daniel Lockhart married Celest Althea Westhaver in Boston, Suffold, MA, USA.</desc></event>
@@ -953,7 +955,8 @@
                   were both born and raised in Nova Scotia, on opposite sides of the Bay of Fundy. In their 20s, 
                   both Clinton and Delest immigrated to Boston, USA. Whether they knew each other before is unclear.
                   While his son, Ernest Lockhart, was in Antarctica, his wife often corresponded with him
-                  via radiogram.</note>
+                  via radiogram. Ernest Lockhart states that he received a picture of him in a letter received on
+                  January 10th, 1941.</note>
                </person>
                <person xml:id="Beatie" source="#koulouris">
                   <persName>Lockhart, Beatrice R. <addName type="nickname">Beatie</addName></persName>
@@ -1023,7 +1026,7 @@
                   <persName>Van</persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
-                  <note type="biographical">Sent correspondence to Lockhart.</note>
+                  <note type="biographical">Lockhart received a letter from both Van and Vivian with a picture of their baby on January 10th, 1941.</note>
                </person>
                <person xml:id="BuckBoyd" source="#Passel #personnel #BoydG">
                   <persName>Boyd, Vernon D.<addName type="nickname">Buck</addName></persName>
@@ -1039,7 +1042,7 @@
                   <persName>Vivian</persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
-                  <note type="biographical">Sent correspondence to Lockhart.</note>
+                  <note type="biographical">Lockhart recieved a letter from both Vivian and Van with a picture of their baby on January 10th, 1941.</note>
                </person>
                <person xml:id="BillLeckie" source="#eel-19410427">
                   <persName>Leckie, William<addName type="nickname">Bill</addName></persName>
@@ -1055,7 +1058,7 @@
                   <persName>Dave</persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
-                  <note type="biographical">Sent correspondence to Lockhart.</note>
+                  <note type="biographical">Lockhart received a letter from Dave and Mary on January 10th, 1941.</note>
                </person>
                <person xml:id="Klondicke" source="#Passel #personnel #MBerlin">
                   <persName>Berlin, Leonard M.<addName type="nickname">Klondicke, Len</addName></persName>
@@ -1068,11 +1071,11 @@
                      <bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref>; <ref target="#personnel"><title level="u">"Personnel, 1939-1940"</title></ref></bibl>. Mount Berlin, formerly Mount Hal Flood, 
                      was named for Berlin <bibl><ref target="#MBerlin"><title level="a">Mount Berlin</title></ref></bibl>.</note>
                </person>
-               <person xml:id="Henry" source="#eel-19410110">
+               <person xml:id="Henery" source="#eel-19410110">
                   <persName>Henry</persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
-                  <note type="biographical">Sent correspondence to Lockhart.</note>
+                  <note type="biographical">Lockhart received a letter from Henery on January 10th, 1941.</note>
                </person>
                
                <person xml:id="Trefts" source="#TreftsHSM">
@@ -1101,7 +1104,7 @@
                   <persName>Dot</persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
-                  <note type="biographical">Sent correspondence to Lockhart</note>
+                  <note type="biographical">Lockhart received a letter from Dot on January 10th, 1941.</note>
                </person>
                <person xml:id="Bailey" source="#personnel #SPBailey">
                   <persName>Bailey, Clay W.</persName>
@@ -1128,7 +1131,7 @@
                   <persName>Elenore</persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
-                  <note type="biographical">Sent correspondence to Lockhart.</note>
+                  <note type="biographical">Lockhart received a letter from Elenore on January 10th, 1941.</note>
                </person>
                
                <person xml:id="Joe" source= "#personnel #WikiWells">
@@ -1150,7 +1153,7 @@
                   <persName>Lockhart, Jenene</persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
-                  <note type="biographical">She was Dr. Lockhart's first cousin and also sent correspondence to Lockhart.</note>
+                  <note type="biographical">She was Dr. Lockhart's first cousin and Lockhart received a letter from her on January 10th, 1941.</note>
                </person>
                
                <person xml:id="Malcolm" source="#personnel">
@@ -3289,7 +3292,7 @@
                <lb/><persName ref="#Beatie">Beatie</persName> sent of <name type="dog" ref="#Petedog">Pete</name>, <name type="dog" ref="#Peterdog">Peter</name>, <persName ref="#clinton">Papa</persName>, and the house. Both
                <lb/><persName ref="#Van">Van</persName> <del rend="strikethrough">I</del> and <persName ref="#Vivian">Vivian</persName> sent letters with pictures in them of the
                <lb/>new baby. <persName ref="#George">George</persName> also sent pictures in his letter. Other
-               <lb/>letters came from <persName ref="#Dave">Dave</persName> and <persName ref="#Mary">Mary</persName>, <persName ref="#Henry">Henery</persName>, <persName ref="#Dot">Dot</persName>, <persName ref="#Elenore">Elenore</persName>
+               <lb/>letters came from <persName ref="#Dave">Dave</persName> and <persName ref="#Mary">Mary</persName>, <persName ref="#Henery">Henery</persName>, <persName ref="#Dot">Dot</persName>, <persName ref="#Elenore">Elenore</persName>
                <lb/><persName ref="#Jenene">Jenene</persName>. <del rend="strikethrough"><unclear cert="low">Is</unclear></del> I had one of <del rend="strikethrough">of</del> the most pleasant of times
                <lb/>I have had in a long while.
             </p>
