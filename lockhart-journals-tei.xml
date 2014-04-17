@@ -435,7 +435,7 @@
                         that “in a century, or even a shorter period, the Antarctic may have its uses for the civilized world” thereby prompting precautionary land claims and leading the writer of the article 
                         to conclude that “the fact that Great Britain, Germany, Norway and other countries have shown a desire to secure claims on Antarctic territory impels the United States to take a leading 
                         part in exploring and mapping that area” <bibl><ref target="#Posterity"><title level="a">For Posterity</title></ref></bibl>.  Thus, while territory issues and other countries were not an issue that Dr. Lockhart was directly involved in, his (and the other 
-                        members of the expedition) presence in the Antarctic was in it of itself an allusion to the geopolitics of the continent occurring at that time.
+                        members of the expedition) presence in the Antarctic was in and of itself an allusion to the geopolitics of the continent occurring at that time.
                      </p>
                      <p rend="h3" xml:id="entertainment">Reading and Recreation</p>
                      <p>When the men weren't doing chores or busy
@@ -630,7 +630,7 @@
                   <name type="ship" source="#Bertrand">U.S.S. Bear, Bear of Oakland</name>
                   <desc>One of two ships used on the 1939-41 expedition led by Admiral Byrd. Originally named the "Bear of Oakland," it was 
                      used during Admiral Byrd's second expedition (1933-35) as an ice ship, then later  reconditioned and commissioned by the 
-                     U.S. navy as the "U.S.S. Bear" before being assigned to the 1939-41 expedition <bibl><ref target="#Bertrand"><title level="m">Americans in Antarctica</title></ref></bibl>.</desc>
+                     U.S. navy as the "U.S.S. Bear" before being assigned to the 1939-41 expedition <bibl><ref target="#Bertrand">Bertrand</ref></bibl>.</desc>
                </item>
                <item xml:id="Beechcraft">
                   <name type="aircraft" source="#Bertrand #eel-19410303">Beechcraft</name>
@@ -1558,7 +1558,7 @@
                   <orgName>Boston Traveler</orgName>
                   <state type="company"></state>
                      <desc>A daily newspaper based in Boston, Massachusetts, it ran from 1914-1967, and was published by Boston Herald, Inc 
-                        <bibl><ref target="#Traveler"><title level="a">"About the Boston traveler"</title></ref></bibl>. In his journal, Lockhart mentions that the newspaper is sponsoring a mail bag to be delivered to the base camps.</desc>
+                        <bibl><ref target="#Traveler"><title level="a">About the Boston traveler</title></ref></bibl>. In his journal, Lockhart mentions that the newspaper is sponsoring a mail bag to be delivered to the base camps.</desc>
                </org>
                <org xml:id="USDptoftheInt" source="#eel-19410427 #Richard">
                   <orgName>US Department of the Interior</orgName>
@@ -2149,7 +2149,7 @@
                   <lb/>but always he had to say <said aloud= "true" direct= "true">I guess I was wrong</said>
                   <lb/>when a large <ref type="trailflag">trail flag</ref> <del rend= "strikethrough"><unclear cert="high">br</unclear></del> <ptr type="noteAnchor" target="NoteTrail"/><note resp="ed" xml:id="NoteTrail">Dr. Lockhart makes several mentions to "the trail" and "trail flags/markers" throughout the journal; 
                      he is likely referring to the trails created between the West Base and supply depots and/or science stations, for groups traveling to and from these locations. Lockhart was a member of one the trail parties, the Ford Ranges Biological Party, which was tasked with gathering biological information, 
-                     and when possible, geological/glaciation data <bibl><ref target="#Bertrand"><title level="m">Americans in Antarctica</title></ref></bibl>.</note> came into view. All sorts
+                     and when possible, geological/glaciation data <bibl><ref target="#Bertrand">Bertrand</ref></bibl>.</note> came into view. All sorts
                   <lb/>of thoughts began clicking through our minds as the <rs>base</rs>
                
                   <pb facs= "journal-2-06.jpg" n="/d/d30a3d29-fe7e-4bf6-a941-541638ebc568"/>
@@ -2377,7 +2377,7 @@
                      <lb/><persName>Railey's</persName> antennas but I was able to climb the pole
                      <lb/>and free it. While helping him I noticed a bunch
                      <lb/>of skua gulls <ptr type="noteAnchor" target="NoteSkua"/><note resp="ed" xml:id="NoteSkua">Arctic skuas, also known as "parasitic jaegers," are a type of seabird that primarily feed by stealing food from other birds, although they are known to hunt as well <bibl><ref target="#NatGeo"><title level="a">Arctic Skua</title></ref></bibl>. These birds largely live at seas, except to come ashore in order to breed during the Arctic summer <bibl><ref target="#NatGeo"><title level="a">Arctic Skua</title></ref></bibl>. Study of these birds was part of the 
-                          mission to gather biological information on plants and animals native to the Arctic <bibl><ref target="#Bertrand"><title level="m">Americans in Antarctica</title></ref></bibl>.</note>
+                          mission to gather biological information on plants and animals native to the Arctic <bibl><ref target="#Bertrand">Bertrand</ref></bibl>.</note>
                           on a refuse pile and decided to try my
                      <lb/>skill again. I walked carefully toward them with
                      <lb/>the revol<subst><del><gap reason="overwritten"/></del><add place="inline">ver</add></subst> ready but two of the pups came up
