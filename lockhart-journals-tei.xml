@@ -1073,10 +1073,11 @@
                   <note type="biographical">Sent correspondence to Lockhart.</note>
                </person>
                
-               <person xml:id="Trefts">
+               <person xml:id="Trefts" source="#TreftsHSM">
                   <persName>Trefts, George W.</persName>
                   <birth when="1919"></birth>
                   <death when="1994"></death>
+                  <note type="biographical">George W. Trefts was a military personnel on the Lockhart expedition. <ref target="TreftsHSM">Military Collection Descriptions</ref></note>
                </person>
                
                <person xml:id="Schlossbach" source="#WikiIke">
@@ -1084,7 +1085,7 @@
                   <birth when="1891-08-20"><placeName>Bradley Beach, NJ</placeName></birth>
                   <death when="1984"><placeName>Bradley Beach, NJ</placeName></death>
                   <occupation> American Polar Explorer, submariner and aviation pioneer and Navigator.</occupation>
-                  <note type="biographical">American Polar Explorer, submariner and aviation pioneer and Navigator. Ike Schlossbach is referenced as "Schlossback" within the Journals written by Lockhart.</note>
+                  <note type="biographical">American Polar Explorer, submariner and aviation pioneer and Navigator. Ike Schlossbach is referenced as "Schlossback" within the Journals written by Lockhart.<ref target="#WikiIke">"Issac Schlossbach"</ref></note>
                </person>
                   <person xml:id="Wiener" source="#personnel #Wiener">
                      <persName>Wiener, Murray</persName>
@@ -1108,7 +1109,7 @@
                   <residence>Belmont, Mass</residence>
                   <note type="biographical">Clay Bailey was a commander in the United States Navy and member of the Byrd Antarctic
                   Expedition. In 1939 until 1941, Bailey served as a radio chief for Rare Radio for the West Base Party of the 
-                  United States Antarctic Service.</note>
+                  United States Antarctic Service.<ref target="#personnel">"Personnel, 1939-1940"</ref></note>
                </person>
                <person xml:id="Siple" source="#personnel #WikiSiple">
                   <persName>Siple, Dr. Paul A</persName>
@@ -1132,7 +1133,7 @@
                   <persName>Wells, Loren <addName type="nickname">Joe</addName></persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
-                  <note type="biographical">Joe Wells was a personnel on the West Base. He specialized specifically in tailoring. </note>
+                  <note type="biographical">Joe Wells was a personnel on the West Base. He specialized specifically in tailoring. <ref target="#personnel">"Personnel, 1939-1940"</ref>; <ref target="#WikiWells">Harold P. Gilmore</ref></note>
                </person>
                
                <person xml:id="Wade" source="#Passel">
@@ -1665,6 +1666,9 @@
                
                <bibl xml:id="TGN" n="Getty">Getty Research Institute. <title level="m">Getty
                   Thesaurus of Geographic Names Online.</title> N.d. Web. 12 Feb. 2014.</bibl>
+               
+               <bibl xml:id="HSM" n="TreftsHSM">The State Historical Society of Missouri. <title level="m">Military Collection Descriptions</title>
+                  18 Feb 2014. Web. 19 Feb. 2014.</bibl>
                
                <bibl xml:id="ANB" n="American National Biography"><title level="a">Sherman, William Tecumseh</title>
                   <title level="m">American National Biography</title> Oxford University Press 2010 Web. 22 Feb. 2014</bibl>
