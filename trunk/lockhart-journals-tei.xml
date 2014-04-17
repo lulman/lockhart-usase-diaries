@@ -873,7 +873,7 @@
                   <note type="biographical">Roy Fitzsimmons was a physicist from Newark, New Jersey. He ran the Rockefeller Mountains seismic station during the expedition. Lockhart talks about running metabolism tests on him and them
                      going out on excursions together. Mount Fitzsimmons in Antarctica is named after him.<bibl><ref target="#personnel">"Personnel, 1939-1940"</ref>; <ref target="#WikiFitz">"Roy Fitzsimmons"</ref></bibl></note>
                </person>
-               <person xml:id="Pete" source="#Bertrand #personnel #Passel #Petras #eel-19410103"><persName>Petras, Theodore A. <addName type="nickname">Pete</addName>
+               <person xml:id="Pete" source="#Bertrand #personnel #Passel #Petras #PetrasAncestry #eel-19410103"><persName>Petras, Theodore A. <addName type="nickname">Pete</addName>
                </persName>
                   <birth when="1911-05-16"><placeName>Birmingham, Alabama</placeName></birth>
                   <death when="2004-05-09"><placeName>Miami, FL</placeName></death>
@@ -886,7 +886,7 @@
                      enjoyed "making hops" in planes and taking tanks out for fun; Pete also played ukelele. Pete also shot skua gulls and tried to get blood samples from them.  
                      He achieved the rank of Colonel in the USMC and was inducted into the 
                      Alabama Aviation Hall of Fame on December 17, 1993.</note></person>
-               <person xml:id="Mac" source="#Bertrand #personnel #Passel #mccoy #jamescharles #eel-19410103"><persName>McCoy, James C. <addName type="nickname">Mac</addName> <addName>McCoy, Charles James</addName><addName>McCoy, James Charles</addName>
+               <person xml:id="Mac" source="#Bertrand #personnel #Passel #mccoy #McCoyAncestry #McCoyVeteran #jamescharles #eel-19410103"><persName>McCoy, James C. <addName type="nickname">Mac</addName> <addName>McCoy, Charles James</addName><addName>McCoy, James Charles</addName>
                </persName>
                   <birth when="1905-05-09"><placeName>Bountiful, Utah</placeName></birth>
                   <death when="1981-03-03"><placeName>Jacksonville, FL</placeName></death>
@@ -895,7 +895,7 @@
                      He was a member of the dog team 
                   that was transported back to West Base by Pete the day of the Condor incident on January 3, 1941. Mac achieved the rank of Commander. He discovered and named a mountain after his wife, Alma McCoy; 
                   the mountain's name was later changed to Mount McCoy.</note></person>
-               <person xml:id="Giles" source="#Bertrand #Passel #personnel eel-19410103"><persName>Giles, Walter R. <addName>Giles, W. R. </addName><addName type="nickname">Giles</addName></persName> 
+               <person xml:id="Giles" source="#Bertrand #Passel #GilesAncestry #GilesDivorced #personnel eel-19410103"><persName>Giles, Walter R. <addName>Giles, W. R. </addName><addName type="nickname">Giles</addName></persName> 
                   <birth when="1912-01-03"><placeName>Newton County, GA</placeName></birth>
                   <death when="1996-04-11"><placeName>Rockdale, GA</placeName> </death>
                   <occupation>Assistant Pilot and Radio Operator</occupation>
@@ -1827,6 +1827,19 @@
                   <title level="m">Proquest Historical Newspapers.</title> Web. 14 March 2014.</bibl>
                <bibl xml:id="ByrdHeads" n="ByrdHeads"><title level="a">Byrd Heads Toward Home: Explorer Leaves Antarctic Bases</title>. <title level="j">Sunday Oregonian</title> 24 March 1940.
                  <title level="m">America's Historical Newspapers</title> Web. 14 March 2014.</bibl>
+               <bibl xml:id="GilesDivorced" n="GilesDivorced"><title level="a">Byrd Flier Is Divorced After Notice
+               Over Radio</title>. <title level="j">New York Times.</title> <title level="m">ProQuest: Historical Newspapers.</title> Web. 14 March 2014.
+                 </bibl>
+               <bibl xml:id="McCoyVeteran" n="McCoyVeteran"><title level="a">James McCoy.</title> <title>Ancestry.com</title> <title level="m">US Department of Veterans Affairs
+               BIRLS Death File, 1850-2010.</title></bibl>
+               <bibl xml:id="GilesAncestry" n="GilesAncestry"><title level="a">Walter R Giles</title>. <title>Ancetry.com</title>. <title level="m">US Social Security Death Index</title>. Web.
+               14 March 2014.</bibl> 
+               <bibl xml:id="PetrasAncestry" n="PetrasAncestry"><title level="a">Theodore A. Petras</title>. <title>Ancetry.com</title>. <title level="m">US Social Security Death Index</title>. Web.
+                  14 March 2014.</bibl> 
+               <bibl xml:id="McCoyAncestry" n="McCoyAncestry"><title level="a">James McCoy</title>. <title>Ancetry.com</title>. <title level="m">US Social Security Death Index</title>. Web.
+                  14 March 2014.</bibl> 
+                  
+                  
             </listBibl>
             
          </sourceDesc>
