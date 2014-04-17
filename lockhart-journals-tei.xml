@@ -1086,13 +1086,13 @@
                   <occupation> American Polar Explorer, submariner and aviation pioneer and Navigator.</occupation>
                   <note type="biographical">American Polar Explorer, submariner and aviation pioneer and Navigator. Ike Schlossbach is referenced as "Schlossback" within the Journals written by Lockhart.</note>
                </person>
-                  <person xml:id="Wiener" source="#personnel">
+                  <person xml:id="Wiener" source="#personnel #Wiener">
                      <persName>Wiener, Murray</persName>
                   <birth when="1909" precision="low"></birth>
                   <death when-custom="unknown"></death>
                   <occupation when="1940">Physicist and Dog Doctor</occupation>
                   <residence>130 Main St  Bradley Beach, NJ</residence>
-                  <note type="biographical">Wiener was a member of the west base along side Lockhart. He is often mentioned in the journal, and is believed to be the person behind the influence of the nickname Fort Wiener in the Lockhart journal.</note>
+                     <note type="biographical">Wiener was a member of the west base along side Lockhart. He is often mentioned in the journal, and is believed to be the person behind the influence of the nickname Fort Wiener in the Lockhart journal. Wiener served on five expeditions to the Antarctic, and eventually became the United States leading expert on polar survival.<bibl><ref target="#WikiWiener"><title level="s">Murray A. Wiener</title></ref></bibl></note>
                </person>
                <person xml:id="Dot" source="#eel-19410110">
                   <persName>Dot</persName>
@@ -1855,6 +1855,8 @@
                <bibl xml:id="SnowCruiserUnloaded" n="SnowCruiserUnloaded"><title level="a">Byrd Snow
                Cruiser Unloaded at Little America.</title> <title level="j">Cleveland Plain Dealer.</title> 13 March 1940. <title level="m">America's Historical Newspapers.
                   </title> Web. 4 April 2014.</bibl>
+               <bibl xml:id="WikiWiener" n="Wiener"><title level="a">Murray A. Wiener</title><title level="s"> Wikipedia, the free encyclopedia</title> 
+                  28 Jan 2014. Web. 20 March 2014.</bibl>
             </listBibl>
             
          </sourceDesc>
