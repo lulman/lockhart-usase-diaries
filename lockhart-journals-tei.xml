@@ -1101,7 +1101,7 @@
                   <death when-custom="unknown"></death>
                   <note type="biographical">Sent correspondence to Lockhart</note>
                </person>
-               <person xml:id="Bailey" source="#personnel">
+               <person xml:id="Bailey" source="#personnel #SPBailey">
                   <persName>Bailey, Clay W.</persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
@@ -1109,7 +1109,7 @@
                   <residence>Belmont, Mass</residence>
                   <note type="biographical">Clay Bailey was a commander in the United States Navy and member of the Byrd Antarctic
                   Expedition. In 1939 until 1941, Bailey served as a radio chief for Rare Radio for the West Base Party of the 
-                  United States Antarctic Service.<ref target="#personnel">"Personnel, 1939-1940"</ref></note>
+                  United States Antarctic Service.<ref target="#personnel">"Personnel, 1939-1940"</ref>;<ref target="#SPBailey">The United States Antarctic Service Expedition</ref></note>
                </person>
                <person xml:id="Siple" source="#personnel #WikiSiple">
                   <persName>Siple, Dr. Paul A</persName>
@@ -1736,6 +1736,7 @@
                <bibl xml:id="National" n="National"><title level="a">National Science Foundation Office of Polar
                   Programs U.S. Antarctic Program: Your Stay at Amundsen-Scott South Pole Station.</title> 
                   <title level="m">NASA Quest.</title> NASA, n.d. Web. 2 Mar. 2014.</bibl>
+               <bibl xml:id="SPBailey" n="Bailey"><title level="s">The United States Antarctic Service Expedition</title> South-Pole.com, n.d. Web 19 Feb 2014.</bibl>
                
                <bibl xml:id="MGutenko" n="GutenkoMountains"><title level="a">Gutenko Mountains.</title> <title level="m">Geographic Names Information System (GNIS).</title> United States 
                   Geological Survey, n.d. Web. 3 Mar. 2014.</bibl>
