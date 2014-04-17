@@ -1340,7 +1340,7 @@
                <location><geo>-78.279767 -155.535556</geo></location>
                </place>
                
-               <place type="city" xml:id="Valparaiso" source="#Bertrand #TGN #eel-19410115a #eel-19401231a #eel-19410116">
+               <place type="city" xml:id="Valparaiso" source="#Bertrand #TGN #ByrdHeads #eel-19410115a #eel-19401231a #eel-19410116">
                   <placeName>Valparaiso <addName>Valpo</addName></placeName>
                   <country>Chile</country>
                   <desc>Supplies, including the Condor plane, were loaded at Valparaiso, and mail was available for the crew from people
@@ -1351,7 +1351,7 @@
                   From there they are scheduled to go to Valparaiso, arriving about April 1.."</desc>
                   <location><geo>-33.0478 -71.6011</geo></location></place>
                
-               <place type="city" xml:id="Dunedin" source="#Bertrand #TGN #eel-19410115a #eel-19410116a"><placeName>Dunedin</placeName>
+               <place type="city" xml:id="Dunedin" source="#Bertrand #ByrdSails #TGN #eel-19410115a #eel-19410116a"><placeName>Dunedin</placeName>
                   <country>New Zealand</country>
                   <desc>The Star spent several days in Dunedin on its way to West Base to pick up the crew. 
                   According to Lockhart it took about 10 days to travel from Dunedin to West Base. An article in the December 29, 1940 New York
