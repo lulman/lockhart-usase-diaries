@@ -1512,7 +1512,8 @@
                <place type="geography" xml:id="BayofWhales" source="#TGN">
                   <placeName>Bay of Whales</placeName>
                   <location><geo>78.3000° S, 164.2000° W</geo></location>
-                  <desc>The Bay is where the ships did their loading and unloading and were also stored here for the duration of the Expedition</desc>
+                  <desc> The Bay of Whales is an inlet off the Ross Ice Shelf. This Bay is where the <name type="ship">Star</name> and the <name type="ship">Bear</name> did their loading and unloading and were 
+                     also stored here for the duration of the Expedition.</desc>
                </place>
                <place type="city" xml:id="Seattle" source="#TGN">
                   <placeName>Seattle</placeName>
