@@ -1823,25 +1823,32 @@
                   ProQuest: Historical Newspapers.</title> Web. 9 April 2014.</bibl>
                <bibl xml:id="President" n="President"><title level="a">President Directs Speed on Byrd Trip.</title> <title level="j">New York Times</title>
                8 July 1939. <title level="m">ProQuest: Historical Newspapers.</title> Web. 9 April 2014.</bibl>
-               <bibl xml:id="BearSail" n="BearSail"><title level="a">Bear to Sail from Dunedin, NZ</title>. <title level="j">New York Times</title> 29 December 1940. 
+               <bibl xml:id="BearSail" n="BearSail"><title level="a">Bear to Sail from Dunedin, NZ.</title> <title level="j">New York Times</title> 29 December 1940. 
                   <title level="m">Proquest Historical Newspapers.</title> Web. 14 March 2014.</bibl>
-               <bibl xml:id="ByrdHeads" n="ByrdHeads"><title level="a">Byrd Heads Toward Home: Explorer Leaves Antarctic Bases</title>. <title level="j">Sunday Oregonian</title> 24 March 1940.
+               <bibl xml:id="ByrdHeads" n="ByrdHeads"><title level="a">Byrd Heads Toward Home: Explorer Leaves Antarctic Bases.</title> <title level="j">Sunday Oregonian.</title> 24 March 1940.
                  <title level="m">America's Historical Newspapers</title> Web. 14 March 2014.</bibl>
                <bibl xml:id="GilesDivorced" n="GilesDivorced"><title level="a">Byrd Flier Is Divorced After Notice
-               Over Radio</title>. <title level="j">New York Times.</title> <title level="m">ProQuest: Historical Newspapers.</title> Web. 14 March 2014.
+               Over Radio.</title> <title level="j">New York Times.</title> <title level="m">ProQuest: Historical Newspapers.</title> Web. 14 March 2014.
                  </bibl>
-               <bibl xml:id="McCoyVeteran" n="McCoyVeteran"><title level="a">James McCoy.</title> <title>Ancestry.com</title> <title level="m">US Department of Veterans Affairs
+               <bibl xml:id="McCoyVeteran" n="McCoyVeteran"><title level="a">James McCoy.</title> <title>Ancestry.com.</title> <title level="m">US Department of Veterans Affairs
                BIRLS Death File, 1850-2010.</title></bibl>
-               <bibl xml:id="GilesAncestry" n="GilesAncestry"><title level="a">Walter R Giles</title>. <title>Ancetry.com</title>. <title level="m">US Social Security Death Index</title>. Web.
+               <bibl xml:id="GilesAncestry" n="GilesAncestry"><title level="a">Walter R Giles.</title> <title>Ancetry.com.</title> <title level="m">US Social Security Death Index.</title> Web.
                14 March 2014.</bibl> 
-               <bibl xml:id="PetrasAncestry" n="PetrasAncestry"><title level="a">Theodore A. Petras</title>. <title>Ancetry.com</title>. <title level="m">US Social Security Death Index</title>. Web.
+               <bibl xml:id="PetrasAncestry" n="PetrasAncestry"><title level="a">Theodore A. Petras.</title> <title>Ancetry.com.</title> <title level="m">US Social Security Death Index.</title> Web.
                   14 March 2014.</bibl> 
-               <bibl xml:id="McCoyAncestry" n="McCoyAncestry"><title level="a">James McCoy</title>. <title>Ancetry.com</title>. <title level="m">US Social Security Death Index</title>. Web.
+               <bibl xml:id="McCoyAncestry" n="McCoyAncestry"><title level="a">James McCoy.</title> <title>Ancetry.com.</title> <title level="m">US Social Security Death Index.</title> Web.
                   14 March 2014.</bibl> 
                <bibl xml:id="SnowCruiserPower" n="SnowCruiserPower"> <title level="a">Antarctic Snow Cruiser Found
                Short on Power.</title> <title level="j">Chicago Daily Tribune.</title> 23 June 1940. <title level="m">Proquest: Historical Newspapers.</title> Web. 14 March 2014.</bibl>
-                  
-                  
+               <bibl xml:id="SnowCruiserDream" n="SnowCruiserDream"><title level="a">Snow Cruiser is Like a Fantastic Dream; No Wonder
+               Animals Run.
+              </title> <title level="j">Cleveland Plain Dealer.</title> 2 November 1939. <title level="m">America's Historical Newspapers.</title> Web. 14 March 2014.
+                 </bibl>   
+               <bibl xml:id="ByrdPoleSnow" n="ByrdPoleSnow"><title level="a">Byrd's North Star Sails with Foretaste of Pole Snow.</title> 
+                  <title level="j">The Washington Post.</title> <title level="m">Proquest: Historical Newspapers.</title> Web. 14 March 2014.</bibl> 
+               <bibl xml:id="Camels" n="Camels"><title level="a">Off To Voluntary Exile.</title> <title level="j">Cleveland Plain Dealer.</title> 13 February 1940. <title level="m">Proquest: Historical Newspapers.</title>
+                  Web. 28 March 2014.
+                  </bibl>
             </listBibl>
             
          </sourceDesc>
