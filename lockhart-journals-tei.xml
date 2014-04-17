@@ -678,7 +678,7 @@
                <item xml:id="tractor">
                   <name type="tractor" source="#Bertrand">Tractor</name>
                   <desc>West Base had a T-20 International crawler style of tractor. It was used for transport, unloading supplies from the ships, and to stash supplies by pulling trains of sleds to lie food and fuel in caches and depots for the sledging parties. 
-                     The tractor parties went ahead of the sledging parties and established trails. 
+                     The tractor parties went ahead of the sledging parties and established trails. <bibl><ref target="#Bertrand">Bertrand</ref></bibl><bibl>
                   </desc>
                </item>
                </list>
