@@ -163,7 +163,7 @@
                      </ul>
                   </li>
                   
-                  <li><a>Views of the Journal</a>
+                  <li><a><strong>Views of the Journal</strong></a>
                      <ul>
                         <li><a href="./lockhart-entries.html">By Journal Entry</a></li>
                         <li><a href="./lockhart-mspages.html">By MS Page</a></li>
@@ -185,7 +185,9 @@
                </ul>
             </div>
             <script>
-               $( "#menu" ).menu({ position: { my: "left top", at: "right-70 top+32" } });
+               $( "#menu" )
+               .menu({ icons:    {submenu: "ui-icon-arrowthick-1-se"     } }   )
+               .menu({ position: { my: "left top", at: "right-70 top+32" } }   );
             </script>
             
             <!-- Apply templates to the tei:body. -->
