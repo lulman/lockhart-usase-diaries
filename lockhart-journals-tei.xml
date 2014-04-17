@@ -922,7 +922,7 @@
                      the air in Antarctica is oxygen deficient <bibl><ref target="#Arnold"><title level="a">Arnold Court,</title></ref> <ref target="#Malone">Malone, Thomas F., ed.></ref></bibl>.</note>
                </person>
                <person xml:id="DocFrazier" source="#Russell">
-                  <persName>Frazier, Dr. Russell G.</persName>
+                  <persName>Frazier, Dr. Russell G. <addName type="nickname">Doc</addName></persName>
                   <birth when="1893-07-05"><placeName>Fraziers Bottom, WV</placeName></birth>
                   <death when="1968-01-14"><placeName>Salt Lake City, UT</placeName></death>
                   <occupation>Medical Doctor</occupation>
@@ -1203,7 +1203,7 @@
                      any one in isolation.</note>                
                </person>
                <person xml:id="RSL">
-                  <persName>Layfield, Rachel S.</persName>
+                  <persName>Layfield, Rachel S</persName>
                   <note type="biographical">Rachel S. Layfield is a third-year English major who is 
                      minoring in both Professional Writing and French. Post-graduation, she plans to 
                      earn her MLS and become a librarian.</note>
@@ -1231,7 +1231,7 @@
                   to see the world as an English as a Second Language teacher.</note>
                </person>
                <person xml:id="AJW">
-                  <persName>Waisanen, Adam J.</persName>
+                  <persName>Waisanen, Adam J</persName>
                   <note type="biographical">Adam Waisanen is a third-year History major at The Ohio State
                   University. He has currently served in the U.S. Military for over eleven years. After 
                   graduation he plans earn a Masters in Library Science to become either an archivist or
@@ -3154,7 +3154,7 @@
                  <lb/>bring it back to camp. Twelve seal have been killed so far
                  <lb/>and about 6 have been brought back. Today while
                  <lb/>I was down onn the bay ice having parked the team up
-                 <lb/>above on the barrier my companions, <persName ref="#Tony">Tony</persName> <persName><addName type="nickname">Doc</addName></persName> and <persName>Joe
+                 <lb/>above on the barrier my companions, <persName ref="#Tony">Tony</persName> <persName ref="#DocFrazier">Doc</persName> and <persName>Joe
                  <lb/>Wells</persName>, and I were disturbed in our picture taking and
                  <pb facs="journal-2-32" n="/1/10894952-c9d4-42f8-bd1b-9ef6df38aca7"/>
                  <fw type= "pageNum" place="top">28</fw>
@@ -3732,7 +3732,7 @@
                   <p>
                      <lb/>
                      <lb/>
-                     <lb/>dear doc x shall contact <name>karlstom</name> in <placeName>seattle</placeName> immediately x am to
+                     <lb/>dear <persName ref="#DocFrazier">doc</persName> x shall contact <name>karlstom</name> in <placeName>seattle</placeName> immediately x am to
                      <lb/>be drafted next month x hope to see you in june on your way east
                      <lb/>x your folks send their regards
                   </p>
@@ -3826,7 +3826,7 @@
                      <lb/> 2 <name type="call-sign" ref="#WLMC"> WLMC</name><date when="1940-12-18" type="sent">DEC 16</date><placeName>RICHMOND IND</placeName>
                      <lb/><persName>LOCKHART</persName>
                   </opener>
-                  <p>Dear Doc merry XMAS X I shall speak from <placeName type="city">Indianapolis</placeName>
+                  <p>Dear <persName ref="#DocFrazier">Doc</persName> merry XMAS X I shall speak from <placeName type="city">Indianapolis</placeName>
                      <lb/>to you at Little America via Mail Bag Friday Dec. 20th hope you listen </p>
                   <closer>
                      <lb/><signed><persName>George</persName></signed>
