@@ -441,11 +441,13 @@
                         members of the expedition) presence in the Antarctic was in and of itself an allusion to the geopolitics of the continent occurring at that time.
                      </p>
                      <p rend="h3" xml:id="entertainment">Reading and Recreation</p>
-                     <p>When the men weren't doing chores or busy
-                        with their expedition duties or traveling on the trail, they traded their
-                        hectic schedule for the "not so rigorous one of the base." When this journal
-                        begins on December 25, Lockhart's Biological Party had just returned from
-                        their sledging journey. Lockhart discusses some activities and modes of
+                     <p>When this journal
+                        begins on December 25, Lockhart's Biological Party had just rushed back from
+                        their sledging journey to make it back to base in time for Christmas Dinner according to
+                        an article in the December 25, 1940 <title level="j">Los Angeles Times</title> <bibl><ref target="#RushChristmas">2</ref></bibl>. 
+                        Back on base after their journey, the men traded their
+                        hectic schedule for the "not so rigorous one of the base." When the men weren't doing chores or busy
+                        with their expedition duties, they were free to rest and relax. Lockhart mentions some of the 
                         entertainment that he and his colleagues indulged in during their free time.
                         He mentions how the group got into the habit of "sleeping days and staying
                         up nights." The men seemed to enjoy telling stories or "chewing the fat" as
@@ -464,10 +466,7 @@
                         "Visitors to the North Star here found the crew well-equipped for a long
                         stay in the polar region, with provisions for entertainment as well as work.
                         Aboard are more than 100 games, including two billiard tables, softballs,
-                        cards, darts, checkers, chess and backgammon. There also are portable radios
-                        and phonographs" (p. 9). Private firms and families contributed items such
-                        as books, instruments, and tobacco (http://www.south-pole.com/p0000109.htm)
-                        Lockhart does mention Peter's ukelele, and the men tried singing once or
+                        cards, darts, ch tion Peter's ukelele, and the men tried singing once or
                         twice for radio broadcasts. Several movies were also shown at the base.
                         Lockhart references a few movies including Jones Family in Hollywood, Risky
                         Business, and Blondie. Lockhart does not have much to say about the movies
@@ -1869,6 +1868,11 @@
                   </title> Web. 4 April 2014.</bibl>
                <bibl xml:id="WikiWiener" n="Wiener"><title level="a">Murray A. Wiener</title><title level="s"> Wikipedia, the free encyclopedia</title> 
                   28 Jan 2014. Web. 20 March 2014.</bibl>
+               <bibl xml:id="Rushhristmas" n="RushChristmas"><title level="a">Byrd's Men Rush Sled Dogs to Reach Base
+                  for Christmas.><title level="j">Los Angeles Times.</title> 25 December 1940. <title level="m">Proquest: Historical Newspapers.</title>
+                 Web. 13 April 2014.</title>
+                 
+                  </bibl>
             </listBibl>
             
          </sourceDesc>
