@@ -1086,7 +1086,7 @@
                   <persName>Trefts, George W.</persName>
                   <birth when="1919"></birth>
                   <death when="1994"></death>
-                  <note type="biographical">George W. Trefts was a military personnel on the Lockhart expedition. <ref target="TreftsHSM">Military Collection Descriptions</ref></note>
+                  <note type="biographical">George W. Trefts was a military personnel on the Lockhart expedition. <ref target="TreftsHSM">"Military Collection Descriptions"</ref></note>
                </person>
                
                <person xml:id="Schlossbach" source="#WikiIke">
@@ -1094,7 +1094,8 @@
                   <birth when="1891-08-20"><placeName>Bradley Beach, NJ</placeName></birth>
                   <death when="1984"><placeName>Bradley Beach, NJ</placeName></death>
                   <occupation> American Polar Explorer, submariner and aviation pioneer and Navigator.</occupation>
-                  <note type="biographical">American Polar Explorer, submariner and aviation pioneer and Navigator. Ike Schlossbach is referenced as "Schlossback" within the Journals written by Lockhart.<ref target="#WikiIke">"Issac Schlossbach"</ref></note>
+                  <note type="biographical">Issach Schlossbach was an American Polar Explorer, submariner and aviation pioneer and Navigator. Ike Schlossbach is referenced 
+                     as "Schlossback" within the Journals written by Lockhart.<ref target="#WikiIke">"Issac Schlossbach"</ref></note>
                </person>
                   <person xml:id="Wiener" source="#personnel #Wiener">
                      <persName>Wiener, Murray</persName>
@@ -1116,7 +1117,7 @@
                   <death when-custom="unknown"></death>
                   <occupation when="1939">Radio Chief</occupation>
                   <residence>Belmont, Mass</residence>
-                  <note type="biographical">Clay Bailey was a commander in the United States Navy and member of the Byrd Antarctic
+                  <note type="biographical">Clay W. Bailey was a commander in the United States Navy and member of the Byrd Antarctic
                   Expedition. In 1939 until 1941, Bailey served as a radio chief for Rare Radio for the West Base Party of the 
                   United States Antarctic Service.<ref target="#personnel">"Personnel, 1939-1940"</ref>;<ref target="#SPBailey">The United States Antarctic Service Expedition</ref></note>
                </person>
@@ -1142,7 +1143,7 @@
                   <persName>Wells, Loren <addName type="nickname">Joe</addName></persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
-                  <note type="biographical">Joe Wells was a personnel on the West Base. He specialized specifically in tailoring. <ref target="#personnel">"Personnel, 1939-1940"</ref>; <ref target="#WikiWells">Harold P. Gilmore</ref></note>
+                  <note type="biographical">Loren "Joe" Wells was a personnel on the West Base. He specialized in tailoring and served the function of tailor during the Lockhart Expedition. <ref target="#personnel">"Personnel, 1939-1940"</ref>; <ref target="#WikiWells">Harold P. Gilmore</ref></note>
                </person>
                
                <person xml:id="Wade" source="#Passel">
