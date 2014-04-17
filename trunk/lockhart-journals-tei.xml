@@ -2256,7 +2256,7 @@
                      <lb/>more lulling until <seg ana="metaphor">show time</seg>. We saw the <title level="m" ref="#jfih">Jones family in
                      <lb/>Hollywood</title><ptr type="noteAnchor" target="notemovies1"/><note resp="ed" xml:id="notemovies1">A 1939 comedy starring Jed Prouty and Spring Byington.
                         <bibl><ref target="#IMBdJF"><title level="a">Jones Family in Hollywood</title></ref></bibl></note>
-                  and <title level="m" ref="#rb">Risky Business</title> <ptr type="noteAnchor" target="notemovies2"/>
+                  and <title level="m" ref="#rb">Risky Business</title><ptr type="noteAnchor" target="notemovies2"/>
                   <note resp="ed" xml:id="notemovies2">A 1939 crime drama starring George Murphy and Dorothea Kent. There is no relation to the 1983 movie of the same name starring Tom Cruise.
                      <bibl><ref target="#IMBdRB"><title level="a">Risky Business</title></ref></bibl></note>. I enjoyed both of them.
                   </p>
