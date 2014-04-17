@@ -377,10 +377,10 @@
                         of dogs and sleds brought him closer to [the Arctic] than any previous explorer" <bibl><ref target="#Florio">Florio 36</ref></bibl>.
                         The next and perhaps the most famous use of sled dogs was the American explorer Peary, who succeeded 
                         in reaching the North Pole through his innovation that when "dogs gave out, unable to keep pace, 
-                        they were fed to the others" <bibl><ref target="#PearyArctic">as cited in American Geographical Society, 685</ref></bibl>. There had been forced cannibalism among the Nansen expedition's dogs, but that was 
-                        primarily based on starvation and the needs of the surviving dogs and men, not as means of furthering the expedition's goals.
-                        A strange mixture of love and cruel efficiency seems to be present in subsequent polar expeditons, such as Amundsen 
-                        overseeing on his expedition to the South Pole circumstances that he described as "Twenty-four of our 
+                        they were fed to the others" <bibl><ref target="#PearyArctic">as cited in American Geographical Society, 685</ref></bibl>. There had been forced cannibalism 
+                        among the Nansen expedition's dogs, but that was primarily based on starvation and the needs of the surviving dogs and men, 
+                        not as means of furthering the expedition's goals. A strange mixture of love and cruel efficiency seems to be present in subsequent polar expeditons, 
+                        such as Amundsen overseeing on his expedition to the South Pole circumstances that he described as "Twenty-four of our 
                         faithul comrades had to die. The place where this happened was named the 'Slaughter House'" <bibl><ref target="#AmundsenArctic">Amundsen 833</ref></bibl>. The bizarre mixture of deep 
                         affection and slaughter makes the killing of the dogs seem almost like fratricide. Lockhart's deep admiration 
                         and love of the dogs on his own expedition may or may not have been tempered with the knowledge that so many of their fellow 
@@ -762,7 +762,7 @@
                      <placeName>New York City, New York</placeName>
                   </death>
                   <note type="biographical">Lockhart mentions Sherman's burning of Atlanta while recording his 
-                     reactions to Gone With the Wind<bibl><ref target="#ANB">"William Tecumseh Sherman"</ref></bibl></note>
+                     reactions to <title level="m">Gone With the Wind</title><bibl><ref target="#ANB">"William Tecumseh Sherman"</ref></bibl></note>
                </person>
                <person xml:id="Warner" source="#personnel #Passel">
                   <persName>Warner, Lawrence A. <addName type="nickname">Larry</addName></persName>
@@ -834,8 +834,8 @@
                 <residence when="1940">Encio, California</residence>
                 <note type="biographical">Gable appeared in 97 films from 1924 to 1961, his last film being released after his death.
                 Gable was nominate for the best leading actor academy award in 1934, 1935, and 1939. He won it in 1934 for his role in "It Happened One Night." 
-                Gabel was leading actor in over 60 films and is best known for his role in Gone With the Wind in 1939</note>
-                <note>Lockhart mentions Gabel when comparing the film adaptation of Gone with the Wind to the novel. Lockhart finds Gabel fitting in his role as Rhett Butler</note>  
+                Gabel was leading actor in over 60 films and is best known for his role in <title level="m">Gone With the Wind</title> in 1939</note>
+                  <note>Lockhart mentions Gabel when comparing the film adaptation of <title level="m">Gone with the Wind</title> to the novel. Lockhart finds Gabel fitting in his role as Rhett Butler</note>  
                </person>
                <person xml:id="VivienLeigh">
                 <persName>Leigh, Vivien</persName>
@@ -844,9 +844,9 @@
                 <occupation when="1940">Actress</occupation>
                 <residence when="1940">England</residence>
                 <note type="biographical">Leigh appeared in 37 plays and 20 films from 1935 to 1966.
-                 Leigh won the best actress academy award in 1939 and 1951 for her roles in Gone with the Wind and A Streetcar Named Desire, respectively.
+                   Leigh won the best actress academy award in 1939 and 1951 for her roles in <title level="m">Gone with the Wind</title> and A Streetcar Named Desire, respectively.
                  Leigh is best known for the aforementioned roles and was married to British actor Laurence Olivier from 1940 to 1960.</note>
-                <note>Lockhart mentions Leigh when comparing the film adaptation of Gone with the Wind to the novel. Lockhart expresses doubt that Leigh was the right actress to play Scarlett</note>  
+                  <note>Lockhart mentions Leigh when comparing the film adaptation of <title level="m">Gone with the Wind</title> to the novel. Lockhart expresses doubt that Leigh was the right actress to play Scarlett</note>  
                </person>
                <person xml:id="MargaretMitchell">
                  <persName>Mitchell, Margaret</persName>
@@ -855,9 +855,9 @@
                  <occupation when="1940">Housewife (formerly a writer and journalist)</occupation>
                  <residence when="1940">Atlanta, Georgia</residence>
                  <note type="biographical">Margaret Mitchell was an author and a journalist for The Atlanta Journal.
-                        Gone with the Wind, the only work of hers published during her lifetime, won the Pulitzer Prize for Fiction in 1937
-                        Over 30 million copies of the novel Gone with the Wind have been printed worldwide.</note>
-                 <note>Lockhart mentions Mitchell in his comparison of the film adaptation of Gone with the Wind to the novel. He is unsure
+                    <title level="m">Gone with the Wind</title>, the only work of hers published during her lifetime, won the Pulitzer Prize for Fiction in 1937
+                        Over 30 million copies of the novel <title level="m">Gone with the Wind</title> have been printed worldwide.</note>
+                  <note>Lockhart mentions Mitchell in his comparison of the film adaptation of <title level="m">Gone with the Wind</title> to the novel. He is unsure
                        which ending was more appropriate; Mitchell's written ending of the film ending,</note> 
                </person>
                <person xml:id="Darwin">
@@ -1315,7 +1315,7 @@
                
                <place type="country" xml:id="NewZealand" source="#TGN">
                   <placeName>New Zealand</placeName>
-                  <desc>Island nation of the Southwest Pacific. The Bear is mentioned having just 
+                  <desc>Island nation of the Southwest Pacific. <name type="ship" ref="#Bear">The Bear</name> is mentioned having just 
                      left New Zealand on its way to Antarctica early in the journal</desc>
                   <location><geo>-42.0000 174.0000</geo></location>
                </place>
@@ -1333,7 +1333,7 @@
                   <region type="state">Georgia</region>
                   <region type="county">Fulton</region>
                   <desc>Lockhart discusses Sherman's burning of Atlanta when talking about his 
-                     reactions to Gone with the Wind</desc>
+                     reactions to <title level='m'>Gone with the Wind</title></desc>
                   <location><geo>33.7333 -84.3833</geo></location>
                </place>
                
@@ -1445,7 +1445,7 @@
                  <country>United States</country>
                  <location><geo>28.1000, -81.6000</geo></location>
                  <desc>Lockhart mentions Florida in talking about the books he has been reading, which have taken place in the south.
-                 He mentions reading South Moon Under which takes place in Florida, after he finished reading Gone with the Wind.</desc> 
+                    He mentions reading South Moon Under which takes place in Florida, after he finished reading <title level="m">Gone with the Wind</title>.</desc> 
                </place>
                
                <place type="city" xml:id="Balboa" source="#TGN">
@@ -2655,7 +2655,7 @@
                <lb/>little --- but not much.
             </p>
             <p>
-               <lb/>I began reading <title>Gone with the Wind</title><ptr type="noteAnchor" target="NoteGTW"/><note resp="ed" xml:id="NoteGTW">The 1936 novel by Margaret Mitchell about the fate of plantation heiress Scarlett O'Hara, infamous for its almost nostalgic portrayal of slavery and plantation life, but also extremely popular internationally to this day. Famously adapted into the 1939 film starring Vivien Leigh and Clark Gable, which Lockhart also discusses<bibl><ref target="#WikiGWTW">"Gone with the Wind. Wikipedia."</ref></bibl></note> and hope it won't
+               <lb/>I began reading <title level="m">Gone with the Wind</title><ptr type="noteAnchor" target="NoteGTW"/><note resp="ed" xml:id="NoteGTW">The 1936 novel by Margaret Mitchell about the fate of plantation heiress Scarlett O'Hara, infamous for its almost nostalgic portrayal of slavery and plantation life, but also extremely popular internationally to this day. Famously adapted into the 1939 film starring Vivien Leigh and Clark Gable, which Lockhart also discusses<bibl><ref target="#WikiGWTW">"Gone with the Wind. Wikipedia."</ref></bibl></note> and hope it won't
                <lb/>take too much of my time.
             </p>
             <p>
@@ -2688,7 +2688,7 @@
             <p>
                <lb/>Yesterday which normally would have been written up early
                <lb/>this morning <seg ana="metaphor">slipped by</seg> with no entry entirely because I had
-               <lb/>gotten so far into <title>Gone with the Wind</title> that wartime was a thing
+               <lb/>gotten so far into <title level="m">Gone with the Wind</title> that wartime was a thing
                <lb/>of minor importance.  I read that amazing <subst><del rend="strikethrough">epis</del><add place="above">narrative</add></subst> of life
                <lb/>among the Southerners during the <name>Civil War</name> days until almost
                <lb/>AM.  I wasn't reading all of the time but enough of the time 
