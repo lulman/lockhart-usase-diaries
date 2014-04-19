@@ -442,41 +442,46 @@
                      </p>
                      <p rend="h3" xml:id="entertainment">Reading and Recreation</p>
                      <p>When this journal
-                        begins on December 25, Lockhart's Biological Party had just rushed back from
-                        their sledging journey to make it back to base in time for Christmas Dinner according to
-                        an article in the December 25, 1940 <title level="j">Los Angeles Times</title> <bibl><ref target="#RushChristmas">2</ref></bibl>. 
-                        Back on base after their journey, the men traded their
-                        hectic schedule for the "not so rigorous one of the base." When the men weren't doing chores or busy
-                        with their expedition duties, they were free to rest and relax. Lockhart mentions some of the 
-                        entertainment that he and his colleagues indulged in during their free time.
-                        He mentions how the group got into the habit of "sleeping days and staying
-                        up nights." The men seemed to enjoy telling stories or "chewing the fat" as
-                        Lockhart puts it, skiing and walking with the dogs, and target practicing
-                        with the skua gulls.</p>
-                        <p>On Christmas Day, Lockhart enjoys a drink;
-                        he had "nursed a pint for two and a half months." He otherwise does not
-                        mention drinking of smoking, but there are several newspaper ads for Camel
-                        cigarettes claiming that they were the brand of choice smoked by the
-                        Antarctic explorers. The February 14, 1939 Cleveland Plain Dealer
+                        begins on December 25, Lockhart's Biological Party had just hurried back from
+                        their sledging journey to make it in time for Christmas Dinner according to
+                        an article in the December 25, 1940 <title level="j">Los Angeles Times</title> <bibl><ref target="#RushChristmas"><title level="a">Byrd's Men Rush 2</title></ref></bibl>. 
+                        On Christmas Day, 
+                        The men enjoyed their special dinner that evening; the men also enjoyed a special Thanksgiving Dinner meal 
+                        as seen in a photograph in the December 6 <title level="a">New York Times</title> <bibl><ref target="#Thanksgiving"><title level="a">Thanksgiving Day Feast 20</title></ref></bibl> .
+                        he had "nursed a pint for two and a half months." 
+                        Lockhart does not 
+                        discuss drinking or smoking other than this instance, but the men apparently enjoyed smoking; several newspaper ads for Camel
+                        cigarettes claimed that they were the brand of choice smoked by the
+                        Antarctic explorers. The February 14, 1939 <title level="j">Cleveland Plain Dealer</title>
                         proclaimed: "Rear Admiral Richard E. Byrd, commanding, explained,
                         'Slow-burning Camels are a great favorite with us. You can be sure we have
-                        plenty" (p. 9). Other activities not mentioned by Lockhart but referenced in
+                        plenty" <bibl><ref target="#Camels"><title level="a">Off To Voluntary Exile 9</title></ref></bibl>. 
+                        </p>
+                     <p> Back on base after their journey, Lockhart says that the men traded their
+                        hectic schedule for the "not so rigorous one of the base." When the men weren't doing chores or busy
+                        with their expedition duties, they were free to rest and relax. Lockhart 
+                        mentions how the group got into the habit of "sleeping days and staying
+                        up nights." The men seemed to enjoy telling stories or "chewing the fat" as
+                        Lockhart puts it, skiing and walking with the dogs, and target practicing
+                        with the skua gulls. A photograph from Passel's collection captures the men hanging 
+                        around and talking during some down time.
+                        Other activities not mentioned by Lockhart but referenced in
                         articles that the men probably engaged in included various games and music.
-                        According to an article in the November 22, 1939 The Washington Times,
+                        According to an article in the November 22, 1939 <title level="j">The Washington Times</title>
                         "Visitors to the North Star here found the crew well-equipped for a long
                         stay in the polar region, with provisions for entertainment as well as work.
                         Aboard are more than 100 games, including two billiard tables, softballs,
-                        cards, darts, ch tion Peter's ukelele, and the men tried singing once or
-                        twice for radio broadcasts. Several movies were also shown at the base.
+                        cards, darts, checkers, chess and backgammon" <bibl><ref target="#ByrdPoleSnow"><title level="a">Byrd's North Star Sails 9</title></ref></bibl>. There were 
+                        also are portable radios and phonographs. </p>
+                     <p>Several movies were also shown at the base.
                         Lockhart references a few movies including Jones Family in Hollywood, Risky
                         Business, and Blondie. Lockhart does not have much to say about the movies
                         besides that he "enjoyed" the former. He also commented that Blondie "made
                         us laugh as much as if it were only the first time we had seen it." These
                         were all contemporary films</p>
                      
-                     <p>The majority of Lockhart's free time was
-                        devoted to reading books and occasionally letters or radiograms from family
-                        and friends. Some of his reading materials were purchased before reaching
+                     <p>Lockhart's spent the majority of his free time 
+                        reading. Some of his reading materials were purchased before reaching
                         Antarctica, and others were from the ship. Lockhart read a mix of
                         contemporary fiction and older nonfiction, and he dedicated a good portion
                         of his journal on his reflections and opinions of his reading material. He
@@ -1885,6 +1890,8 @@
                  Web. 13 April 2014.</title>
                  
                   </bibl>
+               <bibl xml:id="Thanksgiving" n="Thanksgiving"><title level="a">A Thanksgiving Day Feast in the Antarctic.</title> 
+                  <title level="j">New York Times.</title> 6 December 1940. <title level="m">ProQuest: Historical Newspapers.</title> Web. 13 April 2014.</bibl>
             </listBibl>
             
          </sourceDesc>
