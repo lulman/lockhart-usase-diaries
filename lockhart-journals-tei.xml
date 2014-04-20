@@ -1,4 +1,4 @@
-<?xml-model href="lockhart-journals-teicustomization.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="lockhart-journals-tseicustomization.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xmlns:hlu="http://www.osu.edu/ulman/reliablewitnesses/ns/1.0">
    <!-- TO-DO LIST 
    - Update glosses to P5
@@ -685,16 +685,17 @@
                   Its maximum speed was 30 miles per hour, and it was created to function at very low temperatures
                   and travel in deep, soft snow. It could also be living space for the crew. The Snow Cruiser was a very popular and huge 
                   deal at the time; several newspaper articles documented its progress across the United States; for example, the November 
-                  2, 1939 Cleveland Plain Dealer's front-page article entitled "Snow Cruiser is Like a Fantastic Dream;
+                  2, 1939 <title level="j">Cleveland Plain Dealer's</title>front-page article entitled "Snow Cruiser is Like a Fantastic Dream;
                   No Wonder Animals Run" documents: "That such a Gargantuan vehicle as Admirald Richard E. Byrd's 
                   snow cruiser could go rolling along the countryside seems impossible. It is so tremendous...And as it 
                   rolled along the roads of Ohio, tens of thousands of men and women and children stared at it and 
                   smiled and shouted and shouted and waved their hats...the cruiser...is on its way from Chicago to Boston to join
-                  Admiral Byrd's Antarctic expedition..." (p. 1). Despite its promise, though, the snow cruiser caused problems 
-                  from the moment it was unloaded in Antarctica as documented in the March 13, 1940 issue of the Cleveland Plain Dealer: "The huge
-                  vehicle demolished a ramp and was almost wrecked..." (p. 29). After this unceremonious unloading, "The snow cruiser
+                  Admiral Byrd's Antarctic expedition..." <bibl><ref target="#SnowCruiserDream">29</ref></bibl>. Despite its promise, though, the snow cruiser caused problems 
+                     from the moment it was unloaded in Antarctica as documented in the March 13, 1940 issue of the <title level="j">Cleveland Plain Dealer</title>: "The huge
+                  vehicle demolished a ramp and was almost wrecked..." <bibl><ref target="#SnowCruiserUnloaded">1</ref></bibl>. After this unceremonious unloading, "The snow cruiser
                   in which Admirald Richard E. Byrd hoped to roll across the Antarctic proved to be not so good on 
-                  frigid terrain, Engineer Charles Meyer disclosed today" proclaimed the June 23, 1940 Chicago Daily Tribune (p. 12). The
+                  frigid terrain, Engineer Charles Meyer disclosed today" proclaimed the June 23, 1940 <title level="j">Chicago Daily Tribune</title> 
+                     <bibl><ref target="#SnowCruiserPower">12</ref></bibl>. The
                   article continues: "Meyer said the 75,000 pound monster disappointed the explorers. Principal 
                   trouble, he said, was insufficient power..." The crew abandoned the cruiser when they left Antarctica. 
                </desc>
