@@ -1611,7 +1611,8 @@
                   <orgName>Boston Traveler</orgName>
                   <state type="company"></state>
                      <desc>A daily newspaper based in Boston, Massachusetts, it ran from 1914-1967, and was published by Boston Herald, Inc 
-                        <bibl><ref target="#Traveler"><title level="a">About the Boston traveler</title></ref></bibl>. In his journal, Lockhart mentions that the newspaper is sponsoring a mail bag to be delivered to the base camps.</desc>
+                        <bibl><ref target="#Traveler"><title level="a">About the Boston traveler</title></ref></bibl>. In his journal, Lockhart 
+                        mentions that the newspaper is sponsoring a mail bag to be delivered to the base camps, which would have been delivered via shortwave radio.</desc>
                </org>
                <org xml:id="USDptoftheInt" source="#eel-19410427 #Richard">
                   <orgName>US Department of the Interior</orgName>
