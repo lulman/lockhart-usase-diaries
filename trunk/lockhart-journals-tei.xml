@@ -462,7 +462,7 @@
                         with their expedition duties, they were free to rest and relax. Lockhart 
                         mentions how the group got into the habit of "sleeping days and staying
                         up nights." The men seemed to enjoy telling stories or "chewing the fat" as
-                        Lockhart puts it, skiing and walking with the dogs, and target practicing
+                        Lockhart puts it, skiing and walking with the dogs, chasing penguins, and target practicing
                         with the skua gulls. A photograph from Passel's collection captures the men hanging 
                         around and talking during some down time.
                         Other activities not mentioned by Lockhart but referenced in
@@ -663,7 +663,8 @@
                   this type of plane was the same as the William Horlick which had been used on
                   long flights during the Second Byrd Expedition. These planes had been used for 5 years by the USMC.
                   The Condor was used to bring supplies to trail parties and dog teams. Lockhart writes about the Condor's final flight on January 3, 1941; it had engine trouble according to 
-                  Lockhart; Bertrand mentions a fire. After this engine failure or fire, the Condor was subsequently abandoned.</desc>
+                  Lockhart; Bertrand mentions a fire. After this engine failure or fire, the Condor was subsequently abandoned <bibl><ref target="#Bertrand">424</ref></bibl>.
+                     </desc>
                </item>
                <item xml:id="Bear">
                   <name type="ship" source="#Bertrand">U.S.S. Bear, Bear of Oakland</name>
@@ -676,14 +677,16 @@
                   <desc>According to Bertrand, the Beechcraft was a new, light, single-motored, 5 passenger plane 
                   that was mounted on skis and supposed to be transported on the Snow Cruiser for aerial exploration
                   within a distance of 300 miles. When the Condor was disabled on January 3, 1941, Pete and Pappy flew the Beechcraft to rescue 
-                  supplies left in the Condor and to fly men back to West Base.</desc>
+                  supplies left in the Condor and to fly men back to West Base <bibl><ref target="#Bertrand">413-414</ref></bibl>.
+                  </desc>
                </item>
                <item xml:id="SnowCruiser">
                   <name type="cruiser" source="#bertrand">Snow Cruiser</name>
                   <desc>According to Bertrand, the Snow Cruiser could store food for a year, and it 
                   carried 2500 gallons of diesel oil which would last 5000 miles as well as 1000 gallons of gas for flying. 
                   Its maximum speed was 30 miles per hour, and it was created to function at very low temperatures
-                  and travel in deep, soft snow. It could also be living space for the crew. The Snow Cruiser was a very popular and huge 
+                  and travel in deep, soft snow. It could also be living space for the crew <bibl><ref target="#Bertrand">413-414</ref></bibl>.
+                   The Snow Cruiser was a very popular and huge 
                   deal at the time; several newspaper articles documented its progress across the United States; for example, the November 
                   2, 1939 <title level="j">Cleveland Plain Dealer's</title>front-page article entitled "Snow Cruiser is Like a Fantastic Dream;
                   No Wonder Animals Run" documents: "That such a Gargantuan vehicle as Admirald Richard E. Byrd's 
@@ -694,10 +697,10 @@
                      from the moment it was unloaded in Antarctica as documented in the March 13, 1940 issue of the <title level="j">Cleveland Plain Dealer</title>: "The huge
                   vehicle demolished a ramp and was almost wrecked..." <bibl><ref target="#SnowCruiserUnloaded">1</ref></bibl>. After this unceremonious unloading, "The snow cruiser
                   in which Admirald Richard E. Byrd hoped to roll across the Antarctic proved to be not so good on 
-                  frigid terrain, Engineer Charles Meyer disclosed today" proclaimed the June 23, 1940 <title level="j">Chicago Daily Tribune</title> 
-                     <bibl><ref target="#SnowCruiserPower">12</ref></bibl>. The
+                  frigid terrain, Engineer Charles Meyer disclosed today" proclaimed the June 23, 1940 <title level="j">Chicago Daily Tribune</title>. 
+                    The
                   article continues: "Meyer said the 75,000 pound monster disappointed the explorers. Principal 
-                  trouble, he said, was insufficient power..." The crew abandoned the cruiser when they left Antarctica. 
+                  trouble, he said, was insufficient power..." <bibl><ref target="#SnowCruiserPower">12</ref></bibl>. The crew abandoned the cruiser when they left Antarctica. 
                </desc>
                </item>
                <item xml:id="tank">
@@ -718,7 +721,7 @@
                <item xml:id="tractor">
                   <name type="tractor" source="#Bertrand">Tractor</name>
                   <desc>West Base had a T-20 International crawler style of tractor. It was used for transport, unloading supplies from the ships, and to stash supplies by pulling trains of sleds to lie food and fuel in caches and depots for the sledging parties. 
-                     The tractor parties went ahead of the sledging parties and established trails. <bibl><ref target="#Bertrand">Bertrand</ref></bibl>
+                     The tractor parties went ahead of the sledging parties and established trails <bibl><ref target="#Bertrand">Bertrand 422</ref></bibl>.
                   </desc>
                </item>
                </list>
