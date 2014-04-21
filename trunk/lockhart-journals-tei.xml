@@ -1394,7 +1394,7 @@
                      Lockhart's ship passed through Valpo, Panama, and Seattle on his way home. An article in 
                      the March 24, 1940 <title level="j">The Sunday Oregonian</title> chronicles the ships' return from Antarctica as Byrd
                   traveled back after establishing the bases: "The Bear and North Star are headed for Punta Arenas, Chile.
-                  From there they are scheduled to go to Valparaiso, arriving about April 1..." <bibl><ref target="#ByrdHeads"><title level="a">Byrd Heads</title>1</ref></bibl>.</desc>
+                  From there they are scheduled to go to Valparaiso, arriving about April 1..." <bibl><ref target="#ByrdHeads"><title level="a">Byrd Heads</title>3</ref></bibl>.</desc>
                   <location><geo>-33.0478 -71.6011</geo></location></place>
                
                <place type="city" xml:id="Dunedin" source="#Bertrand #ByrdSails #TGN #eel-19410115a #eel-19410116a"><placeName>Dunedin</placeName>
@@ -1801,11 +1801,11 @@
                
                <bibl xml:id="White" n="White"> White, James A. <title level="a">Byrd Expeditions Paying Off Today On Our Frozen Fronts.</title> <title level="j">The Palm Beach Post</title>
                 Google news, n.d. Web. 4 March 2014.</bibl>
-               <bibl xml:id="Petras" n="Petras"><title level="a">Theodore A. Petras</title><title level="m">Enlisted Naval Aviation Pilots</title>Turner Publishing Company, 2002.</bibl>
-               <bibl xml:id="McCoy" n="McCoy"><title level="a">Commander James Charles McCoy Explorer</title><title level="m">Geneaology.Rootsweb.Ancestry.Com</title>N.p., n.d. Web. 27 February 2014. 
-                  http://freepages.genealogy.rootsweb.ancestry.com/~jcmccoyjr/UnderConstruct/Page_5x.html</bibl>
-               <bibl xml:id="JamesCharles" n="JamesCharles"><title level="a">James Charles McCoy</title><title level="m">Ancestry.Com</title>N.p., n.d. Web. 27 February 2014.
-                  http://records.ancestry.com/James_Charles_McCoy_records.ashx?pid=80142976</bibl>
+               <bibl xml:id="Petras" n="Petras"><title level="a">Theodore A. Petras.</title> <title level="m">Enlisted Naval Aviation Pilots.</title> Turner Publishing Company, 2002. Print.</bibl>
+               <bibl xml:id="McCoy" n="McCoy"><title level="a">Commander James Charles McCoy Explorer</title><title level="m">Geneaology.Rootsweb.Ancestry.Com</title>  
+                  http://freepages.genealogy.rootsweb.ancestry.com/~jcmccoyjr/UnderConstruct/Page_5x.html Web. 27 February 2014.</bibl>
+               <bibl xml:id="JamesCharles" n="JamesCharles"><title level="a">James Charles McCoy</title><title level="m">Ancestry.Com</title> 
+                  http://records.ancestry.com/James_Charles_McCoy_records.ashx?pid=80142976 Web. 27 February 2014.</bibl>
             
                <bibl xml:id="IMBdRB" n="Risky"><title level="a">Risky Business</title><title level="m"> IMDb.</title> IMDb, n.d. Web.</bibl> 
                <bibl xml:id="IMBdJF" n="Jones"><title level="a">Jones Family in Hollywood</title><title level="m"> IMDb.</title> IMDb, n.d. Web.</bibl>
@@ -1869,7 +1869,7 @@
                   <title level="m">Smithsonian Institution Archives.</title> Smithsonian Institution, n.d. Web. 9 April 2014.
                </bibl>
                <bibl xml:id="Day" n="Day">Day, David. <title level="m">Antarctica: A Biography.</title> New York, NY: Oxford University Press, 2013. Print.</bibl>
-               <bibl xml:id="ByrdsShip" n="Byrd's"><title level="a">Byrd's Ship Making Ready For New Trip</title>. <title level="j">New York Times</title>
+               <bibl xml:id="ByrdsShip" n="Byrd's"><title level="a">Byrd's Ship Making Ready For New Trip.</title> <title level="j">New York Times.</title>
                25 June 1939. <title level="m">ProQuest: Historical Newspapers.</title> Web. 3 April 2014.</bibl>
                <bibl xml:id="JapanUrged" n="Japan"><title level="a">Japan Urged to Claim Territory</title>. <title level="j">New York Times</title>
                1 March 1939. <title level="m">ProQuest: Historical Newspapers.</title> Web. 3 April 2014.</bibl>
@@ -1879,20 +1879,20 @@
                   ProQuest: Historical Newspapers.</title> Web. 9 April 2014.</bibl>
                <bibl xml:id="President" n="President"><title level="a">President Directs Speed on Byrd Trip.</title> <title level="j">New York Times</title>
                8 July 1939. <title level="m">ProQuest: Historical Newspapers.</title> Web. 9 April 2014.</bibl>
-               <bibl xml:id="BearSail" n="BearSail"><title level="a">Bear to Sail from Dunedin, NZ.</title> <title level="j">New York Times</title> 29 December 1940. 
+               <bibl xml:id="BearSail" n="BearSail"><title level="a">Bear to Sail from Dunedin, NZ.</title> <title level="j">New York Times.</title> 29 December 1940. 
                   <title level="m">Proquest Historical Newspapers.</title> Web. 14 March 2014.</bibl>
                <bibl xml:id="ByrdHeads" n="ByrdHeads"><title level="a">Byrd Heads Toward Home: Explorer Leaves Antarctic Bases.</title> 20 March 1940. <title level="j">Sunday Oregonian.</title> 24 March 1940.
                  <title level="m">America's Historical Newspapers</title> Web. 14 March 2014.</bibl>
                <bibl xml:id="GilesDivorced" n="GilesDivorced"><title level="a">Byrd Flier Is Divorced After Notice
-               Over Radio.</title> <title level="j">New York Times.</title> <title level="m">ProQuest: Historical Newspapers.</title> Web. 14 March 2014.
+               Over Radio.</title> 9 March 1940. <title level="j">New York Times.</title> <title level="m">ProQuest: Historical Newspapers.</title> Web. 14 March 2014.
                  </bibl>
-               <bibl xml:id="McCoyVeteran" n="McCoyVeteran"><title level="a">James McCoy.</title> <title>Ancestry.com.</title> <title level="m">US Department of Veterans Affairs
-               BIRLS Death File, 1850-2010.</title></bibl>
-               <bibl xml:id="GilesAncestry" n="GilesAncestry"><title level="a">Walter R Giles.</title> <title>Ancestry.com.</title> <title level="m">US Social Security Death Index.</title> Web.
+               <bibl xml:id="McCoyVeteran" n="McCoyVeteran"><title level="a">James McCoy.</title> <title level="m">US Department of Veterans Affairs
+                  BIRLS Death File, 1850-2010.</title> <title>Ancestry.com.</title> Web. 14 March 2014.</bibl>
+               <bibl xml:id="GilesAncestry" n="GilesAncestry"><title level="a">Walter R Giles.</title> <title level="m">US Social Security Death Index.</title> <title>Ancestry.com.</title>  Web.
                14 March 2014.</bibl> 
                <bibl xml:id="PetrasAncestry" n="PetrasAncestry"><title level="a">Theodore A Petras.</title> <title>Ancestry.com.</title> <title level="m">US Social Security Death Index.</title> Web.
                   14 March 2014.</bibl> 
-               <bibl xml:id="McCoyAncestry" n="McCoyAncestry"><title level="a">James McCoy.</title> <title>Ancestry.com.</title> <title level="m">US Social Security Death Index.</title> Web.
+               <bibl xml:id="McCoyAncestry" n="McCoyAncestry"><title level="a">James McCoy.</title> <title level="m">US Social Security Death Index.</title> <title>Ancestry.com.</title> Web.
                   14 March 2014.</bibl> 
                <bibl xml:id="SnowCruiserPower" n="SnowCruiserPower"> <title level="a">Antarctic Snow Cruiser Found
                Short on Power.</title> <title level="j">Chicago Daily Tribune.</title> 23 June 1940. <title level="m">Proquest: Historical Newspapers.</title> Web. 14 March 2014.</bibl>
@@ -1911,10 +1911,10 @@
                <bibl xml:id="WikiWiener" n="Wiener"><title level="a">Murray A. Wiener</title><title level="s"> Wikipedia, the free encyclopedia</title> 
                   28 Jan 2014. Web. 20 March 2014.</bibl>
                <bibl xml:id="Rushhristmas" n="RushChristmas"><title level="a">Byrd's Men Rush Sled Dogs to Reach Base
-                  for Christmas.><title level="j">Los Angeles Times.</title> 25 December 1940. <title level="m">Proquest: Historical Newspapers.</title>
-                 Web. 13 April 2014.</title>
+                  for Christmas.</title><title level="j">Los Angeles Times.</title> 25 December 1940. <title level="m">Proquest: Historical Newspapers.</title>
+                  Web. 13 April 2014.</bibl>
                  
-                  </bibl>
+                  
                <bibl xml:id="Thanksgiving" n="Thanksgiving"><title level="a">A Thanksgiving Day Feast in the Antarctic.</title> 
                   <title level="j">New York Times.</title> 6 December 1940. <title level="m">ProQuest: Historical Newspapers.</title> Web. 13 April 2014.</bibl>
                <bibl xml:id="DeathSails" n="DeathSails"><title level="a">New Fiction Guide: More South Sea.</title><title level="j">Washington Post.</title> 12 December 1937.
