@@ -1394,7 +1394,7 @@
                      Lockhart's ship passed through Valpo, Panama, and Seattle on his way home. An article in 
                      the March 24, 1940 <title level="j">The Sunday Oregonian</title> chronicles the ships' return from Antarctica as Byrd
                   traveled back after establishing the bases: "The Bear and North Star are headed for Punta Arenas, Chile.
-                  From there they are scheduled to go to Valparaiso, arriving about April 1.."</desc>
+                  From there they are scheduled to go to Valparaiso, arriving about April 1..." <bibl><ref target="#ByrdHeads"><title level="a">Byrd Heads</title>1</ref></bibl>.</desc>
                   <location><geo>-33.0478 -71.6011</geo></location></place>
                
                <place type="city" xml:id="Dunedin" source="#Bertrand #ByrdSails #TGN #eel-19410115a #eel-19410116a"><placeName>Dunedin</placeName>
@@ -1402,7 +1402,7 @@
                   <desc>The Star spent several days in Dunedin on its way to West Base to pick up the crew. 
                   According to Lockhart it took about 10 days to travel from Dunedin to West Base. An article in the December 29, 1940 
                      <title level="j">New York Times</title> describes "an immediate sailing from Dunedin" and states that "The ship's schedule allows her
-                  twelve days to reach Little America" (17).</desc>
+                  twelve days to reach Little America" <bibl><ref target="#ByrdSails"><title level="a">Bear to Sail</title>17</ref></bibl>.</desc>
                   <location><geo>-45.8667 170.5000</geo></location>
                   </place>
                
@@ -1881,7 +1881,7 @@
                8 July 1939. <title level="m">ProQuest: Historical Newspapers.</title> Web. 9 April 2014.</bibl>
                <bibl xml:id="BearSail" n="BearSail"><title level="a">Bear to Sail from Dunedin, NZ.</title> <title level="j">New York Times</title> 29 December 1940. 
                   <title level="m">Proquest Historical Newspapers.</title> Web. 14 March 2014.</bibl>
-               <bibl xml:id="ByrdHeads" n="ByrdHeads"><title level="a">Byrd Heads Toward Home: Explorer Leaves Antarctic Bases.</title> <title level="j">Sunday Oregonian.</title> 24 March 1940.
+               <bibl xml:id="ByrdHeads" n="ByrdHeads"><title level="a">Byrd Heads Toward Home: Explorer Leaves Antarctic Bases.</title> 20 March 1940. <title level="j">Sunday Oregonian.</title> 24 March 1940.
                  <title level="m">America's Historical Newspapers</title> Web. 14 March 2014.</bibl>
                <bibl xml:id="GilesDivorced" n="GilesDivorced"><title level="a">Byrd Flier Is Divorced After Notice
                Over Radio.</title> <title level="j">New York Times.</title> <title level="m">ProQuest: Historical Newspapers.</title> Web. 14 March 2014.
