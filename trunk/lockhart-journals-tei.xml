@@ -1382,7 +1382,7 @@
                      of Breckenridge Peak Rockefeller Mountains. It was named because of its distance from West Base.
                      The depot was established prior to the sledge journeys so the parties could restock supplies and dog food.
                      Other caches of dog food were also established between West Base and Depot 105.
-                     Lockhart refers to it as 105; Passel calls it 105 Mile Cache, and Bertrand refers to it as 105-Mile Depot.</desc>
+                     Lockhart refers to it as 105; Passel calls it 105 Mile Cache, and Bertrand refers to it as 105-Mile Depot<bibl><ref target="#Bertrand #Passel">Bertrand 434; Passel 350</ref></bibl>.</desc>
                <location><geo>-78.279767 -155.535556</geo></location>
                </place>
                
@@ -1392,7 +1392,7 @@
                   <desc>Supplies, including the Condor plane, were loaded at Valparaiso, and mail was available for the crew from people
                      who had not been able to send mail on the Star before it departed. 
                      Lockhart's ship passed through Valpo, Panama, and Seattle on his way home. An article in 
-                  the March 24, 1940 The Sunday Oregonian chronicles the ships' return from Antarctica as Byrd
+                     the March 24, 1940 <title level="j">The Sunday Oregonian</title> chronicles the ships' return from Antarctica as Byrd
                   traveled back after establishing the bases: "The Bear and North Star are headed for Punta Arenas, Chile.
                   From there they are scheduled to go to Valparaiso, arriving about April 1.."</desc>
                   <location><geo>-33.0478 -71.6011</geo></location></place>
@@ -1400,8 +1400,8 @@
                <place type="city" xml:id="Dunedin" source="#Bertrand #ByrdSails #TGN #eel-19410115a #eel-19410116a"><placeName>Dunedin</placeName>
                   <country>New Zealand</country>
                   <desc>The Star spent several days in Dunedin on its way to West Base to pick up the crew. 
-                  According to Lockhart it took about 10 days to travel from Dunedin to West Base. An article in the December 29, 1940 New York
-                  Times describes "an immediate sailing from Dunedin" and states that "The ship's schedule allows her
+                  According to Lockhart it took about 10 days to travel from Dunedin to West Base. An article in the December 29, 1940 
+                     <title level="j">New York Times</title> describes "an immediate sailing from Dunedin" and states that "The ship's schedule allows her
                   twelve days to reach Little America" (17).</desc>
                   <location><geo>-45.8667 170.5000</geo></location>
                   </place>
