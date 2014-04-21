@@ -1186,7 +1186,7 @@
                   <death when="1978" precision="low"></death>
                   <occupation>Senior Scientist and Geographer</occupation>
                   <residence>Oxford, Oh</residence>
-                  <note type="biographical">Doctor Wade was the Senior Scientist and a member of the Snow Cruiser Unit.</note>
+                  <note type="biographical">Doctor Wade was the Senior Scientist and a member of the Snow Cruiser Unit <bibl><ref target="#Passel">Passel xv</ref></bibl>.</note>
                </person>
                <person xml:id="Jenene" source="#eel-19410110 #koulouris">
                   <persName>Lockhart, Jenene</persName>
