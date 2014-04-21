@@ -1933,6 +1933,9 @@
             <bibl xml:id="ScoutFlag" n="ScoutFlag"><title level="a">Scout Flag Carried Far: Antarctic Party Plants it 500 Miles South of 
             Little America.</title> <title level="j">New York Times.</title> 26 December 1940. <title level="m">ProQuest: Historical Newspapers.</title> Web. 13 April 2014.</bibl>
                <bibl xml:id="AntarcticTrip" n="AntarcticTrip"><title level="a">Antarctic Trip to be Made Easy by New Methods.</title> <title level="j">The Times-Picayune.</title> 22 May 1939. <title level="m">America's Historical Newspapers.</title> Web. 13 April 2014.</bibl>
+               <bibl xml:id="AntarcticDiet" n="AntarcticDiet">Lockhart, Ernest E. <title level="a">Antarctic Trail Diet.</title> <title level="j">Proceedings of the American Philosophical Society.</title> 30 April 1945.
+                  <title level="m">JSTOR.</title> Web. 16 January 2014.
+               </bibl>
             </listBibl>
             
          </sourceDesc>
@@ -2429,7 +2432,8 @@
                   <lb/>delicious <add place="above" rend="^">were</add> the oatmeal and cocoa of the trail. Although I
                   <lb/>meant to get going on my cleaning up for metabolism tests<ptr type="noteAnchor" target="metabolism"/><note resp="ed" xml:id="metabolism">Dr. Lockhart ran metabolism tests on volunteers 
                      to test the physiological effects of the cold. The volunteers were tested before and after a 3-month period on the trails and ate a specific diet. The results of the tests showed slightly lowered basal metabolism, 
-                     increase in blood sugar levels, and changes in respiration and body temperature. For more information about their diets, see Lockhart's article.<bibl><ref target="#Bertrand">Bertrand 429</ref></bibl></note>
+                     increase in blood sugar levels, and changes in respiration and body temperature. <bibl><ref target="#Bertrand">Bertrand 429</ref></bibl>For more information about their diets, see Lockhart's article 
+                     from the 1945 <title level="j">Proceedings of the American Philosophical Society</title> entitled <title level="a">Antarctic Trail Diet</title> (235-248).</note>
                   <lb/>but I started writing reading and talking so very little was 
                   <lb/>done. <persName ref="#BuckBoyd">Buck Boyd</persName> and I went skiing down to the <geogName>barrier edge</geogName><ptr type="noteAnchor" target="barrieredge"/><note resp="ed" xml:id="barrieredge">
                      Lockhart is likely referring to the edge of the Ross Ice Shelf <bibl><ref target="#Passel">Passel</ref></bibl></note>
