@@ -687,7 +687,10 @@
                   snow cruiser could go rolling along the countryside seems impossible. It is so tremendous...And as it 
                   rolled along the roads of Ohio, tens of thousands of men and women and children stared at it and 
                   smiled and shouted and shouted and waved their hats...the cruiser...is on its way from Chicago to Boston to join
-                  Admiral Byrd's Antarctic expedition..." <bibl><ref target="#SnowCruiserDream">29</ref></bibl>. Despite its promise, though, the snow cruiser caused problems 
+                  Admiral Byrd's Antarctic expedition..." <bibl><ref target="#SnowCruiserDream">29</ref></bibl>. The April 7, 1940 <title level="a">New York Times</title>
+                     proclaimed that the snow cruiser was "designed to go where nothing else can. The West Base leader
+                     hopes that it may be able to conquer that bane of explorers - wide crevasses...the snow cruiser, its 
+                     designers believe, will bw able to take even fifteen-foot crevasses in stride" <bibl><ref target="#WarIcyUnkown"><title level="a">War with the Icy Unkown</title>107having tr</ref></bibl>. Despite its promise, though, the snow cruiser caused problems 
                      from the moment it was unloaded in Antarctica as documented in the March 13, 1940 issue of the <title level="j">Cleveland Plain Dealer</title>: "The huge
                   vehicle demolished a ramp and was almost wrecked..." <bibl><ref target="#SnowCruiserUnloaded">1</ref></bibl>. After this unceremonious unloading, "The snow cruiser
                   in which Admiral Richard E. Byrd hoped to roll across the Antarctic proved to be not so good on 
@@ -1917,14 +1920,19 @@
                   
                <bibl xml:id="Thanksgiving" n="Thanksgiving"><title level="a">A Thanksgiving Day Feast in the Antarctic.</title> 
                   <title level="j">New York Times.</title> 6 December 1940. <title level="m">ProQuest: Historical Newspapers.</title> Web. 13 April 2014.</bibl>
-               <bibl xml:id="DeathSails" n="DeathSails"><title level="a">New Fiction Guide: More South Sea.</title><title level="j">Washington Post.</title> 12 December 1937.
+               <bibl xml:id="DeathSails" n="DeathSails"><title level="a">New Fiction Guide: More South Sea.</title> <title level="j">Washington Post.</title> 12 December 1937.
                <title level="m">Proquest: Historical Newspapers.</title> Web. 13 April 2014.</bibl>
                <bibl xml:id="GWtWCleveland" n="GWtWCleveland"><title level="a">Gone with the Wind.</title><title level="j">Cleveland Plain Dealer.</title> 1936 July 5. <title level="m">America's Historical Newspapers.</title>
                Web. 13 April 2014.</bibl>
                <bibl xml:id="OldSouth" n="OldSouth"><title level="a">The Old South Lives Again: Margaret Mitchell Gives Woman's 
-                  Angle of the Civil War Period.</title><title level="j">Washington Post.</title> 12 July 1936. <title level="m">ProQuest: Historical Newspapers.</title>
+                  Angle of the Civil War Period.</title> <title level="j">Washington Post.</title> 12 July 1936. <title level="m">ProQuest: Historical Newspapers.</title>
                   Web. 13 April 2014.
                   </bibl>
+               <bibl xml:id="WarIcyUnknown" n="WarIcyUnkown"><title level="a">WAR with the ICY UNKNOWN: From Bases Below Cape Horn 
+               and New Zealand Americans are Moving in to Explore Antarctica.</title> <title level="j">New York Times.</title> 7 April 1940. <title level="m">ProQuest: Historical Newspapers.</title> Web. 13 April 2014.</bibl>
+            <bibl xml:id="ScoutFlag" n="ScoutFlag"><title level="a">Scout Flag Carried Far: Antarctic Party Plants it 500 Miles South of 
+            Little America.</title> <title level="j">New York Times.</title> 26 December 1940. <title level="m">ProQuest: Historical Newspapers.</title> Web. 13 April 2014.</bibl>
+               <bibl xml:id="AntarcticTrip" n="AntarcticTrip"><title level="a">Antarctic Trip to be Made Easy by New Methods.</title> <title level="j">The Times-Picayune.</title> 22 May 1939. <title level="m">America's Historical Newspapers.</title> Web. 13 April 2014.</bibl>
             </listBibl>
             
          </sourceDesc>
@@ -2369,7 +2377,8 @@
                   <lb/>party <ptr type="noteAnchor" target="biological"/><note resp="ed" xml:id="biological">Lockhart was a member of the Biological Party which was a sledging party, and he acted as physiologist and radio operator for the party. The party was led by biologist Perkins and included a dog driver, Colombo, with 2 dog teams
                      each pulling 2 sleds in tandem, Richardson, who served as meteorological observer and transferred to their party at 105-mile depot, and Fitzsimmons, physicist for the seismic station who left the Biological Party at 105-mile depot. The party's destination was the western mountains of Ford Ranges, and they 
                      were tasked with gathering biological information as well as studying geology and glaciation. The party departed on October 15, 1940 and returned to camp on Dec 25, 1940 having traveled 725 miles in 72 days. On November 25, 1940 the biological party raised the US flag at slope at the southwest corner of peak No 167, west side of Mt Iphigene. 76 degrees 31’S 145 degrees 45’W.They
-                     successfully brought back biological specimens and geological data as well as a daily meteorological record, journal, and photos.<bibl><ref target="#Bertrand">Bertrand 435-436</ref></bibl></note> are finding it difficult to change from the rigorous
+                     successfully brought back biological specimens and geological data as well as a daily meteorological record, journal, and photos.<bibl><ref target="#Bertrand">Bertrand 435-436</ref></bibl>. According to the December 26, 1940 <title level="j">New York Times</title>, the party
+                  also planted a Boy Scout flag <bibl><ref target="#ScoutFlag"><title level="a">Scout Flag</title>19</ref></bibl>.</note> are finding it difficult to change from the rigorous
                   <lb/>schedule we have been observing to this not so rigorous
                   <lb/>one of the base.
                </p>
@@ -3260,14 +3269,15 @@
                  <lb/>it because he was one of my best dogs. 
               </p>
               <p>
-                 <lb/>The tractor party<ptr type="noteAnchor" target="tractorparty"/><note resp="ed" xml:id="tractorparty">Tractor parties had to prepare the equipment as well as weigh and package the dog and human food and pemmican and plan details before the sledging parties could take off.
+                 <lb/>The tractor party<ptr type="noteAnchor" target="tractorparty"/><note resp="ed" xml:id="tractorparty">"Moving toward the pole on fixed schedules, 
+                    tractor parties will deliver gasoline, oil, and food at prearranged airplane depots" <bibl><ref target="#AntarcticTrip"><title level="a">Antarctic Trip</title>21</ref></bibl>. Tractor parties had to prepare the equipment as well as weigh and package the dog and human food and pemmican and plan details before the sledging parties could take off.
                     The sledging parties would travel distances ranging from 200-1200 miles round trip, so they needed supplies ready on the trail in depots to have a full sledge
                     load at the start of their trips, and on the way back, they would need food and fuel. The First Eastern Tractor Party, which left on September 18, consisted of Warren as the leader and navigator, Passel
                     as radio operator, and Boyd controlling the tractor that pulled a train of sleds loaded with supplies. Moulton laid and marked the trail as they headed east from their base 
                     and established 105-mile depot and laid caches of dog food along the way. This tractor party returned to base on Oct 3, 1940. Another party, the Second Eastern Tractor Party, left on October 2, 1940 and followed
                     the trail established by the first tractor party. This party was led  by Asman who drove the tank. He pulled the caboose and sleds with 8 tons
                     of supplies and tractor fuel. Clyde Griffith and Louis Colombo were also in this party, and their goal was to add more supplies to the 105-mile depot and transport materials to Rockefeller Mountains
-                    for a seismic station. They returned to base on October 9, 1940.<bibl><ref target="#Bertrand">Bertrand 432-440</ref></bibl></note> came back Monday morning about 
+                    for a seismic station. They returned to base on October 9, 1940 <bibl><ref target="#Bertrand">Bertrand 432-440</ref></bibl>.</note> came back Monday morning about 
                  <lb/>7AM. They made a minute dash in from 90. fantastically
                  <lb/>for our party they brought in with them our dog sled with
                  <lb/>all our extra gear on it. 
