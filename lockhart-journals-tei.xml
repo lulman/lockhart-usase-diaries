@@ -565,16 +565,18 @@
                      <p>
                         Lockhart mentions Theodore "Pete" Petras having trouble centrifuging skua blood; note that he does not mention if this had anything to do with the cold but
                         suggested adding oxalate to the blood to keep it from coagulating. Dyckerhoff Hanns patented the use of such things to prevent the coagulation of blood 
-                        being centrifuged, This was published on Aprl 9, 1940 and is publication number US2196199 A. Thus, Lockhart and the expedition had heard of this patent while 
-                        in Antartica. Lockhart mentions clearing thr Haldane apparatus in the journal for Decamber 27th. This is the device he used for gas testing in thr lower atmosphere.
+                        being centrifuged, This was published on Aprl 9, 1940 and is publication number US2196199 A. <bibl><ref target="#HannsPatent"><title level="m">Publication Number US2196199 A</title></ref></bibl>.
+                        Thus, Lockhart and the expedition had heard of this patent while 
+                        in Antartica. Lockhart mentions cleaning the Haldane apparatus in the journal for December 27th. This is the device he used for gas testing in the lower atmosphere.
                         He complains that the stopcocks (valves used to restrict the flow of liquid or gas) made this difficult. He does not mention this process being affected by the cold
-                        at all. Lockhart mentions the tractor, which was out with the tractor party) falling into a cravasse and then being bulled out, only to fall into a smaller one and 
-                        make it through to their destination of <placeName ref="#depot105">105</placeName> On January 20th, Lockhart mentions that the tractor party wanted to abandon the tractor
+                        at all. Lockhart mentions the tractor (which was out with the tractor party at the time)  falling into a cravasse and then being pulled out, only to fall into a smaller one and 
+                        make it through to their destination of <placeName ref="#depot105">105</placeName>. On January 20th, Lockhart mentions that the tractor party wanted to abandon the tractor
                         because snow went all the way up to its belly, even when there was no load on the tractor. Note that the tractor was not actually abandoned, but that arctic terrain
-                        hindered it's progress. The Snow Cruiser vehicle ran into many problems in the Anartic, including the fact that a ramp needed to be built to get it off of the boat upon arrival. 
+                        hindered its progress. The Snow Cruiser vehicle ran into many problems in the Anartic, including the fact that a ramp needed to be built to get it off of the boat upon arrival. 
                         When this happened, one of the wheels broke thoruh the ramp. The Cruiser's wheels were smooth and not designed to give traction in snow and ice. The crew put spare tires on the 
-                        front wheels and chains on the rear tires, but traction could only be gaines by driving the vehicle backward. It's longest drive was 92 miles, completely in reverse. 
-                       The Condor biplane had to ba abandoned after its untine broke down; the #4 cylinder failed and the piston broke through the cowling.
+                        front wheels and chains on the rear tires, but traction could only be gained by driving the vehicle backward. Its longest drive was 92 miles, completely in reverse. 
+                        <bibl><ref target="eagle"><title level="m"></title>The Eagle and the Turtle</ref></bibl>. The Condor biplane had to be abandoned after its engine broke down; the #4 cylinder 
+                        failed and the piston broke through the cowling.
                      </p>
                      <p>
                         Lockhart also mentions giving <persName ref="#Fitz">Fitz</persName> a metabolism test in his journal dated January 10, 1941. Metabolism tests can be done both indoors and outdoors.
@@ -585,7 +587,7 @@
                         to capture photgraphs, photomapping was used. This scientific ability was origninally pioneered by Richard E. Byrd for an expedition held in the 1930s. <bibl><ref target="#BritByrd"><title level="a">Richard E. Byrd</title></ref></bibl>
                         Because Byrd's photomapping technique was so successful, it was again used for the Ernest Lockhard expedition. The technique of photomapping did not simply take photographs from an aircraft, but it plotted exact points and 
                         charted positions, taking photographs accordingly. Traditional photography equipment was greatly effected by the severe cold of the Arctic. Camera lenses could easily become fogged from condensation 
-                        and even frozen and therefore produce blurred pictures.<bibl><ref target="#Photography"><title level="m">Photography in Extreme Cold</title></ref></bibl> Traditionally , tripods were used to hold and 
+                        and even frozen and therefore produce blurred pictures.<bibl><ref target="#Photography"><title level="m">Photography in Extreme Cold</title></ref></bibl>. Traditionally, tripods were used to hold and 
                         support cameras, in the Arctic it was hard to mount the tripods due to the ice and snow. Photomapping made photography easier because the stability of the land was not needed to hold the camera. A 2014 
                         Encyclopedia Britanaica article stated, "Byrd was one of the world’s foremost aviators and displayed extraordinary gifts in organizing successful expeditions to Antarctica. His major achievement 
                         was...camera...and equipment and to carry out systematic reconnaissance and mapping programs using aerial photography." It is evident that aerial photography was very important to the expedition as a whole
@@ -881,7 +883,8 @@
                        Not to be confused with J.A. "Pappy" Reece, a radio operator. Where "Pappy" is mentioned and specified as neither, as in journals 2-24 and 2-25, the person is question is dealing with engine trouble on the Condor and is thus presumably Gray. 
                        Lockhart mentions him harnessing puppies to the airplane sled and driving them around.
                        Gray was the one who flew the Beechcraft back to get engine parts for the Condor when the Condor's engine broke down.
-                       Gray is mentioned being spotted by coincidence and then joined when Lockhart, Tony, and Court were out going toward the Barrier Cache</note> 
+                       Gray is mentioned being spotted by coincidence and then joined when Lockhart, Tony, and Court were out going toward the Barrier Cache
+                    <bibl><ref target="#personnel">"Personnel, 1939-1940"</ref>; <ref target="personel #Gray #Pappy #Pappy Gray"></ref></bibl></note> 
                </person>
                <person xml:id="ClarkGable">
                 <persName>Gable, Wiliam Clark</persName>
@@ -891,9 +894,9 @@
                 <residence when="1940">Encio, California</residence>
                 <note type="biographical">Gable appeared in 97 films from 1924 to 1961, his last film being released after his death.
                    Gable was nominated for the best leading actor academy award in 1934, 1935, and 1939. He won it in 1934 for his role in <title level="m">It Happened One Night</title>.
-                   Gabel was leading actor in over 60 films and is best known for his role in <title level="m">Gone With the Wind</title> in 1939.florida
+                   Gabel was leading actor in over 60 films and is best known for his role in <title level="m">Gone With the Wind</title> in 1939.
                 </note>
-                  <note>Lockhart mentions Gabel when comparing the film adaptation of <title level="m">Gone with the Wind</title> to the novel. Lockhart finds Gabel fitting in his role as Rhett Butler</note>  
+                  <note>Lockhart mentions Gable when comparing the film adaptation of <title level="m">Gone with the Wind</title> to the novel. Lockhart finds Gabel fitting in his role as Rhett Butler</note>  
                </person>
                <person xml:id="VivienLeigh">
                 <persName>Leigh, Vivien</persName>
@@ -1845,8 +1848,9 @@
                
                <bibl xml:id="Bertrand" n="Bertrand">Bertrand, Kenneth J. <title level="m">Americans in Antarctica.</title> New York: American Geographical Society, 1971. Print.</bibl>
                
-               <bibl xml:id="Wings1980" n="eagle"><title level="m">The Eagle and the Turtle</title> Mal Holcomb. "The Eagle and teh Turtle." Wings Magazine February 1980: 1. Web.</bibl>
-               
+               <bibl xml:id="Wings1980" n="eagle"><title level="m">The Eagle and the Turtle</title> Mal Holcomb. "The Eagle and the Turtle." Wings Magazine February 1980: 1. Web.
+                   http://www.joeld.net/snowcruiser/wings_feb_1980.html
+               </bibl>   
                <bibl xml:id="White" n="white"> White, James A. <title level="a">Byrd Expeditions Paying Off Today On Our Frozen Fronts.</title> <title level="j">The Palm Beach Post</title>
                 Google news, n.d. Web. 4 March 2014.</bibl>
                <bibl xml:id="Petras" n="theodore"><title level="a">Theodore A. Petras.</title> <title level="m">Enlisted Naval Aviation Pilots.</title> Turner Publishing Company, 2002. Print.</bibl>
@@ -1878,6 +1882,9 @@
                <bibl xml:id="NewYorkTimes" n="comprehensive"><title level="a">Comprehensive Metabolic Panel</title><title level="m">How the Test is Performed</title> 21 May 2013 Web. 1 April 2014.
                   http://www.nytimes.com/health/guides/test/chem-20/overview.html
                </bibl>
+               <bibl xml:id="HannsPatent" n="coagulation"><title level="m">Publication Number US2196199 A</title> 9 April 1940 Web. 22 April 2014. 
+                  https://www.google.com/patents/US2196199
+               </bibl> 
                <bibl xml:id="WikiSiple" n="pauls"><title level="a">Paul Siple</title><title level="s"> Wikipedia, the free encyclopedia</title> 
                   28 Jan 2014. Web. 20 March 2014.</bibl>
                <bibl xml:id="Philatelic" n="bennett">
@@ -1961,7 +1968,7 @@
                <bibl xml:id="Rushhristmas" n="byrd'smen"><title level="a">Byrd's Men Rush Sled Dogs to Reach Base
                   for Christmas.</title><title level="j">Los Angeles Times.</title> 25 December 1940. <title level="m">Proquest: Historical Newspapers.</title>
                   Web. 13 April 2014.</bibl>
-                 
+                
                   
                <bibl xml:id="Thanksgiving" n="thanksgiving"><title level="a">A Thanksgiving Day Feast in the Antarctic.</title> 
                   <title level="j">New York Times.</title> 6 December 1940. <title level="m">ProQuest: Historical Newspapers.</title> Web. 13 April 2014.</bibl>
