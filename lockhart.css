@@ -1,294 +1,1 @@
-/* CSS Document */
-.masthead {
-	   vertical-align: top;
-	   text-align:center;
-	   width:1005px;
-	   top:0;
-	   padding-top:0px;
-	   position: fixed;
-	   background-color: rgba(255, 255, 255, 1);
-	   color: rgba(1, 1, 1, 0.8);
-	   z-index:1;
-}
-#maintext {
-	width: 800px;
-	font-family: 'Fanwood Text',georgia, serif;
-	border-left:double;
-}
-.display_left {
-	display: inline;
-	float: left;
-	margin-bottom: 0;
-	background-color: #fff;
-	padding-top: 0px;
-	height: 75px;
-	text-align: left;
-}
-.display_addl {
-	margin-left: 155px;
-	display: inline;
-	float: left;
-	margin-bottom: 0;
-	background-color: #fff;
-	padding-top: 0px;
-	height: 75px;
-	text-align: center;
-}
-.masthead img {
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10 px;
-  border-radius: 10px;	
-}
-#titleBar {
-   vertical-align: top;
-   width:1005px;
-   top:75px;
-   position: fixed;
-   background-color: rgba(255, 255, 255, 1);
-   color: rgba(1, 1, 1, 0.8);
-   z-index:1;
-}
-#navMenu {
-	list-style-type:none;
-}
-li {
-   font-family:  'Fanwood Text',georgia, serif;
-   font-size: 1em;
-}
-.projectTitle {
-   font-family : Verdana, Arial, Helvetica, sans-serif;
-   font-size : 12pt;
-   font-style : normal;
-   font-weight : bold;
-   line-height : 16pt;
-}
-a:link {
-	text-decoration: none;
-}
-a.nameLink:link {
-	text-decoration: none;
-	color:black;
-}
-a:visited {
-    color:black;
-}
-a:hover {
-	font-style: italic;
-}
-a.annotation {
-	text-decoration: none;
-}
-
-.epigraph {
-    margin-left:70px;
-    margin-right:70px;
-}
-
-h1 {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 1.25em;
-	font-weight:bold;
-	text-align: center;
-}
-h2 {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 1em;
-	font-weight:bold;
-	text-align: left;
-}
-h2:before {
-display: block;
-content: " ";
-margin-top: -180px;
-height: 180px;
-visibility: hidden;
-}
-h3 {
-   margin-top: 2em;
-   font-size: 1.25em;
-   font-style: italic;                    
-}
-h3:before {
-display: block;
-content: " ";
-margin-top: -180px;
-height: 180px;
-visibility: hidden;
-}
-
-p.hang15 a:before {
-display: inline-block;
-content: " ";
-margin-top: -200px;
-height: 200px;
-visibility: hidden;	
-}
-
-p.hang25 a:before {
-display: inline-block;
-content: " ";
-margin-top: -200px;
-height: 200px;
-visibility: hidden;	
-}
-
-a.nameListing:before {
-display: inline-block;
-content: " ";
-margin-top: -200px;
-height: 200px;
-visibility: hidden;	
-}
-
-a.notePointer:before {
-display: inline-block;
-content: " ";
-margin-top: -200px;
-height: 200px;
-visibility: hidden;	
-}
-
-.jump_link:before {
-display: inline-block;
-content: " ";
-margin-top: -12em;
-height: 12em;
-visibility: hidden;	
-}
-
-sup.noteAnchor {
-  font-size:.85em;
-  font-weight: bold;
-  color:red
-}
-.pageNum {
-  text-align:left;
-}
-.TOCLine1 {
-	display: block;
-	margin-top: 10px;
-}
-
-.TOCDate {
-	text-align: left;
-	position: absolute;
-	width: 200px;
-	left: 50px;
-	font-weight: bold;
-	}
-
-.TOCCity {
-	text-align: left;
-	position: absolute;
-	width: 149px;
-	left: 251px;
-	font-weight: bold;
-	}
-
-
-.TOCViews {
-	text-align: left;
-	position: absolute;
-	width: 499px;
-	left: 401px;
-	font-weight: bold;
-}
-
-.TOCSummary {
-	text-align: left;
-	position: absolute;
-	width: 800px;
-	left: 50px;
-	clear: both;
-}
-
-p.hang15 {
-    margin-left:15px;
-    text-indent:-15px;
-}
-
-p.hang25 {
-    margin-left:25px;
-    text-indent:-25px;
-}
-
-.footer {
-	display: block;
-	width: 850px;
-	left: 50px;
-	clear: both;
-}
-
-.COHUsig {
-	position: absolute;
-	width: 250px;
-	left: 50px;
-}
-
-.accessibility {
-	position: absolute;
-	width: 600px;
-	left: 300px;
-}
-
-.divider {
-	line-height: 12px;
-	margin: 8px 0px 0px;
-	text-align: center;
-}
-
-p.listing { margin-top: 10px;  } 
-                                        
-p.listing a:before {
-	display: inline-block;
-    content: " ";
-    margin-top: -140px;
-    height: 140px;
-    visibility: hidden;
-}
-hr { color: #888833; 
-       clear: both;
-}                     
-
-img {margin:15px 0px 0px;}
-
-div.floatleft img {
-	margin:0px;
-}
-div.fl_img_right {
-   float: right;
-   text-align: center;
-   margin: 5px 5px 5px 5px;
-   clear:right;
-}
-table {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 0.75em;
-	line-height: normal;
-	border-width:1px;
-	border-style:solid;
-	border-color: #666; 
-	border-collapse:collapse;
-}
-
-td {
-	border-width:1px;
-	border-style:solid;
-	border-color: #666; 
-	padding:4px;
-}
-
-.cancel {
-	color:#F30;
-	text-decoration:line-through;
-}
-.smalltext {
-	font-size: 70%;
-}               
-.sictoggle {
-    display:none;
-}
-.corrtoggle {
-    display:none;
-}
-
+/* CSS Document */.masthead_background {       width:1005px;       height:150px;       position:fixed;       background:url("polar-map-grid.jpg");       z-index:-1;       }.masthead {	   vertical-align: top;	   text-align:center;	   width:1005px;	   height:75px;	   top:0;	   padding-top:0px;	   position: fixed;	   background-color: rgba(204, 229, 255, 0.8);	   /* color: rgba(1, 1, 1, 0.8); */	   z-index:1;}.display_left {	margin-left:15px;	display: inline;	float: left;	margin-bottom: 0;	background-color: #fff;	padding-top: 15px;    background-color: rgba(204, 229, 255, 0.8);	height: 60px;	text-align: left;}.display_addl {	margin-left: 160px;	display: inline;	float: left;	margin-bottom: 0;	background-color: #fff;	padding-top: 15px;	background-color: rgba(204, 229, 255, 0.8);	height: 60px;	text-align: center;}img {  margin:0px;  background-color: rgba(204, 229, 255, 0.8);  z-index:1;}.masthead img {  -webkit-border-radius: 10px;  -moz-border-radius: 10 px;  border-radius: 10px;	  background-color: rgba(204, 229, 255, 0.8);  z-index:1;}#titleBar {   vertical-align: top;   width:1005px;   top:75px;   position: fixed;   background-color: rgba(204, 229, 255, 0.8);   /*color: rgba(1, 1, 1, 0.8);*/   z-index:1;}#navMenu {	list-style-type:none;}#maintext {	width: 800px;	font-family: 'Fanwood Text',georgia, serif;	border-left:double;	z-index:-3;}li {   font-family:  'Fanwood Text',georgia, serif;   font-size: 1em;}.projectTitle {   font-family : Verdana, Arial, Helvetica, sans-serif;   font-size : 12pt;   font-style : normal;   font-weight : bold;   line-height : 16pt;}a:link {	text-decoration: none;}a.nameLink:link {	text-decoration: none;	color:black;}a:visited {    color:black;}a:hover {	font-style: italic;}a.annotation {	text-decoration: none;}.epigraph {    margin-left:70px;    margin-right:70px;}h1 {	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 1.25em;	font-weight:bold;	text-align: center;}h2 {	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 1em;	font-weight:bold;	text-align: left;}h2:before {display: block;content: " ";margin-top: -180px;height: 180px;visibility: hidden;}h3 {   margin-top: 2em;   font-size: 1.25em;   font-style: italic;                    }h3:before {display: block;content: " ";margin-top: -180px;height: 180px;visibility: hidden;}p.hang15 a:before {display: inline-block;content: " ";margin-top: -200px;height: 200px;visibility: hidden;	}p.hang25 a:before {display: inline-block;content: " ";margin-top: -200px;height: 200px;visibility: hidden;	}a.nameListing:before {display: inline-block;content: " ";margin-top: -200px;height: 200px;visibility: hidden;	}a.notePointer:before {display: inline-block;content: " ";margin-top: -200px;height: 200px;visibility: hidden;	}.jump_link:before {display: inline-block;content: " ";margin-top: -12em;height: 12em;visibility: hidden;	}sup.noteAnchor {  font-size:.85em;  font-weight: bold;  color:red}.pageNum {  text-align:left;}.TOCLine1 {	display: block;	margin-top: 10px;}.TOCDate {	text-align: left;	position: absolute;	width: 200px;	left: 50px;	font-weight: bold;	}.TOCCity {	text-align: left;	position: absolute;	width: 149px;	left: 251px;	font-weight: bold;	}.TOCViews {	text-align: left;	position: absolute;	width: 499px;	left: 401px;	font-weight: bold;}.TOCSummary {	text-align: left;	position: absolute;	width: 800px;	left: 50px;	clear: both;}p.hang15 {    margin-left:15px;    text-indent:-15px;}p.hang25 {    margin-left:25px;    text-indent:-25px;}.footer {	display: block;	width: 850px;	left: 50px;	clear: both;}.COHUsig {	position: absolute;	width: 250px;	left: 50px;}.accessibility {	position: absolute;	width: 600px;	left: 300px;}.divider {	line-height: 12px;	margin: 8px 0px 0px;	text-align: center;}p.listing { margin-top: 10px;  }                                         p.listing a:before {	display: inline-block;    content: " ";    margin-top: -140px;    height: 140px;    visibility: hidden;}hr { color: #888833;        clear: both;}                     div.floatleft img {	margin:0px;}div.fl_img_right {   float: right;   text-align: center;   margin: 5px 5px 5px 5px;   clear:right;}table {	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 0.75em;	line-height: normal;	border-width:1px;	border-style:solid;	border-color: #666; 	border-collapse:collapse;}td {	border-width:1px;	border-style:solid;	border-color: #666; 	padding:4px;}.cancel {	color:#F30;	text-decoration:line-through;}.smalltext {	font-size: 70%;}               .sictoggle {    display:none;}.corrtoggle {    display:none;}

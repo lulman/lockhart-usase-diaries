@@ -81,22 +81,26 @@
          
          <body>
             <!-- Build the masthead and navigation links at the top of the page -->
-            <div class="masthead">
-               <div class="display_left"> <img src="lockhart-usase.jpg" height="60" title="Ernest Earl Lockhart"/> </div>
-               <div class="display_addl"> <img src="usase-ice-shelf1.jpg" height="60" title="Antarctic Ice Shelf"/> </div>
-               <div class="display_addl"> <img src="usase-bear-of-oakland-steam.jpg" height="60" title="U.S.S. Bear of Oakland"/> </div>
-               <div class="display_addl"> <img src="usase-dogs2.jpg" height="60" title="USASE Dog Team"/> </div>
-               <div class="display_addl"><img src="usase-ski-plane1.jpg" height="60" title="USASE Ski Plane"/> </div>
+            <div class="masthead_background">
+               <div class="masthead">
+                  <div class="display_left">
+                     <img src="lockhart-usase.jpg" height="60"
+                        title="Ernest Earl Lockhart, ca. 1939-41. Credit: Ernest Earl Lockhart Collection, Byrd Polar Research Center Archival Program, 
+                        The Ohio State University, image #https://byrdpolarmedia.osu.edu/CFrx3P9NJ. Location: BPRCAP.2012.14; Box 1 folder 66"/>
+                  </div>
+                  <div class="display_addl"> <img src="usase-ice-shelf1.jpg" height="60" title="Antarctic Ice Shelf"/> </div>
+                  <div class="display_addl"> <img src="usase-bear-of-oakland-steam.jpg" height="60" title="U.S.S. Bear of Oakland"/> </div>
+                  <div class="display_addl"> <img src="usase-dogs2.jpg" height="60" title="USASE Dog Team"/> </div>
+                  <div class="display_addl"><img src="usase-ski-plane1.jpg" height="60" title="USASE Ski Plane"/> </div>
+               </div>
+               <div id="titleBar">
+                  <p align="center"><span class="projectTitle"><xsl:value-of
+                     select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/></span></p>
+                  <p align="center"><cite><strong>This edition is currently in progress. Please do
+                     not cite this preview until this notice is removed.</strong></cite></p>
+                  <hr/>
+               </div>
             </div>
-            <div id="titleBar">
-               <p align="center"><span class="projectTitle"><xsl:value-of
-                  select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/></span></p>
-               <p align="center"><cite><strong>This edition is currently in progress. Please do
-                  not cite this preview until this notice is removed.</strong></cite><br/>
-                     <!--<button>Click to toggle between Smith's spelling and standardized spelling.</button>--></p>
-               <hr/>
-            </div>
-            
             <div id="navBar">
                <form name="selectPage">
                   <select name="jumpPages" OnChange="location.href=selectPage.jumpPages.options[selectedIndex].value">
