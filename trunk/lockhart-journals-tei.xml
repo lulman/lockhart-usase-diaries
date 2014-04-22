@@ -755,7 +755,19 @@
                   <persName>Lockhart, Ernest Earl</persName>
                   <birth when="1912-09-10"><placeName ref="#Boston">Boston, MA</placeName></birth>
                   <death when="2006-07-26"><placeName ref="#WestDennis">West Dennis, MA</placeName></death>
-                  <note type="biographical">bio note</note>
+                  <note type="biographical">Ernest Earl Lockhart (1912-2006) earned a PhD in
+                     biochemistry from the Massachusetts Institute of Technology (M.I.T.) in 1938
+                     and joined the 1939-1941 United States Antarctic Service Expedition (USASE) the
+                     following year, serving as a physiologist stationed at the West Base near the
+                     Bay of Whales, an inlet of the Ross Sea on the Ross Ice Shelf. Following his
+                     service with the USASE, Lockhart taught food technology and nutrition at M.I.T.
+                     until 1955, after which he directed research at the Coffee Brewing Institute
+                     and, subsequently, at the Coca Cola Company <bibl><ref target="#biography"
+                           >"Biography"</ref></bibl>. While Lockhart published under the names
+                     "Ernest Earl Lockhart" and "Ernest E. Lockhart," family, friends, and fellow
+                     expedition members called Lockhart "Earl." Some of his papers bear a shortened
+                     version of his name, "E. E. Lockhart."
+                  </note>
                </person>
                <person xml:id="Cruzen" source="#Stark">
                   <persName>Cruzen, Richard H. (Richard Harold), 1897-1970</persName>
@@ -763,7 +775,13 @@
                   <death when="1970-04-15"></death>
                   <occupation>Naval officer</occupation>
                   <state type="rank" when="1941-01-05"><desc>Lieutenant Commander, USN</desc></state>
-                  <note type="biographical">bio note</note>
+                  <note type="biographical">Admiral Richard H. Cruzen graduated from the U.S. Naval Academy in
+                     1919 and attained his final rank of rear admiral in 1944. During the period covered by this
+                     text, Cruzen served as commander of the <name type="ship">U.S.S. Bear</name>, one of two
+                     support and research vessels attached to the U.S. Antarctic Service Expedition. Cruzen also
+                     served as Task Force Commander for a 1946 Antarctic expedition, "Operation High Jump"
+                     <bibl><ref target="#Cruzen">Stark</ref></bibl>.
+                  </note>
                </person>
                <person xml:id="Perk">
                   <persName>Perkins, Jack E. <addName type="nickname">Perk</addName></persName>
@@ -1953,6 +1971,7 @@
                </bibl>
                <bibl xml:id="LifeLittleAmerica" n="LifeLittleAmerica"><title level="a">Life in Little America with US Antarctic Expedition.</title> <title level="j">New York Times.</title> 22 October 1940. <title level="m">ProQuest: Historical Newspapers.</title> Web. 13 April 2014.</bibl>
                <bibl xml:id="depot92" n="depot92"><title level="a">Preliminary Account of the United States Antarctic Expedition, 1939-1941.</title> <title level="j">The Polar Times.</title> June 1941. http://docs.lib.noaa.gov/rescue/journals/polar_times/G575P631941no12.pdf Web. 14 April 2014.</bibl>
+               <bibl xml:id="biography" n="biography"><title level="a">Biography of Ernest Earl Lockhart.</title> <title level="m">Ernest Earl Lockhart Collection</title>. OhioLINK Finding Aid Repository. N.d. Web. 22 Apr. 2014.</bibl>
             </listBibl>
             
          </sourceDesc>
