@@ -99,6 +99,7 @@
             
          </head>
          <body>
+            <div class="masthead_background">
             <div class="masthead">
                <div class="display_left">
                   <img src="lockhart-usase.jpg" height="60"
@@ -117,7 +118,7 @@
                   not cite this preview until this notice is removed.</strong></cite></p>
                <hr/>
             </div>
-            
+            </div>
             <div id="navBar">
                <ul id="menu">
                   <li><a href="./lockhart-edintro.html#introduction">Editorial Introduction</a>
