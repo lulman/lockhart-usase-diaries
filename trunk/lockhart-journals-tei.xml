@@ -924,10 +924,16 @@
                 <death when="1882-04-19">Downe, United Kingdom</death>
                 <occupation>Geologist and Naturalist</occupation> 
                 <note type="biographical">Charles Darwin is one of the most influential scientists the world has known. His theory of natural selection 
-                        forms the basis of modern views on the diversity of life and how different forms of life come about. </note>
+                        forms the basis of modern views on the diversity of life and how different forms of life come about. At the time of Lockhart writing 
+                        the journal at hand, scientists were building on Darwin's theory of natural selection. The growing science of genetics was applied more and more 
+                        to studies of evolution. For example, <persName>Ronald <persName type="nicname">"R.A."</persName> Aylmer Fisher's</persName>
+                        influential book <title type="m">The Genetical Theory of Natural Selection</title> had been published in 1930. It is unclear why Lockhart bought 
+                        <title level="m">Homo versus Darwin a judicial examination of statements recently published by Mr. Darwin regarding 'The Descent of Man'</title>.
+                        However, his presumable interest in Darwin's ideas and the arguments against them hint at a scientific community where evolution
+                        was as it is now an important if not contested issue.</note>
                   <note>Lockhart mentions Darwin when he says that he is 
                         reading <title level="m">Homo versus Darwin a judicial examination of statements recently published by Mr. Darwin regarding 'The Descent of Man'</title>,
-                        itself a commentary on Daron's book <title level="m">The Descent of Man, and Selection in Relation to Sex</title>.
+                        itself a commentary on Darwin's book <title level="m">The Descent of Man, and Selection in Relation to Sex</title>.
                         Lockhart said that he bought the commentary to accompany the book itself, which he had at home.</note>  
                </person>
                <person xml:id="Fitz" source="#personnel #WikiFitz">
