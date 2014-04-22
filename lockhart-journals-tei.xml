@@ -1396,6 +1396,14 @@
                <location><geo>-78.279767 -155.535556</geo></location>
                </place>
                
+               <place type="cache" xml:id="cache92" source="#depot92">
+               <placeName>92</placeName> 
+               <country>Antarctica</country>
+               <desc>Lockhart refers to this cache or depot as 92; the June 1941 <title level="j">The Polar Times</title> referred to it as "92-mile depot" <bibl><ref target="#depot92"><title level="a">Preliminary Account</title>6</ref></bibl>.
+               This was the place where the Condor met the dog teams on January 3.</desc> </place>
+               
+               
+               
                <place type="city" xml:id="Valparaiso" source="#Bertrand #TGN #ByrdHeads #eel-19410115a #eel-19401231a #eel-19410116">
                   <placeName>Valparaiso <addName>Valpo</addName></placeName>
                   <country>Chile</country>
@@ -1943,6 +1951,8 @@
                <bibl xml:id="AntarcticDiet" n="AntarcticDiet">Lockhart, Ernest E. <title level="a">Antarctic Trail Diet.</title> <title level="j">Proceedings of the American Philosophical Society.</title> 30 April 1945.
                   <title level="m">JSTOR.</title> Web. 16 January 2014.
                </bibl>
+               <bibl xml:id="LifeLittleAmerica" n="LifeLittleAmerica"><title level="a">Life in Little America with US Antarctic Expedition.</title> <title level="j">New York Times.</title> 22 October 1940. <title level="m">ProQuest: Historical Newspapers.</title> Web. 13 April 2014.</bibl>
+               <bibl xml:id="depot92" n="depot92"><title level="a">Preliminary Account of the United States Antarctic Expedition, 1939-1941.</title> <title level="j">The Polar Times.</title> June 1941. http://docs.lib.noaa.gov/rescue/journals/polar_times/G575P631941no12.pdf Web. 14 April 2014.</bibl>
             </listBibl>
             
          </sourceDesc>
@@ -2952,20 +2962,23 @@
                  <p> 
                  <lb/>There was some excitement here last night. I didn't stay up 
                  <lb/>to follow it completely but did get in on the tail end. The trail
-                 <lb/>parties have been dogged  unfortunately by soft surface and heavy 
+                 <lb/>parties have been dogged unfortunately by soft surface and heavy 
                  <lb/>loads and are getting low on gas for the tractor and dog food.
                  <lb/>Last night after the schedule the airplane gang decided to take the
-                 <lb/><name type="aircraft" ref="#">Condor</name> out with supplies and bring back some of the load<unclear>.</unclear><!-- very faint dot looks like a faded period here and is a good word space away from typical end of sentence punctuation -->
+                 <lb/><name type="aircraft" ref="#Condor">Condor</name> out with supplies and bring back some of the load.
                  <lb/>The weather was not so hot with some overcast coming in from
                  <lb/>the east. They took off about 11PM and soon reported that 
                  <lb/>the overcast was becoming heavier. Not long after they said they 
                  <lb/>saw the dog teams at 71 but because of overcast could not land.
                  <lb/>They passed over the expectant men and flew on to the tractor 
-                 <lb/>party which was at 92. There they were able to land leave some
+                 <lb/>party which was at <placeName ref="#cache92">92</placeName>. There they were able to land leave some
                  <lb/>food and gas and take on some load. As they rose into
                  <lb/>the air to make another attempt to land at, the star
                  <lb/>board motor began sputtering and finally died altogether.
-                 <lb/>The plane made a safe landing at about 80 midway 
+                    <lb/>The plane made a safe landing at about 80 <ptr type="noteAnchor" target="mile80"/>
+                    <note resp="ed" xml:id="mile80">According to the June 1941 <title level="j">The Polar Times</title>, the 
+                    Condor landed "about 80 miles from base" <bibl><ref target="#PreliminaryAccount"></ref><title level="a">Preliminary Account</title>6</bibl>. 
+                    Using that logic, 71 is probably 71 miles from base.</note>midway 
                  <lb/>between the parties and after making a rapid check up
                  <lb/>found that #4 cylinder had failed and the piston had 
                  <lb/>gone right through the cowling. Since this was the master 
@@ -3288,13 +3301,28 @@
                     and established 105-mile depot and laid caches of dog food along the way. This tractor party returned to base on Oct 3, 1940. Another party, the Second Eastern Tractor Party, left on October 2, 1940 and followed
                     the trail established by the first tractor party. This party was led  by Asman who drove the tank. He pulled the caboose and sleds with 8 tons
                     of supplies and tractor fuel. Clyde Griffith and Louis Colombo were also in this party, and their goal was to add more supplies to the 105-mile depot and transport materials to Rockefeller Mountains
-                    for a seismic station. They returned to base on October 9, 1940 <bibl><ref target="#Bertrand">Bertrand 432-440</ref></bibl>.</note> came back Monday morning about 
+                    for a seismic station. They returned to base on October 9, 1940. The October 22, 1940 <title level="j">New York Times</title> documented the journeys of 
+                    these first two tractor parties but also referred to them as "trail parties" <bibl><ref target="#LifeLittleAmerica"><title level="a">Life in Little America</title>14</ref></bibl>. 
+                    The Third Eastern tractor party consisted of Asman and Griffith and left on October 16th for 105-mile depot. They brought 5 tons of building materials and food for 
+                    the men and dogs. The tank pulled the supplies on sleds. The Fourth Eastern tractor party, Boyd and Ferranto, left on October 18 with the tractor also headed for 
+                    105-mile depot and transported 1000 pounds of food for the men, 2000 pounds of dog food, and 500 gallons of 
+                    airplane fuel. They returned on November 24. The 4th tractor party and 3 sledging parties raised the US flag on November 13
+                    at the "highest point on the southernmost ridge of the mountain (McKinley Peak). On November 30, Ferranto and Griffith took the tractor and gas to the 
+                    McKinley Peak depot and stayed there for a few weeks to report on the weather. They headed back with the dog teams
+                    on December 30th; Lockhart discussed their return journey <bibl><ref target="#Bertrand">Bertrand 432-440</ref></bibl>.</note> came back Monday morning about 
                  <lb/>7AM. They made a minute dash in from 90. fantastically
                  <lb/>for our party they brought in with them our dog sled with
                  <lb/>all our extra gear on it. 
               </p>
               <p>
-                 <lb/>The dog team party came in Tuesday morning. They
+                 <lb/>The dog team party <ptr type="noteAnchor" target="dogteamparty"/><note resp="ed" xml:id="dogteamparty">Dog team parties, field parties, or sledging parties, 
+                    had the dog sleds pulling their supplies. There was Lockhart's Biological party, the Fort Ranges
+                 Geological party, and the Pacific Coast Survey party. The Geological party departed on October 17 with 4 men 
+                 (Warner, Passel, Wells, and Gilmour) with 2 teams that had 9 dogs each. They headed to central Ford Ranges to map as 
+                 many geological structures and formations as they could. They returned on January 7, 1941. This is one of the dog teams that Lockhart discussed during the Condor
+                 incident on January 3. The Survey party was the other dog team. That group also left on October 17, and since the group's goal was "far to the Eastward to reach the Flood Range, its 
+                 two dog teams were made up of the best dogs at West Base, and the party was organized in other ways for speed." The party also returned to West Base on 
+                    January 7 after traveling 1200 miles <bibl><ref target="#Bertrand">Bertrand 433-34; 437</ref></bibl>.</note> came in Tuesday morning. They
                  <lb/>they had camped at <placeName>Fort Wiener</placeName> Monday night but left
                  <lb/>at 3AM Tuesday morning. The survey party came in first
                  <lb/>about 9AM. <persName>Ike Schlossback</persName> was the last man in. All
