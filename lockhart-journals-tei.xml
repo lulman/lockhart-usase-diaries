@@ -611,7 +611,7 @@
                      <p>Having communication with the world outside of the Expedition was vital to mission accomplishment through both relaying scientific information
                      pretaining to the mission and personal messages sent to and from family members of those on the Expedition. In later writings, Lockhart
                      mentions being able to relay some of his research data to people back in the US. With this ability, he was able to incorporate other scientific
-                     data into work. The largest impact of radio communication though was its effect on keeping morale up by Expedition members being able to communicate
+                     data into work. One of the major impacts of radio communication though was its effect on keeping morale up by Expedition members being able to communicate
                      back and forth with family members back home. Lockhart mentions several times in the journal and radiograms how fortunate he feels to be able to 
                      have contact with his family back home. Even though they were thousands of miles away from home, these radiograms and "mail bags" helped the Expedition
                      team members feel connected to their loved ones and colleagues back home.</p>
@@ -1609,8 +1609,10 @@
                     </desc>
                  </state>
                  <desc>
+                    The Army Amature Radio System was an organization of amature radio operators that would send and receive radio messages for the military.
                     The AARS sent and received messages between members of the Expedition and their families back home. Once the message was recorded in the states, it was
                     then mailed out to the family members. The family members could then respond with a written letter that would then be transmitted back to the Expedition.
+                    In this journal, all messages were handled state side by Edward J. Day, operator of station WLMC in High Point North Carolina.
                  </desc>
               </org>
                <org xml:id="WLMC" source="#QST">
@@ -1621,7 +1623,10 @@
                      </desc>
                   </state>
                   <desc>
-                     WLMC appears to be the only operator in the United States who received and transcribed radiograms for the Expedition.
+                     WLMC was operated by Edward J. Day as part of the Army Amature Radio System during the time of the Expedition. All
+                     of the radiograms included with this journal were processed by WLMC. As part of his service, Day would transcribe incoming messages, mailing 
+                     them to their intended recipient. He would also take incoming messages for the members of the Expedition and relay them down 
+                     to the Antarctic. 
                      Between November 25 1939 to May 4 1941, this station processed around 15,000 messages to and from the Expedition.
                   </desc>
                </org>
@@ -3447,7 +3452,7 @@
                        throughout the Expedition for research on oxygen levels in the atmosphere. His work was published in 1942 where he provided a summery of his findings. Dr. Lockhart
                        wrote "Analysis of the lower atmosphere of the Antarctic were made using the Haldane portable apparatus. A veriable deficiency in the oxygen content of the air, too 
                        great to be attributable to insturment error, was found. The value for oxygen range from 20.76 to 20.48 volume percent. Since all possible sources of error were eliminated,
-                       the deficiency in considered to be real."<bibl><ref target="#Lockhart1942">"Oxygen Defiency in Antarctic Air"</ref></bibl></note> on the
+                       the deficiency in considered to be real."<bibl><ref target="#Lockhart1942">Lockhart, "Oxygen"</ref></bibl></note> on the
                   <lb/>way back and check the idea that the oxygen content
                   <lb/>of the atmosphere varies with the latitude If this works out
                   <lb/>I should have a curve showing on increase to <placeName ref="#EastBase">East Base</placeName>
@@ -3459,7 +3464,7 @@
                <p>
                   <lb/><persName ref="#Perk">Perk</persName> has two valuable finds both Ross seals<ptr type="noteAnchor" target="ross"/>
                   <note resp="ed" xml:id="ross"> The Ross Seals are the most rare typle of seal found in the Antarctic. Some explorations cite only observing
-                  a few Ross seals during their entire time in the Antarctic, making any sighting worth noting.<bibl><ref target="#Allen">"Extinction and Vanishing Mammals"</ref>
+                  a few Ross seals during their entire time in the Antarctic, making any sighting worth noting.<bibl><ref target="#Allen">Allen</ref>
                   </bibl></note>a
                   <lb/>male and female. These seals are very brave and have 
                   <lb/>not been reported for many years.
