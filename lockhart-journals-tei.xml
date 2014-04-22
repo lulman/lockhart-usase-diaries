@@ -474,7 +474,14 @@
                         cards, darts, checkers, chess and backgammon" <bibl><ref target="#ByrdPoleSnow"><title level="a">Byrd's North Star Sails </title>9</ref></bibl>. There were 
                         also are portable radios and phonographs, and Lockhart mentioned that Pete played the ukelele while Passel's photo 
                         collection includes a picture of Passel playing clarinet. <!-- insert photo --> </p>
-                     <p>Several movies were also shown at the base.
+                     <p>
+                        <figure rend="embed">
+                           <head>Watching <title level="m">Dodge City</title><lb/>for the 45th time.</head>
+                           <graphic url="dodge-city.png"/>
+                           <figDesc>Expedition members watching <title level="m">Dodge City</title></figDesc>
+                        </figure>
+                        
+                        Several movies were also shown at the base.
                         Lockhart references a few movies including <title level="m">Jones Family in Hollywood</title>, <title level="m">Risky
                            Business</title>, and <title level="m">Blondie</title>. Lockhart does not have much to say about the movies
                         besides that he "enjoyed" the former. He also commented that <title level="m">Blondie</title> "made
@@ -1623,9 +1630,9 @@
                      that was presumably easily transported and was therefore used in Antarctic expeditions.</desc>
                </org>
                <org xml:id="ThePolarTimes" source="#PolarTimes">
-                  <orgName>The Polar Times</orgName>
+                  <orgName><title level="j">The Polar Times</title></orgName>
                   <state type="company"></state>
-                  <desc>The Polar Times was produced as an inhouse magazine during discovery expedition to Antarctica.
+                  <desc>The <title level="j">Polar Times</title> was produced as an inhouse magazine during discovery expedition to Antarctica.
                      The original purpose is to maintain morale and document the lives and work of the people on the expeditions to the Antarctic. <bibl><ref target="#PolarTimes"><title level="s">Understanding the Past and Present</title></ref></bibl></desc>
                </org>
             </listOrg>
