@@ -890,8 +890,9 @@
                 <occupation when="1940">Actor</occupation>
                 <residence when="1940">Encio, California</residence>
                 <note type="biographical">Gable appeared in 97 films from 1924 to 1961, his last film being released after his death.
-                Gable was nominate for the best leading actor academy award in 1934, 1935, and 1939. He won it in 1934 for his role in "It Happened One Night." 
-                Gabel was leading actor in over 60 films and is best known for his role in <title level="m">Gone With the Wind</title> in 1939</note>
+                   Gable was nominated for the best leading actor academy award in 1934, 1935, and 1939. He won it in 1934 for his role in <title level="m">It Happened One Night</title>.
+                   Gabel was leading actor in over 60 films and is best known for his role in <title level="m">Gone With the Wind</title> in 1939.florida
+                </note>
                   <note>Lockhart mentions Gabel when comparing the film adaptation of <title level="m">Gone with the Wind</title> to the novel. Lockhart finds Gabel fitting in his role as Rhett Butler</note>  
                </person>
                <person xml:id="VivienLeigh">
@@ -901,8 +902,8 @@
                 <occupation when="1940">Actress</occupation>
                 <residence when="1940">England</residence>
                 <note type="biographical">Leigh appeared in 37 plays and 20 films from 1935 to 1966.
-                   Leigh won the best actress academy award in 1939 and 1951 for her roles in <title level="m">Gone with the Wind</title> and A Streetcar Named Desire, respectively.
-                 Leigh is best known for the aforementioned roles and was married to British actor Laurence Olivier from 1940 to 1960.</note>
+                   Leigh won the best actress academy award in 1939 and 1951 for her roles in <title level="m">Gone with the Wind</title> and <title level="m">A Streetcare Named Desire</title>, respectively.
+                   Leigh is best known for the aforementioned roles and was married to British actor <persName>Laurence Olivier</persName> from 1940 to 1960.</note>
                   <note>Lockhart mentions Leigh when comparing the film adaptation of <title level="m">Gone with the Wind</title> to the novel. Lockhart expresses doubt that Leigh was the right actress to play Scarlett</note>  
                </person>
                <person xml:id="MargaretMitchell">
@@ -911,11 +912,11 @@
                  <death when="1949-08-16">Atlanta, Georgia</death>
                  <occupation when="1940">Housewife (formerly a writer and journalist)</occupation>
                  <residence when="1940">Atlanta, Georgia</residence>
-                 <note type="biographical">Margaret Mitchell was an author and a journalist for The Atlanta Journal.
+                 <note type="biographical">Margaret Mitchell was an author and a journalist for <title level="j">The Atlanta Journal</title>.
                     <title level="m">Gone with the Wind</title>, the only work of hers published during her lifetime, won the Pulitzer Prize for Fiction in 1937
-                        Over 30 million copies of the novel <title level="m">Gone with the Wind</title> have been printed worldwide.</note>
-                  <note>Lockhart mentions Mitchell in his comparison of the film adaptation of <title level="m">Gone with the Wind</title> to the novel. He is unsure
-                       which ending was more appropriate; Mitchell's written ending of the film ending,</note> 
+                        Over 30 million copies of the novel <title level="m">Gone with the Wind</title> have been printed worldwide.
+                        Lockhart mentions Mitchell in his comparison of the film adaptation of <title level="m">Gone with the Wind</title> to the novel. He is unsure
+                        which ending was more appropriate; Mitchell's written ending of the film ending.</note> 
                </person>
                <person xml:id="Darwin">
                 <persName>Darwin, Charles</persName>
@@ -1492,8 +1493,8 @@
                   <region type="county">Cuyahoga</region>
                   <location><geo>41.482222, -81.669722</geo></location>
                   <desc>There are four radiograms here involving Cleveland; one that Lockhart sent and three that he received.
-                       These radiograms are all between Lockhart and Margaret Mann/Mrs. W.H. Mann. These two are likely the same person. Weather or not this was true, the woman lived in Cleveland. 
-                       Note that the radiogram sent by Lockhart was to Mrs. W.H. but the ones received were from Margaret. Also note that the four radiograms are not necessarily on any order.
+                       These radiograms are all between Lockhart and Margaret Mann/Mrs. W.H. Mann. These two are likely the same person. Whether or not this was true, the woman lived in Cleveland. 
+                       Note that the radiogram sent by Lockhart was sent to Mrs. W.H. but the ones received were from Margaret. Also note that the four radiograms are not necessarily in any order.
                        In these radiograms, she and Lockhart mostly talk about holiday wishes and when Lockhart is coming back to the States.</desc>
               </place>
                
@@ -1509,13 +1510,13 @@
                  <placeName type="state">Florida</placeName>
                  <country>United States</country>
                  <location><geo>28.1000, -81.6000</geo></location>
-                 <desc>Lockhart mentions Florida in talking about the books he has been reading, which have taken place in the south.
-                    He mentions reading South Moon Under which takes place in Florida after he finished reading <title level="m">Gone with the Wind</title>.</desc> 
+                 <desc>Lockhart mentions Florida in talking about the books he has been reading which take place in the south.
+                    He mentions reading <title level="m">South Moon Under</title>which takes place in Florida after he finished reading <title level="m">Gone with the Wind</title>.</desc> 
                </place>
                
                <place type="city" xml:id="Balboa" source="#TGN">
                  <placeName type="city">Balboa</placeName> 
-                 <country>Roublic of Panama</country>
+                 <country>Republic of Panama</country>
                  <region type="geographic">Central America</region>
                   <location><geo>8.9500 -79.5667</geo></location>
                   <desc>Balboa is mentioned along with Valparaiso as a stopover city for mail going to the Antarctic 
