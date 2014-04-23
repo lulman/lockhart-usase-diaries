@@ -1400,6 +1400,16 @@
                <location><geo>-78.279767 -155.535556</geo></location>
                </place>
                
+               <place type="cache" xml:id="cache92" source="#depot92">
+                  <placeName>92</placeName>
+                  <country>Antarctica</country>
+                  <desc>Lockhart refers to this cache or depot as 92; the June 1941 <title level="j"
+                        >The Polar Times</title> referred to it as "92-mile depot" <bibl><ref
+                           target="#depot92"><title level="a">Preliminary
+                        Account</title> 6</ref></bibl>. This was the place where the Condor met the
+                     dog teams on January 3.</desc>
+               </place>
+               
                <place type="city" xml:id="Valparaiso" source="#Bertrand #TGN #ByrdHeads #eel-19410115a #eel-19401231a #eel-19410116">
                   <placeName>Valparaiso <addName>Valpo</addName></placeName>
                   <country>Chile</country>
@@ -1949,8 +1959,20 @@
                   <bibl xml:id="ListBooks" n="ListBooks"><title level="a">Here is a List of Books of Interest to Boys.</title> <title level="j">Chicago Daily Tribune.</title> 19 May 1923. <title level="m">ProQuest: Historical Newspapers.</title> Web. 13 April 2014.
                   </bibl>
                <bibl xml:id="ByrdShipNewZealand" n="ByrdShipNewZealand"><title level="a">Byrd Ship in New Zealand: North Star, at Wellington, Will Meet the Bear of Oakland.</title> <title level="j">The New York Times.</title> 28 December 1939. <title level="m">ProQuest: Historical Newspapers.</title> Web. 14 March 2014.</bibl>
-               <bibl xml:id="WarIcyUnknown" n="WarIcyUnknown"><title level="a">WAR with the ICY UNKNOWN: From Bases
-               Below Cape Horn and New Zealand Americans are Moving in to Explore Antarctica.</title><title level="j">The New York Times.</title> 7 April 1940. <title level="m">ProQuest: Historical Newspapers.</title> Web. 13 April 2014.</bibl>
+               <bibl xml:id="WarIcyUnknown" n="WarIcyUnknown"><title level="a">WAR with the ICY
+                     UNKNOWN: From Bases Below Cape Horn and New Zealand Americans are Moving in to
+                     Explore Antarctica.</title><title level="j">The New York Times.</title> 7 April
+                  1940. <title level="m">ProQuest: Historical Newspapers.</title> Web. 13 April
+                  2014.</bibl>
+               <bibl xml:id="LifeLittleAmerica" n="LifeLittleAmerica"><title level="a">Life in
+                     Little America with US Antarctic Expedition.</title>
+                  <title level="j">New York Times.</title> 22 October 1940. <title level="m"
+                     >ProQuest: Historical Newspapers.</title> Web. 13 April 2014.</bibl>
+               <bibl xml:id="depot92" n="depot92"><title level="a">Preliminary Account of the United
+                     States Antarctic Expedition, 1939-1941.</title>
+                  <title level="j">The Polar Times.</title> June 1941.
+                  http://docs.lib.noaa.gov/rescue/journals/polar_times/G575P631941no12.pdf Web. 14
+                  April 2014.</bibl>
             </listBibl>
             
          </sourceDesc>
