@@ -48,24 +48,34 @@
         #maintext hr {
         clear:left;
         }
+        .masthead_background {
+        width:1200px;
+        height:150px;
+        position:fixed;
+        background:url("polar-map-grid-wide.jpg");
+        z-index:-1;
+        }
         .masthead {
         vertical-align: top;
         text-align:center;
         width:1200px;
+        height:75px;
         top:0;
         padding-top:0px;
         position: fixed;
-        background-color: rgba(255, 255, 255, 1);
-        color: rgba(1, 1, 1, 0.8);
+        background-color: rgba(204, 229, 255, 0.8);
+        /*color: rgba(1, 1, 1, 0.8);*/
         z-index:1;
         }
         .display_left {
+        margin-left:35px;
         display: inline;
         float: left;
         margin-bottom: 0;
         background-color: #fff;
-        padding-top: 0px;
-        height: 75px;
+        padding-top: 15px;
+        background-color: rgba(204, 229, 255, 0.8);
+        height: 60px;
         text-align: left;
         }
         .display_addl {
@@ -74,8 +84,9 @@
         float: left;
         margin-bottom: 0;
         background-color: #fff;
-        padding-top: 0px;
-        height: 75px;
+        padding-top: 15px;
+        background-color: rgba(204, 229, 255, 0.8);
+        height: 60px;
         text-align: center;
         }
         #titleBar {
@@ -83,10 +94,22 @@
         width:1200px;
         top:75px;
         position: fixed;
-        background-color: rgba(255, 255, 255, 1);
-        color: rgba(1, 1, 1, 0.8);
+        background-color: rgba(204, 229, 255, 0.8);
+        /*color: rgba(1, 1, 1, 0.8);*/
         z-index:1;
         }
+        img {
+        margin:0px;
+        background-color: rgba(204, 229, 255, 0.8);
+        z-index:1;
+        }
+        .masthead img {
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10 px;
+        border-radius: 10px;	
+        background-color: rgba(204, 229, 255, 0.8);
+        z-index:1;
+        }        
     </xsl:variable>
     <xsl:variable name="maintextRule">
         #maintext {
