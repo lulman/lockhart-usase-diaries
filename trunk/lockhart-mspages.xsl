@@ -48,7 +48,8 @@
         background-color: rgba(209,209,209, 0.5);
         -webkit-border-radius: 10px;
         -moz-border-radius: 10 px;
-        border-radius: 10px;	
+        border-radius: 10px;
+        z-index:1;
         }
     </xsl:variable>
     
@@ -63,7 +64,7 @@
         margin-top:0px;
         height:600px;
         background-color: rgba(255, 255, 255, 1);
-        z-index:1;
+        z-index:2;
         }
     </xsl:variable>    
     

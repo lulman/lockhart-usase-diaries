@@ -53,7 +53,7 @@
         height:150px;
         position:fixed;
         background:url("polar-map-grid-wide.jpg");
-        z-index:-1;
+        z-index:2;
         }
         .masthead {
         vertical-align: top;
@@ -65,7 +65,7 @@
         position: fixed;
         background-color: rgba(204, 229, 255, 0.8);
         /*color: rgba(1, 1, 1, 0.8);*/
-        z-index:1;
+        z-index:3;
         }
         .display_left {
         margin-left:35px;
@@ -96,19 +96,19 @@
         position: fixed;
         background-color: rgba(204, 229, 255, 0.8);
         /*color: rgba(1, 1, 1, 0.8);*/
-        z-index:1;
+        z-index:3;
         }
         img {
         margin:0px;
         background-color: rgba(204, 229, 255, 0.8);
-        z-index:1;
+        z-index:3;
         }
         .masthead img {
         -webkit-border-radius: 10px;
         -moz-border-radius: 10 px;
         border-radius: 10px;	
         background-color: rgba(204, 229, 255, 0.8);
-        z-index:1;
+        z-index:3;
         }        
     </xsl:variable>
     <xsl:variable name="maintextRule">
@@ -121,7 +121,8 @@
         background-color: rgba(209,209,209, 0.5);
         -webkit-border-radius: 10px;
         -moz-border-radius: 10 px;
-        border-radius: 10px;	
+        border-radius: 10px;
+        z-index:1;
         }
     </xsl:variable>
     <xsl:variable name="navBarRule">
@@ -135,7 +136,7 @@
         margin-top:0px;
         height:600px;
         background-color: rgba(255, 255, 255, 1);
-        z-index:1;
+        z-index:2;
         }
     </xsl:variable>
     
