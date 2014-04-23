@@ -542,7 +542,7 @@
                      <p> Lockhart also reflected on <title level="m">Hunters of the
                         Great North</title>. Like <title level="m">Death Sails with Magellan</title>, this book seemed
                         to be geared toward younger boys; it appeared in the May 19, 1923 <title level="j">Chicago Daily Tribune</title> in a list
-                        titled "Here is a List of Books of Interest to Boys."
+                        titled "Here is a List of Books of Interest to Boys" <bibl><ref target="#ListBooks">9</ref></bibl>.
                         From this book Lockhart said he 
                         was "learning a great deal...and was especially please (SIC) to come across
                         a passage on dog driving which was my theory of dog driving in black and
@@ -1920,20 +1920,22 @@
                   </title> Web. 4 April 2014.</bibl>
                <bibl xml:id="WikiWiener" n="Wiener"><title level="a">Murray A. Wiener</title><title level="s"> Wikipedia, the free encyclopedia</title> 
                   28 Jan 2014. Web. 20 March 2014.</bibl>
-               <bibl xml:id="Rushhristmas" n="RushChristmas"><title level="a">Byrd's Men Rush Sled Dogs to Reach Base
+               <bibl xml:id="RushChristmas" n="RushChristmas"><title level="a">Byrd's Men Rush Sled Dogs to Reach Base
                   for Christmas.><title level="j">Los Angeles Times.</title> 25 December 1940. <title level="m">Proquest: Historical Newspapers.</title>
                  Web. 13 April 2014.</title>
                  
                   </bibl>
                <bibl xml:id="Thanksgiving" n="Thanksgiving"><title level="a">A Thanksgiving Day Feast in the Antarctic.</title> 
                   <title level="j">New York Times.</title> 6 December 1940. <title level="m">ProQuest: Historical Newspapers.</title> Web. 13 April 2014.</bibl>
-               <bibl xml:id="DeathSails" n="DeathSails"><title level="a">New Fiction Guide: More South Sea.</title><title level="j">Washington Post.</title> 12 December 1937.
+               <bibl xml:id="DeathSails" n="DeathSails"><title level="a">New Fiction Guide: More South Sea.</title><title level="j">The Washington Post.</title> 12 December 1937.
                <title level="m">Proquest: Historical Newspapers.</title> Web. 13 April 2014.</bibl>
                <bibl xml:id="GWtWCleveland" n="GWtWCleveland"><title level="a">Gone with the Wind.</title><title level="j">Cleveland Plain Dealer.</title> 1936 July 5. <title level="m">America's Historical Newspapers.</title>
                Web. 13 April 2014.</bibl>
                <bibl xml:id="OldSouth" n="OldSouth"><title level="a">The Old South Lives Again: Margaret Mitchell Gives Woman's 
-                  Angle of the Civil War Period.</title><title level="j">Washington Post.</title> 12 July 1936. <title level="m">ProQuest: Historical Newspapers.</title>
-                  Web. 13 April 2014.
+                  Angle of the Civil War Period.</title><title level="j">The Washington Post.</title> 12 July 1936. <title level="m">ProQuest: Historical Newspapers.</title>
+                  Web. 13 April 2014.</bibl>
+               
+                  <bibl xml:id="ListBooks" n="ListBooks"><title level="a">Here is a List of Books of Interest to Boys.</title> <title level="j">Chicago Daily Tribune.</title> 19 May 1923. <title level="m">ProQuest: Historical Newspapers.</title> Web. 13 April 2014.
                   </bibl>
             </listBibl>
             
