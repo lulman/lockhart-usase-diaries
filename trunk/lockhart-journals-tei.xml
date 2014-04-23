@@ -445,10 +445,10 @@
                         begins on December 25, Lockhart's Biological Party had just hurried back from
                         their sledging journey to make it in time for Christmas Dinner according to
                         an article in the December 25, 1940 <title level="j">Los Angeles Times</title> <bibl><ref target="#RushChristmas"><title level="a">Byrd's Men Rush 2</title></ref></bibl>. 
-                        On Christmas Day, 
+                        
                         The men enjoyed their special dinner that evening; the men also enjoyed a special Thanksgiving Dinner meal 
-                        as seen in a photograph in the December 6 <title level="j">New York Times</title> <bibl><ref target="#Thanksgiving"><title level="a">Thanksgiving Day Feast 20</title></ref></bibl> .
-                        he had "nursed a pint for two and a half months." 
+                        as seen in a photograph in the December 6 <title level="j">New York Times</title> <bibl><ref target="#Thanksgiving"><title level="a">Thanksgiving Day Feast 20</title></ref></bibl>.
+                        On Christmas Day, Lockhart wrote that he had "nursed a pint for two and a half months." 
                         Lockhart does not 
                         discuss drinking or smoking other than this instance, but the men apparently enjoyed smoking; several newspaper ads for Camel
                         cigarettes claimed that they were the brand of choice smoked by the
@@ -520,7 +520,7 @@
                         described <title level="m">Gone With the Wind</title> as a "monumental novel of the civil war era.
                         From its 1,037 pages...emerge several vivid characters representative of plantation culture...it is 
                         likely to become the season's most talked about novel. Critical praise is running high" <bibl><ref target="GWtWCleveland">
-                           <title level="a">Gone With the Wind 51</title>
+                           <title level="a">Gone With the Wind Cleveland 51</title>
                         </ref>
                         </bibl>. Lockhart's
                         December 31 journal entry is filled with his thoughts about the book, the
@@ -677,7 +677,7 @@
                   <desc>According to Bertrand, the Beechcraft was a new, light, single-motored, 5 passenger plane 
                   that was mounted on skis and supposed to be transported on the Snow Cruiser for aerial exploration
                   within a distance of 300 miles. When the Condor was disabled on January 3, 1941, Pete and Pappy flew the Beechcraft to rescue 
-                  supplies left in the Condor and to fly men back to West Base <bibl><ref target="#Bertrand">413-414</ref></bibl>.
+                  supplies left in the Condor and to fly men back to West Base <bibl><ref target="#Bertrand">Bertrand 413-414</ref></bibl>.
                   </desc>
                </item>
                <item xml:id="SnowCruiser">
@@ -685,22 +685,25 @@
                   <desc>According to Bertrand, the Snow Cruiser could store food for a year, and it 
                   carried 2500 gallons of diesel oil which would last 5000 miles as well as 1000 gallons of gas for flying. 
                   Its maximum speed was 30 miles per hour, and it was created to function at very low temperatures
-                  and travel in deep, soft snow. It could also be living space for the crew <bibl><ref target="#Bertrand">413-414</ref></bibl>.
+                  and travel in deep, soft snow. It could also be living space for the crew <bibl><ref target="#Bertrand">Bertrand 413-414</ref></bibl>.
                    The Snow Cruiser was a very popular and huge 
                   deal at the time; several newspaper articles documented its progress across the United States; for example, the November 
-                  2, 1939 <title level="j">Cleveland Plain Dealer's</title>front-page article entitled "Snow Cruiser is Like a Fantastic Dream;
-                  No Wonder Animals Run" documents: "That such a Gargantuan vehicle as Admirald Richard E. Byrd's 
+                  2, 1939 <title level="j">Cleveland Plain Dealer's</title> front-page article entitled "Snow Cruiser is Like a Fantastic Dream;
+                  No Wonder Animals Run" documents: "That such a Gargantuan vehicle as Admiral Richard E. Byrd's 
                   snow cruiser could go rolling along the countryside seems impossible. It is so tremendous...And as it 
                   rolled along the roads of Ohio, tens of thousands of men and women and children stared at it and 
                   smiled and shouted and shouted and waved their hats...the cruiser...is on its way from Chicago to Boston to join
-                  Admiral Byrd's Antarctic expedition..." <bibl><ref target="#SnowCruiserDream">29</ref></bibl>. Despite its promise, though, the snow cruiser caused problems 
+                  Admiral Byrd's Antarctic expedition..." <bibl><ref target="#SnowCruiserDream"><title level="a">Snow Cruiser Fantastic Dream 29</title></ref></bibl>. The April 7, 1940 "New York Times" proclaimed that the snow cruiser 
+                     was "designed to go where nothing else can. The West Base leader hopes that it may be able to conquer that bane of explorers - wide crevasses...the snow cruiser, its designers believe, will bw able to take even 
+                     fifteen-foot crevasses in stride" 
+                     <bibl><ref target="#WarIcyUnknown"><title level="a">War with the Icy Unkown 107</title></ref></bibl>. Despite its promise, though, the snow cruiser caused problems 
                      from the moment it was unloaded in Antarctica as documented in the March 13, 1940 issue of the <title level="j">Cleveland Plain Dealer</title>: "The huge
-                  vehicle demolished a ramp and was almost wrecked..." <bibl><ref target="#SnowCruiserUnloaded">1</ref></bibl>. After this unceremonious unloading, "The snow cruiser
-                  in which Admirald Richard E. Byrd hoped to roll across the Antarctic proved to be not so good on 
+                  vehicle demolished a ramp and was almost wrecked..." <bibl><ref target="#SnowCruiserUnloaded"><title level="a">Snow Cruiser Unloaded 1</title></ref></bibl>. After this unceremonious unloading, "The snow cruiser
+                  in which Admiral Richard E. Byrd hoped to roll across the Antarctic proved to be not so good on 
                   frigid terrain, Engineer Charles Meyer disclosed today" proclaimed the June 23, 1940 <title level="j">Chicago Daily Tribune</title>. 
                     The
                   article continues: "Meyer said the 75,000 pound monster disappointed the explorers. Principal 
-                  trouble, he said, was insufficient power..." <bibl><ref target="#SnowCruiserPower">12</ref></bibl>. The crew abandoned the cruiser when they left Antarctica. 
+                  trouble, he said, was insufficient power..." <bibl><ref target="#SnowCruiserPower"><title level="a">Snow Cruiser Power 12</title></ref></bibl>. The crew abandoned the cruiser when they left Antarctica. 
                </desc>
                </item>
                <item xml:id="tank">
@@ -720,7 +723,8 @@
                </item>
                <item xml:id="tractor">
                   <name type="tractor" source="#Bertrand">Tractor</name>
-                  <desc>West Base had a T-20 International crawler style of tractor. It was used for transport, unloading supplies from the ships, and to stash supplies by pulling trains of sleds to lie food and fuel in caches and depots for the sledging parties. 
+                  <desc>West Base had a T-20 International crawler style of tractor. It was used for transport, unloading supplies from the ships, 
+                     and to stash supplies by pulling trains of sleds to lie food and fuel in caches and depots for the sledging parties. 
                      The tractor parties went ahead of the sledging parties and established trails <bibl><ref target="#Bertrand">Bertrand 422</ref></bibl>.
                   </desc>
                </item>
@@ -1392,7 +1396,7 @@
                      of Breckenridge Peak Rockefeller Mountains. It was named because of its distance from West Base.
                      The depot was established prior to the sledge journeys so the parties could restock supplies and dog food.
                      Other caches of dog food were also established between West Base and Depot 105.
-                     Lockhart refers to it as 105; Passel calls it 105 Mile Cache, and Bertrand refers to it as 105-Mile Depot <bibl><ref target="#Bertrand">Bertrand,</ref> <ref target="Passel">Passel</ref></bibl>.</desc>
+                     Lockhart refers to it as 105; Passel calls it 105 Mile Cache, and Bertrand refers to it as 105-Mile Depot <bibl><ref target="#Bertrand">Bertrand 434,</ref> <ref target="Passel">Passel 350</ref></bibl>.</desc>
                <location><geo>-78.279767 -155.535556</geo></location>
                </place>
                
@@ -1404,7 +1408,7 @@
                      Lockhart's ship passed through Valpo, Panama, and Seattle on his way home <bibl><ref target="#Bertrand">Bertrand</ref></bibl>. An article in 
                      the March 24, 1940 <title level="j">The Sunday Oregonian</title>chronicles the ships' return from Antarctica as Byrd
                   traveled back after establishing the bases: "The Bear and North Star are headed for Punta Arenas, Chile.
-                  From there they are scheduled to go to Valparaiso, arriving about April 1.." <bibl><ref target="#ByrdHeads"><title level="a">Byrd Heads</title></ref></bibl>.</desc>
+                  From there they are scheduled to go to Valparaiso, arriving about April 1.." <bibl><ref target="#ByrdHeads"><title level="a">Byrd Heads Toward Home 3</title></ref></bibl>.</desc>
                   <location><geo>-33.0478 -71.6011</geo></location></place>
                
                <place type="city" xml:id="Dunedin" source="#Bertrand #ByrdSails #TGN #eel-19410115a #eel-19410116a"><placeName>Dunedin</placeName>
@@ -1940,6 +1944,8 @@
                   <bibl xml:id="ListBooks" n="ListBooks"><title level="a">Here is a List of Books of Interest to Boys.</title> <title level="j">Chicago Daily Tribune.</title> 19 May 1923. <title level="m">ProQuest: Historical Newspapers.</title> Web. 13 April 2014.
                   </bibl>
                <bibl xml:id="ByrdShipNewZealand" n="ByrdShipNewZealand"><title level="a">Byrd Ship in New Zealand: North Star, at Wellington, Will Meet the Bear of Oakland.</title> <title level="j">The New York Times.</title> 28 December 1939. <title level="m">ProQuest: Historical Newspapers.</title> Web. 14 March 2014.</bibl>
+               <bibl xml:id="WarIcyUnknown" n="WarIcyUnknown"><title level="a">WAR with the ICY UNKNOWN: From Bases
+               Below Cape Horn and New Zealand Americans are Moving in to Explore Antarctica.</title><title level="j">The New York Times.</title> 7 April 1940. <title level="m">ProQuest: Historical Newspapers.</title> Web. 13 April 2014.</bibl>
             </listBibl>
             
          </sourceDesc>
