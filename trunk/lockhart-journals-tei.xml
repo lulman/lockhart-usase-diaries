@@ -1392,7 +1392,7 @@
                      of Breckenridge Peak Rockefeller Mountains. It was named because of its distance from West Base.
                      The depot was established prior to the sledge journeys so the parties could restock supplies and dog food.
                      Other caches of dog food were also established between West Base and Depot 105.
-                     Lockhart refers to it as 105; Passel calls it 105 Mile Cache, and Bertrand refers to it as 105-Mile Depot.</desc>
+                     Lockhart refers to it as 105; Passel calls it 105 Mile Cache, and Bertrand refers to it as 105-Mile Depot <bibl><ref target="#Bertrand">Bertrand,</ref> <ref target="Passel">Passel</ref></bibl>.</desc>
                <location><geo>-78.279767 -155.535556</geo></location>
                </place>
                
@@ -1401,18 +1401,20 @@
                   <country>Chile</country>
                   <desc>Supplies, including the Condor plane, were loaded at Valparaiso, and mail was available for the crew from people
                      who had not been able to send mail on the Star before it departed. 
-                     Lockhart's ship passed through Valpo, Panama, and Seattle on his way home. An article in 
-                  the March 24, 1940 The Sunday Oregonian chronicles the ships' return from Antarctica as Byrd
+                     Lockhart's ship passed through Valpo, Panama, and Seattle on his way home <bibl><ref target="#Bertrand">Bertrand</ref></bibl>. An article in 
+                     the March 24, 1940 <title level="j">The Sunday Oregonian</title>chronicles the ships' return from Antarctica as Byrd
                   traveled back after establishing the bases: "The Bear and North Star are headed for Punta Arenas, Chile.
-                  From there they are scheduled to go to Valparaiso, arriving about April 1.."</desc>
+                  From there they are scheduled to go to Valparaiso, arriving about April 1.." <bibl><ref target="#ByrdHeads"><title level="a">Byrd Heads</title></ref></bibl>.</desc>
                   <location><geo>-33.0478 -71.6011</geo></location></place>
                
                <place type="city" xml:id="Dunedin" source="#Bertrand #ByrdSails #TGN #eel-19410115a #eel-19410116a"><placeName>Dunedin</placeName>
                   <country>New Zealand</country>
-                  <desc>The Star spent several days in Dunedin on its way to West Base to pick up the crew. 
-                  According to Lockhart it took about 10 days to travel from Dunedin to West Base. An article in the December 29, 1940 New York
-                  Times describes "an immediate sailing from Dunedin" and states that "The ship's schedule allows her
-                  twelve days to reach Little America" (17).</desc>
+                  <desc>The North Star and The Bear of Oakland sailed to and from Antarctica via Dunedin. The December 28, 1939 <title level="j">The New York Times</title> reported that the 
+                     the Star was heading to Dunedin to meet the Bear before continuing on to Antarctica; the voyage began on November 21 in Philadelphia <bibl><ref target="#ByrdShipNewZealand"><title level="a">Byrd Ship New Zealand 3</title></ref></bibl>. 
+                     The Star also spent several days in Dunedin on its way to West Base to pick up the crew. 
+                  According to Lockhart it took about 10 days to travel from Dunedin to West Base. An article in the December 29, 1940 <title level="j">The New York Times</title>
+                  describes "an immediate sailing from Dunedin" and states that "The ship's schedule allows her
+                  twelve days to reach Little America" <bibl><ref target="#ByrdSails"><title level="a">Bear to Sail 17</title></ref></bibl>.</desc>
                   <location><geo>-45.8667 170.5000</geo></location>
                   </place>
                
@@ -1811,10 +1813,10 @@
                
                <bibl xml:id="White" n="White"> White, James A. <title level="a">Byrd Expeditions Paying Off Today On Our Frozen Fronts.</title> <title level="j">The Palm Beach Post</title>
                 Google news, n.d. Web. 4 March 2014.</bibl>
-               <bibl xml:id="Petras" n="Petras"><title level="a">Theodore A. Petras</title><title level="m">Enlisted Naval Aviation Pilots</title>Turner Publishing Company, 2002.</bibl>
-               <bibl xml:id="McCoy" n="McCoy"><title level="a">Commander James Charles McCoy Explorer</title><title level="m">Geneaology.Rootsweb.Ancestry.Com</title>N.p., n.d. Web. 27 February 2014. 
+               <bibl xml:id="Petras" n="Petras"><title level="a">Theodore A. Petras.</title> <title level="m">Enlisted Naval Aviation Pilots.</title> Turner Publishing Company, 2002.</bibl>
+               <bibl xml:id="McCoy" n="McCoy"><title level="a">Commander James Charles McCoy Explorer.</title> <title level="m">Geneaology.Rootsweb.Ancestry.Com.</title> N.p., n.d. Web. 27 February 2014. 
                   http://freepages.genealogy.rootsweb.ancestry.com/~jcmccoyjr/UnderConstruct/Page_5x.html</bibl>
-               <bibl xml:id="JamesCharles" n="JamesCharles"><title level="a">James Charles McCoy</title><title level="m">Ancestry.Com</title>N.p., n.d. Web. 27 February 2014.
+               <bibl xml:id="JamesCharles" n="JamesCharles"><title level="a">James Charles McCoy.</title> <title level="m">Ancestry.Com.</title> N.p., n.d. Web. 27 February 2014.
                   http://records.ancestry.com/James_Charles_McCoy_records.ashx?pid=80142976</bibl>
             
                <bibl xml:id="IMBdRB" n="Risky"><title level="a">Risky Business</title><title level="m"> IMDb.</title> IMDb, n.d. Web.</bibl> 
@@ -1892,18 +1894,18 @@
                <bibl xml:id="BearSail" n="BearSail"><title level="a">Bear to Sail from Dunedin, NZ.</title> <title level="j">New York Times</title> 29 December 1940. 
                   <title level="m">Proquest Historical Newspapers.</title> Web. 14 March 2014.</bibl>
                <bibl xml:id="ByrdHeads" n="ByrdHeads"><title level="a">Byrd Heads Toward Home: Explorer Leaves Antarctic Bases.</title> <title level="j">Sunday Oregonian.</title> 24 March 1940.
-                 <title level="m">America's Historical Newspapers</title> Web. 14 March 2014.</bibl>
+                 <title level="m">America's Historical Newspapers.</title> Web. 14 March 2014.</bibl>
                <bibl xml:id="GilesDivorced" n="GilesDivorced"><title level="a">Byrd Flier Is Divorced After Notice
                Over Radio.</title> <title level="j">New York Times.</title> <title level="m">ProQuest: Historical Newspapers.</title> Web. 14 March 2014.
                  </bibl>
                <bibl xml:id="McCoyVeteran" n="McCoyVeteran"><title level="a">James McCoy.</title> <title>Ancestry.com.</title> <title level="m">US Department of Veterans Affairs
-               BIRLS Death File, 1850-2010.</title></bibl>
+               BIRLS Death File, 1850-2010.</title> Web. 1 March 2014.</bibl>
                <bibl xml:id="GilesAncestry" n="GilesAncestry"><title level="a">Walter R Giles.</title> <title>Ancestry.com.</title> <title level="m">US Social Security Death Index.</title> Web.
-               14 March 2014.</bibl> 
+               1 March 2014.</bibl> 
                <bibl xml:id="PetrasAncestry" n="PetrasAncestry"><title level="a">Theodore A Petras.</title> <title>Ancestry.com.</title> <title level="m">US Social Security Death Index.</title> Web.
-                  14 March 2014.</bibl> 
+                  1 March 2014.</bibl> 
                <bibl xml:id="McCoyAncestry" n="McCoyAncestry"><title level="a">James McCoy.</title> <title>Ancestry.com.</title> <title level="m">US Social Security Death Index.</title> Web.
-                  14 March 2014.</bibl> 
+                  1 March 2014.</bibl> 
                <bibl xml:id="SnowCruiserPower" n="SnowCruiserPower"> <title level="a">Antarctic Snow Cruiser Found
                Short on Power.</title> <title level="j">Chicago Daily Tribune.</title> 23 June 1940. <title level="m">Proquest: Historical Newspapers.</title> Web. 14 March 2014.</bibl>
                <bibl xml:id="SnowCruiserDream" n="SnowCruiserDream"><title level="a">Snow Cruiser is Like a Fantastic Dream; No Wonder
@@ -1911,7 +1913,7 @@
               </title> <title level="j">Cleveland Plain Dealer.</title> 2 November 1939. <title level="m">America's Historical Newspapers.</title> Web. 14 March 2014.
                  </bibl>   
                <bibl xml:id="ByrdPoleSnow" n="ByrdPoleSnow"><title level="a">Byrd's North Star Sails with Foretaste of Pole Snow.</title> 
-                  <title level="j">The Washington Post.</title> <title level="m">Proquest: Historical Newspapers.</title> Web. 14 March 2014.</bibl> 
+                  <title level="j">The Washington Post.</title> 22 November 1939. <title level="m">Proquest: Historical Newspapers.</title> Web. 14 March 2014.</bibl> 
                <bibl xml:id="Camels" n="Camels"><title level="a">Off To Voluntary Exile.</title> <title level="j">Cleveland Plain Dealer.</title> 13 February 1940. <title level="m">Proquest: Historical Newspapers.</title>
                   Web. 28 March 2014.
                   </bibl>
@@ -1937,6 +1939,7 @@
                
                   <bibl xml:id="ListBooks" n="ListBooks"><title level="a">Here is a List of Books of Interest to Boys.</title> <title level="j">Chicago Daily Tribune.</title> 19 May 1923. <title level="m">ProQuest: Historical Newspapers.</title> Web. 13 April 2014.
                   </bibl>
+               <bibl xml:id="ByrdShipNewZealand" n="ByrdShipNewZealand"><title level="a">Byrd Ship in New Zealand: North Star, at Wellington, Will Meet the Bear of Oakland.</title> <title level="j">The New York Times.</title> 28 December 1939. <title level="m">ProQuest: Historical Newspapers.</title> Web. 14 March 2014.</bibl>
             </listBibl>
             
          </sourceDesc>
