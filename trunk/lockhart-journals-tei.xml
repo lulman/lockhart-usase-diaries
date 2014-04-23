@@ -447,7 +447,7 @@
                         an article in the December 25, 1940 <title level="j">Los Angeles Times</title> <bibl><ref target="#RushChristmas"><title level="a">Byrd's Men Rush 2</title></ref></bibl>. 
                         On Christmas Day, 
                         The men enjoyed their special dinner that evening; the men also enjoyed a special Thanksgiving Dinner meal 
-                        as seen in a photograph in the December 6 <title level="a">New York Times</title> <bibl><ref target="#Thanksgiving"><title level="a">Thanksgiving Day Feast 20</title></ref></bibl> .
+                        as seen in a photograph in the December 6 <title level="j">New York Times</title> <bibl><ref target="#Thanksgiving"><title level="a">Thanksgiving Day Feast 20</title></ref></bibl> .
                         he had "nursed a pint for two and a half months." 
                         Lockhart does not 
                         discuss drinking or smoking other than this instance, but the men apparently enjoyed smoking; several newspaper ads for Camel
@@ -928,7 +928,8 @@
                      Pete successfully rescued men using the Beechcraft and made it back to West Base. He wanted to break altitude and 
                      enjoyed "making hops" in planes and taking tanks out for fun; Pete also played ukelele. Pete also shot skua gulls and tried to get blood samples from them.  
                      He achieved the rank of Colonel in the USMC and was inducted into the 
-                     Alabama Aviation Hall of Fame on December 17, 1993.</note></person>
+                     Alabama Aviation Hall of Fame on December 17, 1993.
+                  <bibl><ref target="#Bertrand">Bertrand,</ref> <ref target="#Passel">Passel,</ref> <ref target="#Petras"><title level="a">Theodore A. Petras,</title></ref> <ref target="#PetrasAncestry"><title level="a">Theodore A. Petras Ancestry.com</title></ref></bibl>.</note></person>
                <person xml:id="Mac" source="#Bertrand #personnel #Passel #mccoy #McCoyAncestry #McCoyVeteran #jamescharles #eel-19410103"><persName>McCoy, James C. <addName type="nickname">Mac</addName> <addName>McCoy, Charles James</addName><addName>McCoy, James Charles</addName>
                </persName>
                   <birth when="1905-05-09"><placeName>Bountiful, Utah</placeName></birth>
@@ -937,14 +938,17 @@
                   <note type="biographical">Mac was a pilot and part of the West Base crew. His rank during the expedition was ACMM (Aviation Chief Machinist Mate) (NAP) in the USN.
                      He was a member of the dog team 
                   that was transported back to West Base by Pete the day of the Condor incident on January 3, 1941. Mac achieved the rank of Commander. He discovered and named a mountain after his wife, Alma McCoy; 
-                  the mountain's name was later changed to Mount McCoy.</note></person>
+                  the mountain's name was later changed to Mount McCoy.
+                  <bibl><ref target="#Bertrand">Bertrand,</ref> <ref target="#Passel">Passel,</ref> <ref target="#mccoy">James McCoy US Social Security,</ref> <ref target="#McCoyAncestry"><title level="a">James McCoy Ancestry,</title></ref> <ref target="#McCoyVeteran"><title level="a">James McCoy US Department,</title></ref> <ref target="#JamesCharles"><title level="a">Commander James Charles McCoy</title></ref></bibl>.</note></person>
                <person xml:id="Giles" source="#Bertrand #Passel #GilesAncestry #GilesDivorced #personnel eel-19410103"><persName>Giles, Walter R. <addName>Giles, W. R. </addName><addName type="nickname">Giles</addName></persName> 
                   <birth when="1912-01-03"><placeName>Newton County, GA</placeName></birth>
                   <death when="1996-04-11"><placeName>Rockdale, GA</placeName> </death>
                   <occupation>Assistant Pilot and Radio Operator</occupation>
                   <note type="biographical">Giles, whose name is often listed as W.R. Giles, was an assistant pilot and radio operator for West Base. 
                      He was part of the dog team that was transported back to West Base by Pete the day of the Condor incident on January 3, 1941.  At the time of the expedition, he 
-                  was a Staff Sergeant (NAP) in the USMC. He achieved the rank of Colonel in the USMC.</note></person>
+                  was a Staff Sergeant (NAP) in the USMC. He achieved the rank of Colonel in the USMC.
+                  <bibl><ref target="#Bertrand">Bertrand,
+                    </ref> <ref target="#Passel">Passel,</ref> <ref target="#GilesAncestry"><title level="a">Walter R. Giles,</title></ref> <ref target="#GilesDivorced"><title level="a">Byrd Flier is Divorced</title></ref></bibl>.</note></person>
                <person xml:id="Ferranto" source="#FindAGrave #personnel">
                   <persName>Ferranto, Felix Louis</persName>
                   <birth when="1911-12-05"></birth>
