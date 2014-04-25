@@ -36,7 +36,7 @@
       position:relative;
       top:180px;
       width:610px;
-      margin-left:350px;
+      margin-left:360px;
       padding:15px;
       background-color: rgba(209,209,209, 0.5);
       -webkit-border-radius: 10px;

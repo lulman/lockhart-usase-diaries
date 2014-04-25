@@ -17,9 +17,23 @@
 	   padding-top:0px;
 	   position: fixed;
 	   background-color: rgba(204, 229, 255, 0.8);
+	   -webkit-border-top-left-radius: 10px;
+       -moz-border-top-left-radius: 10 px;
+	   -webkit-border-top-right-radius: 10px;
+       -moz-border-top-right-radius: 10 px;
+       border-top-left-radius: 10px;	
+       border-top-right-radius: 10px;	
 	   /* color: rgba(1, 1, 1, 0.8); */
 	   z-index:3;
 }
+/*div.masthead img:hover {
+    -webkit-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    -o-transform: scale(1.5);
+    transform: scale(1.5);
+    z-index:4;
+}*/
+
 .display_left {
 	margin-left:15px;
 	display: inline;
@@ -60,6 +74,12 @@ img {
    top:75px;
    position: fixed;
    background-color: rgba(204, 229, 255, 0.8);
+   	   -webkit-border-bottom-left-radius: 10px;
+       -moz-border-bottom-left-radius: 10 px;
+	   -webkit-border-bottom-right-radius: 10px;
+       -moz-border-bottom-right-radius: 10 px;
+       border-bottom-left-radius: 10px;	
+       border-bottom-right-radius: 10px;	
    /*color: rgba(1, 1, 1, 0.8);*/
    z-index:3;
 }
