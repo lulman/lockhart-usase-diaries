@@ -105,7 +105,7 @@
             <availability>
                <p><emph rend="bold">Availability</emph>: The Ernest E. Lockhart journal represented
                   in this edition is the property of the Byrd Polar Research Center Archival Program
-                  (BPRCAP) of The Ohio State University, which has grant the editors permission to
+                  (BPRCAP) of The Ohio State University, which has granted the editors permission to
                   publish this edition of the manuscripts. The original journal is held in Box 1,
                   Folder 11 of the Ernest Earl Lockhart Collection, BPRCAP. For a complete inventory
                   to the Lockhart Collection, please see <media mimeType="text/html"
@@ -1092,12 +1092,18 @@
                </person>
                <person xml:id="BuckBoyd" source="#Passel #personnel #BoydG">
                   <persName>Boyd, Vernon D.<addName type="nickname">Buck</addName></persName>
-                  <birth when-custom="unknown"></birth>
-                  <death when-custom="unknown"></death>
+                  <birth when-custom="unknown"/>
+                  <death when-custom="unknown"/>
                   <occupation when="1940">Master Mechanic</occupation>
                   <residence>Uniontown, Pennsylvania</residence>
-                  <note type="biographical">Vernon "Buck" Boyd, a member of the 1939-41 U.S. Antarctic Service (USAS) West Base, is listed as being the "master mechanic" of the expedition <bibl><ref target="#Passel">Passel xv</ref>; <ref target="#personnel"><title level="u">"Personnel, 1939-1940"</title></ref></bibl>.
-                     A glacier flowing between Bailey Ridge and Mount Douglass in the Ford Ranges was later named Boyd Glacier for him <bibl><ref target="#BoydG"><title level="a">Boyd Glacier</title></ref></bibl>.</note>
+                  <note type="biographical">Vernon "Buck" Boyd, a member of the 1939-41 U.S.
+                     Antarctic Service (USAS) West Base, is listed as being the "master mechanic" of
+                     the expedition <bibl><ref target="#Passel">Passel xv</ref>; <ref
+                           target="#personnel"><title level="u">"Personnel,
+                        1939-1940"</title></ref></bibl>. A glacier flowing between Bailey Ridge and
+                     Mount Douglass in the Ford Ranges was later named Boyd Glacier for him
+                           <bibl><ref target="#BoydG"><title level="a">Boyd
+                        Glacier</title></ref></bibl>.</note>
                </person>
                <person xml:id="Vivian" source="#eel-19410110" >
                   <persName>Vivian</persName>
