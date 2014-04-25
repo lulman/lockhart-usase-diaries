@@ -935,16 +935,30 @@
                      He achieved the rank of Colonel in the USMC and was inducted into the 
                      Alabama Aviation Hall of Fame on December 17, 1993.
                   <bibl><ref target="#Bertrand">Bertrand,</ref> <ref target="#Passel">Passel,</ref> <ref target="#Petras"><title level="a">Theodore A. Petras,</title></ref> <ref target="#PetrasAncestry"><title level="a">Theodore A. Petras Ancestry.com</title></ref></bibl>.</note></person>
-               <person xml:id="Mac" source="#Bertrand #personnel #Passel #mccoy #McCoyAncestry #McCoyVeteran #jamescharles #eel-19410103"><persName>McCoy, James C. <addName type="nickname">Mac</addName> <addName>McCoy, Charles James</addName><addName>McCoy, James Charles</addName>
-               </persName>
+               <person xml:id="Mac"
+                  source="#Bertrand #personnel #Passel #mccoy #McCoyAncestry #McCoyVeteran #jamescharles #eel-19410103">
+                  <persName>McCoy, James C. <addName type="nickname">Mac</addName>
+                     <addName>McCoy, Charles James</addName><addName>McCoy, James Charles</addName>
+                  </persName>
                   <birth when="1905-05-09"><placeName>Bountiful, Utah</placeName></birth>
                   <death when="1981-03-03"><placeName>Jacksonville, FL</placeName></death>
                   <occupation>Pilot</occupation>
-                  <note type="biographical">Mac was a pilot and part of the West Base crew. His rank during the expedition was ACMM (Aviation Chief Machinist Mate) (NAP) in the USN.
-                     He was a member of the dog team 
-                  that was transported back to West Base by Pete the day of the Condor incident on January 3, 1941. Mac achieved the rank of Commander. He discovered and named a mountain after his wife, Alma McCoy; 
-                  the mountain's name was later changed to Mount McCoy.
-                  <bibl><ref target="#Bertrand">Bertrand,</ref> <ref target="#Passel">Passel,</ref> <ref target="#mccoy">James McCoy US Social Security,</ref> <ref target="#McCoyAncestry"><title level="a">James McCoy Ancestry,</title></ref> <ref target="#McCoyVeteran"><title level="a">James McCoy US Department,</title></ref> <ref target="#JamesCharles"><title level="a">Commander James Charles McCoy</title></ref></bibl>.</note></person>
+                  <note type="biographical">Mac was a pilot and part of the West Base crew. His rank
+                     during the expedition was ACMM (Aviation Chief Machinist Mate) (NAP) in the
+                     USN. He was a member of the dog team that was transported back to West Base by
+                     Pete the day of the Condor incident on January 3, 1941. Mac achieved the rank
+                     of Commander. He discovered and named a mountain after his wife, Alma McCoy;
+                     the mountain's name was later changed to Mount McCoy. <bibl><ref
+                           target="#Bertrand">Bertrand,</ref>
+                        <ref target="#Passel">Passel,</ref>
+                        <ref target="#mccoy">James McCoy US Social Security,</ref>
+                        <ref target="#McCoyAncestry"><title level="a">James McCoy
+                           Ancestry,</title></ref>
+                        <ref target="#McCoyVeteran"><title level="a">James McCoy US
+                              Department,</title></ref>
+                        <ref target="#JamesCharles"><title level="a">Commander James Charles
+                              McCoy</title></ref></bibl>.</note>
+               </person>
                <person xml:id="Giles" source="#Bertrand #Passel #GilesAncestry #GilesDivorced #personnel eel-19410103"><persName>Giles, Walter R. <addName>Giles, W. R. </addName><addName type="nickname">Giles</addName></persName> 
                   <birth when="1912-01-03"><placeName>Newton County, GA</placeName></birth>
                   <death when="1996-04-11"><placeName>Rockdale, GA</placeName> </death>
@@ -1429,7 +1443,7 @@
                      The Star also spent several days in Dunedin on its way to West Base to pick up the crew. 
                   According to Lockhart it took about 10 days to travel from Dunedin to West Base. An article in the December 29, 1940 <title level="j">The New York Times</title>
                   describes "an immediate sailing from Dunedin" and states that "The ship's schedule allows her
-                  twelve days to reach Little America" <bibl><ref target="#ByrdSails"><title level="a">Bear to Sail 17</title></ref></bibl>.</desc>
+                  twelve days to reach Little America" <bibl><ref target="#ByrdSails"><title level="a">Bear to Sail</title> 17</ref></bibl>.</desc>
                   <location><geo>-45.8667 170.5000</geo></location>
                   </place>
                
