@@ -116,7 +116,7 @@
         position:relative;
         top:180px;
         width:860px;
-        margin-left:300px;
+        margin-left:315px;
         padding:10px;
         background-color: rgba(209,209,209, 0.5);
         -webkit-border-radius: 10px;
