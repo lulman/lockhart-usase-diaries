@@ -1,0 +1,1 @@
+A documentary edition of selected diaries kept by Earnest Earl Lockhart during the 1939-1941 United States Antarctic Service Expedition.
