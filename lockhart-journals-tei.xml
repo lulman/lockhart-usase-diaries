@@ -379,51 +379,85 @@
                         <graphic url="usase-dogs2.jpg"/>
                         <figDesc> Sled Dogs, ca. 1939-1941 </figDesc>
                      </figure>
-                     <p>
-                           Sled dog teams, whose roots lie far beyond their late 19th-century popularization, 
-                        share a relationship with their masters marked not only by deep affection but 
-                        also a certain measure of calculated cruelty. Indigenous peoples of Arctic North 
-                        America, Siberia and Greenland used sled dogs widely, and it "was in Siberia  
-                        that dog-driving was first adapted to geographic exploration" <bibl><ref target="#Florio">Florio 13</ref></bibl>. This use spread to  
-                        the rest of Russia by the 17th-18th centuries, the cartographical records left from 
-                        Russian explorers inspiring the 1890s development of planned sled team use by Norwegian and American 
-                        explorers. Fridhtjof Nansen's Arctic expedition although a failure, revealed the usefulness of sled dogs as "the use 
-                        of dogs and sleds brought him closer to [the Arctic] than any previous explorer" <bibl><ref target="#Florio">Florio 36</ref></bibl>.
-                        The next and perhaps the most famous use of sled dogs was the American explorer Peary, who succeeded 
-                        in reaching the North Pole through his innovation that when "dogs gave out, unable to keep pace, 
-                        they were fed to the others" <bibl><ref target="#PearyArctic">as cited in American Geographical Society, 685</ref></bibl>. There had been forced cannibalism 
-                        among the Nansen expedition's dogs, but that was primarily based on starvation and the needs of the surviving dogs and men, 
-                        not as means of furthering the expedition's goals. A strange mixture of love and cruel efficiency seems to be present in subsequent polar expeditons, 
-                        such as Amundsen overseeing on his expedition to the South Pole circumstances that he described as "Twenty-four of our 
-                        faithul comrades had to die. The place where this happened was named the 'Slaughter House'" <bibl><ref target="#AmundsenArctic">Amundsen 833</ref></bibl>. The bizarre mixture of deep 
-                        affection and slaughter makes the killing of the dogs seem almost like fratricide. Lockhart's deep admiration 
-                        and love of the dogs on his own expedition may or may not have been tempered with the knowledge that so many of their fellow 
-                        animals were butchered by men who loved them as much as he did.
-                     </p>
-                     <p>Though the Antarctic expedition Lockhart participated in had planes and tractors at their disposal, dog 
-                        sled teams continued to be an immensely important mode of travel. At least 150 dogs were purchased for 
-                        the trip from Chinook Kennels, including Alaskan Malamutes, Eskimos, and Siberian Huskies. Additionally, 
-                        the Department of the Interior purchased 18 puppies <bibl><ref target="#RecordsDogs"><title level="a">Records Regarding Sled Dogs on USASE 1939-41</title></ref></bibl>. 
-                        There were 74 named dogs between the ages of 5 months and 7 years included on the official reports made for the expedition. 
-                        Gaines dog food won the contract to supply feed and the expedition purchased 35 tons of food from them before setting off <bibl><ref target="#LetterInnes-Taylor">Innes-Taylor</ref></bibl>. The food was low in fat and was
-                        meant to be a supplement for the fresh seal meat they would kill for the dogs in the Antarctic. They purchased food high in fat as well, just in case there wasn’t enough seal to provide 
-                        for all the dogs for the entirety of the expedition <bibl><ref target="HollisRichardson">O'Connel</ref></bibl>. Prior to leaving for Antarctica, Hollis Richardson was responsible for making sure the dogs were trained properly and 
-                        were ready for the expedition. Richardson, who would be in charge of the dogs on the <name type="ship">Bear</name> and one of the head dog drivers during 
-                        the expedition, was an award winning dog racer throughout the 1930s <bibl><ref target="#HollisRichardson2"><title level="a">Hollis Richardson</title></ref></bibl>. Richardson's credentials show
-                        the thoughtful planning of the administrators and the skill of the men who took care of the dogs. Including Richardson, 11 dog drivers went on the expedition. Of those 11,
-                        five exclusively handled the dogs. The others also held a variety of positions, including Geologist, in the case of 
-                        Raymond A. Butler, and Biologist, in the case of Carl Beklund <bibl><ref target="#personnel"><title level="u">Personnel, 1939-1940</title></ref></bibl>.  
-                        </p>
-                        <p>While Lockhart is not listed as a dog driver, he had experience with the dogs for extended periods of time. 
-                        Just before he began this journal, Lockhart was out on the trail with the Biological Party 
-                        from October 1940 through December 1940. His account of his excursion included nearly daily mentions of the dogs. Because of the additional
-                        transportation provided by the planes, the men and dogs on the trail were able to receive supplies from the base. The planes brought
-                        food for both the human and canine members of Lockhart’s trail party, eliminating the need to kill the dogs for feed. Additionally, Lockhart 
-                        mentions how one dog was injured and rode in the sled for a day to recover <bibl><ref target="#LockhartTrailJournal">Lockhart, <title level="a">Trail Journal</title></ref></bibl>. This indicates that the attitude towards the dogs on this expedition  
-                        was more lenient and, to modern readers, a more humane treatment. After the expedition, a number of the men took their dogs home with them. Special care 
-                        was taken to place the remaining ones in appropriate homes and farms <bibl><ref target="#LetterSeeley">Seeley</ref></bibl>. Lockhart’s and the other expedition members' relationships with the dogs during their time in the Antarctic 
-                        reflect both the importance of the dogs to the Antarctic lifestyle and the changing attitudes and practices in dog travel as technology advanced.  
-                     </p>
+                     <p> Sled dog teams, whose roots lie far beyond their late 19th-century
+                        popularization, share a relationship with their masters marked not only by
+                        deep affection but also a certain measure of calculated cruelty. Indigenous
+                        peoples of Arctic North America, Siberia and Greenland used sled dogs
+                        widely, and it "was in Siberia that dog-driving was first adapted to
+                        geographic exploration" <bibl><ref target="#Florio">Florio 13</ref></bibl>.
+                        This use spread to the rest of Russia by the 17th-18th centuries, the
+                        cartographical records left from Russian explorers inspiring the 1890s
+                        development of planned sled team use by Norwegian and American explorers.
+                        Fridhtjof Nansen's Arctic expedition, although a failure, revealed the
+                        usefulness of sled dogs, as "the use of dogs and sleds brought him closer to
+                        [the Arctic] than any previous explorer" <bibl><ref target="#Florio">Florio
+                              36</ref></bibl>. The perhaps most famous explorer to use sled dogs
+                        was the American explorer Robert Peary, who succeeded in reaching the North Pole
+                        through his innovation that when "dogs gave out, unable to keep pace, they
+                        were fed to the others" <bibl><ref target="#PearyArctic">as cited in
+                              American Geographical Society, 685</ref></bibl>. There had been forced
+                        cannibalism among the Nansen expedition's dogs, but that was primarily based
+                        on starvation and the needs of the surviving dogs and men, not as means of
+                        furthering the expedition's goals. A strange mixture of love and cruel
+                        efficiency seems to be present in subsequent polar expeditons, such as
+                        Amundsen overseeing on his expedition to the South Pole circumstances that
+                        he described as "Twenty-four of our faithul comrades had to die. The place
+                        where this happened was named the 'Slaughter House'" <bibl><ref
+                              target="#AmundsenArctic">Amundsen 833</ref></bibl>. The bizarre
+                        mixture of deep affection and slaughter makes the killing of the dogs seem
+                        almost like fratricide. Lockhart's deep admiration and love of the dogs on
+                        his own expedition may or may not have been tempered with the knowledge that
+                        so many of their fellow animals were butchered by men who loved them as much
+                        as he did. </p>
+                     <p>Though the USASE had planes and
+                        tractors at their disposal, dog sled teams continued to be an immensely
+                        important mode of travel. At least 150 dogs were purchased for the trip from
+                        Chinook Kennels, including Alaskan Malamutes, Eskimos, and Siberian Huskies.
+                        Additionally, the Department of the Interior purchased 18 puppies <bibl><ref
+                              target="#RecordsDogs"><title level="a">Records Regarding Sled Dogs on
+                                 USASE 1939-41</title></ref></bibl>. There were 74 named dogs
+                        between the ages of 5 months and 7 years included on the official reports
+                        made for the expedition. Gaines dog food won the contract to supply feed and
+                        the expedition purchased 35 tons of food from them before setting off
+                              <bibl><ref target="#LetterInnes-Taylor">Innes-Taylor</ref></bibl>. The
+                        food was low in fat and was meant to be a supplement for the fresh seal meat
+                        they would kill for the dogs in the Antarctic. They purchased food high in
+                        fat as well, just in case there wasn’t enough seal to provide for all the
+                        dogs for the entirety of the expedition <bibl><ref target="HollisRichardson"
+                              >O'Connel</ref></bibl>. Prior to leaving for Antarctica, Hollis
+                        Richardson was responsible for making sure the dogs were trained properly
+                        and were ready for the expedition. Richardson, who would be in charge of the
+                        dogs on the expedition support ship <name type="ship">Bear</name> and one of the head dog drivers
+                        during the expedition, was an award-winning dog racer throughout the 1930s
+                              <bibl><ref target="#HollisRichardson2"><title level="a">Hollis
+                                 Richardson</title></ref></bibl>. Richardson's credentials show the
+                        thoughtful planning of the administrators and the skill of the men who took
+                        care of the dogs. Including Richardson, 11 dog drivers went on the
+                        expedition. Of those 11, five exclusively handled the dogs. The others also
+                        held a variety of positions, including Geologist, in the case of Raymond A.
+                        Butler, and Biologist, in the case of Carl Beklund <bibl><ref
+                              target="#personnel"><title level="u">Personnel,
+                              1939-1940</title></ref></bibl>. </p>
+                     <p>While Lockhart is not listed as a dog driver, he had experience with the
+                        dogs for extended periods of time. Just before he began this journal,
+                        Lockhart was out on the trail with the Biological Party from October 1940
+                        through December 1940. His account of his excursion included nearly daily
+                        mentions of the dogs. Because of the additional transportation provided by
+                        the planes, the men and dogs on the trail were able to receive supplies from
+                        the base. The planes brought food for both the human and canine members of
+                        Lockhart’s trail party, eliminating the need to kill the dogs for feed.
+                        Additionally, Lockhart mentions how one dog was injured and rode in the sled
+                        for a day to recover <bibl><ref target="#LockhartTrailJournal">Lockhart,
+                                 <title level="a">Trail Journal</title></ref></bibl>. These entries suggest
+                        that the attitude towards the dogs on this expedition was more lenient and,
+                        to modern readers, more humane. After the expedition, a number
+                        of the men took sled dogs home with them. Special care was taken to place
+                        the remaining ones in appropriate homes and farms <bibl><ref
+                              target="#LetterSeeley">Seeley</ref></bibl>. Lockhart’s and the other
+                        expedition members' relationships with the dogs during their time in the
+                        Antarctic reflect both the importance of the dogs to Antarctic exploration
+                        and the changing attitudes and practices in dog travel as technology
+                        advanced. </p>
                      <p rend="h3" xml:id="geopolitics">Other Nations' Activities in Antarctica ca. 1939-1941</p>
                      <p>
                         Although never directly mentioned by Dr. Lockhart, the presence of other countries within the Antarctic was a significant issue during the time 
