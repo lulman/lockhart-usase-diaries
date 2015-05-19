@@ -39,7 +39,7 @@
         font-family: 'Fanwood Text',georgia, serif;
         }
         .pageview {
-        margin-bottom:225px;
+        margin-bottom:230px;
         float:left;
         }
         .pagebreak {
@@ -50,21 +50,27 @@
         }
         .masthead_background {
         width:1200px;
-        height:150px;
+        height:120px;
         position:fixed;
+        padding-top:0px;
+        margin-top:0px;
+        top:0px;
         background:url("polar-map-grid-wide.jpg");
-        z-index:2;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10 px;
+        border-radius: 10px;	
+        z-index:4;
         }
         .masthead {
         vertical-align: top;
         text-align:center;
         width:1200px;
-        height:75px;
+        height:60px;
         top:0;
         padding-top:0px;
-        position: fixed;
-        background-color: rgba(204, 229, 255, 0.8);
-        /*color: rgba(1, 1, 1, 0.8);*/
+        margin-bottom:10px;
+        <!--position: fixed;-->
+        <!--background-color: rgba(204, 229, 255, 0.8);-->
         z-index:3;
         }
         .display_left {
@@ -72,8 +78,8 @@
         display: inline;
         float: left;
         margin-bottom: 0;
-        <!--background-color: #fff;-->
-        padding-top: 15px;
+        padding-top: 0px;
+        margin-top:0px;
         background-color: rgba(204, 229, 255, 0.8);
         height: 60px;
         text-align: left;
@@ -83,20 +89,19 @@
         display: inline;
         float: left;
         margin-bottom: 0;
-        <!--background-color: #fff;-->
-        padding-top: 15px;
+        padding-top: 0px;
         background-color: rgba(204, 229, 255, 0.8);
         height: 60px;
         text-align: center;
         }
         #titleBar {
         vertical-align: top;
+        margin-top:0px;
         width:1200px;
-        top:75px;
+        top:60px;
         position: fixed;
         background-color: rgba(204, 229, 255, 0.8);
-        /*color: rgba(1, 1, 1, 0.8);*/
-        z-index:3;
+        z-index:1;
         }
         img {
         margin:0px;
@@ -108,7 +113,8 @@
         -moz-border-radius: 10 px;
         border-radius: 10px;	
         background-color: rgba(204, 229, 255, 0.8);
-        z-index:3;
+        padding-top:10px;
+        z-index:5;
         }        
     </xsl:variable>
     <xsl:variable name="maintextRule">
