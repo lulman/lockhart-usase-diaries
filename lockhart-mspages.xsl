@@ -87,8 +87,7 @@
     <xsl:template match="tei:div[@type='radiogram']">
         <hr/>
         <span class="pagebreak"> [Radiogram&#xA0;-&#xA0;&#xA0; (<a><xsl:attribute
-            name="href">http://people.cohums.ohio-state.edu/ulman1/lockhart-journals/lockhart-zoom.cfm?file=<xsl:value-of
-                select="@n"/>.jpg</xsl:attribute><xsl:attribute name="target">top</xsl:attribute>click to open page image in a new window</a>)]<br/>
+            name="href"><xsl:value-of select="@facs"/>.jpg</xsl:attribute><xsl:attribute name="target">top</xsl:attribute>click to open page image in a new window</a>)]<br/>
         </span>
         <div class="radiogram">
             <xsl:element name="a">
@@ -104,8 +103,7 @@
         <br/><hr/>
         <span class="pagebreak">[Page&#xA0;-&#xA0;<xsl:number count="tei:pb" format="1" level="any"/>
             &#xA0;(<a><xsl:attribute
-                name="href">http://people.cohums.ohio-state.edu/ulman1/lockhart-journals/lockhart-zoom.cfm?file=<xsl:value-of
-                select="@n"/>.jpg</xsl:attribute>
+                name="href"><xsl:value-of select="@facs"/></xsl:attribute>
             <xsl:attribute name="target">_blank</xsl:attribute>click to open page image in a new window</a>)]</span>
         <br/>
     </xsl:template> 
