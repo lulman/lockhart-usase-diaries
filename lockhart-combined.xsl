@@ -51,9 +51,6 @@
         .masthead_background {
         width:1200px;
         height:120px;
-        position:fixed;
-        padding-top:0px;
-        margin-top:0px;
         top:0px;
         background:url("polar-map-grid-wide.jpg");
         -webkit-border-radius: 10px;
@@ -62,25 +59,16 @@
         z-index:4;
         }
         .masthead {
-        vertical-align: top;
-        text-align:center;
         width:1200px;
         height:60px;
         top:0;
-        padding-top:0px;
-        margin-bottom:10px;
-        <!--position: fixed;-->
-        <!--background-color: rgba(204, 229, 255, 0.8);-->
         z-index:3;
         }
         .display_left {
         margin-left:35px;
         display: inline;
         float: left;
-        margin-bottom: 0;
         padding-top: 0px;
-        margin-top:0px;
-        background-color: rgba(204, 229, 255, 0.8);
         height: 60px;
         text-align: left;
         }
@@ -90,16 +78,12 @@
         float: left;
         margin-bottom: 0;
         padding-top: 0px;
-        background-color: rgba(204, 229, 255, 0.8);
         height: 60px;
         text-align: center;
         }
         #titleBar {
-        vertical-align: top;
-        margin-top:0px;
         width:1200px;
         top:60px;
-        position: fixed;
         background-color: rgba(204, 229, 255, 0.8);
         z-index:1;
         }
