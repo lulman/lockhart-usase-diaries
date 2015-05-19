@@ -96,8 +96,6 @@
                <div id="titleBar">
                   <p align="center"><span class="projectTitle"><xsl:value-of
                      select="tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title"/></span></p>
-                  <p align="center"><cite><strong>This edition is currently in progress. Please do
-                     not cite this preview until this notice is removed.</strong></cite></p>
                   <hr/>
                </div>
             </div>

@@ -72,7 +72,7 @@
         display: inline;
         float: left;
         margin-bottom: 0;
-        background-color: #fff;
+        <!--background-color: #fff;-->
         padding-top: 15px;
         background-color: rgba(204, 229, 255, 0.8);
         height: 60px;
@@ -83,7 +83,7 @@
         display: inline;
         float: left;
         margin-bottom: 0;
-        background-color: #fff;
+        <!--background-color: #fff;-->
         padding-top: 15px;
         background-color: rgba(204, 229, 255, 0.8);
         height: 60px;
