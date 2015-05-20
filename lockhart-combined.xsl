@@ -56,12 +56,13 @@
         -webkit-border-radius: 10px;
         -moz-border-radius: 10 px;
         border-radius: 10px;	
-        z-index:4;
+        z-index: 1;
         }
         .masthead {
         width:1200px;
         height:60px;
         top:0;
+        background-color: rgba(204, 229, 255, 0.8);
         z-index:3;
         }
         .display_left {
@@ -83,9 +84,11 @@
         }
         #titleBar {
         width:1200px;
-        top:60px;
+        margin-top:0px;
+        padding-top:5px;
+        top:0px;
         background-color: rgba(204, 229, 255, 0.8);
-        z-index:1;
+        z-index:2;
         }
         img {
         margin:0px;
@@ -112,7 +115,7 @@
         -webkit-border-radius: 10px;
         -moz-border-radius: 10 px;
         border-radius: 10px;
-        z-index:1;
+        z-index:0;
         }
     </xsl:variable>
     <xsl:variable name="navBarRule">

@@ -29,6 +29,7 @@
     </xsl:variable>
     <xsl:variable name="bodyRule">
         body {
+        background-position: top;
         font-family: 'Fanwood Text',georgia, serif;
         font-size: 1em;
         width: 1000px;
