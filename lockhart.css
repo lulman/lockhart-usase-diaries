@@ -3,25 +3,25 @@
 .masthead_background {
        width:1005px;
        height:120px;
-       position:fixed;
-        background-color: rgba(204, 229, 255, 0.8);
+       top:0px;
+       /*position:fixed;*/
        background:url("polar-map-grid.jpg");
         -webkit-border-radius: 10px;
         -moz-border-radius: 10 px;
         border-radius: 10px;	
-       z-index:4;
+       z-index:1;
        }
 
 .masthead {
-	   vertical-align: top;
+	   /*vertical-align: top;*/
 	   /*text-align:center;*/
 	   width:1005px;
 	   height:60px;
 	   top:0;
 	   /*padding-top:0px;
-	   position: fixed;
+	   position: fixed;*/
 	   background-color: rgba(204, 229, 255, 0.8);
-	   -webkit-border-top-left-radius: 10px;
+	   /*-webkit-border-top-left-radius: 10px;
        -moz-border-top-left-radius: 10 px;
 	   -webkit-border-top-right-radius: 10px;
        -moz-border-top-right-radius: 10 px;
@@ -76,7 +76,9 @@ img {
 #titleBar {
    /*vertical-align: top;*/
    width:1005px;
-   top:60px;
+   top:0px;
+   padding-top:5px;
+   margin-top:0px;
    /*position: fixed;*/
    background-color: rgba(204, 229, 255, 0.8);
    /*	   -webkit-border-bottom-left-radius: 10px;
@@ -86,7 +88,7 @@ img {
        border-bottom-left-radius: 10px;	
        border-bottom-right-radius: 10px;*/	
    /*color: rgba(1, 1, 1, 0.8);*/
-   z-index:3;
+   z-index:2;
 }
 #navMenu {
 	list-style-type:none;

@@ -62,7 +62,7 @@
         -webkit-border-radius: 10px;
         -moz-border-radius: 10 px;
         border-radius: 10px;
-        z-index:1;
+        z-index:0;
         }
     </xsl:variable>
     
