@@ -39,7 +39,7 @@
         font-family: 'Fanwood Text',georgia, serif;
         }
         .pageview {
-        margin-bottom:230px;
+        margin-bottom:280px;
         float:left;
         }
         .pagebreak {
