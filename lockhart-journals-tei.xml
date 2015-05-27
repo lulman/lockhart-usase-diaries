@@ -2311,11 +2311,11 @@
             and "a" represents the first entry for a given day.
          -->
          <!-- HLU section begins here -->
-            <pb facs="journal-2-01.jpg" n="/f/f6740eaf-5b89-47d7-87f8-ff9c9e993803"/>
-            <pb facs="journal-2-02.jpg" n="/d/d6953828-9c18-4223-934c-fcdf6d224837"/>
-            <pb facs="journal-2-03.jpg" n="/7/7a0c1a5b-fc4e-428b-a3cc-a9e686ad3d38"/>
-            <pb facs="journal-2-04.jpg" n="/1/16127fab-3e46-4d3e-be62-faf82ab2cbaf"/>
-            <pb facs="journal-2-05.jpg" n="/e/e57988fb-3960-435f-a308-ebfafaa4892a"/>
+            <pb facs="journal-2-01.jpg"/>
+            <pb facs="journal-2-02.jpg"/>
+            <pb facs="journal-2-03.jpg"/>
+            <pb facs="journal-2-04.jpg"/>
+            <pb facs="journal-2-05.jpg"/>
             <fw type="pageNum" place="top">1</fw>
             <head>
                <lb/>
@@ -2352,7 +2352,7 @@
                      and when possible, geological/glaciation data <bibl><ref target="#Bertrand">Bertrand 432-433</ref></bibl>.</note> came into view. All sorts
                   <lb/>of thoughts began clicking through our minds as the <rs>base</rs>
                
-                  <pb facs= "journal-2-06.jpg" n="/d/d30a3d29-fe7e-4bf6-a941-541638ebc568"/>
+                  <pb facs= "journal-2-06.jpg"/>
                   <fw type="pageNum" place="top">2</fw>
            
               <lb/>became larger and larger. <persName ref="#Tony">Tony</persName><del rend= "strikethrough"><unclear cert="high">br</unclear></del>, I know, was especially
@@ -2385,7 +2385,7 @@
                  <lb/>dogs sure enjoyed it and then yelped for more. By that time
                  <lb/><persName ref="#Gutenko">Gutenko</persName> said that <unclear>clun</unclear> was nearly ready and we all <unclear cert="medium">repaired</unclear> to
               
-                 <pb facs="journal-2-07.jpg" n="/b/b057d443-5967-4034-98aa-63d5da97307b"/>
+                 <pb facs="journal-2-07.jpg"/>
                <fw type="pageNum" place="top">3</fw>
                
                   <lb/>the barracks. We took our clothes off and weighed in.
@@ -2418,7 +2418,7 @@
                   <lb/>turkey with sweet potatoes asparagus spinach
                   <lb/>dressing cranberry sauce after boullion; we had a little
                
-               <pb facs="journal-2-08.jpg" n="/7/7e20064a-fc13-42fd-a452-63a23c83f0c2"/>
+               <pb facs="journal-2-08.jpg"/>
             <fw type="pageNum" place="top">4</fw> 
                   
                      <lb/>christmas spirit and strawberry pie to top things off then
@@ -2470,7 +2470,7 @@
                      <lb/>intervals but otherwise any semblance of regularity has
                      <lb/>disappeared. I was puzzled to see such a system of what
                   
-               <pb facs="journal-2-09.jpg" n="/e/e04d1ba7-3ba0-4922-b5f4-74690eba7d9f"/>
+               <pb facs="journal-2-09.jpg"/>
             <fw type="pageNum" place="top">5</fw>   
                
                   <lb/>we have here now in a system but learned that it
@@ -2515,7 +2515,7 @@
                   <lb/>about boats and travel. I'm certain he would have been
                   <lb/>interested to hear about the trip I am now about to com-
              
-                  <pb facs="journal-2-10.jpg" n="/9/960c09a7-4b71-4178-af01-76b2587d91dd"/>
+                  <pb facs="journal-2-10.jpg"/>
             <fw type="pageNum" place="top">6</fw>   
                   <lb/>plete. <persName ref="#Beatie">Beatie</persName> did not say whether <persName ref="#JackMahan">Jack</persName> came home for
                   <lb/>the funeral. Since <persName>Ned</persName> and <persName>Bill</persName> have gotten married and
@@ -2560,7 +2560,7 @@
                   resolve that encoding later. For now, this encoding is valid.
                -->
                
-               <pb facs="journal-2-11.jpg" n="/3/3ce5f373-3c15-4241-bd63-4d5c552ac4ce"/>
+               <pb facs="journal-2-11.jpg"/>
                <fw type="pageNum" place="top">7</fw>
                      <lb/>impossible situation had been overcome; the tractor and
                      <lb/>its loads had passed the crevasse had gotten into
@@ -2604,7 +2604,7 @@
                   You are "inside" a paragraph that begins on journal-2-11, but we will
                   resolve that encoding later. For now, this encoding is valid.
                -->
-               <pb facs="journal-2-12.jpg" n="/5/511e1fda-51d8-4c3f-b481-0f4e565a2c82"/>
+               <pb facs="journal-2-12.jpg"/>
                <fw type="pageNum" place="top">8</fw>
                   <lb/>as is the custom. I made <subst><del rend="overwritten"><gap></gap></del><add place="inline">some</add></subst> beautiful
                   <lb/>ham scrambled eggs from frozen whole eggs milk butter
@@ -2643,7 +2643,7 @@
             
            
       
-               <pb facs="journal-2-13.jpg" n="/1/12f99dbd-ffe1-45a9-b2bd-0b2223148468"/>
+               <pb facs="journal-2-13.jpg"/>
                <fw type="pageNum" place="top">9</fw>
                <lb/>after that a few minutes of reading and <seg ana="metaphor">chewing the
                <lb/>fat</seg> and <subst><del rend="overwritten">than</del><add place="inline">then</add></subst> more cleaning. The trail gang
@@ -2683,7 +2683,7 @@
                  <lb/><choice><sic>straw berries</sic><corr>strawberries</corr></choice> outside the door. I had some of them with corn flakes
                  <lb/>and cream. They sure were good. While I was eating them
                  
-            <pb facs="journal-2-14.jpg" n="/5/5debfbea-aaeb-4e48-8d0c-b2aa8b0c8828"/>
+            <pb facs="journal-2-14.jpg"/>
             <fw type="pageNum" place="top">10</fw>
                   <lb/>I prepared what probably will be my usual <foreign xml:lang="french">piece-de-resistance</foreign>
                   <lb/>scrambled eggs <foreign xml:lang="french">ala</foreign> <persName>Lockhart</persName>. These with toast and coffee
@@ -2716,7 +2716,7 @@
                   <lb/><del rend="strikethrough"><unclear>Even</unclear></del> I spoke to <persName ref="#Bailey">Bailey</persName> about getting a contact with the
                   <lb/>folks. He said that although conditions were very bad he
                   <lb/>would speak to <persName ref="#CharliePassel">Charlie</persName>. It is so little trouble for them to              
-         <pb facs="journal-2-15.jpg" n="/d/d478311c-345a-4728-bde3-f72769e0f239"/>
+         <pb facs="journal-2-15.jpg"/>
          <fw type="pageNum" place="top">11</fw>            
                <lb/>get over there that it is worth the chance they will be
                <lb/>taking.
@@ -2760,7 +2760,7 @@
             </p>
             <p>
                <lb/>I shall go to bed about <time>1:30</time> and get in a few hours sleep <del rend="strikethrough"><unclear cert="medium">be</unclear></del>           
-           <pb facs="journal-2-16.jpg" n="/2/2f288865-f1a4-480b-8ff3-ff2f1a381d8a"/>
+           <pb facs="journal-2-16.jpg"/>
            <fw type="pageNum" place="top">12</fw>              
                 <lb/>before the metabolism tests take place.
                 <lb/>
@@ -2802,7 +2802,7 @@
                  <lb/>so obscure&#x2014;topics that I have <choice><sic>every</sic><corr>ever</corr></choice> imagined. Right
                  <lb/>now the cook who has been considered&#x2014;by himself&#x2014;an authority
                  <lb/>on almost any subject one can bring up has been telling the boys             
-         <pb facs="journal-2-17.jpg" n="/7/7720f3e3-93eb-47d7-a27e-68622120c331"/>
+         <pb facs="journal-2-17.jpg"/>
          <fw type="pageNum" place="top">13</fw>
                <lb/>that he rolls <del rend="strikethrough">the</del> oranges before squeezing out the the juice in order
                <lb/>to get the citric acid out of the skin. <persName ref="#Shirley">Shirley</persName> argues that he
@@ -2828,7 +2828,7 @@
                <lb/>I can read in peace.
             </p>
          </div>
-         <pb facs="journal-2-18.jpg" n="/9/9940712b-a2cd-4eaa-92a9-e650af6a8fd1"/>
+         <pb facs="journal-2-18.jpg"/>
          <fw type="pageNum" place="top">14</fw>
          <div xml:id="eel-19411231" type="entry">
             <lb/><dateline><del rend="strikethrough">Wednesday January 1 1941</del>
@@ -2861,7 +2861,7 @@
                <lb/>for <name>Northeners</name> in general would be evident.  At any rate
                <lb/>I felt then that I should get a little American History into
             </p>
-         <pb facs="journal-2-19.jpg" n="/D/deb45e3a-81a3-4f00-b7e3-88e35c2e76c7"/>
+         <pb facs="journal-2-19.jpg"/>
             <p>
                <lb/>my head in an entirely pleasant manner.  Now after
                <lb/>having continued my reading through that part of the book
@@ -2894,7 +2894,7 @@
                <lb/>the carbon dioxide value which was relatively quite high
                <lb/>was not as accurate a result as the oxygen value so cannot
                <lb/>hold as much importance as the latter.  In taking these
-            <pb facs="journal-2-20.jpg" n="/2/260a8f2d-eed9-433a-b3a2-677212c7965e"/>
+            <pb facs="journal-2-20.jpg"/>
             <fw type="pageNum" place="top">16</fw>
                   <lb/>samples I am cooperating with <persName ref="#Court">Court</persName> the meteorologist who
                   <lb/>tells me when to take the samples. The prime requisite is
@@ -2929,7 +2929,7 @@
                </p>
                <p>
                   <lb/><persName ref="#Perk">Jack Perkins</persName> has just completed some beautiful jobs on the
-            <pb facs="journal-2-21.jpg" n="/6/62075637-9661-48cc-b73d-16b55c7b6a3c"/>
+            <pb facs="journal-2-21.jpg"/>
             <fw type="pageNum" place="top">17</fw>
                   <lb/>Adelie an Emperor and a snowy petrel. The skins have
                   <lb/>turned out beautifully.
@@ -2964,7 +2964,7 @@
                   <lb/>that little hope for a strong signal was held. They
                   <lb/>had trouble pulling <placeName ref="#EastBase">East Base</placeName> through but they finally did
                   <lb/>It was not until about an hour and a half later that our
-            <pb facs="journal-2-22.jpg" n="/e/ee43a5aa-0d07-45c2-b54b-dbf8b7e67102"/>
+            <pb facs="journal-2-22.jpg"/>
             <fw type="pageNum" place="top">18</fw>
                   <lb/>signal came through strongly enough for rebroadcasting.
                   <lb/>The signal strength held only for a few minutes <gap rend="overwritten"/>and not
@@ -3001,7 +3001,7 @@
                   <lb/>a firm believer that one trained so completely in theoretical matters
                   <lb/>as I have been in the past should go away on an expedition for
                   <lb/>a year or two; here in this small world of ours, for instance, one                  
-               <pb facs="journal-2-23.jpg" n="/4/498886ed-6a42-4026-9b5f-75b211d23125"/>
+               <pb facs="journal-2-23.jpg"/>
                <fw type="pageNum" place="top">19</fw>
            
                <lb/>meets men from many walks of life and learns quickly
@@ -3038,7 +3038,7 @@
                  <lb/>I am using one I don't go by it. Since I have been trying to
                  
               
-           <pb facs="journal-2-24.jpg" n="/8/821a5dea-fe96-424f-bd0a-8acf8941c8f6"/>  
+           <pb facs="journal-2-24.jpg"/>  
            <fw type="pageNum" place="top">20</fw> 
            
                  <lb/>to get up at least by <time>ten</time> in order to run metabolism tests 
@@ -3071,7 +3071,7 @@
                  <lb/>all the spare cylinder gear he could find in the shop but
                  
              
-               <pb facs="journal-2-25.jpg" n="/4/4e9c39a9-e9f6-4c9a-9d6a-6d2f89f42729"/>
+               <pb facs="journal-2-25.jpg"/>
               <fw type="pageNum" place="top">21</fw>
                  
                  <lb/>to no avail what was needed was a complete new engine.
@@ -3145,7 +3145,7 @@
               </div>
 
                <div xml:id="eel-19410104" type="entry">    
-                <pb facs="journal-2-27.jpg" n="/f/f41e9278-255c-4170-950b-f3f63d03fe4f"/>
+                <pb facs="journal-2-27.jpg"/>
                <fw type="pagenumber" place="topright">23</fw>
                <lb/><dateline><date when="1941-01-04">Saturday January 4th 1941</date></dateline>       
            <p> 
@@ -3176,7 +3176,7 @@
                 <lb/>were breathing hard now but their enthusiasm was unlimited. 
                 <lb/><name type="dog">Spot</name> was right out in front with his line tight and behaved
               
-              <pb facs="journal-2-28.jpg" n="/4/41ed994d-53c8-48d4-a6a3-45841f33f590"/>
+              <pb facs="journal-2-28.jpg"/>
               <fw type="pahenumber" place="top left">24</fw>
             
                  <lb/>beautifully. We finally hit the trail to the barrier cache <!--the last three latters of the world barrier are pretty smudged here-->
@@ -3216,7 +3216,7 @@
             </p>
            </div>
            
-           <pb facs="journal-2-29.jpg" n="/3/32efdaee-b13d-4de5-a78b-8a38d1d92f44"/>
+           <pb facs="journal-2-29.jpg"/>
            <fw type="pageNum" place="topright">25</fw>
             
             <div xml:id="eel-19410105a" type="entry">
@@ -3256,7 +3256,7 @@
                </p>
                <p>
                   <lb/>As a governor on my impatience I usually use my hand
-               <pb facs="journal-2-30.jpg" n="/3/3e5d8217-95b3-4431-b19b-f90dd2b900ec"/> 
+               <pb facs="journal-2-30.jpg"/> 
                <fw type="pageNum" place="topleft">26</fw>
                   <lb/>knowing that I won't hit hard enought to hurt my hand.
                   <lb/>One day, however, <name type="dog" ref="#Sheila">Sheila</name> tried to bite me when I was
@@ -3300,7 +3300,7 @@
                   <lb/>The dog teams should be in sometime soon—several days.
                </p>
             </div>
-           <pb facs="journal-2-31.jpg" n="/0/0809ecaf-5206-4733-b003-546f2f045970"/> 
+           <pb facs="journal-2-31.jpg"/> 
            <fw type="pageNum" place="top-right">27</fw>
            <div xml:id="eel-19410109a" type="entry">
               <lb/><dateline><date when="1941-01-09">Thursday January 9<hi rend="superscript">th</hi> 1941</date></dateline>
@@ -3337,7 +3337,7 @@
                  <lb/>I was down onn the bay ice having parked the team up
                  <lb/>above on the barrier my companions, <persName ref="#Tony">Tony</persName> <persName ref="#DocFrazier">Doc</persName> and <persName>Joe
                  <lb/>Wells</persName>, and I were disturbed in our picture taking and
-                 <pb facs="journal-2-32.jpg" n="/1/10894952-c9d4-42f8-bd1b-9ef6df38aca7"/>
+                 <pb facs="journal-2-32.jpg"/>
                  <fw type= "pageNum" place="top">28</fw>
                  <lb/>fun with the seals by the noise of a dog fight. We
                  <lb/>hurried up and found the team had moved about 
@@ -3366,7 +3366,7 @@
                  <lb/>wanted with him. I took him out to the windmill
                  <lb/>around the old cellar and gave him two shots
                  <lb/><persName>Troy</persName>accompanied me to see his old friend die a death
-                 <pb facs="journal-2-33.jpg" n="/4/44478c9d-f855-48a0-9d1b-0bff2c740f8d"/>
+                 <pb facs="journal-2-33.jpg"/>
                  <fw type="pageNum" place="top">29</fw>
                  <lb/>probably more humane than any of the other dogs would get.
                  <lb/>As we watched him after the shot had been fired his
@@ -3410,7 +3410,7 @@
                  <lb/>on a week. 
               </p>
            </div>
-          <pb facs="journal-2-34.jpg" n="/6/6d39d1ce-b6a1-4093-a5f3-c47bf9d1d37b"/>
+          <pb facs="journal-2-34.jpg"/>
           <div xml:id="eel-19410110" type="entry">
              <lb/><dateline><date when="1941-01-10">Friday January 10<hi rend="superscript">Fr</hi></date></dateline>
              <p>
@@ -3449,7 +3449,7 @@
              </p>
            
            
-           <pb facs="journal-2-35.jpg" n="/7/7fcaf75e-b11c-4550-b8c6-1f54f7e00792"/>
+           <pb facs="journal-2-35.jpg"/>
          <fw type="pageNum" place="top">31</fw>
             <p>
                <lb/>I read them all all over again. I had one from <persName ref="#Mary">Mary</persName>
@@ -3488,7 +3488,7 @@
              </p>
             <p>
                <lb/>Today a little more order has prevailed. I ran a 
-            <pb facs="journal-2-36.jpg" n="/0/00f6b1f6-ee2b-45cd-bd18-44400d0a3392"/>
+            <pb facs="journal-2-36.jpg"/>
             <fw type="pageNum" place="top">32</fw>
                   <lb/>metabolism test on <persName ref="#CharliePassel">Charlie Passel</persName> and am continuing
                   <lb/>my air analysis. <persName ref="#Arnold">Arnold</persName> made a very valuable suggestion
@@ -3530,7 +3530,7 @@
                   <lb/>much of the stuff is being moved out.
                </p>
             </div>
-           <pb facs="journal-2-37.jpg" n="/8/8079e385-54cd-4150-83cf-d2e8bd8d3aee"/>
+           <pb facs="journal-2-37.jpg"/>
             <fw type="pageNum" place="top">33</fw>
             <div xml:id="eel-19410114a" type="entry">
                <lb/><dateline><date when="1941-01-14">1/14/41<del rend="strikethrough">W</del>Tuesday January 14 1941</date></dateline>
@@ -3567,7 +3567,7 @@
                   <lb/>also stated that the admiral made flights and took
                   <lb/>pictures enough "to map accurately" about <measure>35000</measure> sq.
                   <lb/>miles of <emph style="underline">new</emph> territory. We all know that they only
-         <pb facs="journal-2-38.jpg" n="/2/29660762-216a-434c-97a1-f246fa4f8e8c"/>
+         <pb facs="journal-2-38.jpg"/>
          <fw type="pageNum" place="top">34</fw> 
                 <lb/>camera taken on those flights was a Leica and no
                 <lb/>attempt was made to make overlaps or circles of pictures.
@@ -3598,7 +3598,7 @@
                 <lb/>Admiral--and consequently will have little cooperation
                </p>
        <!-- Misha Me Fecit -->
-               <pb facs="journal-2-39.jpg" n="/a/a95e7b8a-3a8d-4a07-9b3f-7a12798fa0ee"/>
+               <pb facs="journal-2-39.jpg"/>
                <!-- Don't rememer what to put for the n attribute... Ask Lewis...-->
                <fw type="pageNum" place="top">35</fw>
                <!-- 35 should be underlined? -->
@@ -3639,7 +3639,7 @@
                   <lb/><persName ref="#Tony">Tony</persName> had been doing a good job with the dogs even
                   <lb/>if he does get lost now and then and the team
             <!-- Misha Exit -->
-           <pb facs="journal-2-40.jpg" n="/c/c459ce06-004e-4068-b349-a293327f6170"/>
+           <pb facs="journal-2-40.jpg"/>
          <fw type="pageNum" place="top">36</fw>
             <lb/>runs away occasionally.</p>
             <p>
@@ -3673,7 +3673,7 @@
             </p>
             
          </div>
-            <pb facs="journal-2-41.jpg" n="/4/4dcdda8f-e271-4a15-b50a-852c9f3e3945"/>
+            <pb facs="journal-2-41.jpg"/>
             <fw type="pageNum" place="top">37</fw>
             <div xml:id="eel-19410116a" type="entry">
                <lb/>
@@ -3720,10 +3720,10 @@
                   <lb/>I spent some time reading funny <unclear cert="medium">parts</unclear>.
                </p>
             </div>
-            <pb facs="journal-2-42.jpg" n="/3/307a134d-da7d-4fd0-b6f0-36894ed902b7"/>
-            <pb facs="journal-2-43.jpg" n="/f/f3da51c0-d53b-4431-8185-bf2366dddc11"/>
-            <pb facs="journal-2-44.jpg" n="/7/7f363505-4a1f-4261-8438-98b840c4f9bb"/>
-            <pb facs="journal-2-45.jpg" n="/d/d0f7a89a-bed8-48ff-b739-9a12056532e1"/>
+            <pb facs="journal-2-42.jpg"/>
+            <pb facs="journal-2-43.jpg"/>
+            <pb facs="journal-2-44.jpg"/>
+            <pb facs="journal-2-45.jpg"/>
            <div xml:id="eel-undated-1" type="entry">
               <dateline><date when-custom="unknown"></date></dateline>
               <p>
@@ -3737,7 +3737,7 @@
                       <persName><choice><sic>The Guernsey's</sic><corr>Guernseys</corr></choice></persName>.
               </p>
            </div>
-            <pb facs="journal-2-46.jpg" n="/d/d38e7754-5bff-48d5-89cc-0e262e1134f3"/>
+            <pb facs="journal-2-46.jpg"/>
      </body> <!-- Close body of journal 2 text. -->
      </text>  <!-- Close journal 2 text. -->
      <text xml:id="eel-journal2-radiograms">   <!-- Open text #2, telegrams inserted in journal #2. -->
@@ -3778,7 +3778,7 @@
                </div>
                 
              
-               <div xml:id="eel-19401231a" type="radiogram" subtype="sent" facs="journal-2-49" n="/4/4bfcf4fd-687b-48e2-9169-0c1d69d9ba36">
+               <div xml:id="eel-19401231a" type="radiogram" subtype="sent" facs="journal-2-49">
                   <opener> 
                      <lb/><dateline><date when="1940-12-31" type="sent">Dec 31 1940</date></dateline> 
                      <address>
@@ -3796,7 +3796,7 @@
                   </p>
                   <lb/><closer><persName>Earl</persName></closer>
                </div>
-               <div xml:id="eel-19401231b" type="radiogram" subtype="sent" facs="journal-2-50" n="/b/bbbadca7-b003-4003-a8a6-5b63720cd93d">
+               <div xml:id="eel-19401231b" type="radiogram" subtype="sent" facs="journal-2-50">
                   <opener>
                      <lb/><dateline><date when="1940-12-31" type="sent">Dec 31 1940</date></dateline>
                      <address>
@@ -3815,7 +3815,7 @@
                   <lb/><closer><persName>Earl</persName></closer>
                </div>
                <!-- A div for a radiogram from an earlier date would go here. -->
-               <div xml:id="eel-19401231e" type="radiogram" subtype="received" facs="journal-2-53" n="/9/9fcd6e47-dbf3-4447-9214-6280bf6f3425">
+               <div xml:id="eel-19401231e" type="radiogram" subtype="received" facs="journal-2-53">
                   <opener>
                      <lb/><dateline><date when="1940-12-31" type="received"><del type="overwritten">27</del>31 dec 1940</date></dateline>
                      <lb/>18 <name type="call-sign" ref="#WLMC">wlmc</name> <placeName>mattapan mass</placeName> <date when="1940-12-27" type="sent">dec 27</date>
@@ -3831,7 +3831,7 @@
                   </p>
                   <lb/><signed><persName ref="#mamma">mother</persName></signed>
                </div>
-               <div rend="smalltext" xml:id="eel-19410101" type="radiogram" subtype="received" facs="journal-2-54" n="/c/cdaed0da-eaf8-4e74-accc-daa62ff14cb3">
+               <div rend="smalltext" xml:id="eel-19410101" type="radiogram" subtype="received" facs="journal-2-54">
                   <opener>
                      <lb/><dateline><date when="1941-01-01" type="received">JAN 1 1941</date></dateline>
                      <lb/>NR 12 <name ref="#WLMC">WLMC</name> <placeName ref="#Wellesley">WELLESLEY MASS</placeName> <date when="1940-12-29" type="sent">DEC 29</date>
@@ -3841,7 +3841,7 @@
                      <lb/>HAPPY PROSEPEROUS NEW YEAR X HOPE TO <add place="above">me</add> GET YOU ON RETURN <add place="above" rend="^">to the U.S.</add> X <persName ref="#Guernsey">THE GUERNSEYS</persName>
                   </p>
                </div>
-               <div xml:id="eel-19400102a" type="radiogram" facs="journal-2-55" n="/D/d008d323-2484-4321-bf8a-a17ef90e075a">
+               <div xml:id="eel-19400102a" type="radiogram" facs="journal-2-55">
                   <opener>
                      <lb/>3 <name type="call-sign" ref="#WLMC">wlmc</name> <placeName ref="#Wellesley">wellesley mass</placeName> <date when="1941-12-28" type="received">dec 28</date><dateline><date when="1941-01-02" type="sent">Jan 2 1941</date></dateline>
                      <lb/><salute><persName>LOCKHART</persName></salute>
@@ -3852,7 +3852,7 @@
                   </p>
                   <lb/><closer><persName ref="#Guernsey">the george guernsey</persName></closer>
                </div>
-               <div xml:id="eel-19410103a" type="radiogram" facs="journal-2-56" n="/C/cb5e3b56-14a4-46e0-9f63-dbecb3c47d5e">
+               <div xml:id="eel-19410103a" type="radiogram" facs="journal-2-56">
                   <opener>
                     <lb/><date when="1941-01-03" type="sent">Jan 3 1940</date>
                     <lb/><persName ref="#Guernsey">Mr Guernsey and Family</persName>
@@ -3867,7 +3867,7 @@
                   </p>
                   <lb/><closer>Earl</closer>
                </div>
-                <div xml:id="eel-19401210a" type="radiogram" subtype="received" facs="journal-2-58" n="/c/c54c11a9-659f-4566-b4f8-b81635104f9f">
+                <div xml:id="eel-19401210a" type="radiogram" subtype="received" facs="journal-2-58">
                  <opener>
                     <lb/>2 <name type="call-sign" ref="#WLMC">wlmc</name> <placeName ref="#Boston">boston mass</placeName> <date when="1940-12-05" type="received">dec 5</date> <dateline><date when="1940-12-10" type="sent">10 dec 1940</date></dateline>
                     <lb/><salute><persName ref="#EEL">earl <choice><sic>lockhard</sic><corr>lockhart</corr></choice></persName></salute>
@@ -3882,7 +3882,7 @@
                     <lb/><closer><persName ref="#Beatie">beatie</persName></closer>
                     <!-- There are some handwritten letters in pencil on the bottom of this radiogram. Possibly used to send it? -->
                 </div>
-               <div rend="smalltext" xml:id="eel-19410116" type="radiogram" subtype="received" facs="journal-2-59" n="/4/4741f814-0c98-42d0-89e7-013bfe2836fa">
+               <div rend="smalltext" xml:id="eel-19410116" type="radiogram" subtype="received" facs="journal-2-59">
                   <opener> 
                   <lb/><dateline><date when="1941-01-16" type="sent">JAN 16/41</date></dateline>
                      <lb/>
@@ -3903,7 +3903,7 @@
                <lb/><!-- FL is written to the far left of the telegram -->
                </div>
                
-               <div xml:id="eel-19410112b" type="radiogram" subtype="received" facs="journal-2-60" n="/e/efe1a485-9da8-4377-9e86-670ad7a12672">
+               <div xml:id="eel-19410112b" type="radiogram" subtype="received" facs="journal-2-60">
                   <opener>
                      <lb/>9 <name type="call-sign" ref="#WLMC">wlmc</name> <placeName>richmond xx ind</placeName> <dateline><date when="1941-01-09" type="sent">jan 9</date></dateline>
                      <lb/><dateline><date when="1941-01-12" type="received">12 jan 1941<!-- to the far right --></date></dateline>
@@ -3920,7 +3920,7 @@
                       <lb/><signed>the gear man<!-- indented to the far right --></signed>
                </div>
                
-               <div xml:id="eel-19401128" type="radiogram" subtype="received" facs="journal-2-61" n="/3/32bdfaa4-9bad-41c9-9066-c3a102046801">
+               <div xml:id="eel-19401128" type="radiogram" subtype="received" facs="journal-2-61">
                  <opener>
                   <lb/><name type="call-sign" ref="#WLMC">2 WLMC</name> <date when="1940-11-28">28 nov 1940</date>
                   <lb/>FROM <placeName type="city">CLEVELAND</placeName> 0 <abbr>NOV</abbr> <date when-custom="unknown" type="sent">NO DATE</date> 
@@ -3942,7 +3942,7 @@
                                
                </div>  
                  
-               <div xml:id="eel-19401222a" type="radiogram" subtype="received" facs="journal-2-62" n="/4/4c005625-1a86-48c5-904b-89cd52cea965">
+               <div xml:id="eel-19401222a" type="radiogram" subtype="received" facs="journal-2-62">
                 <opener>
                    <lb/><name type="call-sign" ref="#WLMC">25 wlmc</name> <placeName type="city">cleveland</placeName> <date type="sent" when="1940-12-19">dec 19</date> <date type="received">22 Dec 1940</date>
                   <lb/><persName>LOCKHART</persName>
@@ -3964,7 +3964,7 @@
                   
                </div>  
                   
-                <div xml:id="eel-19401225b" type="radiogram" subtype="received" facs="journal-2-63" n="/3/350707bb-644c-48c6-b010-fbf4af419233">
+                <div xml:id="eel-19401225b" type="radiogram" subtype="received" facs="journal-2-63">
                  <opener>
                     <lb/><dateline><date when="1940-12-25" type="received">25 DEC 1940</date></dateline>
                     <lb/>NR5 <name type="call-sign" ref="#WLMC">WLMC</name> <date when="1940-12-21" type="sent">DEC 21</date> <placeName>BOSTON MASS</placeName>
@@ -3984,7 +3984,7 @@
                    </closer>
                </div>
                
-               <div xml:id="eel-19401226" type="radiogram" subtype="sent" facs="journal-2-64" n="/c/cb88c987-4c24-46d8-9b95-0b7859981f5c">
+               <div xml:id="eel-19401226" type="radiogram" subtype="sent" facs="journal-2-64">
                   <opener>
                      <lb/><dateline><date when="1940-12-26" type="sent">Dec 26 1940</date></dateline>
                      <address>
@@ -4001,7 +4001,7 @@
                   </p>
                   <signed><persName>Earl</persName></signed>
                </div>
-               <div xml:id="eel-19401218" type="radiogram" subtype="received" facs="journal-2-65" n="/c/cb88c987-4c24-46d8-9b95-0b7859981f5c">
+               <div xml:id="eel-19401218" type="radiogram" subtype="received" facs="journal-2-65">
                   <opener>
                      <lb/><dateline><date when="1940-12-18" type="received"> 18-DEC-1940</date></dateline>
                      <lb/> 2 <name type="call-sign" ref="#WLMC"> WLMC</name><date when="1940-12-18" type="sent">DEC 16</date><placeName>RICHMOND IND</placeName>
@@ -4014,7 +4014,7 @@
                   </closer>
                </div>
                
-               <div xml:id="eel-19401219" type="radiogram" subtype="received" facs="journal-2-66" n="/0/087da746-b373-4b8a-8f14-80ba6177e366">
+               <div xml:id="eel-19401219" type="radiogram" subtype="received" facs="journal-2-66">
                   <opener>
                      <lb/><dateline><date when="1940-12-19" type="sent">19-DEC-1940</date></dateline>
                      <lb/><persName>LOCKHART</persName>
@@ -4026,7 +4026,7 @@
                   </closer>
                </div>
                
-               <div xml:id="eel-19410104a" type="radiogram" subtype="sent" facs="journal-2-57" n="/2/21277b97-80c3-4419-929a-cbe1199256e1">
+               <div xml:id="eel-19410104a" type="radiogram" subtype="sent" facs="journal-2-57">
                   <opener>
                      <lb/><dateline><date when="1941-01-04" type="sent">January 4 1941</date></dateline>
                      <address>
@@ -4045,7 +4045,7 @@
                   <lb/><signed><persName ref="#EEL">Earl</persName></signed>
                </div>
                
-               <div xml:id="eel-19410109" type="radiogram" subtype="recived" facs="journal-2-67" n="/3/3718a2d2-860d-48f8-a7ab-5ed54a1437bc">
+               <div xml:id="eel-19410109" type="radiogram" subtype="recived" facs="journal-2-67">
                   <opener>
                      <lb/><dateline><date when="1940-01-09" type="recived">9 jan 1941</date></dateline>
                      <lb/>7 <name type="call-sign" ref="#WLMC">wlmc</name> <placeName ref="#Boston">boston mass</placeName> <date type="sent" when="1941-01-06">jan 6</date>
@@ -4060,7 +4060,7 @@
                   <lb/><signed><persName ref="#Beatie">beatie</persName></signed>
                </div>
                
-               <div xml:id="eel-19410109b" type="radiogram" subtype="sent" facs="journal-2-68" n="/4/45528f49-dcdb-4ded-bf96-07f60c260cf0">
+               <div xml:id="eel-19410109b" type="radiogram" subtype="sent" facs="journal-2-68">
                   <opener>
                      <lb/><dateline><date when="1941-01-09" type="sent">Jan 9 1941</date></dateline>
                      <address>
@@ -4078,7 +4078,7 @@
                   <lb/><signed><persName ref="#EEL">Earl</persName></signed>
                </div>
                
-               <div rend="smalltext" xml:id="eel-19410416" type="radiogram" subtype="received" facs="journal-2-69" n="/3/3a1cb2ab-66fc-495d-974f-54174222c435" >
+               <div rend="smalltext" xml:id="eel-19410416" type="radiogram" subtype="received" facs="journal-2-69" >
                   <opener>
                      <lb/><dateline><date when="1941-04-16" type="sent" >16 APR 1941</date></dateline>
                      <lb/>5<name type="call-sign" ref="#WLMC">WLMC</name> <placeName>BOSTON MASS</placeName>
@@ -4093,7 +4093,7 @@
                    
                   <closer>BY <persName ref="#Beatie">BEATIE</persName></closer>
                 </div>   
-               <div rend="smalltext" xml:id="eel-19400419" type="radiogram" subtype="received" facs="journal-2-70" n="/2/2a6d7bed-4810-48f4-9f2a-75d31b7d506d">
+               <div rend="smalltext" xml:id="eel-19400419" type="radiogram" subtype="received" facs="journal-2-70">
                  <opener>
                     <lb/>7 NIJS FB Z NIJS <date type="sent" when="1940-04-18">182030</date> WTDU GR 37
                     <lb/>
@@ -4109,7 +4109,7 @@
                     <dateline><date when="1940-04-19" type="received">0040/19 APR</date></dateline>
                  </closer>
                </div>
-               <div rend="smalltext" xml:id="eel-19410427" type="radiogram" subtype="received" facs="journal-2-71" n="/6/6ba69e71-75d0-4690-a21d-b8648a4159e4">
+               <div rend="smalltext" xml:id="eel-19410427" type="radiogram" subtype="received" facs="journal-2-71">
                   <opener>
                      <lb/><dateline><date when="1941-04-27" type="received" >27 r 1941</date></dateline>
                      <lb/>2<name type="call-sign" ref="#WLMC">WLMC</name> <placeName>NEW YORK NY</placeName> <date when="1941-04-23" type="sent">APR 23</date>
