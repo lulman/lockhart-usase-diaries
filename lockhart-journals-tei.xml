@@ -108,10 +108,10 @@
                   (BPRCAP) of The Ohio State University, which has granted the editors permission to
                   publish this edition of the manuscripts. The original journal is held in Box 1,
                   Folder 11 of the Ernest Earl Lockhart Collection, BPRCAP. For a complete inventory
-                  to the Lockhart Collection, please see <media mimeType="text/html"
+                  to the Lockhart Collection, please see <figure><media mimeType="text/html"
                      url="http://rave.ohiolink.edu/archives/ead/OhCoUBP0006">
                      <desc>http://rave.ohiolink.edu/archives/ead/OhCoUBP0006</desc>
-                  </media>.This edition is published under a Creative Commons license (see below).
+                  </media></figure>. This edition is published under a Creative Commons license (see below).
                   Any use of the edition should acknowledge the BPRCAP and the editors of the
                   journal. </p>
                <p xml:id="CreativeCommons">
@@ -198,7 +198,7 @@
                         corner; 4-40 (journal entries on pages numbered 1 through 37 consecutively, odd numbers in the upper right-hand corners,
                         even numbers in the upper left-hand corners of pages); 41-117 (blank pages); 118 (list of outgoing mail on a paste-down
                         endpaper). The text block consists of a gathering of four quires of 6, 20, 16, and 18 leaves—including the paste-down
-                        endpapers in the first and last quires—sewn through the fold and glued (?) to the binding.
+                        endpapers in the first and last quires—sewn through the fold and glued to the binding.
                      </p>
                      <p>
                         <figure rend="embed">
@@ -213,18 +213,18 @@
                         unlined margins. The body of the pages contains 28 horizontal blue lines spaced 0.8 cm apart and a vertical red line defining
                         a 2.54 cm left margin. Some pages contain all or part of a 10 x 7.4 cm oval watermark depicting a seated female figure 
                         holding a spear in the crook of her right arm and leaves in her extended left hand. A 3 x 5 cm crown sits above the oval.
-                        <title>Paper Watermarks</title> identifies a nearly identical watermark with stationers Waterlow Bros. &amp; Layton, London;
+                        The <title>Paper Watermarks</title> Web site associates a nearly identical watermark with stationers Waterlow Bros. &amp; Layton, London;
                         however, the watermark illustrated on <title>Paper Watermarks</title> contains the decorative initials "WBL" below the
                         oval. Another page of the journal bears the watermark "Original Superfine."
                      </p>
                      <p>
-                        <emph rend="bold">Binding</emph>: Dark brown leather over buckram-wrapped boards. The leather is worn and chipped, exposing buckram, and 
+                        <emph rend="bold">Binding</emph>: The binding consists of dark brown leather over buckram-wrapped boards. The leather is worn and chipped, exposing buckram, and 
                         the front cover is embossed with "THE ACADEMY" (centered) and "REORDER NO. 411" (lower righthand corner). The spine is unmarked.  
                         The top, bottom, and fore-edge of the text block are stippled.
                      </p>
                      <p>
                         <emph rend="bold">Loose Radiograms</emph>: Twenty-five loose radiograms are tucked inside the back cover of the bound journal. The radiograms
-                        fall into two groups: typed copies of radiograms Lockhart received via the Army Amateur Radio Service from friends and family, and typed drafts 
+                        fall into two groups: typed copies of radiograms Lockhart received via the Army Amateur Radio System from friends and family, and typed drafts 
                         of outgoing messages. The incoming radiograms are all on cream-colored onionskin measuring 20.2 cm wide by 13.5 cm tall with two spiral binding 
                         holes along one edge (in all but one case at the top of the message). The outgoing messages are on heavier cream-colored paper, most 
                         measuring 21.6 cm wide by 14 cm tall except for three from April 1941 measuring 21.5 cm wide by 17.6 cm tall.
@@ -2098,11 +2098,10 @@
 
          <projectDesc>
             <p>This edition is the latest in a series of collaboratively produced electronic
-               editions of previously unpublished nineteenth-century American manuscripts held in
+               editions of previously unpublished nineteenth- and twentieth-century American manuscripts held in
                the Special Collections of The Ohio State University Libraries. Previous
                editions include "My Dear Elizabeth," five letters written by Sophia Peabody
-               Hawthorne to her sister Elizabeth Palmer Peabody between ca. 1837 and 1868 (currently
-               being revised); "Dear Wife," twenty-one letters written by riverboat captain William
+               Hawthorne to her sister Elizabeth Palmer Peabody between ca. 1837 and 1868; "Dear Wife," twenty-one letters written by riverboat captain William
                B. Anderson to his wife Louisa while he plied the Ohio river during the height of the
                American Civil War, 1862&#x2013;1864; "Journal of a Tour to Europe," by Samuel Sullivan Cox;
                and "Louisa A. Doane's Journal of Two Ocean Voyages (1852-1853). These documentary
@@ -2111,7 +2110,7 @@
                with a variety of tools for studying those texts. </p>
             <p>Each text was edited in connection with an undergraduate or graduate course offered
                by H. Lewis Ulman, Associate Professor of English at The Ohio State University. The
-               courses provide students with an opportunity to explore issues of textuality
+               courses provided students with an opportunity to explore issues of textuality
                and mediation that arise when our cultural archives spread from page to screen and
                from library shelves to networked databases. Electronic textual editing serves as our
                vehicle for examining what happens—and envisioning what might happen—when artifacts
@@ -2147,10 +2146,10 @@
             </p>
             <p>
                This edition also depends on technical support from a number of organizations and
-               individuals at The Ohio State University. The College of Arts and Sciences hosts this
-               Web site. High-resolution images of the manuscipt pages are housed on the Colleges of
-               the Arts and Sciences Media Manager application, which allows the edition to provide
-               users with zoomable views and numerous detail views of the manuscript pages on the
+               individuals at The Ohio State University. The College of Arts and Sciences provided Web hosting
+               during the development of the project. High-resolution images of the manuscipt pages were housed on the Colleges of
+               the Arts and Sciences Media Manager application, which provided the
+               editors with zoomable views and numerous detail views of the manuscript pages on the
                fly, all from archived master images. George Abraham, Web Applications Developer, and
                Allen Coleman, Digital Library Developer, offered frequent advice and encouragement
                for our custom applications of the Media Manager image server.
@@ -2160,7 +2159,7 @@
                State University, which provided classroom support for the editorial team. The former
                director of the DMP, Professor Scott Lloyd Dewitt, generously allocated funds from
                the DMP to purchase a classroom license for the specialized XML-editing software used
-               by the editorial team, and DMP Manager Amy Spears has provided invaluable support.
+               by the editorial team, and DMP Manager Amy Spears provided invaluable support.
             </p>
             
          </projectDesc>
@@ -2198,20 +2197,12 @@
                <emph rend="bold">Production Location of Digital Assets</emph>. The TEI P5-encoded
                transcription of the Lockhart journal, along with XSL style sheets used to provide
                variant "views" of the edition, TEI ODD documents used to produce custom schemas
-               based on the TEI markup language, and the resulting schemas are stored on a server
-               hosted by College of Arts and Sciences at The Ohio State University and on a Google
-               SVN repository. Readers may download copies of those source files via a link in the
-               drop-down navigation menu. Digital scans of the manuscript pages, scans of
-               plates from contemporary sources, and photographs of the journal are stored in the
-               Media Manager application hosted by the College of Arts and Science at The Ohio State
-               University. The files constituting the project's Web site are stored on a Web server
-               hosted by the College
-               (http://people.cohums.ohio-state.edu/ulman1/lockhart-journals/lockhart-edintro.html#introduction).
-            </p>
-            <p>
-               <emph rend="bold">Archiving of Digital Assets</emph>. Once the edition is complete,
-               its digital assets will be archived in The Ohio State University
-               Knowledge Bank (https://kb.osu.edu/dspace/). 
+               based on the TEI markup language, and the resulting schemas are stored in the
+               Knowledge Bank—The Ohio State University's Institutional Repository—along with the
+               HTML pages and other files constituting this edition. Readers may download copies of
+               those source files via links in the drop-down navigation menu. Digital scans of the
+               manuscript pages, scans of plates from contemporary sources, and photographs of the
+               journal are also stored in the Knowledge Bank.
             </p>
 
          </editorialDecl>
@@ -2221,8 +2212,8 @@
                <emph rend="bold">Markup of Physical Structure and Page Layout</emph>. The manuscript
                   <emph rend="bold">pages</emph>, encoded by the empty page break or &lt;pb/&gt;
                element, are the primary physical structures represented in the markup. Each
-               &lt;pb&gt; element includes a &quot;facs&quot; attribute identifying the unique ID of
-               a high-resolution scan of that image in the Media Manager application. <emph
+               &lt;pb&gt; element includes a &quot;facs&quot; attribute identifying the filename of
+               a high-resolution scan of that image. <emph
                   rend="bold">Line breaks</emph> (i.e., lineation determined or influenced by the
                physical constraints of the page rather than compositional choices by the author) are
                encoded with the empty &lt;lb/&gt; element. No attributes are included in the
