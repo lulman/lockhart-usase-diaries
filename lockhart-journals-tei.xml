@@ -1568,7 +1568,7 @@
                   <persName>Waisanen, Adam J</persName>
                   <note type="biographical">Adam Waisanen is a third-year History major at The Ohio State
                   University. He has currently served in the US Military for over eleven years. After 
-                  graduation he plans earn a Masters in Library Science to become either an archivist or
+                  graduation he plans to earn a Masters in Library Science to become either an archivist or
                   a librarian.</note>
                </person>
                <person xml:id="Kathy">
@@ -2378,6 +2378,14 @@
                manuscript pages, scans of plates from contemporary sources, and photographs of the
                journal are also stored in the Knowledge Bank.
             </p>
+            <p>
+               <emph rend="bold">Proofreading</emph>. Each member of the editorial team was
+               responsible for proofreading and fact-checking his or her own section of the edition.
+               Prior to depositing the edition in The Ohio State University's Knowledge Bank, the
+               principal editor proofed the entire edition, correcting obvious typographical and
+               coding errors, and standardizing format and spelling in the Introduction, appendices,
+               and apparatus. However, transcriptions were not rechecked word-for-word against the page images. 
+            </p>
 
          </editorialDecl>
 
@@ -2500,6 +2508,7 @@
             changes made during the development of the electronic text" (TEI P4X, ch. 5).
             Add additional changes at the top of the list.
          -->
+         <change when="2015-06-19" who="HLU">Completed editing to correct obvious errors and regularize format and style.</change>
          <change when="2013-12-16" who="HLU">Created first drafts of TEI customization files, Relax NG schemas, TEI transcription, and XSL stylesheets. </change>
 
       </revisionDesc>
