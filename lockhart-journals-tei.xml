@@ -732,17 +732,20 @@
                <item xml:id="Peterdog">
                   <name source="#koulouris">Peter</name>
                   <trait type="sex"><desc>Male</desc></trait>
-                  <desc>Peter is one of two dogs that lived at his parents' house in Mattapan during the Expedition. Both dogs are mentioned
-                  several times as they were being bulked up in preparation to be able to play with the sled dog Spot. Lockhart states that he
-                  received pictures of the dog in a letter received on January 10th, 1941.</desc>
+                  <desc>Peter is one of two dogs that lived at his parents' house in Mattapan during
+                     the Expedition. Both dogs are mentioned several times as they were being bulked
+                     up in preparation to be able to play with the sled dog Spot. Lockhart states
+                     that he received pictures of the dog in a letter received on January 10th,
+                     1941.</desc>
                </item>
                <item xml:id="Petedog">
                   <name source="#koulouris">Pete</name>
                   <trait type="sex"><desc>Male</desc></trait>
-                  <desc>Pete is one of two dogs that lived at his parents' house in Mattapan during the Expedition. Both dogs are mentioned
-                  several times as they were being bulked up in preparation to be able to play with the sled dog Spot. Pete was later donated to
-                  the military to assist with the war effort. Lockhart states that he received pictures of the dog in a letter received on 
-                  January 10th, 1941</desc>
+                  <desc>Pete is one of two dogs that lived at his parents' house in Mattapan during
+                     the Expedition. Both dogs are mentioned several times as they were being bulked
+                     up in preparation to be able to play with the sled dog Spot. Pete was later
+                     donated to the military to assist with the war effort. Lockhart states that he
+                     received pictures of the dog in a letter received on January 10th, 1941</desc>
                </item>
             </list>
 
@@ -750,74 +753,95 @@
             <list type="vehicles">
                <item xml:id="Condor">
                   <name type="aircraft" source="#Bertrand #eel-19410103">Condor</name>
-                  <desc>Twin-motored Curtiss-Wright Condor biplane loaded at Valparaiso. Each base had a Condor plane. According to Bertrand,
-                  this type of plane was the same as the William Horlick which had been used on
-                  long flights during the Second Byrd Expedition. These planes had been used for 5 years by the USMC.
-                  The Condor was used to bring supplies to trail parties and dog teams. Lockhart writes about the Condor's final flight on January 3, 1941; it had engine trouble according to 
-                  Lockhart; Bertrand mentions a fire. After this engine failure or fire, the Condor was subsequently abandoned <bibl><ref target="#Bertrand">424</ref></bibl>.
-                     </desc>
+                  <desc>Twin-motored Curtiss-Wright Condor biplane loaded at Valparaiso. Each base
+                     had a Condor. According to Bertrand, this type of plane was the same as
+                     the William Horlick which had been used on long flights during the Second Byrd
+                     Expedition. These planes had been used for 5 years by the USMC. The Condor was
+                     used to bring supplies to trail parties and dog teams. Lockhart writes about
+                     the Condor's final flight on January 3, 1941; it had engine trouble according
+                     to Lockhart, and Bertrand mentions a fire. After this engine failure or fire, the
+                     Condor was subsequently abandoned <bibl><ref target="#Bertrand"
+                        >424</ref></bibl>. </desc>
                </item>
                <item xml:id="Bear">
                   <name type="ship" source="#Bertrand">USS Bear, Bear of Oakland</name>
-                  <desc>One of two ships used on the 1939-41 expedition led by Admiral Byrd. Originally named the "Bear of Oakland," it was 
-                     used during Admiral Byrd's second expedition (1933-35) as an ice ship, then later  reconditioned and commissioned by the 
-                     US navy as the "USS Bear" before being assigned to the 1939-41 expedition <bibl><ref target="#Bertrand">Bertrand 413</ref></bibl>.</desc>
+                  <desc>One of two ships used on the 1939-41 USASE led by Admiral Byrd.
+                     Originally named the "Bear of Oakland," it was used during Admiral Byrd's
+                     second expedition (1933-35) as an ice ship, then later reconditioned and
+                     commissioned by the US navy as the "USS Bear" before being assigned to the
+                     1939-41 expedition <bibl><ref target="#Bertrand">Bertrand
+                     413</ref></bibl>.</desc>
                </item>
                <item xml:id="Beechcraft">
                   <name type="aircraft" source="#Bertrand #eel-19410303">Beechcraft</name>
-                  <desc>According to Bertrand, the Beechcraft was a new, light, single-motored, 5 passenger plane 
-                  that was mounted on skis and supposed to be transported on the Snow Cruiser for aerial exploration
-                  within a distance of 300 miles. When the Condor was disabled on January 3, 1941, Pete and Pappy flew the Beechcraft to rescue 
-                  supplies left in the Condor and to fly men back to West Base <bibl><ref target="#Bertrand">Bertrand 413-414</ref></bibl>.
-                  </desc>
+                  <desc>According to Bertrand, the Beechcraft was a new, light, single-motored,
+                     five-passenger plane that was mounted on skis and supposed to be transported on
+                     the Snow Cruiser for aerial exploration within a distance of 300 miles. When
+                     the Condor was disabled on January 3, 1941, Pete and Pappy flew the Beechcraft
+                     to rescue supplies left in the Condor and to fly men back to West Base
+                           <bibl><ref target="#Bertrand">Bertrand 413-414</ref></bibl>. </desc>
                </item>
                <item xml:id="SnowCruiser">
                   <name type="cruiser" source="#bertrand">Snow Cruiser</name>
-                  <desc>According to Bertrand, the Snow Cruiser could store food for a year, and it 
-                  carried 2500 gallons of diesel oil which would last 5000 miles as well as 1000 gallons of gas for flying. 
-                  Its maximum speed was 30 miles per hour, and it was created to function at very low temperatures
-                  and travel in deep, soft snow. It could also be living space for the crew <bibl><ref target="#Bertrand">Bertrand 413-414</ref></bibl>.
-                   The Snow Cruiser was a very popular and huge 
-                  deal at the time; several newspaper articles documented its progress across the United States; for example, the November 
-                  2, 1939 <title level="j">Cleveland Plain Dealer's</title> front-page article entitled "Snow Cruiser is Like a Fantastic Dream;
-                  No Wonder Animals Run" documents: "That such a Gargantuan vehicle as Admiral Richard E. Byrd's 
-                  snow cruiser could go rolling along the countryside seems impossible. It is so tremendous . . . And as it 
-                  rolled along the roads of Ohio, tens of thousands of men and women and children stared at it and 
-                  smiled and shouted and shouted and waved their hats . . . the cruiser . . . is on its way from Chicago to Boston to join
-                  Admiral Byrd's Antarctic expedition . . . " <bibl><ref target="#SnowCruiserDream"><title level="a">Snow Cruiser Fantastic Dream 29</title></ref></bibl>. The April 7, 1940 "New York Times" proclaimed that the snow cruiser 
-                     was "designed to go where nothing else can. The West Base leader hopes that it may be able to conquer that bane of explorers - wide crevasses . . . the snow cruiser, its designers believe, will bw able to take even 
-                     fifteen-foot crevasses in stride" 
-                     <bibl><ref target="#WarIcyUnknown"><title level="a">War with the Icy Unkown 107</title></ref></bibl>. Despite its promise, though, the snow cruiser caused problems 
-                     from the moment it was unloaded in Antarctica as documented in the March 13, 1940 issue of the <title level="j">Cleveland Plain Dealer</title>: "The huge
-                  vehicle demolished a ramp and was almost wrecked . . . " <bibl><ref target="#SnowCruiserUnloaded"><title level="a">Snow Cruiser Unloaded 1</title></ref></bibl>. After this unceremonious unloading, "The snow cruiser
-                  in which Admiral Richard E. Byrd hoped to roll across the Antarctic proved to be not so good on 
-                  frigid terrain, Engineer Charles Meyer disclosed today" proclaimed the June 23, 1940 <title level="j">Chicago Daily Tribune</title>. 
-                    The
-                  article continues: "Meyer said the 75,000 pound monster disappointed the explorers. Principal 
-                  trouble, he said, was insufficient power . . . " <bibl><ref target="#SnowCruiserPower"><title level="a">Snow Cruiser Power 12</title></ref></bibl>. The crew abandoned the cruiser when they left Antarctica. 
-               </desc>
+                  <desc>According to Bertrand, the Snow Cruiser could store food for a year, and it
+                     carried 2500 gallons of diesel oil, which would last 5000 miles, as well as 1000
+                     gallons of aviation gas. Its maximum speed was 30 miles per hour, and it was
+                     created to function at very low temperatures and travel in deep, soft snow. It
+                     could also serve as living space for the crew <bibl><ref target="#Bertrand">Bertrand
+                           413-414</ref></bibl>. The Snow Cruiser was a very popular and huge deal
+                     at the time. Several newspaper articles documented its progress across the
+                     United States. For example, the November 2, 1939 <title level="j">Cleveland
+                        Plain Dealer's</title> front-page article, entitled "Snow Cruiser is Like a
+                     Fantastic Dream; No Wonder Animals Run," documents: "That such a Gargantuan
+                     vehicle as Admiral Richard E. Byrd's snow cruiser could go rolling along the
+                     countryside seems impossible. It is so tremendous . . . And as it rolled along
+                     the roads of Ohio, tens of thousands of men and women and children stared at it
+                     and smiled and shouted and shouted and waved their hats . . . the cruiser . . .
+                     is on its way from Chicago to Boston to join Admiral Byrd's Antarctic
+                     expedition . . . " <bibl><ref target="#SnowCruiserDream"><title level="a">Snow
+                              Cruiser Fantastic Dream 29</title></ref></bibl>. The April 7, 1940
+                     "New York Times" proclaimed that the snow cruiser was "designed to go where
+                     nothing else can. The West Base leader hopes that it may be able to conquer
+                     that bane of explorers - wide crevasses . . . the snow cruiser, its designers
+                     believe, will bw able to take even fifteen-foot crevasses in stride" <bibl><ref
+                           target="#WarIcyUnknown"><title level="a">War with the Icy Unkown
+                              107</title></ref></bibl>. Despite its promise, though, the Snow
+                     Cruiser caused problems from the moment it was unloaded in Antarctica as
+                     documented in the March 13, 1940 issue of the <title level="j">Cleveland Plain
+                        Dealer</title>: "The huge vehicle demolished a ramp and was almost wrecked
+                     . . . " <bibl><ref target="#SnowCruiserUnloaded"><title level="a">Snow Cruiser
+                              Unloaded 1</title></ref></bibl>. After this unceremonious unloading,
+                     "The snow cruiser in which Admiral Richard E. Byrd hoped to roll across the
+                     Antarctic proved to be not so good on frigid terrain, Engineer Charles Meyer
+                     disclosed today," proclaimed the June 23, 1940 <title level="j">Chicago Daily
+                        Tribune</title>. The article continues: "Meyer said the 75,000 pound monster
+                     disappointed the explorers. Principal trouble, he said, was insufficient power
+                     . . . " <bibl><ref target="#SnowCruiserPower"><title level="a">Snow Cruiser
+                              Power 12</title></ref></bibl>. The crew abandoned the cruiser when
+                     they left Antarctica. </desc>
                </item>
                <item xml:id="tank">
                   <name type="tank" source="#Bertrand">Tank</name>
-                  <desc>The tank appears to be a Marmon-Herrington CTLS that was used during the Expedition.
-                  It was not equipped with any weapon systems, instead having an open cockpit design. It was 
+                  <desc>The tank appears to be a Marmon-Herrington CTLS that was used during the expedition.
+                  It was not equipped with any weapon systems, instead having an open cockpit. It was 
                   mostly used for moving personnel and equipment and also served as a test of the tank in extreme
                   cold weather.</desc>
                </item>
                <item xml:id="Star">
                  <name type="ship" source="#USCG #Shipscribe">USCGC North Star, Star</name>
-                  <desc>The North Star was a wooden cruising cutter built in 1932 for the US Department
+                  <desc>The <name type="ship">North Star</name> was a wooden cruising cutter built in 1932 for the US Department
                      of the Interior's Bureau of Indian Affairs, operating between Seattle, Washington, and 
-                     Alaska.  After two Antarctic voyages, including Lockhart's (1939-41), she was commissioned for the
+                     Alaska.  After two Antarctic voyages, including the USASE (1939-41), she was commissioned for the
                      US Coast Guard on 15 May 1941 and joined the Northeast Greenland Patrol on 1 July 1941, 
                      (along with the other ship from the 1939-41 Antarctic expedition, USS Bear). </desc>
                </item>
                <item xml:id="tractor">
                   <name type="tractor" source="#Bertrand">Tractor</name>
-                  <desc>West Base had a T-20 International crawler style of tractor. It was used for transport, unloading supplies from the ships, 
-                     and to stash supplies by pulling trains of sleds to lie food and fuel in caches and depots for the sledging parties. 
-                     The tractor parties went ahead of the sledging parties and established trails <bibl><ref target="#Bertrand">Bertrand 422</ref></bibl>.
-                  </desc>
+                  <desc>West Base had a T-20 International crawler style of tractor. It was used for
+                     transport, unloading supplies from the ships, and to stash supplies by pulling
+                     trains of sleds to place food and fuel in caches and depots for the sledging
+                     parties. The tractor parties went ahead of the sledging parties and established
+                     trails <bibl><ref target="#Bertrand">Bertrand 422</ref></bibl>. </desc>
                </item>
                </list>
 
@@ -1016,7 +1040,7 @@
                      and driving them around. Gray was the one who flew the Beechcraft back to get
                      engine parts for the Condor when the Condor's engine broke down. Gray is
                      mentioned being spotted by coincidence and then joined when Lockhart, Tony, and
-                     Court were out going toward the Barrier Cache</note> 
+                     Court were out going toward the Barrier Cache.</note> 
                </person>
                <person xml:id="ClarkGable">
                 <persName>Gable, Wiliam Clark</persName>
@@ -1031,7 +1055,7 @@
                      over 60 films and is best known for his role in <title level="m">Gone With the
                         Wind</title> in 1939. Lockhart mentions Gabel when comparing the film
                      adaptation of <title level="m">Gone with the Wind</title> to the novel.
-                     Lockhart finds Gabel fitting in his role as Rhett Butler</note>  
+                     Lockhart finds Gabel fitting in his role as Rhett Butler.</note>  
                </person>
                <person xml:id="VivienLeigh">
                 <persName>Leigh, Vivien</persName>
@@ -1590,14 +1614,14 @@
                   <placeName>West Dennis</placeName>
                   <country>United States</country>
                   <region type="state">Massachusetts</region>
-                  <desc>Lockhart's home on Cape Cod, Massachusetts, to which he retired and where he died in 2006</desc>
+                  <desc>Lockhart's home on Cape Cod, Massachusetts, to which he retired and where he died in 2006.</desc>
                   <location><geo>39.1500 -84.4500</geo></location>
                </place>
                
                <place type="range" xml:id="HalFlood" source="#FloodRange">
                   <placeName>Hal Flood</placeName>
                   <country>Antarctic</country>
-                  <desc>Range of snow covered mountains. Reconnaissance flights by the United Antarctic Service (1939-41), 
+                  <desc>Range of snow-covered mountains. Reconnaissance flights by the United Antarctic Service Expedition (1939-41), 
                      of which Lockhart was a member, explored the range. The principle mountain was named "Mount Hal Flood" 
                      (later changed to Mount Berlin) by Admiral Byrd for his uncle, the Hon. Henry D. Flood, US Senator 
                      from Virginia. The name was later applied to the entire range.</desc>
@@ -1617,14 +1641,14 @@
                <place type="country" xml:id="NewZealand" source="#TGN">
                   <placeName>New Zealand</placeName>
                   <desc>Island nation of the Southwest Pacific. <name type="ship" ref="#Bear">The Bear</name> is mentioned having just 
-                     left New Zealand on its way to Antarctica early in the journal</desc>
+                     left New Zealand on its way to Antarctica early in the journal.</desc>
                   <location><geo>-42.0000 174.0000</geo></location>
                </place>
                
                <place type="country" xml:id="Canada" source="#TGN">
                  <placeName>Canada</placeName> 
-                  <desc>North American nation to the north of the United States. Lockhart expresses a desire to go camping, and considers Canada to be a 
-                     prime location for camp sites</desc>
+                  <desc>Lockhart expresses a desire to go camping, and considers Canada to be a 
+                     prime location for camp sites.</desc>
                   <location><geo>60.0000 -096.0000</geo></location>
                </place>
                
@@ -1634,7 +1658,7 @@
                   <region type="state">Georgia</region>
                   <region type="county">Fulton</region>
                   <desc>Lockhart discusses Sherman's burning of Atlanta when talking about his 
-                     reactions to <title level='m'>Gone with the Wind</title></desc>
+                     reactions to <title level='m'>Gone with the Wind</title>.</desc>
                   <location><geo>33.7333 -84.3833</geo></location>
                </place>
                
@@ -1643,7 +1667,7 @@
                   <country>United States</country>
                   <region type="city">Wellesley</region>
                   <region type="state">Massachusetts</region>
-                  <desc>The address of The Guernsey Family</desc>
+                  <desc>The address of The Guernsey Family.</desc>
                </place>
            
                <place type="cache" xml:id="depot105" source="#Passel #Bertrand #TGN #eel-19401226a">
@@ -1661,38 +1685,48 @@
                <place type="cache" xml:id="cache92" source="#depot92">
                   <placeName>92</placeName>
                   <country>Antarctica</country>
-                  <desc>Lockhart refers to this cache or depot as 92; the June 1941 <title level="j"
+                  <desc>Lockhart refers to this cache or depot as 92. The June 1941 <title level="j"
                         >The Polar Times</title> referred to it as "92-mile depot" <bibl><ref
                            target="#depot92"><title level="a">Preliminary
                         Account</title> 6</ref></bibl>. This was the place where the Condor met the
-                     dog teams on January 3.</desc>
+                     dog teams on January 3, 1941.</desc>
                </place>
                
                <place type="city" xml:id="Valparaiso" source="#Bertrand #TGN #ByrdHeads #eel-19410115a #eel-19401231a #eel-19410116">
                   <placeName>Valparaiso <addName>Valpo</addName></placeName>
                   <country>Chile</country>
-                  <desc>Supplies, including the Condor plane, were loaded at Valparaiso, and mail was available for the crew from people
-                     who had not been able to send mail on the Star before it departed. 
-                     Lockhart's ship passed through Valpo, Panama, and Seattle on his way home <bibl><ref target="#Bertrand">Bertrand</ref></bibl>. An article in 
-                     the March 24, 1940 <title level="j">The Sunday Oregonian</title>chronicles the ships' return from Antarctica as Byrd
-                  traveled back after establishing the bases: "The Bear and North Star are headed for Punta Arenas, Chile.
-                  From there they are scheduled to go to Valparaiso, arriving about April 1.." <bibl><ref target="#ByrdHeads"><title level="a">Byrd Heads Toward Home 3</title></ref></bibl>.</desc>
+                  <desc>Supplies, including the Condor plane, were loaded at Valparaiso, and mail
+                     was available for the crew from people who had not been able to send mail on
+                     the <name type="ship">Star</name> before it departed. Lockhart's ship passed through Valpo, Panama, and
+                     Seattle on his way home <bibl><ref target="#Bertrand">Bertrand</ref></bibl>. An
+                     article in the March 24, 1940 <title level="j">The Sunday
+                     Oregonian</title>chronicles the ships' return from Antarctica as Byrd traveled
+                     back after establishing the bases: "The <name type="ship">Bear</name> and <name type="ship">North Star</name> are headed for
+                     Punta Arenas, Chile. From there they are scheduled to go to Valparaiso,
+                     arriving about April 1" <bibl><ref target="#ByrdHeads"><title level="a">Byrd
+                              Heads Toward Home 3</title></ref></bibl>.</desc>
                   <location><geo>-33.0478 -71.6011</geo></location></place>
                
                <place type="city" xml:id="Dunedin" source="#Bertrand #ByrdSails #TGN #eel-19410115a #eel-19410116a"><placeName>Dunedin</placeName>
                   <country>New Zealand</country>
-                  <desc>The North Star and The Bear of Oakland sailed to and from Antarctica via Dunedin. The December 28, 1939 <title level="j">The New York Times</title> reported that the 
-                     the Star was heading to Dunedin to meet the Bear before continuing on to Antarctica; the voyage began on November 21 in Philadelphia <bibl><ref target="#ByrdShipNewZealand"><title level="a">Byrd Ship New Zealand 3</title></ref></bibl>. 
-                     The Star also spent several days in Dunedin on its way to West Base to pick up the crew. 
-                  According to Lockhart it took about 10 days to travel from Dunedin to West Base. An article in the December 29, 1940 <title level="j">The New York Times</title>
-                  describes "an immediate sailing from Dunedin" and states that "The ship's schedule allows her
-                  twelve days to reach Little America" <bibl><ref target="#ByrdSails"><title level="a">Bear to Sail</title> 17</ref></bibl>.</desc>
+                  <desc>The <name type="ship">North Star</name> and the <name type="ship">Bear of Oakland</name> sailed to and from Antarctica via
+                     Dunedin. The December 28, 1939 <title level="j">The New York Times</title>
+                     reported that the the <name type="ship">North Star</name> was heading to Dunedin to meet the <name type="ship">Bear of Oakland</name> before
+                     continuing on to Antarctica; the voyage began on November 21 in Philadelphia
+                           <bibl><ref target="#ByrdShipNewZealand"><title level="a">Byrd Ship New
+                              Zealand 3</title></ref></bibl>. The <name type="ship">North Star</name> also spent several days in
+                     Dunedin on its way to West Base to pick up the crew. According to Lockhart it
+                     took about 10 days to travel from Dunedin to West Base. An article in the
+                     December 29, 1940 <title level="j">The New York Times</title> describes "an
+                     immediate sailing from Dunedin" and states that "The ship's schedule allows her
+                     twelve days to reach Little America" <bibl><ref target="#ByrdSails"><title
+                              level="a">Bear to Sail</title> 17</ref></bibl>.</desc>
                   <location><geo>-45.8667 170.5000</geo></location>
                   </place>
                
                <place type="country" xml:id="Panama" source="#eel-journal2-radiograms #TGN">
                   <placeName>Panama</placeName>
-                  <desc>Lockhart talks about traveling back through Panama on his return trip in several radiograms.</desc>
+                  <desc>In several radiograms, Lockhart mentions traveling back through Panama on his return trip.</desc>
                   <location><geo>8.537981 -80.782127</geo></location>
                </place>
                
@@ -1700,26 +1734,21 @@
                <place type="geography" xml:id="LittleAmerica">
                  <placeName>Little America</placeName>
                   <region type="continent">Antarctica</region>
-                  <desc>Little America was used as an Antarctic Exploration Base which Lockhart periodically references
-                  within his journals.</desc>
+                  <desc>Little America was used as an Antarctic base.</desc>
                   <location><geo>-77.0000 -162.0000</geo></location>
-               </place>
-               
-               <place type="interstate" xml:id="Route90">
-                  <placeName>U.S Route 90</placeName>
-                  <country>United States</country>
-                  <desc>U.S Route 90 is a United States highway which spans east-west. "90" is reference by Lockhart in his
-                  journals when he talks about the Tractor Party"s route returning to base. </desc>
                </place>
                
                <place type="city" xml:id="helsinki" source="#eel-19401231e #TGN">
                   <placeName>Helsinki</placeName>
                   <country>Finland</country>
-                  <desc>Located on peninsula in Gulf of Finland. In a radiogram to Dr. Lockhart, his mother writes of having 'snaps' 
-                     he had taken in "helsiki" enlarged; presumably "helsiki" refers to the Finnish city, Helsinki. According to Paul Koulouris,
-                     Dr. Lockhart worked in Sweden from September 1938 to July 1939, and took time off to travel in the summer of 1939; it is likely 
-                     that during this time Dr. Lockhart went to Finland, and that the enlargements thus mentioned by Dr. Lockhart's mother were of photos 
-                     taken during this trip. Koulouris mentions that Lockhart had a good camera; in one letter Dr. Lockhart mentions taking over 500 photos.</desc>
+                  <desc>In a radiogram to Dr. Lockhart, his
+                     mother writes of enlarging 'snaps' he had taken in "[H]elsiki." According to Paul Koulouris,
+                     Dr. Lockhart worked in Sweden from September 1938 to July 1939, and took time
+                     off to travel in the summer of 1939. It is likely that during this time Dr.
+                     Lockhart went to Finland, and that the enlargements thus mentioned by Dr.
+                     Lockhart's mother were of photos taken during this trip. Koulouris mentions
+                     that Lockhart had a good camera; in one letter Dr. Lockhart mentions taking
+                     over 500 photos.</desc>
                   <location><geo>60.1333 25.0000</geo></location>
                </place>
                
@@ -1728,7 +1757,7 @@
                   <country>United States</country>
                   <region type="county">Suffolk</region>
                   <region type="state">Massachusetts</region>
-                  <desc>A suburb of Boston, MA where Mamma and Beatie lived. Dr. Lockhart is also listed as living here, 
+                  <desc>A suburb of Boston, MA where Lockhart's mother and sister, Beatie, lived. Dr. Lockhart is also listed as living here, 
                      and this is where the three Lockhart children grew up.</desc>
                   <location><geo>42.27715 -71.091539</geo></location>
                </place>
@@ -1739,10 +1768,10 @@
                   <region type="state">Ohio</region>
                   <region type="county">Cuyahoga</region>
                   <location><geo>41.482222, -81.669722</geo></location>
-                  <desc>There are four radiograms here involving Cleveland; one that Lockhart sent and three that he received.
-                       These radiograms are all between Lockhart and Margaret Mann/Mrs. W.H. Mann. These two are likely the same person. Weather or not this was true, the woman lived in Cleveland. 
-                       Note that the radiogram sent by Lockhart was to Mrs. W.H. but the ones received were from Margaret. Also note that the four radiograms are not necessarily on any order.
-                       In these radiograms, she and Lockhart mostly talk about holiday wishes and when his coming return.</desc>
+                  <desc>There are four radiograms here involving Cleveland, one that Lockhart sent
+                     and three that he received. These radiograms are all between Lockhart and
+                     Margaret Mann/Mrs. W.H. Mann (likely the same person). Mrs. Mann and Lockhart mostly talk about holiday wishes and when Lockhart will
+                    return home.</desc>
               </place>
                
                <place type="city" xml:id="richmond">
@@ -1750,15 +1779,16 @@
                   <country>United States</country>
                   <region type="state">Indiana</region>
                   <location><geo>39.830189, -84.890668</geo></location>
-                  <desc>There is a radiogram involving Richmond, Indiana. Lockhart receives a radiogram from a man named George
-                     on December 18th asking Lockhart to speak with him via Mail Bag on Friday Dec. 20th. The radiogram is sent from Richmond to Little America. </desc>
+                  <desc>Lockhart receives a
+                     radiogram sent from Richmond from a man named George on December 18th asking Lockhart to speak
+                     with him via Mail Bag on Friday Dec. 20th.</desc>
                </place>
                <place type="state" xml:id="Florida" source="#TGN">
                  <placeName type="state">Florida</placeName>
                  <country>United States</country>
                  <location><geo>28.1000, -81.6000</geo></location>
                  <desc>Lockhart mentions Florida in talking about the books he has been reading, which have taken place in the south.
-                    He mentions reading South Moon Under which takes place in Florida, after he finished reading <title level="m">Gone with the Wind</title>.</desc> 
+                    He mentions reading <title level="m">South Moon Under</title> which takes place in Florida, after he finished reading <title level="m">Gone with the Wind</title>.</desc> 
                </place>
                
                <place type="city" xml:id="Balboa" source="#TGN">
@@ -1767,7 +1797,7 @@
                  <region type="geographic">Central America</region>
                   <location><geo>8.9500 -79.5667</geo></location>
                   <desc>Balboa is mentioned along with Valparaiso as a stopover city for mail going to the Antarctic 
-                  expedition, as well as the place where journalists wanted to interview Lockhart</desc>
+                  expedition, as well as the place where journalists wanted to interview Lockhart.</desc>
                </place>
                
                <place type="base" xml:id="EastBase" source="#James">
@@ -1784,8 +1814,7 @@
                   <placeName>South Pole</placeName>
                   <country>Antarctica</country>
                   <desc>Though in fact a very specific location, the term "south pole" was used colloquially in 
-                     radiograms to refer to the entire continent of Antarctica and the bases where the expedition
-                     took place. The 1939-1941 expedition did not reach the South Pole, nor was it intended to do so.</desc>
+                     radiograms to refer to the entire continent of Antarctica and the USASE bases. The 1939-1941 expedition did not reach the South Pole, nor was it intended to do so.</desc>
                   <location><geo>90.0000 0.0000</geo></location>
                </place>
                
@@ -1799,21 +1828,23 @@
                <place type="unknown" xml:id="FortWiener" source="#eel-19401225a">
                   <placeName>Fort Wiener</placeName>
                   <country>Antarctica</country>
-                  <desc>More than likely the barracks or tent of Murray Wiener. There is not mention of an actual Fort Wiener beyond this journal that can be found, therefore leading to the belief that this location is actually a nickname for the barracks or a tent of Murry Wiener.</desc>
+                  <desc>More than likely a barracks or a tent occupied by Murray Wiener.</desc>
                   <location cert="unknown"></location>
                </place>
                <place type="city" xml:id="HydePark" source="#eel-journal2-radiograms #eel-19401226b">
                   <placeName>Hyde Park</placeName>
                   <region type="state">Massachusetts</region>
                   <country>United States</country>
-                  <desc>Home of the Mahan family that Lockhart was close to. Mr. Mahan passed away around Christmastime, and a radiogram expressing condolences is where Lockhart's correspondence is. The Mahan family lived on Arlington Street.</desc>
+                  <desc>Home of Lockhart's friends, the Mahan family. Mr. Mahan passed away around Christmastime, as noted in a radiogram in which Lockhart expresses condolences. The Mahan family lived on Arlington Street.</desc>
                   <location><geo>42.2556° N, 71.1244° W</geo></location>
                </place>
                <place type="city" xml:id="Wilmington" source="#eel-19401231">
                   <placeName>Wilmington, Delaware</placeName>
                   <region type="state">Delaware</region>
                   <country>United States</country>
-                  <desc>Wilmington is the home of Mary and Carl, his brother and sister-in-law. Lockhart received radiogram correspondence from at Christmastime wishing him well.</desc>
+                  <desc>Wilmington is the home of Mary and Carl Lockhart, Earl Lockhart's brother and sister-in-law.
+                     Lockhart received radiograms from them at Christmastime wishing him
+                     well.</desc>
                   <location><geo>39.7458° N, 75.5467° W</geo></location>
                </place>
                <place type="geography" xml:id="Equator" source="#eel-19410113a">
@@ -1824,22 +1855,22 @@
                <place type="geography" xml:id="BayofWhales" source="#TGN">
                   <placeName>Bay of Whales</placeName>
                   <location><geo>78.3000° S, 164.2000° W</geo></location>
-                  <desc> The Bay of Whales is an inlet off the Ross Ice Shelf. This Bay is where the <name type="ship">Star</name> and the <name type="ship">Bear</name> did their loading and unloading and were 
-                     also stored here for the duration of the Expedition.</desc>
+                  <desc> The Bay of Whales is an inlet off the Ross Ice Shelf. This Bay is where the <name type="ship">Star</name> and the <name type="ship">Bear</name> loaded and unloaded and were 
+                     also stored for the duration of the expedition.</desc>
                </place>
                <place type="city" xml:id="Seattle" source="#TGN">
                   <placeName>Seattle</placeName>
                   <location><geo>47.6097° N, 122.333°1 W</geo></location>
                   <region type="state">Washington</region>
                   <country>United States</country>
-                  <desc>This was to be the final destination for The Star before it was redirected to join The Bear in Boston.</desc>
+                  <desc>This was to be the final destination for the <name type="ship">Star</name> before it was redirected to join The <name type="ship">Bear</name> in Boston.</desc>
                </place>
                <place type="city" xml:id="KansasCity" source="#DailySentinel #Saratogian">
                   <placeName>Kansas City</placeName>
                   <location><geo>39.0997° N, 94.5786° W</geo></location>
                   <region type="state">Missouri</region>
                   <country>United States</country>
-                  <desc>The Kansas City Star, a local news source, sent a radio salute to the members of the
+                  <desc>The <title level="j">Kansas City Star</title>, sent a radio salute to the members of the
                   expedition via WEAF-NBC at 11:30 pm Central Time on the evening of 3 January 1941.</desc>
                </place>
                
@@ -1852,16 +1883,18 @@
               <org xml:id="AARS" source="#QST">
                  <orgName>Army Amateur Radio System</orgName>
                  <state type="company">
-                    <desc>
-                       The Army Amature Radio System was an organization of amature radio operators that would send and receive radio messages for the military.
-                    </desc>
+                     <desc> The Army Amature Radio System was an organization of amature radio
+                        operators that would send and receive radio messages for the military.
+                     </desc>
                  </state>
-                 <desc>
-                    The Army Amature Radio System was an organization of amature radio operators that would send and receive radio messages for the military.
-                    The AARS sent and received messages between members of the Expedition and their families back home. Once the message was recorded in the states, it was
-                    then mailed out to the family members. The family members could then respond with a written letter that would then be transmitted back to the Expedition.
-                    In this journal, all messages were handled state side by Edward J. Day, operator of station WLMC in High Point North Carolina.
-                 </desc>
+                  <desc> The Army Amature Radio System was an organization of amature radio
+                     operators that would send and receive radio messages for the military. The AARS
+                     sent and received messages between members of the USASE and their families.
+                     Once a message was received in the States, it was then mailed out to
+                     family members. The family members could then respond with a written letter
+                     that would then be transmitted back to the USASE. In this journal, all
+                     messages were handled stateside by Edward J. Day, operator of station WLMC in
+                     High Point North Carolina. </desc>
               </org>
                <org xml:id="WLMC" source="#QST">
                   <orgName>WLMC</orgName>
@@ -1870,13 +1903,13 @@
                         WLMC was operated by Edward J. Day as part of the Army Amature Radio System during the time of the Expedition.
                      </desc>
                   </state>
-                  <desc>
-                     WLMC was operated by Edward J. Day as part of the Army Amature Radio System during the time of the Expedition. All
-                     of the radiograms included with this journal were processed by WLMC. As part of his service, Day would transcribe incoming messages, mailing 
-                     them to their intended recipient. He would also take incoming messages for the members of the Expedition and relay them down 
-                     to the Antarctic. 
-                     Between November 25 1939 to May 4 1941, this station processed around 15,000 messages to and from the Expedition.
-                  </desc>
+                  <desc> WLMC was operated by Edward J. Day as part of the Army Amature Radio System
+                     during the time of the USASE. All of the radiograms included with this
+                     journal were processed by WLMC. As part of his service, Day would transcribe
+                     incoming messages, mailing them to their intended recipient. He would also take
+                     incoming messages for the members of the USASE and relay them to the
+                     expedition. Between November 25, 1939 and May 4, 1941, this station processed
+                     around 15,000 messages to and from the USASE. </desc>
                </org>
                <org xml:id="Colliers">
                   <orgName>Collier's Weekly</orgName>
@@ -1885,17 +1918,21 @@
                         A magazine famous for running articles about social issues from the 20s on, also featured serialized stories
                      </desc>
                   </state>
-                  <desc>
-                     Lockhart was asked about being interviewed for a story in Colliers, which ran weekly serial stories as well as exposés and "muckraking" articles about working conditions in factories, 
-                     trusts, etc. Lockhart would have been interviewed about his experiences with Harris Food Mixture, but it seems that no such article ended up printed.
-                  </desc>
+                  <desc> Lockhart was asked about being interviewed for a story in <title level="j">Colliers</title>, which
+                     ran weekly serial stories as well as exposés and "muckraking" articles about
+                     working conditions in factories, trusts, etc. Lockhart would have been
+                     interviewed about his experiences with Harris Food Mixture, but it seems that
+                     no such article was ever printed. </desc>
                   </org>
                <org xml:id="BostonTraveler" source="#Traveler">
                   <orgName>Boston Traveler</orgName>
                   <state type="company"></state>
-                     <desc>A daily newspaper based in Boston, Massachusetts, it ran from 1914-1967, and was published by Boston Herald, Inc 
-                        <bibl><ref target="#Traveler"><title level="a">About the Boston traveler</title></ref></bibl>. In his journal, Lockhart 
-                        mentions that the newspaper is sponsoring a mail bag to be delivered to the base camps, which would have been delivered via shortwave radio.</desc>
+                  <desc>A daily newspaper based in Boston, Massachusetts, the <title level="j">Boston Traveler</title> ran from 1914-1967, and
+                     was published by Boston Herald, Inc. <bibl><ref target="#Traveler"><title
+                              level="a">About the Boston traveler</title></ref></bibl>. In his
+                     journal, Lockhart mentions that the newspaper is sponsoring a mail bag to be
+                     delivered to the base camps, which would have been delivered via shortwave
+                     radio.</desc>
                </org>
                <org xml:id="USDptoftheInt" source="#eel-19410427 #Richard">
                   <orgName>US Department of the Interior</orgName>
@@ -1911,19 +1948,11 @@
                <org xml:id="ThePolarTimes" source="#PolarTimes">
                  <orgName>The Polar Times</orgName>
                   <state type="company"></state>
-                  <desc> The Polar Times was produced as an inhouse magazine during discovery expeditions to Antarctica.
-                     The original purpose was to maintain morale and document the lives and work of the people on the expeditions to the Antarctic. <bibl><ref target="#PolarTimes"><title level="s">Understanding the Past and Present</title></ref></bibl></desc>
+                  <desc> <title level="j">The Polar Times</title> was produced as an in-house magazine during discovery expeditions to Antarctica.
+                     The original purpose was to maintain morale and document the lives and work of the people on the expeditions to the Antarctic <bibl><ref target="#PolarTimes"><title level="s">Understanding the Past and Present</title></ref></bibl>.</desc>
                </org>
             </listOrg>
             
-<!--            
-             <listEvent>
-               <event when="1940-01-01">
-                  <label>Label</label>
-                  <desc>description</desc>
-               </event>
-            </listEvent>
--->            
             <listBibl>
                
                <!-- Though TEI provides for more fine-grained encoding, we will enter bibliography items
