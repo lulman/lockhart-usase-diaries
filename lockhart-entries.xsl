@@ -122,6 +122,8 @@
     
     <xsl:template match="tei:seg[@type='softhyphen']"/>
     
+    <xsl:template match="tei:ab"/>
+    
     <xsl:template match="tei:p">
         <p>
             <xsl:apply-templates/>

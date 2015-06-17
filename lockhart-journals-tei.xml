@@ -2529,16 +2529,16 @@
          <!-- HLU section begins here -->
             <pb facs="journal-2-01.jpg"/>
             <pb facs="journal-2-02.jpg"/>
-            <pb facs="journal-2-03.jpg"/>
-            <pb facs="journal-2-04.jpg"/>
+            <pb facs="journal-2-03.jpg"/><ab>1/9</ab>
+            <pb facs="journal-2-04.jpg"/><ab>1</ab>
             <pb facs="journal-2-05.jpg"/>
             <fw type="pageNum" place="top">1</fw>
-            <head>
+            <ab>
                <lb/>
                <lb/>Journal covering period Dec 25 1940 until return home
                <lb/>about May 1<hi rend="superscript underlined">st</hi> 1941
                <lb/>
-            </head>
+            </ab>
             <div xml:id="eel-19401225a" type="entry">
                <lb/><dateline><date when="1940-12-25">Wednesday December 25 1940</date></dateline>
                <p>
@@ -3078,6 +3078,7 @@
                <lb/>I felt then that I should get a little American History into
             </p>
          <pb facs="journal-2-19.jpg"/>
+            <fw type="pageNum" place="top-right">15</fw>
             <p>
                <lb/>my head in an entirely pleasant manner.  Now after
                <lb/>having continued my reading through that part of the book
@@ -3627,6 +3628,7 @@
               </p>
            </div>
           <pb facs="journal-2-34.jpg"/>
+           <fw type="pageNum" place="top-left">30</fw>
           <div xml:id="eel-19410110" type="entry">
              <lb/><dateline><date when="1941-01-10">Friday January 10<hi rend="superscript">Fr</hi></date></dateline>
              <p>

@@ -184,7 +184,7 @@
                 name="href"><xsl:value-of select="@facs"/></xsl:attribute><xsl:attribute name="target">top</xsl:attribute>click to open page image in a new window</a>)]<br/>
             <a>
                 <xsl:attribute
-                    name="href"><xsl:value-of select="@facs"/>.jpg</xsl:attribute>
+                    name="href"><xsl:value-of select="@facs"/></xsl:attribute>
                 <xsl:attribute name="target">top</xsl:attribute>
                 <img class="pageview">
                     <xsl:attribute name="src"><xsl:value-of select="@facs"/></xsl:attribute>
