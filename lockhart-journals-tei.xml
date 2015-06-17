@@ -846,7 +846,37 @@
                   <persName>Lockhart, Ernest Earl</persName>
                   <birth when="1912-09-10"><placeName ref="#Boston">Boston, MA</placeName></birth>
                   <death when="2006-07-26"><placeName ref="#WestDennis">West Dennis, MA</placeName></death>
-                  <note type="biographical">bio note</note>
+                  <note type="biographical"><p>From the "Guide to the Ernest Earl Lockhart Papers"
+                        in the <title level="m">OhioLINK Finding Aid
+                        Repository</title>:</p><p>"Ernest Earl Lockhart was born in Boston,
+                        Massachusetts (USA) on September 10, 1912. He grew up in the Hyde Park
+                        section of Boston. Lockhart was the youngest of three children of Clinton
+                        Daniel Lockhart and Celeste Althea Westhaver, who both emigrated from Nova
+                        Scotia, Canada. E.E. Lockhart was educated in the Boston public schools, at
+                        the Chauncey Hall School, and then at the Massachusetts Institute of
+                        Technology, where he earned three degrees, culminating with a PhD
+                        biochemistry in 1938.</p>
+                     <p>Following a year of study on fellowship at the Biochemical Institute in
+                        Stockholm, Sweden, E.E. Lockhart served as the physiologist on Rear Admiral
+                        Richard Evelyn Byrd's United States Antarctic Expedition of 1939-1941 to the
+                        South Pole. For this service he received a special medal authorized by the
+                        Congress of the United States. A memorable experience on the expedition was
+                        a four-month, 400-mile field trip by dog team. He was the radio operator for
+                        his four-man party. Mount Lockhart, a mountain in the Fosdick range, is
+                        named after him.</p>
+                     <p>Upon his return home, E.E. Lockhart began a career of research and teaching
+                        at M.I.T. in the field of food technology and nutrition. In 1955 he left
+                        M.I.T. to become research director at the Coffee Brewing Institute, a trade
+                        organization located in New York City. In 1965, he became assistant research
+                        director of the Coca Cola Company in Atlanta, GA, where he lived until his
+                        retirement in 1978. Lockhart was a co-founder of the International Life
+                        Sciences Institute, a worldwide foundation that seeks to improve the
+                        well-being of the general public through the advancement of science.</p>
+                     <p>Ernest Earl Lockhart retired to his Cape Cod home in West Dennis,
+                        Massachusetts, where he and his wife Helen lived for his remaining
+                        twenty-seven years. He died at his home on July 26, 2006, at the age of 93.
+                        A family ceremony in his honor was held on the nearby Bass River on
+                        September 10, 2006, the ninety-fourth anniversary of his birth."</p></note>
                </person>
                <person xml:id="Cruzen" source="#Stark">
                   <persName>Cruzen, Richard H. (Richard Harold), 1897-1970</persName>
@@ -854,33 +884,48 @@
                   <death when="1970-04-15"></death>
                   <occupation>Naval officer</occupation>
                   <state type="rank" when="1941-01-05"><desc>Lieutenant Commander, USN</desc></state>
-                  <note type="biographical">bio note</note>
+                  <note type="biographical"></note>
                </person>
                <person xml:id="Perk">
                   <persName>Perkins, Jack E. <addName type="nickname">Perk</addName></persName>
                   <occupation when="1940">biologist</occupation>
-                  <note type="biographical">Jack Perkins led a biological party into the Fosdick Mountains in December 1940. Mount Perkins, a
-                  peak at the east end of the Fosdick Mountains, was named after Perkins in 1947 <bibl><ref target="#MPerkins"><title level="a">Mount Perkins</title></ref></bibl>.</note>
+                  <note type="biographical">Jack Perkins led a biological party into the Fosdick
+                     Mountains in December 1940. Mount Perkins, a peak at the east end of the
+                     Fosdick Mountains, was named after Perkins in 1947<bibl><ref
+                           target="#MPerkins"><title level="a">Mount
+                     Perkins</title></ref></bibl>.</note>
                </person>
                <person xml:id="Bursey" source="#Passel #personnel #WikiBursey">
                    <persName>Bursey, Jack <addName type="nickname">Jack B.</addName></persName>
                   <birth when="1903-09-20">St. Lunaire, Newfoundland, Canada</birth>
                   <death when="1980-03-01">Montague, Michigan</death>
                   <occupation when="1940">dog driver</occupation>
-                  <note type="biographical">A dog driver who had worked with Byrd on previous expeditions. Published two books about his expeditions, Antarctic Night and 
-                     St. Lunaire, Antarctic Lead Dog. During this expedition he made one of the longest dog trips ever recorded, and one of the Hal Flood mountains became named "Mt. Bursey" after him.
-                     Was from Grand Rapids, Michigan, and would have been survived by his wife Ada Bursey<bibl><ref target="#WikiBursey">"Jack Bursey"</ref></bibl></note>
+                  <note type="biographical">A dog driver who had worked with Byrd on previous
+                     expeditions, Bursey published two books about his expeditions, <title level="m">Antarctic Night</title> and <title level="m">St.
+                     Lunaire, Antarctic Lead Dog</title>. During this expedition, he made one of the longest
+                     dog trips ever recorded, and one of the Hal Flood mountains was named "Mt.
+                     Bursey" after him. Bursey from Grand Rapids, Michigan, and would have been
+                     survived by his wife Ada Bursey<bibl><ref target="#WikiBursey">"Jack
+                           Bursey"</ref></bibl>.</note>
                </person>
                <person xml:id="Shirley" source="#personnel">
                   <persName>Shirley, Charles S.</persName>
                   <occupation when="1940">photographer</occupation>
-                  <note type="biographical">A photographer on the expedition. Was from San Diego California, worked both bases, and would have been survived by his wife Anna.<bibl><ref target="#personnel">"Personnel 1939-1940"</ref></bibl></note>
+                  <note type="biographical">A photographer on the expedition, Shirley was from San Diego
+                     California, worked both bases, and would have been survived by his wife
+                           Anna <bibl><ref target="#personnel">"Personnel
+                     1939-1940"</ref></bibl>.</note>
                </person>
                <person xml:id="Richardson" source="#Passel #personnel">
                   <persName>Richardson H. H. <addName type="nickname">Jack</addName></persName>
                   <occupation>dog driver</occupation>
-                  <note type="biographical">A dog driver on the expedition who features in both Lockhart and Passel's accounts. Also took video footage of some of the expedition. Was from Franklin, New Hampshire 
-                     and would have been survived by his brother Harold C. Richardson. Goes primarily by the nickname "Jack"<bibl><ref target="#personnel">"Personnel 1939-1940"</ref></bibl><bibl><ref target="#Passel">"Ice"</ref></bibl></note>
+                  <note type="biographical">A dog driver on the expedition who features in both
+                     Lockhart's and Charles Passel's accounts of the USASE. He also took video footage of some of the
+                     expedition. He was from Franklin, New Hampshire and would have been survived by
+                     his brother Harold C. Richardson. In Lockhart's diary, Richardson is typically referred to by the nickname
+                           "Jack"<bibl><ref target="#personnel">"Personnel
+                           1939-1940"</ref></bibl><bibl><ref target="#Passel"
+                     >"Ice"</ref></bibl>.</note>
                    </person>
                <person xml:id="Sherman" source="#ANB">
                   <persName>Sherman, General William Tecumseh</persName>
@@ -891,22 +936,28 @@
                   <death when="1891-02-14">
                      <placeName>New York City, New York</placeName>
                   </death>
-                  <note type="biographical">Lockhart mentions Sherman's burning of Atlanta while recording his 
-                     reactions to <title level="m">Gone With the Wind</title><bibl><ref target="#ANB">"William Tecumseh Sherman"</ref></bibl></note>
+                  <note type="biographical">Lockhart mentions Sherman's burning of Atlanta while
+                     recording his reactions to <title level="m">Gone With the
+                           Wind</title><bibl><ref target="#ANB">"William Tecumseh
+                        Sherman"</ref></bibl>.</note>
                </person>
                <person xml:id="Warner" source="#personnel #Passel">
                   <persName>Warner, Lawrence A. <addName type="nickname">Larry</addName></persName>
                   <occupation>geologist</occupation>
-                  <note type="biographical">A geologist on the expedition. Was from Monroe, Ohio and would have been 
-                     survived by his parents Mr. and Mrs. C.F. Warner <bibl><ref target="#personnel">"Personnel 1939-1940"</ref></bibl> </note>
+                  <note type="biographical">A geologist on the expedition, Warner was from Monroe,
+                     Ohio and would have been survived by his parents Mr. and Mrs. C.F. Warner
+                           <bibl><ref target="#personnel">"Personnel 1939-1940"</ref></bibl>.
+                  </note>
                </person>
                <person xml:id="Guernsey" source="#Card">
                   <persName>Guernsey, George Rockwell</persName>
                   <birth when="1884-02-15">Canton, Bradford Co., Pennsylvania</birth>
                   <residence when="-1952">Wellesley, Massachusetts</residence>
-                  <note type="biographical">Lockhart exchanges radiograms with a George Guernsey of Wellesley Massachusetts, 
-                     about Christmas and his potential trips to Panama and Seattle. There's a Guernsey by that name living there according 
-                     to a family genealogy, barring another man with the same name it's presumably the same man.<bibl><ref target="#Card">"Garnsey-Guernsey Genealogy"</ref></bibl></note>
+                  <note type="biographical">Lockhart exchanges radiograms with a George Guernsey of
+                     Wellesley Massachusetts, about Christmas and his potential trips to Panama and
+                     Seattle. There's a Guernsey by that name living there according to a family
+                     genealogy<bibl><ref target="#Card">"Garnsey-Guernsey
+                     Genealogy"</ref></bibl>.</note>
                </person>
                <person xml:id="JackMahan">
                   <persName>Mahan, Jack</persName>
@@ -925,8 +976,10 @@
                   <persName>Mr. Mahan</persName>
                   <birth when-custom="unknown"></birth>
                   <death when="1940"></death>
-                  <note type="biographical">The father of Lockhart's friend Jack. Mr. Mahan passed away during Lockhart's trip. He had suffered from heart trouble.
-                     Lockhart is saddened by his death and reminisces about their relationship, remarking that Mr. Mahan would've liked to hear about Antarctica.</note>
+                  <note type="biographical">The father of Lockhart's friend Jack. Mr. Mahan passed
+                     away during Lockhart's trip. He had suffered from heart trouble. Lockhart is
+                     saddened by his death and reminisces about their relationship, remarking that
+                     Mr. Mahan would've liked to hear about Antarctica.</note>
                </person>
                <person xml:id="Gutenko" source="#personnel #MGutenko">
                   <persName>Gutenko, Sigmund</persName>
@@ -934,8 +987,10 @@
                   <death when-custom="unknown"></death>
                   <occupation when="1940">Cook</occupation>
                   <residence when="1940">Baltimore, Maryland</residence>
-                  <note type="biographical">Gutenko was the cook and steward for the West Base. He was from Baltimore, Maryland. The Gutenko Mountains
-                     in Antarctica are named after him.<bibl><ref target="#personnel">"Personnel, 1939-1940"</ref>; <ref target="#MGutenko">"Mount Gutenko"</ref></bibl></note>
+                  <note type="biographical">Gutenko was the cook and steward for the West Base. He
+                     was from Baltimore, Maryland. The Gutenko Mountains in Antarctica are named
+                     after him.<bibl><ref target="#personnel">"Personnel, 1939-1940"</ref>; <ref
+                           target="#MGutenko">"Mount Gutenko"</ref></bibl>.</note>
                </person>
                <person xml:id="CharliePassel" source="#personnel #Passel">
                   <persName>Passel, Charles F.</persName>
@@ -943,18 +998,25 @@
                   <death when="2001"></death>
                   <occupation when="1940">Geologist</occupation>
                   <residence when="1940">Indianapolis, Indiana</residence>
-                  <note type="biographical">Passel was a geologist from Indianapolis, Indiana. Lockhart ran metabolism tests on him. In 1995, his Antarctic diaries detailing the expedition, 
-                     called <title level="m">Ice</title>, were published.<bibl><ref target="#personnel">"Personnel, 1939-1940"</ref>; <ref target="#Passel"><title type="m">Ice</title></ref></bibl></note>
+                  <note type="biographical">Passel was a geologist from Indianapolis, Indiana.
+                     Lockhart ran metabolism tests on him. In 1995, his Antarctic diaries detailing
+                     the USASE expedition, called <title level="m">Ice</title>, were published.<bibl><ref
+                           target="#personnel">"Personnel, 1939-1940"</ref>; <ref target="#Passel"
+                              ><title type="m">Ice</title></ref></bibl>.</note>
                </person>
                <person xml:id="PappyGray" source="#personnel #Gray #Pappy #Pappy Gray">
                  <persName>Gray, Orville<addName type="nickname">Pappy</addName></persName> 
                  <occupation when="1940">aviation mechanic and captain</occupation> 
                  <residence when="1940">Folmouth, Virginia</residence> 
-                 <note type="biographical">Orville "Pappy" Gray was an airplane mechanic from West Base.
-                       Not to be confused with J.A. "Pappy" Reece, a radio operator. Where "Pappy" is mentioned and specified as neither, as in journals 2-24 and 2-25, the person is question is dealing with engine trouble on the Condor and is thus presumably Gray. 
-                       Lockhart mentions him harnessing puppies to the airplane sled and driving them around.
-                       Gray was the one who flew the Beechcraft back to get engine parts for the Condor when the Condor's engine broke down.
-                       Gray is mentioned being spotted by coincidence and then joined when Lockhart, Tony, and Court were out going toward the Barrier Cache</note> 
+                  <note type="biographical">Orville "Pappy" Gray was an airplane mechanic from West
+                     Base (not to be confused with J.A. "Pappy" Reece, a radio operator). Where
+                     "Pappy" is mentioned and specified as neither, as in the journal entry for Friday, January 3, 1940,
+                     the person is question is dealing with engine trouble on the Condor and is thus
+                     presumably Gray. Lockhart mentions him harnessing puppies to the airplane sled
+                     and driving them around. Gray was the one who flew the Beechcraft back to get
+                     engine parts for the Condor when the Condor's engine broke down. Gray is
+                     mentioned being spotted by coincidence and then joined when Lockhart, Tony, and
+                     Court were out going toward the Barrier Cache</note> 
                </person>
                <person xml:id="ClarkGable">
                 <persName>Gable, Wiliam Clark</persName>
@@ -962,10 +1024,14 @@
                 <death when="1960-11-16">West Hollywood, California</death>
                 <occupation when="1940">Actor</occupation>
                 <residence when="1940">Encio, California</residence>
-                <note type="biographical">Gable appeared in 97 films from 1924 to 1961, his last film being released after his death.
-                Gable was nominate for the best leading actor academy award in 1934, 1935, and 1939. He won it in 1934 for his role in "It Happened One Night." 
-                Gabel was leading actor in over 60 films and is best known for his role in <title level="m">Gone With the Wind</title> in 1939</note>
-                  <note>Lockhart mentions Gabel when comparing the film adaptation of <title level="m">Gone with the Wind</title> to the novel. Lockhart finds Gabel fitting in his role as Rhett Butler</note>  
+                  <note type="biographical">Gable appeared in 97 films from 1924 to 1961, his last
+                     film being released after his death. Gable was nominated for the best leading
+                     actor academy award in 1934, 1935, and 1939. He won it in 1934 for his role in
+                        <title level="m">It Happened One Night</title>. Gabel was leading actor in
+                     over 60 films and is best known for his role in <title level="m">Gone With the
+                        Wind</title> in 1939. Lockhart mentions Gabel when comparing the film
+                     adaptation of <title level="m">Gone with the Wind</title> to the novel.
+                     Lockhart finds Gabel fitting in his role as Rhett Butler</note>  
                </person>
                <person xml:id="VivienLeigh">
                 <persName>Leigh, Vivien</persName>
@@ -973,10 +1039,17 @@
                 <death when="1967-07-08">London, England</death>
                 <occupation when="1940">Actress</occupation>
                 <residence when="1940">England</residence>
-                <note type="biographical">Leigh appeared in 37 plays and 20 films from 1935 to 1966.
-                   Leigh won the best actress academy award in 1939 and 1951 for her roles in <title level="m">Gone with the Wind</title> and A Streetcar Named Desire, respectively.
-                 Leigh is best known for the aforementioned roles and was married to British actor Laurence Olivier from 1940 to 1960.</note>
-                  <note>Lockhart mentions Leigh when comparing the film adaptation of <title level="m">Gone with the Wind</title> to the novel. Lockhart expresses doubt that Leigh was the right actress to play Scarlett</note>  
+                  <note type="biographical">Leigh appeared in 37 plays and 20 films from 1935 to
+                     1966. Leigh won the best actress academy award in 1939 and 1951 for her roles
+                     in <title level="m">Gone with the Wind</title> and <title level="m">A Streetcar
+                        Named Desire</title>, respectively. Leigh is best known for the
+                     aforementioned roles and was married to British actor Laurence Olivier from
+                     1940 to 1960. Lockhart mentions Leigh when comparing the film adaptation of
+                        <title level="m">Gone with the Wind</title> to the novel. Lockhart expresses
+                     doubt that Leigh was the right actress to play Scarlett Lockhart mentions Leigh
+                     when comparing the film adaptation of <title level="m">Gone with the
+                        Wind</title> to the novel. Lockhart expresses doubt that Leigh was the right
+                     actress to play Scarlett.</note>  
                </person>
                <person xml:id="MargaretMitchell">
                  <persName>Mitchell, Margaret</persName>
@@ -984,23 +1057,23 @@
                  <death when="1949-08-16">Atlanta, Georgia</death>
                  <occupation when="1940">Housewife (formerly a writer and journalist)</occupation>
                  <residence when="1940">Atlanta, Georgia</residence>
-                 <note type="biographical">Margaret Mitchell was an author and a journalist for The Atlanta Journal.
-                    <title level="m">Gone with the Wind</title>, the only work of hers published during her lifetime, won the Pulitzer Prize for Fiction in 1937
-                        Over 30 million copies of the novel <title level="m">Gone with the Wind</title> have been printed worldwide.</note>
-                  <note>Lockhart mentions Mitchell in his comparison of the film adaptation of <title level="m">Gone with the Wind</title> to the novel. He is unsure
-                       which ending was more appropriate; Mitchell's written ending of the film ending,</note> 
+                  <note type="biographical">Margaret Mitchell was an author and a journalist for The
+                     Atlanta Journal. <title level="m">Gone with the Wind</title>, the only work of
+                     hers published during her lifetime, won the Pulitzer Prize for Fiction in 1937
+                     Over 30 million copies of the novel <title level="m">Gone with the Wind</title>
+                     have been printed worldwide. Lockhart mentions Mitchell in his comparison of the film adaptation of
+                        <title level="m">Gone with the Wind</title> to the novel. He is unsure which
+                     ending was more appropriate.</note>
                </person>
                <person xml:id="Darwin">
                 <persName>Darwin, Charles</persName>
                 <birth when="1809-02-12">Shropshire, United Kingdom</birth>
                 <death when="1882-04-19">Downe, United Kingdom</death>
                 <occupation>Geologist and Naturalist</occupation> 
-                <note type="biographical">Charles Darwin is one of the most influential scientists the world has known. His theory of natural selection 
-                    forms the basis of modern views on the diversity of life and how different forms of life come about.</note>
-                  <note>Lockhart mentions Darwin when he says that he is 
-                        reading "Homo versus Darwin a judicial examination of statements recently published by Mr. Darwin regarding 'The Descent of Man'"
-                        itself a commentary on Daron's book "The Descent of Man, and Selection in Relation to Sex." 
-                        Lockhart said that he bought the commentary to accompany the book itself, which he had at home.</note>  
+                  <note>Lockhart mentions Darwin when he says that he is reading <title level="m"
+                        >Homo versus Darwin</title>, a commentary on Darwin's<title level="m"> The Descent of
+                     Man</title>. Lockhart mentions that he bought the
+                     commentary to accompany Darwin's book, which he had at home.</note>  
                </person>
                <person xml:id="Fitz" source="#personnel #WikiFitz">
                   <persName>Fitzsimmons, Roy <addName type="nickname">Fitz</addName></persName>
@@ -1008,23 +1081,36 @@
                   <death when="1945"></death>
                   <occupation when="1940">Physicist</occupation>
                   <residence when="1940">Newark, New Jersey</residence>
-                  <note type="biographical">Roy Fitzsimmons was a physicist from Newark, New Jersey. He ran the Rockefeller Mountains seismic station during the expedition. Lockhart talks about running metabolism tests on him and them
-                     going out on excursions together. Mount Fitzsimmons in Antarctica is named after him.<bibl><ref target="#personnel">"Personnel, 1939-1940"</ref>; <ref target="#WikiFitz">"Roy Fitzsimmons"</ref></bibl></note>
+                  <note type="biographical">Roy Fitzsimmons was a physicist from Newark, New Jersey.
+                     He ran the Rockefeller Mountains seismic station during the expedition.
+                     Lockhart talks about running metabolism tests on him and them going out on
+                     excursions together. Mount Fitzsimmons in Antarctica is named after
+                           him.<bibl><ref target="#personnel">"Personnel, 1939-1940"</ref>; <ref
+                           target="#WikiFitz">"Roy Fitzsimmons"</ref></bibl>.</note>
                </person>
-               <person xml:id="Pete" source="#Bertrand #personnel #Passel #Petras #PetrasAncestry #eel-19410103"><persName>Petras, Theodore A. <addName type="nickname">Pete</addName>
-               </persName>
+               <person xml:id="Pete"
+                  source="#Bertrand #personnel #Passel #Petras #PetrasAncestry #eel-19410103">
+                  <persName>Petras, Theodore A. <addName type="nickname">Pete</addName>
+                  </persName>
                   <birth when="1911-05-16"><placeName>Birmingham, Alabama</placeName></birth>
                   <death when="2004-05-09"><placeName>Miami, FL</placeName></death>
                   <occupation>Pilot</occupation>
-                  <note type="biographical">Pete, not to be confused with Lockhart's dog or a baby named Peter who was
-                    mentioned in the journals, was an expedition man and a pilot. Pete's rank during the expedition was 
-                    was Tech Sergeant (NAP) in the USMC. 
-                     He was assigned to the Snow Cruiser and piloted the Condor on its last flight before it caught fire and was abandoned on January 3, 1941. 
-                     Pete successfully rescued men using the Beechcraft and made it back to West Base. He wanted to break altitude and 
-                     enjoyed "making hops" in planes and taking tanks out for fun; Pete also played ukelele. Pete also shot skua gulls and tried to get blood samples from them.  
-                     He achieved the rank of Colonel in the USMC and was inducted into the 
-                     Alabama Aviation Hall of Fame on December 17, 1993.
-                  <bibl><ref target="#Bertrand">Bertrand,</ref> <ref target="#Passel">Passel,</ref> <ref target="#Petras"><title level="a">Theodore A. Petras,</title></ref> <ref target="#PetrasAncestry"><title level="a">Theodore A. Petras Ancestry.com</title></ref></bibl>.</note></person>
+                  <note type="biographical">Pete, not to be confused with Lockhart's dog or a baby
+                     named Peter who was mentioned in the journals, was an expedition man and a
+                     pilot. Pete's rank during the expedition was Tech Sergeant (NAP) in the
+                     USMC. He was assigned to the Snow Cruiser and piloted the Condor on its last
+                     flight before it caught fire and was abandoned on January 3, 1941. Pete
+                     successfully rescued men using the Beechcraft and made it back to West Base. He
+                     wanted to break altitude records and enjoyed "making hops" in planes and taking tanks
+                     out for fun. Pete also played ukelele, shot skua gulls, and tried to
+                     get blood samples from them. He achieved the rank of Colonel in the USMC and
+                     was inducted into the Alabama Aviation Hall of Fame on December 17, 1993.
+                           <bibl><ref target="#Bertrand">Bertrand,</ref>
+                        <ref target="#Passel">Passel,</ref>
+                        <ref target="#Petras"><title level="a">Theodore A. Petras,</title></ref>
+                        <ref target="#PetrasAncestry"><title level="a">Theodore A. Petras
+                              Ancestry.com</title></ref></bibl>.</note>
+               </person>
                <person xml:id="Mac"
                   source="#Bertrand #personnel #Passel #mccoy #McCoyAncestry #McCoyVeteran #jamescharles #eel-19410103">
                   <persName>McCoy, James C. <addName type="nickname">Mac</addName>
@@ -1038,7 +1124,7 @@
                      USN. He was a member of the dog team that was transported back to West Base by
                      Pete the day of the Condor incident on January 3, 1941. Mac achieved the rank
                      of Commander. He discovered and named a mountain after his wife, Alma McCoy;
-                     the mountain's name was later changed to Mount McCoy. <bibl><ref
+                     the mountain's name was later changed to Mount McCoy <bibl><ref
                            target="#Bertrand">Bertrand,</ref>
                         <ref target="#Passel">Passel,</ref>
                         <ref target="#mccoy">James McCoy US Social Security,</ref>
@@ -1053,50 +1139,64 @@
                   <birth when="1912-01-03"><placeName>Newton County, GA</placeName></birth>
                   <death when="1996-04-11"><placeName>Rockdale, GA</placeName> </death>
                   <occupation>Assistant Pilot and Radio Operator</occupation>
-                  <note type="biographical">Giles, whose name is often listed as W.R. Giles, was an assistant pilot and radio operator for West Base. 
-                     He was part of the dog team that was transported back to West Base by Pete the day of the Condor incident on January 3, 1941.  At the time of the expedition, he 
-                  was a Staff Sergeant (NAP) in the USMC. He achieved the rank of Colonel in the USMC.
-                  <bibl><ref target="#Bertrand">Bertrand,
-                    </ref> <ref target="#Passel">Passel,</ref> <ref target="#GilesAncestry"><title level="a">Walter R. Giles,</title></ref> <ref target="#GilesDivorced"><title level="a">Byrd Flier is Divorced</title></ref></bibl>.</note></person>
+                  <note type="biographical">Giles, whose name is often listed as W.R. Giles, was an
+                     assistant pilot and radio operator for West Base. He was part of the dog team
+                     that was transported back to West Base by Pete the day of the Condor incident
+                     on January 3, 1941. At the time of the expedition, he was a Staff Sergeant
+                     (NAP) in the USMC. He later achieved the rank of Colonel in the USMC <bibl><ref
+                           target="#Bertrand">Bertrand, </ref>
+                        <ref target="#Passel">Passel,</ref>
+                        <ref target="#GilesAncestry"><title level="a">Walter R. Giles,</title></ref>
+                        <ref target="#GilesDivorced"><title level="a">Byrd Flier is
+                           Divorced</title></ref></bibl>.</note></person>
                <person xml:id="Ferranto" source="#FindAGrave #personnel">
                   <persName>Ferranto, Felix Louis</persName>
                   <birth when="1911-12-05"></birth>
                   <death when="2002-10-20"></death>
                   <occupation>USMC Radio Officer</occupation>
                   <state type="rank"><desc>Sergeant, USMC</desc></state>
-                  <note type="biographical">Felix Ferranto was the radio operator for the Snow Cruiser. He achieved the 
-                     rank of Lieutenant Colonel in the USMC. The Antarctic summit Mount Ferranto was named after him in
-                     1947 <bibl><ref target="#MFerranto"><title level="a">Mount Ferranto,</title></ref> <ref target="#FindAGrave"><title level="a">Felix Louis Ferranto</title></ref></bibl>.</note>
+                  <note type="biographical">Felix Ferranto was the radio operator for the Snow
+                     Cruiser. He eventually achieved the rank of Lieutenant Colonel in the USMC. The Antarctic
+                     summit Mount Ferranto was named after him in 1947 <bibl><ref
+                           target="#MFerranto"><title level="a">Mount Ferranto,</title></ref>
+                        <ref target="#FindAGrave"><title level="a">Felix Louis
+                           Ferranto</title></ref></bibl>.</note>
                </person> 
                <person xml:id="Court" source="#Arnold #Malone">
                   <persName>Court, Arnold</persName>
                   <birth when="1914-06-20"><placeName ref="#Seattle">Seattle, WA</placeName></birth>
                   <death when="1999"></death>
                   <occupation>Climatologist/Meteorologist</occupation>
-                  <note type="biographical">Court was the Chief Meteorologist for the 1939-1941 expedition. 
-                     Court and Lockhart took samples of the air and worked together to determine whether 
-                     the air in Antarctica is oxygen deficient <bibl><ref target="#Arnold"><title level="a">Arnold Court,</title></ref> <ref target="#Malone">Malone, Thomas F., ed.></ref></bibl>.</note>
+                  <note type="biographical">Court was the Chief Meteorologist for the 1939-1941
+                     expedition. Court and Lockhart took samples of the air and worked together to
+                     determine whether the air in Antarctica is oxygen deficient <bibl><ref
+                           target="#Arnold"><title level="a">Arnold Court,</title></ref>
+                        <ref target="#Malone">Malone, Thomas F., ed.></ref></bibl>.</note>
                </person>
                <person xml:id="DocFrazier" source="#Russell">
                   <persName>Frazier, Dr. Russell G. <addName type="nickname">Doc</addName></persName>
                   <birth when="1893-07-05"><placeName>Fraziers Bottom, WV</placeName></birth>
                   <death when="1968-01-14"><placeName>Salt Lake City, UT</placeName></death>
                   <occupation>Medical Doctor</occupation>
-                  <note type="biographical">Doc Frazier served as the physician for the 1939-1941 expedition. 
-                     In addition to caring for those at West Base, he conducted research on how exposure to 
-                     extreme cold for long periods of time affects the human body. The Antarctic peak Mount 
-                     Frazier was named after him in 1947 <bibl><ref target="#MFrazier"><title level="a">Mount Frazier,</title></ref> <ref target="#Russell"><title level="a">Russell G. Frazier</title></ref></bibl>.</note>
+                  <note type="biographical">Doc Frazier served as the physician for the 1939-1941
+                     expedition. In addition to caring for those at West Base, he conducted research
+                     on how exposure to extreme cold for long periods of time affects the human
+                     body. The Antarctic peak Mount Frazier was named after him in 1947 <bibl><ref
+                           target="#MFrazier"><title level="a">Mount Frazier,</title></ref>
+                        <ref target="#Russell"><title level="a">Russell G.
+                        Frazier</title></ref></bibl>.</note>
                </person>
                <person xml:id="mamma" source="#koulouris">
                   <persName>Westhaver, Celeste Althea <addName type="formal">Mrs. Clinton Daniel Lockhart</addName></persName>
                   <birth when="1880-10-23"></birth>
                   <death when="1957-10"></death>
                   <event type="marriage" when="1904-09-21"><desc>Celeste Althea Westhaver married Clinton Daniel Lockhart in Boston, Suffolk, MA, USA.</desc></event>
-                  <note type="biographical">Celeste Althea Westhaver was Lockhart's mother. She and her 
-                     husband were both born and raised in Nova Scotia, on opposite sides of the Bay of 
-                     Fundy. In their 20s, both Celeste and Clinton immigrated to Boston. Whether they 
-                     knew each other beforehand is unclear. While her son, Ernest Lockhart, was in 
-                     Antarctica, Celeste Althea often corresponded with him via radiogram.</note>
+                  <note type="biographical">Celeste Althea Westhaver was Lockhart's mother. She and
+                     her husband were both born and raised in Nova Scotia, on opposite sides of the
+                     Bay of Fundy. In their 20s, both Celeste and Clinton emigrated to Boston.
+                     Whether they knew each other beforehand is unclear. While her son, Ernest
+                     Lockhart, was in Antarctica, Celeste Althea often corresponded with him via
+                     radiogram.</note>
                </person>
                <person xml:id="clinton" source="#koulouris">
                   <persName>Lockhart, Clinton Daniel <addName type="nickname">Papa</addName></persName>
@@ -1105,7 +1205,7 @@
                   <event type="marriage" when="1904-09-21"><desc>Clinton Daniel Lockhart married Celest Althea Westhaver in Boston, Suffold, MA, USA.</desc></event>
                   <note type="biographical">Clinton Daniel Lockhart was Lockhart's father. He and his wife
                   were both born and raised in Nova Scotia, on opposite sides of the Bay of Fundy. In their 20s, 
-                  both Clinton and Delest immigrated to Boston, USA. Whether they knew each other before is unclear.
+                  both Clinton and Delest emigrated to Boston, USA. Whether they knew each other before is unclear.
                   While his son, Ernest Lockhart, was in Antarctica, his wife often corresponded with him
                   via radiogram. Ernest Lockhart states that he received a picture of him in a letter received on
                   January 10th, 1941.</note>
@@ -1134,9 +1234,14 @@
                   <death when-custom="unknown"></death>
                   <occupation when="1940">Supply Man, Assistant Mechanic</occupation>
                   <residence when="1940">Astoria, New York</residence>
-                  <note type="biographical">Louis "Tony" Colombo, a member of the biological party of the West Base, is listed as being the "supply man" as 
-                     well as the assistant mechanic in varying sources <bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref>; <ref target="#personnel"><title level="u">"Personnel, 1939-1940"</title></ref></bibl>. 
-                     Mount Colombo, a mountain in the Ford Ranges, was later named for him <bibl><ref target="#MColombo"><title level="a">Mount Colombo</title></ref></bibl>.</note>
+                  <note type="biographical">Louis "Tony" Colombo, a member of the biological party
+                     of the West Base, is listed as being the "supply man" as well as the assistant
+                     mechanic in varying sources <bibl><ref target="#Passel"><title level="m">Ice:
+                              The Antarctic Diary of Charles F. Passel</title></ref>; <ref
+                           target="#personnel"><title level="u">"Personnel,
+                        1939-1940"</title></ref></bibl>. Mount Colombo, a mountain in the Ford
+                     Ranges, was later named for him <bibl><ref target="#MColombo"><title level="a"
+                              >Mount Colombo</title></ref></bibl>.</note>
                </person>
                <person xml:id="Asman" source="#Passel #personnel #AsmanR #White">
                   <persName>Asman, Adam<addName type="nickname">Sgt., Nib, Nibble</addName></persName>
@@ -1144,26 +1249,37 @@
                   <death when-custom="unknown"></death>
                   <occupation when="1940">Tank Driver</occupation>
                   <residence>Westerfield, Massachusetts</residence>
-                  <note type="biographical">In Charles Passel's personal account of his experiences during the 1939-41 expedition, he refers to Asman as "Sgt."; 
-                     presumably Asman was a member of the US army <bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref></bibl>. As a member of the US Antarctic Service (USAS) West Base party, during the expedition he served 
-                     as the army tank driver <bibl><ref target="#personnel"><title level="u">"Personnel, 1939-1940"</title></ref></bibl>. He mentioned in a newspaper article written in 1944, as having special assignment in the Arctic with Byrd testing army 
-                     tanks under extreme conditions <bibl><ref target="#White"><title level="a">Byrd Expeditions Paying Off Today On Our Frozen Fronts</title></ref></bibl>. Later Asman Ridge, a ridge on the south side of Arthur glacier, was named for Asman <bibl><ref target="#AsmanR"><title level="a">Asman Ridge</title></ref></bibl>.</note>
+                  <note type="biographical">In Charles Passel's personal account of his experiences
+                     during the 1939-41 expedition, he refers to Asman as "Sgt."; presumably Asman
+                     was a member of the US army <bibl><ref target="#Passel"><title level="m">Ice:
+                              The Antarctic Diary of Charles F. Passel</title></ref></bibl>. As a
+                     member of the US Antarctic Service Expedition (USASE) West Base party, he
+                     served as the army tank driver <bibl><ref target="#personnel"><title level="u"
+                              >"Personnel, 1939-1940"</title></ref></bibl>. He is mentioned in a
+                     newspaper article written in 1944, as having a special assignment in the Arctic
+                     with Byrd testing army tanks under extreme conditions <bibl><ref
+                           target="#White"><title level="a">Byrd Expeditions Paying Off Today On Our
+                              Frozen Fronts</title></ref></bibl>. Asman Ridge, a ridge on the south
+                     side of Arthur glacier, was named for Asman <bibl><ref target="#AsmanR"><title
+                              level="a">Asman Ridge</title></ref></bibl>.</note>
                </person>
                <person xml:id="Mary" source="#eel-19410110 #koulouris">
                      <persName>Guernsey, Mary</persName>
                      <birth when-custom="unknown"></birth>
                      <death when-custom="unknown"></death>
                      <event type="marriage" when="1940-10-25"><desc>Mary Guernsey married Clinton Carl Lockhart</desc></event>
-                     <note type="biographical">Mary was Dr. Lockhart's sister in law. She also sent correspondence to Lockhart through both mail and radiograms 
-                     with her husband Carl.</note>
+                  <note type="biographical">Mary was Dr. Lockhart's sister-in-law. She also sent
+                     correspondence to Lockhart through both mail and radiograms with her husband,
+                     Clinton Carl Lockhart.</note>
                </person>
                <person xml:id="Carl" source="#eel-19410110 #koulouris">
                    <persName>Lockhart, Clinton Carl</persName>
                    <birth when="1907-01-25"></birth>
                    <death when="2000-12-07"></death>
-                   <event type="marriage" when="1940-10-25"><desc>Clinton Carl Lockhart married Mary Guersey</desc></event>
-                   <note type="biographical">Carl was Dr. Lockhart's brother. He also sent correspondence to Lockhart through both mail and radiograms
-                   with his wife Mary.</note>
+                   <event type="marriage" when="1940-10-25"><desc>Clinton Carl Lockhart married Mary Guernsey</desc></event>
+                  <note type="biographical">Carl was Dr. Lockhart's brother. He also sent
+                     correspondence to Lockhart through both mail and radiograms with his wife
+                     Mary (née Guernsey).</note>
                </person>
                
                <person xml:id="CharlesFord" source="#eel-19401228a">
@@ -1172,13 +1288,16 @@
                   <death when-custom="unknown"></death>
                   <occupation when="1940">It is unknown whether, at this time, he had any other occupation beyond being an author.</occupation>
                   <residence when="1940">Unknown</residence>
-                  <note type="biographical">Author of the book "Death Sails with Magellan," published in 1937, which Dr. Lockhart reads during the expedition.</note>
+                  <note type="biographical">Author of the book <title level="m">Death Sails with
+                        Magellan</title>, published in 1937, which Dr. Lockhart reads during the
+                     expedition.</note>
                </person>
                <person xml:id="Van" source="#eel-19410110" >
                   <persName>Van</persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
-                  <note type="biographical">Lockhart received a letter from both Van and Vivian with a picture of their baby on January 10th, 1941.</note>
+                  <note type="biographical">Lockhart received a letter from both Van and and his wife Vivian with
+                     a picture of their baby on January 10th, 1941.</note>
                </person>
                <person xml:id="BuckBoyd" source="#Passel #personnel #BoydG">
                   <persName>Boyd, Vernon D.<addName type="nickname">Buck</addName></persName>
@@ -1187,7 +1306,7 @@
                   <occupation when="1940">Master Mechanic</occupation>
                   <residence>Uniontown, Pennsylvania</residence>
                   <note type="biographical">Vernon "Buck" Boyd, a member of the 1939-41 US
-                     Antarctic Service (USAS) West Base, is listed as being the "master mechanic" of
+                     Antarctic Service Expedition (USASE) West Base, is listed as being the "master mechanic" of
                      the expedition <bibl><ref target="#Passel">Passel xv</ref>; <ref
                            target="#personnel"><title level="u">"Personnel,
                         1939-1940"</title></ref></bibl>. A glacier flowing between Bailey Ridge and
@@ -1199,7 +1318,8 @@
                   <persName>Vivian</persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
-                  <note type="biographical">Lockhart recieved a letter from both Vivian and Van with a picture of their baby on January 10th, 1941.</note>
+                  <note type="biographical">Lockhart recieved a letter from both Vivian and Van with
+                     a picture of their baby on January 10th, 1941.</note>
                </person>
                <person xml:id="BillLeckie" source="#eel-19410427">
                   <persName>Leckie, William<addName type="nickname">Bill</addName></persName>
@@ -1207,15 +1327,17 @@
                   <death when-custom="unknown"></death>
                   <occupation when="1941">Unknown</occupation>
                   <residence>Unknown</residence>
-                  <note type="biographical">In 1941, the Dept. of the Interior authorized a radiogram sent to Dr. Lockhart from William Leckie, in which
-                     Leckie asked for Lockhart's opinion of Harris Food Mixture, a form of nourishment
-                     that was presumably used in Antarctic expeditions.</note>
+                  <note type="biographical">In 1941, the Dept. of the Interior authorized a
+                     radiogram sent to Dr. Lockhart from William Leckie, in which Leckie asked for
+                     Lockhart's opinion of Harris Food Mixture, a form of nourishment that was
+                     presumably used in Antarctic expeditions.</note>
                </person>
                <person xml:id="Dave" source="#eel-19410110">
                   <persName>Dave</persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
-                  <note type="biographical">Lockhart received a letter from Dave and Mary on January 10th, 1941.</note>
+                  <note type="biographical">Lockhart received a letter from Dave and Mary on January
+                     10th, 1941.</note>
                </person>
                <person xml:id="Klondicke" source="#Passel #personnel #MBerlin">
                   <persName>Berlin, Leonard M.<addName type="nickname">Klondicke, Len</addName></persName>
@@ -1223,23 +1345,26 @@
                   <death when-custom="unknown"></death>
                   <occupation when="1940">Cadastral Engineer</occupation>
                   <residence when="1940">Juneau, Alaska</residence>
-                  <note type="biographical"> Leonard "Klondicke" Berlin, a member of the 1939-41 US Antarctic Service (USAS) West Base, 
-                     was a cadastral engineer on the expedition according to Charles Passel's personal account 
-                     <bibl><ref target="#Passel">Passel xv</ref>; <ref target="#personnel"><title level="u">"Personnel, 1939-1940"</title></ref></bibl>. Mount Berlin, formerly Mount Hal Flood, 
-                     was named for Berlin <bibl><ref target="#MBerlin"><title level="a">Mount Berlin</title></ref></bibl>.</note>
+                  <note type="biographical"> Leonard "Klondicke" Berlin, a member of the 1939-41 US
+                     Antarctic Service Expedition (USASE) West Base, was a cadastral engineer on the expedition,
+                     according to Charles Passel's personal account <bibl><ref target="#Passel"
+                           >Passel xv</ref>; <ref target="#personnel"><title level="u">"Personnel,
+                              1939-1940"</title></ref></bibl>. Mount Berlin, formerly Mount Hal
+                     Flood, was named for Berlin <bibl><ref target="#MBerlin"><title level="a">Mount
+                              Berlin</title></ref></bibl>.</note>
                </person>
                <person xml:id="Henery" source="#eel-19410110">
                   <persName>Henry</persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
-                  <note type="biographical">Lockhart received a letter from Henery on January 10th, 1941.</note>
+                  <note type="biographical">Lockhart received a letter from Henry on January 10th, 1941.</note>
                </person>
                
                <person xml:id="Trefts" source="#TreftsHSM">
                   <persName>Trefts, George W.</persName>
                   <birth when="1919"></birth>
                   <death when="1994"></death>
-                  <note type="biographical">George W. Trefts was a military personnel on the Lockhart expedition. <ref target="TreftsHSM">"Military Collection Descriptions"</ref></note>
+                  <note type="biographical">George W. Trefts was a military member of the USASE expedition <bibl><ref target="TreftsHSM">"Military Collection Descriptions"</ref></bibl>.</note>
                </person>
                
                <person xml:id="Schlossbach" source="#WikiIke">
@@ -1247,16 +1372,23 @@
                   <birth when="1891-08-20"><placeName>Bradley Beach, NJ</placeName></birth>
                   <death when="1984"><placeName>Bradley Beach, NJ</placeName></death>
                   <occupation> American Polar Explorer, submariner and aviation pioneer and Navigator.</occupation>
-                  <note type="biographical">Issach Schlossbach was an American Polar Explorer, submariner and aviation pioneer and Navigator. Ike Schlossbach is referenced 
-                     as "Schlossback" within the Journals written by Lockhart.<ref target="#WikiIke">"Issac Schlossbach"</ref></note>
+                  <note type="biographical">Issac Schlossbach was an American Polar Explorer,
+                     submariner and aviation pioneer and Navigator. Ike Schlossbach is referred to as
+                     "Schlossback" in Lockhart's journal <bibl><ref target="#WikiIke"
+                        >"Issac Schlossbach"</ref></bibl>.</note>
                </person>
                   <person xml:id="Wiener" source="#personnel #Wiener">
                      <persName>Wiener, Murray</persName>
                   <birth when="1909" precision="low"></birth>
                   <death when-custom="unknown"></death>
-                  <occupation when="1940">Physicist and Dog Doctor</occupation>
+                  <occupation when="1940">Physicist and Dog doctor</occupation>
                   <residence>130 Main St  Bradley Beach, NJ</residence>
-                     <note type="biographical">Wiener was a member of the west base along side Lockhart. He is often mentioned in the journal, and is believed to be the person behind the influence of the nickname Fort Wiener in the Lockhart journal. Wiener served on five expeditions to the Antarctic, and eventually became the United States leading expert on polar survival.<bibl><ref target="#WikiWiener"><title level="s">Murray A. Wiener</title></ref></bibl></note>
+                  <note type="biographical">Wiener was a member of the West Base. He is often
+                     mentioned in the journal, and is believed to be the person behind the nickname
+                     "Fort Wiener" used in Lockhart's journal. Wiener served on five expeditions to
+                     the Antarctic, and eventually became the United States' leading expert on polar
+                           survival <bibl><ref target="#WikiWiener"><title level="s">Murray A.
+                              Wiener</title></ref></bibl>.</note>
                </person>
                <person xml:id="Dot" source="#eel-19410110">
                   <persName>Dot</persName>
@@ -1270,9 +1402,12 @@
                   <death when-custom="unknown"></death>
                   <occupation when="1939">Radio Chief</occupation>
                   <residence>Belmont, Mass</residence>
-                  <note type="biographical">Clay W. Bailey was a commander in the United States Navy and member of the Byrd Antarctic
-                  Expedition. In 1939 until 1941, Bailey served as a radio chief for Rare Radio for the West Base Party of the 
-                  United States Antarctic Service.<ref target="#personnel">"Personnel, 1939-1940"</ref>;<ref target="#SPBailey">The United States Antarctic Service Expedition</ref></note>
+                  <note type="biographical">Clay W. Bailey was a commander in the United States Navy
+                     and member of the Byrd Antarctic Expedition. From 1939 until 1941, Bailey served
+                     as a radio chief for Rare Radio for the West Base Party of the United States
+                     Antarctic Service Expedition <bibl><ref target="#personnel">"Personnel, 1939-1940"</ref>; <ref
+                        target="#SPBailey">The United States Antarctic Service
+                     Expedition</ref></bibl>.</note>
                </person>
                <person xml:id="Siple" source="#personnel #WikiSiple">
                   <persName>Siple, Dr. Paul A</persName>
@@ -1280,10 +1415,16 @@
                   <death when="1968">November 25, 1968 </death>
                   <occupation when="1940">Base Leader</occupation>
                   <residence>1158 W. 5th Street Erie, PA</residence>
-                  <note type="biographical">Dr. Siple was base leader at the west base. He is often referred to as Siple,
-                      but is also the same person called Paul in the Lockhart journal. Siple was a very famous explorer in his day, and was apart of six expeditions.
-                      He even has landmarks in the Antarctic named in his honor. Siple has recieved numerous awards over the years including the Silver Buffalo Award, the Order of the Arrow, and also the Hubbard Medal.
-                      Siple is the author of four books that are about his various expeditions. During his work with Charles Passel they discovered the wind chill factor, but it was Siple that named their discovery.<bibl><ref target="#WikiSiple"><title level="s">Paul Siple</title></ref></bibl></note>
+                  <note type="biographical">Dr. Siple was base leader at the West Base. He is often
+                     referred to as Siple, but is also the same person called Paul in the Lockhart
+                     journal. Siple was a very famous explorer in his day, and was a member of six
+                     expeditions. He even has landmarks in the Antarctic named in his honor. Siple
+                     has recieved numerous awards over the years, including the Silver Buffalo Award,
+                     the Order of the Arrow, and the Hubbard Medal. Siple is the author of four
+                     books about his various expeditions. During his work with Charles
+                     Passel, they discovered the wind chill factor, but it was Siple that named their
+                           discovery <bibl><ref target="#WikiSiple"><title level="s">Paul
+                              Siple</title></ref></bibl>.</note>
                </person>
                <person xml:id="Elenore" source="#eel-19410110">
                   <persName>Elenore</persName>
@@ -1296,7 +1437,10 @@
                   <persName>Wells, Loren <addName type="nickname">Joe</addName></persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
-                  <note type="biographical">Loren "Joe" Wells was a personnel on the West Base. He specialized in tailoring and served the function of tailor during the Lockhart Expedition. <ref target="#personnel">"Personnel, 1939-1940"</ref>; <ref target="#WikiWells">Harold P. Gilmore</ref></note>
+                  <note type="biographical">Loren "Joe" Wells was a member of the West Base team. He
+                     served as a tailor during the USASE
+                     Expedition <bibl><ref target="#personnel">"Personnel, 1939-1940"</ref>; <ref
+                        target="#WikiWells">Harold P. Gilmore</ref></bibl>.</note>
                </person>
                
                <person xml:id="Wade" source="#Passel">
@@ -1305,13 +1449,15 @@
                   <death when="1978" precision="low"></death>
                   <occupation>Senior Scientist and Geographer</occupation>
                   <residence>Oxford, Oh</residence>
-                  <note type="biographical">Doctor Wade was the Senior Scientist and a member of the Snow Cruiser Unit <bibl><ref target="#Passel">Passel xv</ref></bibl>.</note>
+                  <note type="biographical">Doctor Wade was the Senior Scientist and a member of the
+                     Snow Cruiser Unit <bibl><ref target="#Passel">Passel xv</ref></bibl>.</note>
                </person>
                <person xml:id="Jenene" source="#eel-19410110 #koulouris">
                   <persName>Lockhart, Jenene</persName>
                   <birth when-custom="unknown"></birth>
                   <death when-custom="unknown"></death>
-                  <note type="biographical">She was Dr. Lockhart's first cousin and Lockhart received a letter from her on January 10th, 1941.</note>
+                  <note type="biographical">Jenene Lockhart was Earl Lockhart's first cousin. Lockhart
+                     received a letter from her on January 10th, 1941.</note>
                </person>
                
                <person xml:id="Malcolm" source="#personnel">
@@ -1320,15 +1466,16 @@
                   <death when-custom="unknown"></death>
                   <occupation when="1940">Sled Dog Driver</occupation>
                   <residence>East Orange, N.J.</residence>
-                  <note type="biographical">Malcolm was a sled dog driver on the Expedition who at one point
-                  expressed his mood by stating that he may just walk off the base, suggesting suicidal
+                  <note type="biographical">Malcolm was a sled dog driver on the USASE who at one point
+                  stated that he may just walk off the base, suggesting suicidal
                   thoughts.</note></person>
                   <person xml:id="MargaretMann" source="eel-19410116"> <persName>Mann, Margaret</persName>
                <birth>unknown</birth> <death>unknown</death> <note type="biographical">Sent radiograms to Lockhart. No other information is known about this person.</note></person>
                <person xml:id="Daumcarden" source="#eel-19410116"> <persName>Daumcarden</persName>
                <birth>unknown</birth>
                <death>unknown</death>
-               <note type="biographical">Mentioned in radiogram sent to Lockhart by Margaret Mann. No other information has been found about this person.</note></person>
+                  <note type="biographical">Mentioned in radiogram sent to Lockhart by Margaret
+                     Mann.</note></person>
             </listPerson>
             
             <listPerson type="editors">
