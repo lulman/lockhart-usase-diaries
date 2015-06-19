@@ -2563,16 +2563,21 @@
                   <lb/>could just see the base and the airplane looming on the
                   <lb/>horizon. <persName ref="#Tony">Tony</persName> had been seeing things for several hours
                   <lb/>but always he had to say <said aloud= "true" direct= "true">I guess I was wrong</said>
-                  <lb/>when a large <ref type="trailflag">trail flag</ref> <del rend= "strikethrough"><unclear cert="high">br</unclear></del> <ptr type="noteAnchor" target="NoteTrail"/><note resp="ed" xml:id="NoteTrail">Dr. Lockhart makes several mentions to "the trail" and "trail flags/markers" throughout the journal; 
-                     he is likely referring to the trails created between the West Base and supply depots and/or science stations, for groups traveling to and from these locations. Lockhart was a member of one the trail parties, the Ford Ranges Biological Party, which was tasked with gathering biological information, 
-                     and when possible, geological/glaciation data <bibl><ref target="#Bertrand">Bertrand 432-433</ref></bibl>.</note> came into view. All sorts
+                  <lb/>when a large <ref type="trailflag">trail flag</ref> <del rend= "strikethrough"><unclear cert="high">br</unclear></del><ptr type="noteAnchor" target="NoteTrail"/>
+                     <note resp="ed" xml:id="NoteTrail">Lockhart mentions trails and trail flags or
+                        markers throughout the journal. He is likely referring to the trails created
+                        between the West Base and supply depots and/or science stations. Lockhart
+                        was a member of one the trail parties, the Ford Ranges Biological Party,
+                        which was tasked with gathering biological information, and when possible,
+                        geological/glaciation data <bibl><ref target="#Bertrand">Bertrand
+                              432-433</ref></bibl>.</note> came into view. All sorts
                   <lb/>of thoughts began clicking through our minds as the <rs>base</rs>
                
                   <pb facs= "journal-2-06.jpg"/>
                   <fw type="pageNum" place="top">2</fw>
            
               <lb/>became larger and larger. <persName ref="#Tony">Tony</persName> <del rend= "strikethrough"><gap/></del>, I know, was especially
-                  <lb/>anxious to get into the barracks <ptr type="noteAnchor" target="notebarracks1"/><note resp="ed" xml:id="notebarracks1">The barracks that are written about are presumably living quarters, where the men on the expedition slept and spent any down time. Lockhart mentions the barracks when talking about coming in from trails to be weighed in.</note> to tell his stories. The
+                  <lb/>anxious to get into the barracks to tell his stories. The
               <lb/>rest of us were wondering what the present set up was like-
               <lb/>we had heard so many reports while we were out on the trail
               <lb/>that we had no idea what we were walking into. I
@@ -2592,7 +2597,11 @@
                  <lb/>ahead of old <name type="dog" ref="#Spot">Spot</name>. <persName ref="#Siple">Paul</persName> came out to meet us and gave
                  <lb/>us a good hand clapp as we came up to him. There was
                  <lb/>preliminary gossip as we continued in. We parked in
-                 <lb/>front of the balloon house <ptr type="noteAnchor" target="noteballoonhouse1"/><note resp="ed" xml:id="noteballoonhouse1">The balloon house that is written about is a place where radar information and radiosonde balloons were kept. Radar tracking and work with the climate was also done here. There were hundreds of balloons that did not lauch, were waiting to be launched and other tools stored here to aid in weather observations. Lockhart talks about parking in front of the balloon house in the journal. <bibl><ref target="WeatherObservations"><title>Court, Arnold</title></ref></bibl></note> where we were met by almost the
+                 <lb/>front of the balloon house <ptr type="noteAnchor" target="noteballoonhouse1"/>
+                     <note resp="ed" xml:id="noteballoonhouse1">The balloon house contained radar equipment and radiosonde balloons
+                        used for tracking and climatological research and weather observations <bibl><ref
+                              target="WeatherObservations">Court,
+                        Arnold</ref></bibl>.</note> where we were met by almost the
                  <lb/>whole camp personnel. We had been wondering whether any
                  <lb/>but a dozen few would be waiting up for us and now were
                  <lb/>surprised to see everyone. While we were answering various
@@ -2622,29 +2631,31 @@
                   <lb/>we got out there <persName ref="#Arnold">Arnold</persName> came out with us and fed us with
                   <lb/>some of the dish and there was a lot of it.
                </p>
-               <p>
-                  <lb/>I slept <seg ana="adage">the sleep of the blessed</seg> for about three hours and
-                  <lb/>then dozed for about three hours <del rend="strikethrough"><gap/></del> more. <persName ref="#Richardson">Jack</persName> and <persName>Doug</persName>
-                  <lb/>talking in the next tent convinced me that it was time to get
-                  <lb/>up. After dressing I went into the galley to have my first
-                  <lb/>different breakfast in several months. There was fruit toast
-                  <lb/>cheeze and coffee and I had pleanty of all. From then
-                  <lb/>on I spent the time until dinner cleaning up a little and
-                  <lb/><seg ana="metaphor">chewing the fat</seg> a lot. The dinner was one of the <persName ref="#Gutenko">Gutenko's</persName> specials
-                  <lb/>turkey with sweet potatoes asparagus spinach
-                  <lb/>dressing cranberry sauce after boullion; we had a little
-               
-               <pb facs="journal-2-08.jpg"/>
-            <fw type="pageNum" place="top">4</fw> 
-                  
-                     <lb/>Christmas spirit and strawberry pie to top things off then
-                     <lb/>more lulling until <seg ana="metaphor">show time</seg>. We saw the <title level="m" ref="#jfih">Jones family in
-                     <lb/>Hollywood</title><ptr type="noteAnchor" target="notemovies1"/><note resp="ed" xml:id="notemovies1">A 1939 comedy starring Jed Prouty and Spring Byington.
-                        <bibl><ref target="#IMBdJF"><title level="a">Jones Family in Hollywood</title></ref></bibl></note>
-                  and <title level="m" ref="#rb">Risky Business</title>.<ptr type="noteAnchor" target="notemovies2"/>
-                  <note resp="ed" xml:id="notemovies2">A 1939 crime drama starring George Murphy and Dorothea Kent. There is no relation to the 1983 movie of the same name starring Tom Cruise.
-                     <bibl><ref target="#IMBdRB"><title level="a">Risky Business</title></ref></bibl></note> I enjoyed both of them.
-                  </p>
+                  <p>
+                     <lb/>I slept <seg ana="adage">the sleep of the blessed</seg> for about three
+                     hours and <lb/>then dozed for about three hours <del rend="strikethrough"
+                        ><gap/></del> more. <persName ref="#Richardson">Jack</persName> and
+                        <persName>Doug</persName>
+                     <lb/>talking in the next tent convinced me that it was time to get <lb/>up.
+                     After dressing I went into the galley to have my first <lb/>different breakfast
+                     in several months. There was fruit toast <lb/>cheeze and coffee and I had
+                     pleanty of all. From then <lb/>on I spent the time until dinner cleaning up a
+                     little and <lb/><seg ana="metaphor">chewing the fat</seg> a lot. The dinner was
+                     one of the <persName ref="#Gutenko">Gutenko's</persName> specials <lb/>turkey
+                     with sweet potatoes asparagus spinach <lb/>dressing cranberry sauce after
+                     boullion; we had a little <pb facs="journal-2-08.jpg"/>
+                     <fw type="pageNum" place="top">4</fw>
+                     <lb/>Christmas spirit and strawberry pie to top things off then <lb/>more
+                     lulling until <seg ana="metaphor">show time</seg>. We saw the <title level="m"
+                        ref="#jfih">Jones family in <lb/>Hollywood</title><ptr type="noteAnchor"
+                        target="notemovies1"/>
+                     <note resp="ed" xml:id="notemovies1">A 1939 comedy starring Jed Prouty and
+                        Spring Byington <bibl><ref target="#IMBdJF"><title level="a">Jones Family
+                                 in Hollywood</title></ref></bibl>.</note> and <title level="m"
+                        ref="#rb">Risky Business</title>.<ptr type="noteAnchor" target="notemovies2"/>
+                     <note resp="ed" xml:id="notemovies2">A 1939 crime drama starring George Murphy
+                        and Dorothea Kent <bibl><ref target="#IMBdRB"><title level="a">Risky
+                                 Business</title></ref></bibl>.</note> I enjoyed both of them. </p>
                   <p>
                      <lb/>It had been blowing about 35-40 miles an hour all day
                      <lb/>and drifting so badly that I decided to sleep in. <persName ref="#Richardson">Jack</persName> 
@@ -2656,17 +2667,21 @@
                  </p>
                   <p>
                      <lb/>The base has been operating on a very peculiar schedule<ptr type="noteAnchor" target="schedule"/>
-                     <note resp="ed" xml:id="schedule">The schedule that Lockhart frequently mentions refers to the daily
-                        schedule on which the camp operated. Members of the expedition kept schedules that corresponded 
-                        with their duties (cooking dinner, taking pictures, operating the radio, or taking air samples, 
-                        for example). The schedules were complicated by the odd hours of daylight in Antarctica: during the
-                        height (December/January) of summer, there was continuous light. In his diary, Charlie Passel notes
-                        that periods of darkness gradually increased beginning in March, and by late April, winter had set 
-                        in, and it was continuously dark. The sun returned, faintly at first, near the end of August. 
-                        Lockhart mentions the schedule around camp being quite lax, and Passel's diary confirms this. 
-                        Passel cites the cook's accidental but frequent sleeping in as the source of the problem. Presumably, 
-                        while on on the trail, the schedule was more closely followed becasue there were less people to account
-                        for.<bibl><ref target="#Passel"><title level="m">Ice: The Antarctic Diary of Charles F. Passel</title></ref></bibl></note>
+                     <note resp="ed" xml:id="schedule">Members of the expedition kept schedules that
+                        corresponded with their duties (cooking dinner, taking pictures, operating
+                        the radio, taking air samples, and so on). The schedules were complicated by
+                        the odd hours of daylight in Antarctica: during the height of summer
+                        (December/January), there was continuous light. In his diary, Charlie Passel
+                        notes that periods of darkness gradually increased beginning in March, and
+                        by late April, winter had set in, and it was continuously dark. The sun
+                        returned, faintly at first, near the end of August. Lockhart mentions the
+                        schedule around camp being quite lax, and Passel's diary confirms this.
+                        Passel cites the cook's accidental but frequent sleeping in as the source of
+                        the problem. Presumably, while on on the trail, the schedule was more
+                        closely followed becasue there were fewer people to organize and greater
+                        exposure to environmental dangers <bibl><ref target="#Passel"><title
+                                 level="m">Ice: The Antarctic Diary of Charles F.
+                              Passel</title></ref></bibl>.</note>
                      <lb/>since the trail parties went out. <persName ref="#Gutenko">Gutenko</persName> gets up about 1-2
                      <lb/>PM and works preparing the only meal of the day a dinner
                      <lb/>The rest of the men get up anytime between 2 and 6 and then 
@@ -2691,18 +2706,31 @@
                
                   <lb/>we have here now is a system but learned that it
                   <lb/>all came about because the best time for taking
-                     <lb/>airplane pictures<ptr type="noteAnchor" target="aerialphotosurveys"/><note resp="ed" xml:id="aerialphotosurveys"> "airplane pictures" refers to the act of taking 
-                        aerial photo surveys or pictures from the air using airplanes. This technique is also known as photomapping. This scientific ability was origninally 
-                        pioneered by Richard E. Byrd for an expedition held in the 1930s. <bibl><ref target="#BritByrd"><title level="a">Richard E. Byrd</title></ref></bibl>Photomapping 
-                        was so successful, it was again used for the Ernest Lockhard expedition. The photomapping did not simply take photographs from an aircraft, but it plotted exact points 
-                        and charted positions, taking photographs accordingly.</note> is in the early morning hours. During
+                     <lb/>airplane pictures<ptr type="noteAnchor" target="aerialphotosurveys"/>
+                     <note resp="ed" xml:id="aerialphotosurveys">Aerial photo surveys or photomapping was
+                        origninally pioneered by Richard E. Byrd for an Antarctic expedition in the
+                        1930s <bibl><ref target="#BritByrd"><title level="a">Richard E.
+                                 Byrd</title></ref></bibl>. Photomapping was so successful, it was
+                        again used by the USASE. Photomapping paired visual images with exact coordinates.</note> is in the early morning hours. During
                   <lb/>the flying day when everyone was waiting for breaks in
                   <lb/>the weather this new arrangement of sleeping days and 
                   <lb/>staying up nights became the vogue. We of the biological 
-                  <lb/>party <ptr type="noteAnchor" target="biological"/><note resp="ed" xml:id="biological">Lockhart was a member of the Biological Party which was a sledging party, and he acted as physiologist and radio operator for the party. The party was led by biologist Perkins and included a dog driver, Colombo, with 2 dog teams
-                     each pulling 2 sleds in tandem, Richardson, who served as meteorological observer and transferred to their party at 105-mile depot, and Fitzsimmons, physicist for the seismic station who left the Biological Party at 105-mile depot. The party's destination was the western mountains of Ford Ranges, and they 
-                     were tasked with gathering biological information as well as studying geology and glaciation. The party departed on October 15, 1940 and returned to camp on Dec 25, 1940 having traveled 725 miles in 72 days. On November 25, 1940 the biological party raised the US flag at slope at the southwest corner of peak No 167, west side of Mt Iphigene. 76 degrees 31’S 145 degrees 45’W.They
-                     succesfully brought back biological specimens and geological data as well as a daily meterological record, journal, and photos.<bibl><ref target="#Bertrand">Bertrand 435-436</ref></bibl></note> are finding it difficult to change from the rigorous
+                  <lb/>party <ptr type="noteAnchor" target="biological"/>
+                     <note resp="ed" xml:id="biological">Lockhart acted as physiologist and radio
+                        operator for the Biological Party. At one point, the party was led by
+                        biologist Jack Perkins and included a dog driver, Tony Colombo, with 2 dog
+                        teams each pulling 2 sleds in tandem; Jack Richardson, who served as
+                        meteorological observer; and Roy Fitzsimmons, physicist for the seismic
+                        station. The party's destination was the western mountains of the Ford Ranges,
+                        and they were tasked with gathering biological information as well as
+                        studying geology and glaciation. The party departed on October 15, 1940 and
+                        returned to camp on Dec 25, 1940, having traveled 725 miles in 72 days. On
+                        November 25, 1940 the biological party raised the US flag at slope at the
+                        southwest corner of peak No 167, on the west side of Mt Iphigene (76º 31’S
+                        145º 45’W).They brought back biological specimens and
+                        geological data as well as a daily meterological record, journal, and
+                              photos <bibl><ref target="#Bertrand">Bertrand
+                        435-436</ref></bibl>.</note> are finding it difficult to change from the rigorous
                   <lb/>schedule we have been observing to this not so rigorous
                   <lb/>one of the base.
                </p>
@@ -2713,9 +2741,10 @@
                   <lb/>the lack of any follow up exercise today. 
                </p>
                <p>
-                  <lb/>All of the radiograms<ptr type="noteAnchor" target="radiogram"/><note resp="ed" xml:id="radiogram"> These radiograms were messages sent via vocal radio 
-                     contact between the Expedition and the people back home. They were made possible by members of the Army Amateur Radio System relaying the messages stateside 
-                     to and from the families. This served as the main form of contact home throughout the Expedition <bibl><ref target="#QST">"US Antarctic Service Expresses Appreciation"</ref></bibl></note>
+                  <lb/>All of the radiograms<ptr type="noteAnchor" target="radiogram"/>
+                     <note resp="ed" xml:id="radiogram"> Radiograms to and from the USASE were
+                        relayed stateside by members of the Army Amateur Radio System <bibl><ref target="#QST">"US
+                              Antarctic Service Expresses Appreciation"</ref></bibl>.</note>
                      that had come in during my absence 
                   <lb/>were given to me. One of them had not been read over the air
                   <lb/>It was from <persName ref="#Beatie">Beatie</persName> and wished me a merry christmas. <seg ana="aetiologia">The main
@@ -2751,14 +2780,22 @@
                   <lb/>The whole biological party was in the galley preparing breakfast
                   <lb/>egg toast figs prunes coffee. Already I have forgotten how
                   <lb/>delicious <add place="above" rend="^">were</add> the oatmeal and cocoa of the trail. Although I
-                  <lb/>meant to get going on my cleaning up for metabolism tests<ptr type="noteAnchor" target="metabolism"/><note resp="ed" xml:id="metabolism">Dr. Lockhart ran metabolism tests on volunteers 
-                     to test the physiological effects of the cold. The volunteers were tested before and after a 3-month period on the trails and ate a specific diet. The results of the tests showed slightly lowered basal metabolism, 
-                     increase in blood sugar levels, and changes in respiration and body temperature. For more information about their diets, see Lockhart's article in the June 1941 <title level="j">The Polar Times</title>.<bibl><ref target="#Bertrand">Bertrand 429</ref></bibl></note>
+                  <lb/>meant to get going on my cleaning up for metabolism tests<ptr type="noteAnchor" target="metabolism"/>
+                     <note resp="ed" xml:id="metabolism">Dr. Lockhart ran metabolism tests on
+                        volunteers to test the physiological effects of the cold. The volunteers
+                        were tested before and after a 3-month period on the trails and ate a
+                        specific diet. The results of the tests showed slightly lowered basal
+                        metabolism, increase in blood sugar levels, and changes in respiration and
+                        body temperature. For more information about their diets, see Lockhart's
+                        article in the June 1941 issue of <title level="j">The Polar Times</title> <bibl><ref
+                              target="#Bertrand">Bertrand 429</ref></bibl>.</note>
                   <lb/>but I started writing reading and talking so very little was 
-                  <lb/>done. <persName ref="#BuckBoyd">Buck Boyd</persName> and I went skiing down to the <geogName>barrier edge</geogName><ptr type="noteAnchor" target="barrieredge"/><note resp="ed" xml:id="barrieredge">
-                     Lockhart is likely referring to the edge of the Ross Ice Shelf <bibl><ref target="#Passel">Passel</ref></bibl></note>
-                  <lb/>to see if the blizzard had carried out any of the <geogName>bay</geogName><ptr type="noteAnchor" target="bay"/><note resp="ed" xml:id="bay">
-                     When referring to "the bay," Lockhart is always referring to the Bay of Whales <bibl><ref target="#Passel">Passel</ref></bibl></note> ice.
+                  <lb/>done. <persName ref="#BuckBoyd">Buck Boyd</persName> and I went skiing down to the <geogName>barrier edge</geogName><ptr type="noteAnchor" target="barrieredge"/>
+                     <note resp="ed" xml:id="barrieredge"> Lockhart is presumably referring to the edge
+                        of the Ross Ice Shelf <bibl><ref target="#Passel">Passel</ref></bibl>.</note>
+                  <lb/>to see if the blizzard had carried out any of the <geogName>bay</geogName><ptr type="noteAnchor" target="bay"/>
+                     <note resp="ed" xml:id="bay"> Lockhart's mentions of "the bay" refer to the Bay of Whales <bibl><ref target="#Passel"
+                           >Passel</ref></bibl>.</note> ice.
                   <lb/>We found that the whole <geogName>bay</geogName> was still iced over and unless
                   <lb/>something drastic happens within the next two weeks we certainly
                   <lb/>are going to have a very difficult time getting out of this place.
@@ -2788,12 +2825,28 @@
                   <p>
                      <lb/>At this time&#x2014;about 2 AM&#x2014;I don't feel particularly
                      <lb/>tired so am staying up I ha<subst instant="true"><del type="overwritten">ve</del><add place="inline">d</add></subst>d been reading <title level="m">Death
-                        <lb/>Sails with Magellan</title> <ptr type="noteAnchor" target="NoteMagellan"/><note resp="ed" xml:id="NoteMagellan">A novel set during Magellan's voyage from the point of view of his crewmen, ending in his death, written in 1937 <bibl><ref target="#Magellan">"Death Sails With Magellan"</ref></bibl> </note> but stopped to help <persName ref="#Court">Court</persName> release
-                     <lb/>one of his <choice><sic>raysonde</sic><corr>radiosonde</corr></choice> <choice><sic>ballons</sic><corr>balloons</corr></choice><ptr type="noteAnchor" target="noteradiosondeballoons1"/><note resp="ed" xml:id="noteradiosondeballoons1">Radiosonde balloons were used to fly into the air and measure atmospheric parameters. The measurements were then sent back to a fixed reciever in the balloon house. There were 190 balloons released. Lockhart describes getting a balloon untangled that became stuck when being released.<bibl><ref target="WeatherObservations"><title>Court, Arnold</title></ref></bibl></note>. It got caught in one of
+                        <lb/>Sails with Magellan</title> <ptr type="noteAnchor" target="NoteMagellan"/>
+                     <note resp="ed" xml:id="NoteMagellan">A novel set during Magellan's voyage and told from
+                        the point of view of his crewmen
+                              <bibl><ref target="#Magellan">"Death Sails With Magellan"</ref></bibl>.
+                     </note> but stopped to help <persName ref="#Court">Court</persName> release
+                     <lb/>one of his <choice><sic>raysonde</sic><corr>radiosonde</corr></choice> <choice><sic>ballons</sic><corr>balloons</corr></choice><ptr type="noteAnchor" target="noteradiosondeballoons1"/>
+                     <note resp="ed" xml:id="noteradiosondeballoons1">Radiosonde balloons measured various atmospheric parameters
+                        that were then sent back to a fixed reciever in the balloon house. The USASE release 190
+                        balloons <bibl><ref target="WeatherObservations"
+                                 ><title>Court, Arnold</title></ref></bibl>.</note>. It got caught in one of
                      <lb/><persName>Railey's</persName> antennas but I was able to climb the pole
                      <lb/>and free it. While helping him I noticed a bunch
-                     <lb/>of skua gulls <ptr type="noteAnchor" target="NoteSkua"/><note resp="ed" xml:id="NoteSkua">Arctic skuas, also known as "parasitic jaegers," are a type of seabird that primarily feed by stealing food from other birds, although they are known to hunt as well <bibl><ref target="#NatGeo"><title level="a">Arctic Skua</title></ref></bibl>. These birds largely live at seas, except to come ashore in order to breed during the Arctic summer <bibl><ref target="#NatGeo"><title level="a">Arctic Skua</title></ref></bibl>. Study of these birds was part of the 
-                          mission to gather biological information on plants and animals native to the Arctic <bibl><ref target="#Bertrand">Bertrand 432</ref></bibl>.</note>
+                     <lb/>of skua gulls <ptr type="noteAnchor" target="NoteSkua"/>
+                     <note resp="ed" xml:id="NoteSkua">Arctic skuas, also known as "parasitic
+                        jaegers," are a type of seabird that primarily feed by stealing food from
+                        other birds, although they are known to hunt as well <bibl><ref
+                              target="#NatGeo"><title level="a">Arctic Skua</title></ref></bibl>.
+                        Skuas largely live at sea, except to come ashore in order to breed
+                        during the Arctic summer <bibl><ref target="#NatGeo"><title level="a">Arctic
+                                 Skua</title></ref></bibl>. Studying these birds was part of the
+                        mission to gather biological information on plants and animals native to the
+                        Antarctic <bibl><ref target="#Bertrand">Bertrand 432</ref></bibl>.</note>
                           on a refuse pile and decided to try my
                      <lb/>skill again. I walked carefully toward them with
                      <lb/>the revol<subst><del><gap reason="overwritten"/></del><add place="inline">ver</add></subst> ready but two of the pups came up
@@ -2938,10 +2991,13 @@
                <lb/>taking.
             </p>
             <p>
-               <lb/>There is going to be a mail bag<ptr type="noteAnchor" target="mailbag"/><note resp="ed" xml:id="mailbag">Radio Mail bags
-               were radio messages sent out everyother Friday between the US and the Expedition. They were arranged by the Department of the Interior
-               to be sent back and forth using the General Electric Company in Schenectady, NY. The messages were sent at a frequency of 9,530 kilocycles
-               with the power level of 100 kilowatts.<bibl><ref target="#Wagner">USAntarctic Expedition Mail Bag</ref></bibl></note> sponsored by the <title ref="#BostonTraveler">Boston
+               <lb/>There is going to be a mail bag<ptr type="noteAnchor" target="mailbag"/>
+                     <note resp="ed" xml:id="mailbag">Radio "mail bags" were collections of radio
+                        messages sent out every other Friday between the US and the USASE at a
+                        frequency of 9,530 kilocycles and a power level of 100 kilowatts. The
+                        Department of the Interior coordinated the mail bags with the General
+                        Electric Company in Schenectady, NY <bibl><ref target="#Wagner">USAntarctic
+                              Expedition Mail Bag</ref></bibl>.</note> sponsored by the <title ref="#BostonTraveler">Boston
                <lb/>Traveler</title> on <date>Jan 31</date>. We may not be able to get it
                <lb/>here because the ships will be on their way or almost
                <lb/>ready to go. It won't be <choice><sic>worth while</sic><corr>worthwhile</corr></choice> to tell the folks
@@ -2999,10 +3055,10 @@
                  <lb/>are getting plenty of it. <persName><unclear cert="medium">Sut</unclear></persName> brought in the first Adelie<ptr type="noteAnchor" target="AdPen"/>
                  <note resp="ed" xml:id="AdPen">Adelie penguins (Pygoscelis adeliae) were one of the many types 
                     of animals studied by the scientists on this expedition. Similar to Lewis and Clark and their
-                    cataloging of the plants and animals they found during their exploration of the Louisiana 
+                    cataloging of the plants and animals found during their exploration of the Louisiana 
                     Territory in the early 1800s, <persName ref="#Perk">Jack Perkins</persName> spent much of his 
-                    time researching Antarctic animals. For knowledge’s sake, he caught them, skinned some of 
-                    them for their pelts, drew their blood, and even tried to take some of the animals back to
+                    time researching Antarctic animals. He skinned some of 
+                    them for their pelts, drew blood samples, and even tried to take some of the animals back to
                     the United States for further study. Attempts to transport these creatures, however, were largely 
                     unsuccessful <bibl><ref target="#PerkBiology"><title level="a">Biology at Little America III, the West Base
                        of the United States Antarctic Service Expedition 1939-1941</title></ref></bibl>.</note>
@@ -3029,7 +3085,14 @@
                <lb/>little—but not much.
             </p>
             <p>
-               <lb/>I began reading <title level="m">Gone with the Wind</title><ptr type="noteAnchor" target="NoteGTW"/><note resp="ed" xml:id="NoteGTW">The 1936 novel by Margaret Mitchell about the fate of plantation heiress Scarlett O'Hara, infamous for its almost nostalgic portrayal of slavery and plantation life, but also extremely popular internationally to this day. Famously adapted into the 1939 film starring Vivien Leigh and Clark Gable, which Lockhart also discusses<bibl><ref target="#WikiGWTW">"Gone with the Wind. Wikipedia."</ref></bibl></note> and hope it won't
+               <lb/>I began reading <title level="m">Gone with the Wind</title><ptr type="noteAnchor" target="NoteGTW"/>
+                     <note resp="ed" xml:id="NoteGTW">The 1936 novel by Margaret Mitchell about the
+                        fate of plantation heiress Scarlett O'Hara was infamous for its almost
+                        nostalgic portrayal of slavery and plantation life but also extremely
+                        popular internationally. It was famously adapted into a 1939 film
+                        starring Vivien Leigh and Clark Gable, which Lockhart also
+                              discusses <bibl><ref target="#WikiGWTW">"Gone with the Wind.
+                              Wikipedia."</ref></bibl>.</note> and hope it won't
                <lb/>take too much of my time.
             </p>
             <p>
@@ -3052,7 +3115,10 @@
               <lb/><date when="1941-12-31"></date>Tuesday December 31 1941 <corr evidence="internal">(1940)</corr></dateline>
             <p>
                <lb/>We have been operating such an erratic schedule and
-               <lb/>also have to deal with <term>Greenwich Mean Time</term><ptr type="noteAnchor" target="GMT"/><note resp="ed" xml:id="GMT">Because the expedition is at one of the poles, they technically are in all time zones at once but experience it as a single day. They appear to have chosen GMT as their offical time to go by, which Lockhart has here temporarily lost track of.<bibl><ref target="#GMTAntarctica">"Antarctica"</ref></bibl></note> that
+               <lb/>also have to deal with <term>Greenwich Mean Time</term><ptr type="noteAnchor" target="GMT"/>
+                     <note resp="ed" xml:id="GMT">Because the expedition is near one of the poles,
+                        conventional time zones mean little. They appear to have chosen GMT as their offical time <bibl><ref
+                              target="#GMTAntarctica">"Antarctica"</ref></bibl>.</note> that
                <lb/>I have been confused concerning the day and date for
                <lb/>several days. Yesterday I thought today was to be New Year
                <lb/>and now that we are actually in the New Year by camp
@@ -3335,7 +3401,12 @@
                   <lb/>read the book and thought about the movie that has been made
                   <lb/>from it <persName>Clark Gable</persName> certainly is the man to play <persName type="fictional">Rhett Butler</persName>
                     <lb/>I am not so sure about <persName>Vivien Leigh</persName> as <persName type="fictional">Scarlett</persName>!<ptr type="noteAnchor" target="notemovies3"/>
-                    <note resp="ed" xml:id="notemovies3">The film <title level="a">Gone with the Wind</title> was released in 1939 to rave reviews. Like Lockhart, the producers found Scarlett O'Hara difficult to cast; over 1,400 actresses auditioned for the part before Vivian Leigh was chosen. <bibl><ref target="#IMBdGwtW"><title level="a">Gone with the Wind</title></ref></bibl></note>
+                     <note resp="ed" xml:id="notemovies3">The film <title level="a">Gone with the
+                           Wind</title> was released in 1939 to rave reviews. Like Lockhart, the
+                        producers found Scarlett O'Hara difficult to cast; over 1,400 actresses
+                        auditioned for the part before Vivian Leigh was chosen <bibl><ref
+                              target="#IMBdGwtW"><title level="a">Gone with the
+                           Wind</title></ref></bibl>.</note>
                   </p>
                   <p>
                   <lb/>We had a mail bag today from <placeName>Kansas City</placeName> but the re-
@@ -3422,7 +3493,7 @@
                  <lb/>I then fed the dogs and left them tired but contented
                  <lb/>Before going to bed I did an air sample and read a
                  <lb/>little. After I was in bed I also read. My bedtime reading 
-               <lb/>consists of <title level="m">Homo versus Mr <persName>Darwin</persName></title><ptr type="noteAnchor" target="NoteLyon"/> <note resp="ed" xml:id="NoteLyon">Much like Lockhart describes, a book that examines statements Darwin made before or around 1872 on his then recently published The Descent of Man, that takes a mostly negative stance on his work. <bibl><ref target="#LyonDarwin">"Homo vs. Darwin"</ref></bibl></note>a discussion of <persName>Darwins</persName>
+               <lb/>consists of <title level="m">Homo versus Mr <persName>Darwin</persName></title> a discussion of <persName>Darwins</persName>
                  <lb/>then most recent book <title level="m">The Descent of Man</title>. I bought the former
                  <lb/>in <placeName ref="#NewZealand">New Zealand</placeName> to accompany the latter which I have at home
             </p>
@@ -3445,7 +3516,11 @@
                </p>
                <p>
                   <lb/>After doing an air sample I read most of the afternoon
-                  <lb/>I am learning a great deal from <title level="m" ref="Stefansson">Hunters of the Great North</title><ptr target="NoteStefansson" type="noteAnchor"/><note xml:id="NoteStefansson" resp="ed">An account of Vilhjalmur Stefansson's Alaskan expedition in 1906-1907 <bibl><ref target="#Stefansson">"Hunters of the Great North"</ref></bibl> </note>
+                  <lb/>I am learning a great deal from <title level="m" ref="Stefansson">Hunters of the Great North</title><ptr target="NoteStefansson" type="noteAnchor"/>
+                     <note xml:id="NoteStefansson" resp="ed">An account of Vilhjalmur Stefansson's
+                        Alaskan expedition in 1906-1907 <bibl><ref target="#Stefansson">"Hunters of
+                              the Great North"</ref></bibl>.
+                     </note>
                   <lb/>and was especially please to come <del rend="strikethrough">a pa</del> across a passage
                   <lb/>on dog driving which was my theory of dog driving in black
                   <lb/>and white; it goes as follows. page 118. <quote>"The Eskimo idea
@@ -3460,10 +3535,11 @@
                   <lb/><placeName>Mackenzie River</placeName> Eskimos adopted the custom of whipping dogs.<del>"</del>
                   <lb/>. . . . that whipping tired dogs was one of the white man's
                   <lb/>customs."</quote>
-                  <ptr type="noteAnchor" target="hunters"/><note xml:id="hunters" resp="ed">
-                     Lockhart quotes this long passage out of order. The clause "that whipping tired dogs was one of the white man's customs"
-                     occurs before the rest of the passage quoted here <bibl><ref target="#Stefansson">Stefansson 118</ref></bibl>.
-                  </note> My short experience on the trail has <choice><sic>lead</sic><corr>led</corr></choice> me to
+                  <ptr type="noteAnchor" target="hunters"/>
+                     <note xml:id="hunters" resp="ed"> Lockhart quotes this long passage out of
+                        order. The clause "that whipping tired dogs was one of the white man's
+                        customs" occurs before the rest of the passage quoted here <bibl><ref
+                              target="#Stefansson">Stefansson 118</ref></bibl>. </note> My short experience on the trail has <choice><sic>lead</sic><corr>led</corr></choice> me to
                   <lb/>agree whole heartedly with this. I do whip a lead
                   <lb/>dog when he won't keep his line tight but only enough to
                   <lb/>convince the dog that he is doing something wrong. These
@@ -3502,7 +3578,10 @@
                </p>
                <p>
                   <lb/>This evening we had a reshow of <title level="m" ref="#Blondie">Blondie</title><ptr type="noteAnchor" target="notemovies4"/>
-                  <note resp="ed" xml:id="notemovies4">A 1938 comedy starring Penny Singleton as Blondie Bumstead. This was the first of 28 movies about Blondie and her husband Dagwood.<bibl><ref target="#IMBdB"><title level="a">Blondie</title></ref></bibl></note> which made
+                     <note resp="ed" xml:id="notemovies4">A 1938 comedy starring Penny Singleton as
+                        Blondie Bumstead, the first of 28 movies about Blondie and her
+                        husband Dagwood <bibl><ref target="#IMBdB"><title level="a"
+                              >Blondie</title></ref></bibl>.</note> which made
                   <lb/>us laugh as much as if it were only the first time we had
                   <lb/>seen it.
                </p>
@@ -3542,7 +3621,7 @@
               <p>
                  <lb/>The weather was good enough today so that the
                  <lb/><rs>Beechcraft</rs> was able to make two flights out to the <name type="aircraft">Condor</name>.
-                 <lb/>The <unclear>drift sought</unclear> some radio gear and all the d<del rend="overwritten">a</del>uffle bags
+                 <lb/>The <gap reason="illegible"></gap> some radio gear and all the d<del rend="overwritten">a</del>uffle bags
                  <lb/><del rend="overwritten"><unclear>sm</unclear></del> minus some of their content were brought in. The
                  <lb/><name type="ship">Condor</name> is now at the mercy of the elements forever.
               </p>
@@ -3594,15 +3673,28 @@
                  <lb/>it because he was one of my best dogs. 
               </p>
               <p>
-                 <lb/>The tractor party<ptr type="noteAnchor" target="tractorparty"/><note resp="ed" xml:id="tractorparty">Tractor parties had to prepare the equipment as well as weigh and package the dog and human food and pemmican and plan details before the sledging parties could take off.
-                    The sledging parties would travel distances ranging from 200-1200 miles round trip, so they needed supplies ready on the trail in depots to have a full sledge
-                    load at the start of their trips, and on the way back, they would need food and fuel. The First Eastern Tractor Party, which left on September 18, consisted of Warren as the leader and navigator, Passel
-                    as radio operator, and Boyd controlling the tractor that pulled a train of sleds loaded with supplies. Moulton laid and marked the trail as they headed east from their base 
-                    and established 105-mile depot and laid caches of dog food along the way. This tractor party returned to base on Oct 3, 1940. Another party, the Second Eastern Tractor Party, left on October 2, 1940 and followed
-                    the trail established by the first tractor party. This party was led  by Asman who drove the tank. He pulled the caboose and sleds with 8 tons
-                    of supplies and tractor fuel. Clyde Griffith and Louis Colombo were also in this party, and their goal was to add more supplies to the 105-mile depot and transport materials to Rockefeller Mountains
-                    for a seismic station. They returned to base on Octover 9, 1940.<bibl><ref target="#Bertrand">Bertrand 432-440</ref></bibl></note> came back Monday morning about 
-                 <lb/>7AM. They made a nonstop dash in from 90. fantastically
+                 <lb/>The tractor party<ptr type="noteAnchor" target="tractorparty"/>
+                     <note resp="ed" xml:id="tractorparty">Tractor parties had to prepare the
+                        equipment as well as weigh and package the dog and human food and pemmican
+                        and plan details before the sledging parties could take off. The sledging
+                        parties would travel distances ranging from 200-1200 miles round trip, so
+                        they needed supplies ready on the trail in depots to have a full sledge load
+                        at the start of their trips, and on the way back, they would need food and
+                        fuel. The First Eastern Tractor Party, which left on September 18, consisted
+                        of Warren as the leader and navigator, Passel as radio operator, and Boyd
+                        controlling the tractor that pulled a train of sleds loaded with supplies.
+                        Moulton laid and marked the trail as they headed east from their base and
+                        established 105-mile depot and laid caches of dog food along the way. This
+                        tractor party returned to base on Oct 3, 1940. Another party, the Second
+                        Eastern Tractor Party, left on October 2, 1940 and followed the trail
+                        established by the first tractor party. This party was led by Asman who
+                        drove the tank. He pulled the caboose and sleds with 8 tons of supplies and
+                        tractor fuel. Clyde Griffith and Louis Colombo were also in this party, and
+                        their goal was to add more supplies to the 105-mile depot and transport
+                        materials to Rockefeller Mountains for a seismic station. They returned to
+                        base on Octover 9, 1940 <bibl><ref target="#Bertrand">Bertrand
+                           432-440</ref></bibl>.</note> came back Monday morning about 
+                 <lb/>7AM. They made a nonstop dash in from 90. fortunately
                  <lb/>for our party they brought in with them our dog sled with
                  <lb/>all our extra gear on it. 
               </p>
@@ -3661,7 +3753,7 @@
                 <lb/>some files and some candy. I also received the money I had
                 <lb/>asked for. I hardly knew which letter to open first but
                 <lb/>decided to open the smallest one and save the big one, like
-                <lb/><persName>Beatie's</persName> and <persName>Carl's</persName> and <unclear><persName>Jean's</persName></unclear> for the end because they would
+                <lb/><persName>Beatie's</persName> and <persName>Carl's</persName> and <gap reason="illegible"/> for the end because they would
                 <lb/>cover most of the dirt in which I was especially interested.
                 <lb/>I read a few in the ship and then went back to the base above.
              </p>
@@ -3708,11 +3800,16 @@
             <fw type="pageNum" place="top">32</fw>
                   <lb/>metabolism test on <persName ref="#CharliePassel">Charlie Passel</persName> and am continuing
                   <lb/>my air analysis. <persName ref="#Arnold">Arnold</persName> made a very valuable suggestion
-                  <lb/>and I shall follow it. I shall take air samples<ptr type="noteAnchor" target="airsamples"/><note resp="ed" xml:id="airsamples">Dr. Lockhart collectet air samples
-                       throughout the Expedition for research on oxygen levels in the atmosphere. His work was published in 1942 where he provided a summery of his findings. Dr. Lockhart
-                       wrote "Analysis of the lower atmosphere of the Antarctic were made using the Haldane portable apparatus. A veriable deficiency in the oxygen content of the air, too 
-                       great to be attributable to insturment error, was found. The value for oxygen range from 20.76 to 20.48 volume percent. Since all possible sources of error were eliminated,
-                       the deficiency in considered to be real."<bibl><ref target="#Lockhart1942">Lockhart, "Oxygen"</ref></bibl></note> on the
+                  <lb/>and I shall follow it. I shall take air samples<ptr type="noteAnchor" target="airsamples"/>
+                     <note resp="ed" xml:id="airsamples">Dr. Lockhart collectet air samples
+                        throughout the expedition for research on oxygen levels in the atmosphere.
+                        He summarized his method and findings in an article published in 1942: "Analysis of the
+                        lower atmosphere of the Antarctic were made using the Haldane portable
+                        apparatus. A veriable deficiency in the oxygen content of the air, too great
+                        to be attributable to insturment error, was found. The value for oxygen
+                        range from 20.76 to 20.48 volume percent. Since all possible sources of
+                        error were eliminated, the deficiency in considered to be real"<bibl><ref
+                              target="#Lockhart1942">Lockhart, "Oxygen"</ref></bibl>.</note> on the
                   <lb/>way back and check the idea that the oxygen content
                   <lb/>of the atmosphere varies with the latitude. If it works out
                   <lb/>I should have a curve showing an increase to <placeName ref="#EastBase">East Base</placeName>
@@ -3723,9 +3820,9 @@
                </p>
                <p>
                   <lb/><persName ref="#Perk">Perk</persName> has two valuable finds both Ross seals<ptr type="noteAnchor" target="ross"/>
-                  <note resp="ed" xml:id="ross"> The Ross Seals are the most rare typle of seal found in the Antarctic. Some explorations cite only observing
-                  a few Ross seals during their entire time in the Antarctic, making any sighting worth noting.<bibl><ref target="#Allen">Allen</ref>
-                  </bibl></note>a
+                     <note resp="ed" xml:id="ross"> The Ross Seals are the rarest typle of seal
+                        found in the Antarctic <bibl><ref target="#Allen">Allen</ref>
+                        </bibl>.</note>a
                   <lb/>male and female. These seals are very rare and have 
                   <lb/>not been reported for many years.
                </p>
@@ -3864,7 +3961,13 @@
             </p>
             <p>
                <lb/><persName>Pete</persName> and <persName>Wiener</persName> made their hop this afternoon. <persName>Pete</persName>
-               <lb/>wants to crack the altitude record <ptr type="noteAnchor" target="altituderecords"/><note resp="ed" xml:id="altitiderecords">Thomas Petras, also knows as Peter, was a pilot on the expedition. On March 9th 1940, Peter broke the record at that time for highest airplane flight over Antarctica by flying 21,050 feet up in the beechcraft on a cosmic ray research flight. Lockhart presumably calls this 'last fall' because seasons are reversed in Antarctica. <bibl><ref target="#Wings1980"></ref><ref target="#Bertrand"></ref></bibl></note> he set up last fall. <unclear><persName>Murray</persName></unclear>
+               <lb/>wants to crack the altitude record <ptr type="noteAnchor" target="altituderecords"/>
+                     <note resp="ed" xml:id="altitiderecords">Theodore "Pete" Petras was a pilot on
+                        the expedition. On March 9th 1940, he broke the record for the highest
+                        airplane flight over Antarctica, reaching 21,050 feet in the USASE's Beechcraft
+                        during a cosmic ray research flight. Lockhart presumably calls this "last fall"
+                        because seasons are reversed in Antarctica 
+                        <bibl><ref target="#Wings1980">Holcomb</ref>; <ref target="#Bertrand">Bertrand</ref></bibl>.</note> he set up last fall. <unclear><persName>Murray</persName></unclear>
                <lb/>is cosmic ray observer and also will take charge of the bottles
                <lb/>I sent up for air samples. When they came down I got
                <lb/>some pictures of the landing. <persName>Wiener</persName> had carried out my
@@ -3913,14 +4016,20 @@
                   <lb/>collection. When I get home I shall make a cachet
                   <lb/>of linoleum or wood and cachet these envelopes. Then
                   <lb/>they will be collectors items.  
-                  <ptr type="noteAnchor" target="cachets"/><note xml:id="cachets" resp="ed">
-                     A cachet is "[a] printed, embossed or (usually) handstamped inscription or device impressed on a cover
-                     to denote the special circumstances in which it has been posted (e.g. an expedition or special flight)"
-                     <bibl><ref target="#Philatelic"><title>(Bennet and Watson 12)</title></ref></bibl>; a cancellation is a mark used to deface a stamp so that it cannot be used again
-                     <bibl><ref target="#Philatelic"><title>(13)</title></ref></bibl>.  As Lockhart indicates here, cachets and cancellations from mail processed on polar expeditions are highly prized 
-                     among philatelists (stamp collectors) due to their rarity   <bibl><ref target="#South-Pole"><title level="m">South-Pole.com</title></ref></bibl>; <bibl><ref target="#ASPP">
-                        <title level="m">American Society of Polar Philatelists</title></ref></bibl>.
-                  </note> I also shall have
+                  <ptr type="noteAnchor" target="cachets"/>
+                     <note xml:id="cachets" resp="ed"> A cachet is "[a] printed, embossed or
+                        (usually) handstamped inscription or device impressed on a cover to denote
+                        the special circumstances in which it has been posted (e.g. an expedition or
+                        special flight)" <bibl><ref target="#Philatelic">Bennet and Watson
+                                 12</ref></bibl>. A cancellation is a mark used to deface a
+                        stamp so that it cannot be used again <bibl><ref target="#Philatelic"
+                                 >13</ref></bibl>. As Lockhart indicates here,
+                        cachets and cancellations from mail processed on polar expeditions are
+                        highly prized among philatelists due to their rarity
+                              <bibl><ref target="#South-Pole"><title level="m"
+                                 >South-Pole.com</title></ref>; <ref target="#ASPP">
+                              <title level="m">American Society of Polar
+                           Philatelists</title></ref></bibl>. </note> I also shall have
                   <lb/><persName>Wallace</persName> the yeoman and postmaster aboard the <name type="ship">Bear</name>
                   <lb/>cancel some stamped envelopes so that I can have
                   <lb/>many left over after I send my mail out.

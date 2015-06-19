@@ -50,10 +50,16 @@
                <xsl:value-of
                   select="//TEI/teiHeader/fileDesc/titleStmt/title"/>
             </title>
+            <!--
             <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css"/>
-            <link href="./lockhart.css" rel="stylesheet" type="text/css" />
             <script src="http://code.jquery.com/jquery-1.8.3.js"/>
             <script src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"/>
+            -->
+            <!-- Call to local files for jquery-ui -->
+            <link rel="stylesheet" href="jquery-ui.css"/>
+            <link href="./lockhart.css" rel="stylesheet" type="text/css" />
+            <script src="jquery-1.8.3.js"/>
+            <script src="jquery-ui.js"/>
             <script>
                $(document).ready(function(){
                $("button").click(function(){
@@ -179,7 +185,18 @@
                      <li><a href="./lockhart-edintro.html#organizationsMentioned">Organizations Mentioned</a></li>
                      <li><a href="./lockhart-markup.html">Markup Guidelines</a></li>
                      <li><a href="./lockhart-hands.html">Guide to Lockhart's Hand</a></li>
-                     <li><a href="./lockhart-odd-rnc-xml-xsl.zip">Download Source Files</a></li>
+                     <li><a href="./lockhart-odd-rnc-xml-xsl.zip">Source Files</a>
+                        <ul>
+                        <li><a href="./lockhart-journals-tei.xml">TEI P5 XML</a></li>
+                        <li><a href="./lockhart-common.xsl">Common stylesheet</a></li>
+                        <li><a href="./lockhart-entries.xsl">By-entry stylesheet</a></li>
+                        <li><a href="./lockhart-mspages.xsl">By-ms page stylesheet</a></li>
+                        <li><a href="./lockhart-combined.xsl">Facsimile/text stylesheet</a></li>
+                        <li><a href="./lockhart-edintro.xsl">Editorial intro stylesheet</a></li>
+                        <li><a href="./lockhart-journals-teicustomization.odd">TEI ODD customization</a></li>
+                        <li><a href="./lockhart-journals-teicustomization.rnc">RELAX NG schema</a></li>
+                        </ul>
+                     </li>
                      <li><a href="./lockhart-zoomindex.html">Images of the MS Pages</a></li>
                      <li><a href="./lockhart-maps.html">Maps</a></li>
                   </ul>
