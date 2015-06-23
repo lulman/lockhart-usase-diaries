@@ -185,7 +185,7 @@
                      <li><a href="./lockhart-edintro.html#organizationsMentioned">Organizations Mentioned</a></li>
                      <li><a href="./lockhart-markup.html">Markup Guidelines</a></li>
                      <li><a href="./lockhart-hands.html">Guide to Lockhart's Hand</a></li>
-                     <li><a href="./lockhart-odd-rnc-xml-xsl.zip">Source Files</a>
+                     <li><a>Source Files</a>
                         <ul>
                         <li><a href="./lockhart-journals-tei.xml">TEI P5 XML</a></li>
                         <li><a href="./lockhart-common.xsl">Common stylesheet</a></li>
@@ -197,7 +197,7 @@
                         <li><a href="./lockhart-journals-teicustomization.rnc">RELAX NG schema</a></li>
                         </ul>
                      </li>
-                     <li><a href="./lockhart-zoomindex.html">Images of the MS Pages</a></li>
+                     <li><a href="./lockhart-zoomIndex.html">Images of the MS Pages</a></li>
                      <li><a href="./lockhart-maps.html">Maps</a></li>
                   </ul>
                   </li>
@@ -278,8 +278,7 @@
             <hr/>
             <!-- Insert link to home page, creation date, and licensing statement.-->
             <p align="left">
-               <a href="http://people.cohums.ohio-state.edu/ulman1/LCSmithDiaries/default.cfm"
-                  target="_self">Home</a>
+               <a href="./lockhart-edintro.html">Home</a>
                <br/>
                <br/>
                <emph>Created: <xsl:apply-templates

@@ -732,6 +732,7 @@
                <item xml:id="Peterdog">
                   <name source="#koulouris">Peter</name>
                   <trait type="sex"><desc>Male</desc></trait>
+                  <state type="age"><desc>?</desc></state>
                   <desc>Peter is one of two dogs that lived at his parents' house in Mattapan during
                      the Expedition. Both dogs are mentioned several times as they were being bulked
                      up in preparation to be able to play with the sled dog Spot. Lockhart states
@@ -741,6 +742,7 @@
                <item xml:id="Petedog">
                   <name source="#koulouris">Pete</name>
                   <trait type="sex"><desc>Male</desc></trait>
+                  <state type="age"><desc>?</desc></state>
                   <desc>Pete is one of two dogs that lived at his parents' house in Mattapan during
                      the Expedition. Both dogs are mentioned several times as they were being bulked
                      up in preparation to be able to play with the sled dog Spot. Pete was later
