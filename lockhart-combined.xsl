@@ -107,7 +107,7 @@
     <xsl:variable name="maintextRule">
         #maintext {
         position:relative;
-        top:180px;
+        top:70px;
         width:860px;
         margin-left:315px;
         padding:10px;
@@ -121,7 +121,7 @@
     <xsl:variable name="navBarRule">
         #navBar {
         position:fixed;
-        top:200px;
+        top:160px;
         float : left;
         width : 280px;
         text-align : left;
