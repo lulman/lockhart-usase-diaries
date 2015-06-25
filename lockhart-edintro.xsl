@@ -170,6 +170,7 @@
                            <li><a href="./lockhart-mspages.xsl">By-ms page stylesheet</a></li>
                            <li><a href="./lockhart-combined.xsl">Facsimile/text stylesheet</a></li>
                            <li><a href="./lockhart-edintro.xsl">Editorial intro stylesheet</a></li>
+                           <li><a href="./lockhart.css">CSS stylesheet</a></li>   
                            <li><a href="./lockhart-journals-teicustomization.odd">TEI ODD customization</a></li>
                            <li><a href="./lockhart-journals-teicustomization.rnc">RELAX NG schema</a></li>
                         </ul>
