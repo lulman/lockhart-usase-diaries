@@ -394,7 +394,15 @@
    </xsl:template>
    
    <xsl:template match="tei:persName">
-      <xsl:element name="a"><xsl:attribute name="class">nameLink</xsl:attribute><xsl:attribute name="href">lockhart-edintro.html<xsl:value-of select="@ref"/></xsl:attribute><xsl:apply-templates/></xsl:element>
+<!-- REMOVED THIS FEATURE 6/25/2015 BECAUSE OF INCONSISTENT TEI MARKUP
+         <xsl:element name="a">
+         <xsl:attribute name="class">nameLink</xsl:attribute>
+         <xsl:attribute name="href">lockhart-edintro.html<xsl:value-of select="@ref"
+            /></xsl:attribute>
+         <xsl:apply-templates/>
+      </xsl:element>
+-->
+      <xsl:apply-templates/>
    </xsl:template>
 
    <!-- ANNOTATIONS -->
